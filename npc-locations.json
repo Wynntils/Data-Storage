@@ -1,0 +1,1534 @@
+{
+  "npc-locations": [
+    {
+      "name": "Achper",
+      "x": 872,
+      "z": -1932
+    },
+    {
+      "name": "Addalin",
+      "x": 925,
+      "z": -1180
+    },
+    {
+      "name": "Adigard",
+      "x": 806,
+      "z": -3353
+    },
+    {
+      "name": "Adventuring Mage",
+      "x": 297,
+      "z": -1231
+    },
+    {
+      "name": "Ahmas",
+      "x": -1494,
+      "z": -5359
+    },
+    {
+      "name": "Alein",
+      "x": -202,
+      "z": -527
+    },
+    {
+      "name": "Alem",
+      "x": 158,
+      "z": -373
+    },
+    {
+      "name": "Alice",
+      "x": 478,
+      "z": -1603
+    },
+    {
+      "name": "Almuj Bank Guard",
+      "x": 976,
+      "z": -1963
+    },
+    {
+      "name": "Almuj Banker",
+      "x": 1019,
+      "z": -1976
+    },
+    {
+      "name": "Aluxander",
+      "x": -1169,
+      "z": -6758
+    },
+    {
+      "name": "Amerigo",
+      "x": 978,
+      "z": -1972
+    },
+    {
+      "name": "Anast",
+      "x": -1834,
+      "z": -5557
+    },
+    {
+      "name": "Ankou",
+      "x": -350,
+      "z": -389
+    },
+    {
+      "name": "Anrod",
+      "x": -1366,
+      "z": -4541
+    },
+    {
+      "name": "Ansei",
+      "x": 479,
+      "z": -4348
+    },
+    {
+      "name": "Ardulf",
+      "x": 1014,
+      "z": -5643
+    },
+    {
+      "name": "Ario",
+      "x": -643,
+      "z": 15368
+    },
+    {
+      "name": "Ariodo",
+      "x": -850,
+      "z": -719
+    },
+    {
+      "name": "Arwes",
+      "x": -683,
+      "z": -5347
+    },
+    {
+      "name": "Arzul",
+      "x": 1852,
+      "z": 5232
+    },
+    {
+      "name": "Asher",
+      "x": -450,
+      "z": -1143
+    },
+    {
+      "name": "Atisun",
+      "x": -1191,
+      "z": -5197
+    },
+    {
+      "name": "Avos Chief",
+      "x": -1811,
+      "z": -3063
+    },
+    {
+      "name": "Banker",
+      "x": 500,
+      "z": -1562
+    },
+    {
+      "name": "Batelu",
+      "x": 372,
+      "z": -774
+    },
+    {
+      "name": "Black Market Guard",
+      "x": -93,
+      "z": -6081
+    },
+    {
+      "name": "Bricot",
+      "x": 65,
+      "z": -4843
+    },
+    {
+      "name": "Brie",
+      "x": 901,
+      "z": -4257
+    },
+    {
+      "name": "Buendo",
+      "x": -802,
+      "z": -903
+    },
+    {
+      "name": "Bugabo",
+      "x": -1612,
+      "z": -4550
+    },
+    {
+      "name": "Bulbo",
+      "x": 220,
+      "z": -1557
+    },
+    {
+      "name": "Burtur",
+      "x": -979,
+      "z": -5304
+    },
+    {
+      "name": "Bylvis",
+      "x": -793,
+      "z": -1889
+    },
+    {
+      "name": "Cabac",
+      "x": -201,
+      "z": -290
+    },
+    {
+      "name": "Caissop",
+      "x": -1802,
+      "z": -5190
+    },
+    {
+      "name": "Calamaro",
+      "x": 225,
+      "z": -743
+    },
+    {
+      "name": "Calo",
+      "x": 416,
+      "z": -1516
+    },
+    {
+      "name": "Captain Enduyn",
+      "x": -192,
+      "z": -1822
+    },
+    {
+      "name": "Captain Fenor",
+      "x": 379,
+      "z": -1570
+    },
+    {
+      "name": "Captain Kymer",
+      "x": -2007,
+      "z": -4604
+    },
+    {
+      "name": "Captain Lorias",
+      "x": -592,
+      "z": -4972
+    },
+    {
+      "name": "Caras",
+      "x": 1077,
+      "z": -1613
+    },
+    {
+      "name": "Caravan Driver",
+      "x": -1012,
+      "z": -1657
+    },
+    {
+      "name": "Celuuse",
+      "x": 14047,
+      "z": -4205
+    },
+    {
+      "name": "Ceyquin",
+      "x": -611,
+      "z": -5458
+    },
+    {
+      "name": "Charlie",
+      "x": -448,
+      "z": -4840
+    },
+    {
+      "name": "Chef Hamsey",
+      "x": 949,
+      "z": -4475
+    },
+    {
+      "name": "Chilye",
+      "x": 947,
+      "z": -2025
+    },
+    {
+      "name": "Cikal",
+      "x": -34,
+      "z": -5413
+    },
+    {
+      "name": "Cinfras (NPC)",
+      "x": 770,
+      "z": -3880
+    },
+    {
+      "name": "Converter Merchant",
+      "x": 19,
+      "z": -3222
+    },
+    {
+      "name": "Cookie Merchant",
+      "x": -359,
+      "z": -899
+    },
+    {
+      "name": "Corak",
+      "x": -412,
+      "z": -4421
+    },
+    {
+      "name": "Czytash",
+      "x": 258,
+      "z": -3913
+    },
+    {
+      "name": "Dado",
+      "x": -1606,
+      "z": -4454
+    },
+    {
+      "name": "Dalben",
+      "x": 896,
+      "z": -2870
+    },
+    {
+      "name": "Damien",
+      "x": -503,
+      "z": -5180
+    },
+    {
+      "name": "Damiral",
+      "x": -1937,
+      "z": -4259
+    },
+    {
+      "name": "Darnes",
+      "x": -1406,
+      "z": -5073
+    },
+    {
+      "name": "Daxe",
+      "x": -1923,
+      "z": -5465
+    },
+    {
+      "name": "Dejol",
+      "x": 452,
+      "z": -4456
+    },
+    {
+      "name": "Dereg",
+      "x": -1483,
+      "z": -5218
+    },
+    {
+      "name": "Detective Hart",
+      "x": -1762,
+      "z": -5531
+    },
+    {
+      "name": "Detective Jackson",
+      "x": -1730,
+      "z": -4835
+    },
+    {
+      "name": "Diro",
+      "x": 5808,
+      "z": -23324
+    },
+    {
+      "name": "Doan",
+      "x": -266,
+      "z": -4972
+    },
+    {
+      "name": "Dobile",
+      "x": 13,
+      "z": -5063
+    },
+    {
+      "name": "Document Merchant",
+      "x": -115,
+      "z": -6045
+    },
+    {
+      "name": "Dodegar",
+      "x": -1009,
+      "z": -4573
+    },
+    {
+      "name": "Dohstaj",
+      "x": 151,
+      "z": -5111
+    },
+    {
+      "name": "Dolem",
+      "x": 131,
+      "z": -5295
+    },
+    {
+      "name": "Dorroc",
+      "x": 50,
+      "z": -5081
+    },
+    {
+      "name": "Doubiss",
+      "x": -1728,
+      "z": -5494
+    },
+    {
+      "name": "Dr. Picard",
+      "x": 103,
+      "z": -1200
+    },
+    {
+      "name": "Dr. Urelix",
+      "x": -2316,
+      "z": -5456
+    },
+    {
+      "name": "Drale",
+      "x": 305,
+      "z": -1609
+    },
+    {
+      "name": "Drucksh",
+      "x": 71,
+      "z": -2176
+    },
+    {
+      "name": "Dumble",
+      "x": -267,
+      "z": -1040
+    },
+    {
+      "name": "Dure",
+      "x": -258,
+      "z": -1048
+    },
+    {
+      "name": "Duvale",
+      "x": -1620,
+      "z": -4974
+    },
+    {
+      "name": "Elder Berusia",
+      "x": -1082,
+      "z": -5015
+    },
+    {
+      "name": "Elio",
+      "x": -2161,
+      "z": -5403
+    },
+    {
+      "name": "Elrund",
+      "x": -669,
+      "z": -4443
+    },
+    {
+      "name": "Eluzterp",
+      "x": 1172,
+      "z": -2028
+    },
+    {
+      "name": "Enkser",
+      "x": 835,
+      "z": -1634
+    },
+    {
+      "name": "Enzan",
+      "x": -771,
+      "z": -1571
+    },
+    {
+      "name": "Eppo",
+      "x": -273,
+      "z": -582
+    },
+    {
+      "name": "Erisk",
+      "x": -779,
+      "z": -437
+    },
+    {
+      "name": "Erlard",
+      "x": -1955,
+      "z": -5351
+    },
+    {
+      "name": "Excavator Lykron",
+      "x": 39,
+      "z": -526
+    },
+    {
+      "name": "Excavator Placardus",
+      "x": -1066,
+      "z": -3739
+    },
+    {
+      "name": "Excavator Vade",
+      "x": 1150,
+      "z": -1770
+    },
+    {
+      "name": "Farmer Cevalus",
+      "x": -755,
+      "z": -1660
+    },
+    {
+      "name": "Favian",
+      "x": 1400,
+      "z": -1617
+    },
+    {
+      "name": "Felim",
+      "x": 294,
+      "z": -4542
+    },
+    {
+      "name": "Ferndor",
+      "x": -915,
+      "z": -750
+    },
+    {
+      "name": "Flodur",
+      "x": 943,
+      "z": -1879
+    },
+    {
+      "name": "Frank",
+      "x": 901,
+      "z": -4289
+    },
+    {
+      "name": "Fredris",
+      "x": 156,
+      "z": -811
+    },
+    {
+      "name": "Frudo",
+      "x": -128,
+      "z": -1773
+    },
+    {
+      "name": "Furious Wife",
+      "x": -737,
+      "z": -1689
+    },
+    {
+      "name": "Gaclux",
+      "x": -366,
+      "z": -6733
+    },
+    {
+      "name": "Gana",
+      "x": 444,
+      "z": -4805
+    },
+    {
+      "name": "Garas",
+      "x": 197,
+      "z": -2170
+    },
+    {
+      "name": "Gardener",
+      "x": -390,
+      "z": -4917
+    },
+    {
+      "name": "Garull",
+      "x": -883,
+      "z": -1229
+    },
+    {
+      "name": "Gawrick",
+      "x": -488,
+      "z": -4886
+    },
+    {
+      "name": "General Graken",
+      "x": 227,
+      "z": -1958
+    },
+    {
+      "name": "General Lecade",
+      "x": 135,
+      "z": -5492
+    },
+    {
+      "name": "Gernald",
+      "x": 53,
+      "z": -674
+    },
+    {
+      "name": "Gerten Captain",
+      "x": 31,
+      "z": -5339
+    },
+    {
+      "name": "Gerten Chief Lobo",
+      "x": -140,
+      "z": -5606
+    },
+    {
+      "name": "Ghost Merchant",
+      "x": 103,
+      "z": -360
+    },
+    {
+      "name": "Govid",
+      "x": 170,
+      "z": -5064
+    },
+    {
+      "name": "Gracen",
+      "x": -740,
+      "z": -662
+    },
+    {
+      "name": "Grandmaster Shaman",
+      "x": -1579,
+      "z": -3313
+    },
+    {
+      "name": "Grandon",
+      "x": -910,
+      "z": -749
+    },
+    {
+      "name": "Grenot",
+      "x": 676,
+      "z": -5019
+    },
+    {
+      "name": "Guardian of The Forest",
+      "x": -1129,
+      "z": -4780
+    },
+    {
+      "name": "Gundalf",
+      "x": 190,
+      "z": -1323
+    },
+    {
+      "name": "Haily",
+      "x": 929,
+      "z": -1899
+    },
+    {
+      "name": "Hallfred",
+      "x": 995,
+      "z": -3504
+    },
+    {
+      "name": "Hans",
+      "x": -655,
+      "z": 15327
+    },
+    {
+      "name": "Harker",
+      "x": -562,
+      "z": -6113
+    },
+    {
+      "name": "Hatath",
+      "x": -312,
+      "z": -1595
+    },
+    {
+      "name": "Hazel",
+      "x": -1466,
+      "z": -5501
+    },
+    {
+      "name": "Head Engineer",
+      "x": -2057,
+      "z": -4498
+    },
+    {
+      "name": "Heliorion",
+      "x": -1067,
+      "z": -7000
+    },
+    {
+      "name": "Help Wanted",
+      "x": 1108,
+      "z": -4553
+    },
+    {
+      "name": "Hermit",
+      "x": 1153,
+      "z": -1586
+    },
+    {
+      "name": "Hilan",
+      "x": 964,
+      "z": -5462
+    },
+    {
+      "name": "Homeless",
+      "x": -644,
+      "z": 15372
+    },
+    {
+      "name": "Honynn",
+      "x": -1010,
+      "z": -1606
+    },
+    {
+      "name": "Hrona",
+      "x": 1470,
+      "z": -4333
+    },
+    {
+      "name": "Ildan",
+      "x": -870,
+      "z": -1034
+    },
+    {
+      "name": "Irahe",
+      "x": -1109,
+      "z": -5380
+    },
+    {
+      "name": "Irlok",
+      "x": 499,
+      "z": -4778
+    },
+    {
+      "name": "Irt",
+      "x": 939,
+      "z": -1891
+    },
+    {
+      "name": "Isfurus",
+      "x": -803,
+      "z": -374
+    },
+    {
+      "name": "Jack",
+      "x": -446,
+      "z": -5091
+    },
+    {
+      "name": "Jankan",
+      "x": 1434,
+      "z": -1359
+    },
+    {
+      "name": "Jared",
+      "x": -634,
+      "z": 15351
+    },
+    {
+      "name": "Jared Kids",
+      "x": -1409,
+      "z": 15344
+    },
+    {
+      "name": "Javen",
+      "x": -1414,
+      "z": -2908
+    },
+    {
+      "name": "Javern",
+      "x": -1414,
+      "z": -2908
+    },
+    {
+      "name": "Javier",
+      "x": -639,
+      "z": -3117
+    },
+    {
+      "name": "Jaybip",
+      "x": -662,
+      "z": 15355
+    },
+    {
+      "name": "Jenprest",
+      "x": -890,
+      "z": -1874
+    },
+    {
+      "name": "Jill",
+      "x": 746,
+      "z": -4468
+    },
+    {
+      "name": "Jitak",
+      "x": -184,
+      "z": -5472
+    },
+    {
+      "name": "Jorkin",
+      "x": 338,
+      "z": -1241
+    },
+    {
+      "name": "Ka L'argwit",
+      "x": -545,
+      "z": -313
+    },
+    {
+      "name": "Kale",
+      "x": 901,
+      "z": -4273
+    },
+    {
+      "name": "Kansard",
+      "x": -415,
+      "z": -4423
+    },
+    {
+      "name": "Keibon",
+      "x": -437,
+      "z": -470
+    },
+    {
+      "name": "Kelight",
+      "x": -693,
+      "z": -976
+    },
+    {
+      "name": "King Burtan",
+      "x": 51,
+      "z": -5242
+    },
+    {
+      "name": "King of Troms",
+      "x": -974,
+      "z": -887
+    },
+    {
+      "name": "King's Son",
+      "x": -790,
+      "z": -732
+    },
+    {
+      "name": "Kofis",
+      "x": 505,
+      "z": -4464
+    },
+    {
+      "name": "Korun",
+      "x": -236,
+      "z": -5225
+    },
+    {
+      "name": "Korzim",
+      "x": 1436,
+      "z": -5388
+    },
+    {
+      "name": "Kracken",
+      "x": 1873,
+      "z": 5225
+    },
+    {
+      "name": "Krattson",
+      "x": -539,
+      "z": -331
+    },
+    {
+      "name": "Kristoff",
+      "x": -675,
+      "z": 15331
+    },
+    {
+      "name": "Kroac",
+      "x": -1579,
+      "z": -5432
+    },
+    {
+      "name": "Kroken",
+      "x": 200,
+      "z": -720
+    },
+    {
+      "name": "Lacrona",
+      "x": 460,
+      "z": -1585
+    },
+    {
+      "name": "Laen",
+      "x": 24,
+      "z": -2199
+    },
+    {
+      "name": "Laloire",
+      "x": -660,
+      "z": -5199
+    },
+    {
+      "name": "Lanu",
+      "x": 1408,
+      "z": -1831
+    },
+    {
+      "name": "Legolus",
+      "x": -138,
+      "z": -4444
+    },
+    {
+      "name": "Lekal",
+      "x": 354,
+      "z": -1072
+    },
+    {
+      "name": "Leucsaa",
+      "x": 200,
+      "z": -2174
+    },
+    {
+      "name": "Lexas",
+      "x": -1295,
+      "z": -4830
+    },
+    {
+      "name": "Lieutenant Gren",
+      "x": 153,
+      "z": -5461
+    },
+    {
+      "name": "Likeru",
+      "x": -1057,
+      "z": -5007
+    },
+    {
+      "name": "Lil",
+      "x": 453,
+      "z": -1560
+    },
+    {
+      "name": "Lodog",
+      "x": 33,
+      "z": -5126
+    },
+    {
+      "name": "Lozeg",
+      "x": 1024,
+      "z": -5143
+    },
+    {
+      "name": "Magic Teacher",
+      "x": 885,
+      "z": -2857
+    },
+    {
+      "name": "Malo",
+      "x": -2062,
+      "z": -5415
+    },
+    {
+      "name": "Manager Nasea",
+      "x": -1673,
+      "z": -4370
+    },
+    {
+      "name": "Marden",
+      "x": 16,
+      "z": -4795
+    },
+    {
+      "name": "Margaret",
+      "x": 897,
+      "z": -1779
+    },
+    {
+      "name": "Marston",
+      "x": -608,
+      "z": -3456
+    },
+    {
+      "name": "Mask Salesman",
+      "x": -328,
+      "z": -1973
+    },
+    {
+      "name": "Mayor Eoric",
+      "x": 936,
+      "z": -5539
+    },
+    {
+      "name": "Mercenary Leader",
+      "x": -803,
+      "z": -741
+    },
+    {
+      "name": "Merloni",
+      "x": 345,
+      "z": -1916
+    },
+    {
+      "name": "Miner Linton",
+      "x": -310,
+      "z": -1590
+    },
+    {
+      "name": "Miti",
+      "x": -651,
+      "z": 15341
+    },
+    {
+      "name": "Monte",
+      "x": -550,
+      "z": -742
+    },
+    {
+      "name": "Mylo",
+      "x": 184,
+      "z": -2141
+    },
+    {
+      "name": "Nakoba",
+      "x": 44,
+      "z": -5144
+    },
+    {
+      "name": "Narder",
+      "x": 661,
+      "z": -5069
+    },
+    {
+      "name": "Nettik",
+      "x": -1776,
+      "z": -2141
+    },
+    {
+      "name": "Nick",
+      "x": 936,
+      "z": -1841
+    },
+    {
+      "name": "Nohno",
+      "x": -80,
+      "z": -2502
+    },
+    {
+      "name": "Norsten",
+      "x": 437,
+      "z": -5056
+    },
+    {
+      "name": "Nybun",
+      "x": 5775,
+      "z": -23352
+    },
+    {
+      "name": "Nyris",
+      "x": 853,
+      "z": -1966
+    },
+    {
+      "name": "Office Manager",
+      "x": -238,
+      "z": -4967
+    },
+    {
+      "name": "Old Siwel",
+      "x": 833,
+      "z": -4009
+    },
+    {
+      "name": "Olivin",
+      "x": 122,
+      "z": -3173
+    },
+    {
+      "name": "Ollie",
+      "x": -430,
+      "z": -4854
+    },
+    {
+      "name": "Omango",
+      "x": -539,
+      "z": -2020
+    },
+    {
+      "name": "Ooni",
+      "x": -830,
+      "z": -1608
+    },
+    {
+      "name": "Ope",
+      "x": -315,
+      "z": -1597
+    },
+    {
+      "name": "Orikal",
+      "x": 322,
+      "z": -1089
+    },
+    {
+      "name": "Ormrod",
+      "x": 979,
+      "z": -1809
+    },
+    {
+      "name": "Otenu",
+      "x": -1100,
+      "z": -5383
+    },
+    {
+      "name": "Passenger Controllant",
+      "x": -171,
+      "z": -4945
+    },
+    {
+      "name": "Pastor Nitram",
+      "x": -620,
+      "z": -5351
+    },
+    {
+      "name": "Peculiar Old Man",
+      "x": -81,
+      "z": -6155
+    },
+    {
+      "name": "Phief",
+      "x": 902,
+      "z": -2870
+    },
+    {
+      "name": "Phinas",
+      "x": -1672,
+      "z": -2083
+    },
+    {
+      "name": "Piere",
+      "x": -1851,
+      "z": -4959
+    },
+    {
+      "name": "Pottur",
+      "x": -264,
+      "z": -1052
+    },
+    {
+      "name": "Prentiss",
+      "x": -861,
+      "z": -964
+    },
+    {
+      "name": "Prison Guard",
+      "x": -829,
+      "z": -5539
+    },
+    {
+      "name": "Private Tylas",
+      "x": 115,
+      "z": -5439
+    },
+    {
+      "name": "Psern",
+      "x": 3796,
+      "z": 1185
+    },
+    {
+      "name": "Psilo",
+      "x": -205,
+      "z": -4308
+    },
+    {
+      "name": "Ragni's King",
+      "x": -927,
+      "z": -1565
+    },
+    {
+      "name": "Ragon",
+      "x": -80,
+      "z": -1391
+    },
+    {
+      "name": "Ranol",
+      "x": 767,
+      "z": -5423
+    },
+    {
+      "name": "Rayshyroth",
+      "x": 846,
+      "z": -2907
+    },
+    {
+      "name": "Referick",
+      "x": -1085,
+      "z": -5374
+    },
+    {
+      "name": "Regulux",
+      "x": -1119,
+      "z": -7126
+    },
+    {
+      "name": "Relend",
+      "x": 1304,
+      "z": -4043
+    },
+    {
+      "name": "Reshad",
+      "x": 781,
+      "z": -1618
+    },
+    {
+      "name": "Rileen",
+      "x": -1460,
+      "z": -5511
+    },
+    {
+      "name": "Rismor",
+      "x": -471,
+      "z": -5535
+    },
+    {
+      "name": "Robin",
+      "x": 925,
+      "z": -1180
+    },
+    {
+      "name": "Rohem",
+      "x": -492,
+      "z": -4971
+    },
+    {
+      "name": "Rontaid",
+      "x": 14113,
+      "z": -4199
+    },
+    {
+      "name": "Royal Advisor Carlos",
+      "x": -848,
+      "z": -789
+    },
+    {
+      "name": "Rynb",
+      "x": 216,
+      "z": -2173
+    },
+    {
+      "name": "Rynend",
+      "x": -567,
+      "z": -1922
+    },
+    {
+      "name": "Rynver",
+      "x": -1382,
+      "z": -4458
+    },
+    {
+      "name": "Salesman",
+      "x": -809,
+      "z": -924
+    },
+    {
+      "name": "Santa's Assistant",
+      "x": 914,
+      "z": -1957
+    },
+    {
+      "name": "Sasha The Apothecary",
+      "x": -430,
+      "z": -4992
+    },
+    {
+      "name": "Sayleros",
+      "x": 476,
+      "z": -1623
+    },
+    {
+      "name": "Sayrr",
+      "x": -409,
+      "z": -2155
+    },
+    {
+      "name": "Scientist Ynnos",
+      "x": 9613,
+      "z": 4918
+    },
+    {
+      "name": "Security Bot N4T17",
+      "x": -1570,
+      "z": -2875
+    },
+    {
+      "name": "Seluc",
+      "x": 450,
+      "z": -5371
+    },
+    {
+      "name": "Sensei Miyagi",
+      "x": 495,
+      "z": -5570
+    },
+    {
+      "name": "Sergeant Klafson",
+      "x": -738,
+      "z": -1595
+    },
+    {
+      "name": "Sesad",
+      "x": -795,
+      "z": -6180
+    },
+    {
+      "name": "Shaman Inrekei",
+      "x": -707,
+      "z": -573
+    },
+    {
+      "name": "Sherk",
+      "x": -2164,
+      "z": -5116
+    },
+    {
+      "name": "Siwel",
+      "x": -9333,
+      "z": -10487
+    },
+    {
+      "name": "Skyraider Guard",
+      "x": 1476,
+      "z": -4335
+    },
+    {
+      "name": "Soway",
+      "x": -181,
+      "z": -4320
+    },
+    {
+      "name": "Squidward",
+      "x": 235,
+      "z": -720
+    },
+    {
+      "name": "Svin",
+      "x": 1352,
+      "z": -1300
+    },
+    {
+      "name": "Syni",
+      "x": 181,
+      "z": -5141
+    },
+    {
+      "name": "Sytis",
+      "x": 324,
+      "z": -4527
+    },
+    {
+      "name": "Takan",
+      "x": 1438,
+      "z": -2214
+    },
+    {
+      "name": "Tarod",
+      "x": -7,
+      "z": -793
+    },
+    {
+      "name": "Telvu",
+      "x": 165,
+      "z": -675
+    },
+    {
+      "name": "Tesha",
+      "x": 1082,
+      "z": -1799
+    },
+    {
+      "name": "The Assistant",
+      "x": 617,
+      "z": -1612
+    },
+    {
+      "name": "The Blacksmith",
+      "x": 718,
+      "z": -1462
+    },
+    {
+      "name": "The Cook",
+      "x": -847,
+      "z": -1563
+    },
+    {
+      "name": "The Priest",
+      "x": 321,
+      "z": -2150
+    },
+    {
+      "name": "The Secretary",
+      "x": 1121,
+      "z": -4525
+    },
+    {
+      "name": "Therck",
+      "x": -417,
+      "z": -1600
+    },
+    {
+      "name": "Thesead's Mayor",
+      "x": 832,
+      "z": -4993
+    },
+    {
+      "name": "Thomas",
+      "x": -606,
+      "z": -1431
+    },
+    {
+      "name": "Ticket Merchant",
+      "x": 420,
+      "z": -1530
+    },
+    {
+      "name": "Tiek",
+      "x": -1259,
+      "z": -5464
+    },
+    {
+      "name": "Tinemild",
+      "x": 85,
+      "z": -1195
+    },
+    {
+      "name": "Tirt",
+      "x": 1016,
+      "z": -3101
+    },
+    {
+      "name": "Todd",
+      "x": -860,
+      "z": -961
+    },
+    {
+      "name": "Tolem",
+      "x": -1699,
+      "z": -5290
+    },
+    {
+      "name": "Tom",
+      "x": 164,
+      "z": -3226
+    },
+    {
+      "name": "Torold",
+      "x": 831,
+      "z": -1578
+    },
+    {
+      "name": "Traitor Thomas",
+      "x": -827,
+      "z": -674
+    },
+    {
+      "name": "Troms Mage",
+      "x": -641,
+      "z": -872
+    },
+    {
+      "name": "Trunan",
+      "x": -2012,
+      "z": -4827
+    },
+    {
+      "name": "Twendle",
+      "x": 12,
+      "z": -456
+    },
+    {
+      "name": "Valimare",
+      "x": -405,
+      "z": -5020
+    },
+    {
+      "name": "Vesdar",
+      "x": -1156,
+      "z": -5506
+    },
+    {
+      "name": "Viola",
+      "x": -858,
+      "z": -962
+    },
+    {
+      "name": "Viraex",
+      "x": 5,
+      "z": -1147
+    },
+    {
+      "name": "Voer",
+      "x": -2103,
+      "z": -5427
+    },
+    {
+      "name": "Volmor",
+      "x": 472,
+      "z": -5149
+    },
+    {
+      "name": "Waront",
+      "x": -887,
+      "z": -1514
+    },
+    {
+      "name": "Wedyf",
+      "x": 660,
+      "z": -2050
+    },
+    {
+      "name": "Wirt",
+      "x": -818,
+      "z": -1040
+    },
+    {
+      "name": "Worid",
+      "x": -739,
+      "z": -661
+    },
+    {
+      "name": "Yahya",
+      "x": -277,
+      "z": -1680
+    },
+    {
+      "name": "Yansur",
+      "x": 372,
+      "z": -5500
+    },
+    {
+      "name": "Yavlis",
+      "x": -846,
+      "z": -875
+    },
+    {
+      "name": "Yobon",
+      "x": 131,
+      "z": -5068
+    },
+    {
+      "name": "Yodbon",
+      "x": 985,
+      "z": -1946
+    },
+    {
+      "name": "Yot",
+      "x": -655,
+      "z": 15341
+    },
+    {
+      "name": "Yuge",
+      "x": 335,
+      "z": -4489
+    },
+    {
+      "name": "Zenam",
+      "x": -1871,
+      "z": -4592
+    },
+    {
+      "name": "Zhight",
+      "x": -540,
+      "z": -2753
+    },
+    {
+      "name": "Zhight Tour Guide",
+      "x": -626,
+      "z": -2682
+    }
+  ]
+}
