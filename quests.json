@@ -1,0 +1,1966 @@
+{
+  "quests": [
+    {
+      "name": "King's Recruit",
+      "level": 1,
+      "length": "long",
+      "rewards": {
+        "experience": 35,
+        "emeralds": 6,
+        "access": "the <Province of Wynn>",
+        "items": "<Ragni Teleport Scroll>"
+      },
+      "starter-mission": "",
+      "province": "Fruma",
+      "starter-npc": "Caravan Driver",
+      "additional-npc": [
+        "Aledar",
+        "Tasim",
+        "Ragni's King"
+      ]
+    },
+    {
+      "name": "Enzan's Brother",
+      "level": 1,
+      "length": "short",
+      "rewards": {
+        "experience": 80,
+        "items": "<Therck's Chain>, 2 <Copper Ingot>, <Oak Wood>, <Wheat>"
+      },
+      "starter-mission": "Talk to Enzan close to the exit of Ragni at [-772,67,-1572]",
+      "province": "Wynn",
+      "starter-npc": "Enzan",
+      "additional-npc": [
+        "Therck"
+      ]
+    },
+    {
+      "name": "Poisoning the Pest",
+      "level": 2,
+      "length": "medium",
+      "rewards": {
+        "experience": 145,
+        "emeralds": 25,
+        "access": "<Farmer Cevalus's Farm>"
+      },
+      "starter-mission": "Talk to Farmer Cevalus at [-749,67,-1664]",
+      "province": "Wynn",
+      "starter-npc": "Farmer Cevalus"
+    },
+    {
+      "name": "Cook Assistant",
+      "level": 4,
+      "length": "short",
+      "rewards": {
+        "experience": 200,
+        "emeralds": 28,
+        "items": "<Royal Cake Slice>"
+      },
+      "starter-mission": "Talk to the Cook in Ragni at [-853,67,-1564]",
+      "province": "Wynn",
+      "starter-npc": "The Cook"
+    },
+    {
+      "name": "The Sewers of Ragni",
+      "level": 5,
+      "length": "medium",
+      "rewards": {
+        "experience": 500,
+        "access": "the <Decrepit Sewers Dungeon>",
+        "items": "<Decrepit Sewers Dungeon Key>, <Thoracic>"
+      },
+      "starter-mission": "The lieutenant at [-890,60,-1874] needs help.",
+      "province": "Wynn",
+      "starter-npc": "Jenprest"
+    },
+    {
+      "name": "Tunnel Trouble",
+      "level": 5,
+      "length": "long",
+      "rewards": {
+        "experience": 300,
+        "emeralds": 55,
+        "access": "<fast travel between Ragni and Detlas>."
+      },
+      "starter-mission": "Talk to Captain Fenor in front of Detlas at [379,67,-1569].",
+      "province": "Wynn",
+      "starter-npc": "Captain Fenor",
+      "additional-npc": [
+        "Drale"
+      ]
+    },
+    {
+      "name": "Infested Plants",
+      "level": 6,
+      "length": "short",
+      "rewards": {
+        "experience": 270,
+        "emeralds": 5,
+        "items": "<Cleaned Saccharum>"
+      },
+      "starter-mission": "Talk to Ope at [-316,72,-1600].",
+      "province": "Wynn",
+      "starter-npc": "Ope"
+    },
+    {
+      "name": "Underwater",
+      "level": 8,
+      "length": "medium",
+      "rewards": {
+        "experience": 550,
+        "emeralds": 32,
+        "items": "<Breathing Helmet>, <Treasure Boots>, <Old Treasure>"
+      },
+      "starter-mission": "Talk to Omango located at the North of Maltic at [-540,34,-2020]",
+      "province": "Wynn",
+      "starter-npc": "Omango",
+      "additional-npc": [
+        "Sayrr"
+      ]
+    },
+    {
+      "name": "Elemental Exercise",
+      "level": 10,
+      "length": "medium",
+      "rewards": {
+        "experience": 850,
+        "emeralds": 64,
+        "items": "<Vibrant Augment>, <Ragon's Bracelet>"
+      },
+      "starter-mission": "Talk to Ragon on the south-east end of the Nivla Forest at [-80,67,-1391]",
+      "province": "Wynn",
+      "starter-npc": "Ragon"
+    },
+    {
+      "name": "Mushroom Man",
+      "level": 12,
+      "length": "medium",
+      "rewards": {
+        "experience": 1000,
+        "emeralds": 128,
+        "items": "<Yahya's Stained Bowl>"
+      },
+      "starter-mission": "Talk to Yahya \"The Mushroom Man\" in Nivla's Forest at [-277,69,-1681]",
+      "province": "Wynn",
+      "starter-npc": "Yahya"
+    },
+    {
+      "name": "Arachnids' Ascent",
+      "level": 14,
+      "length": "medium",
+      "rewards": {
+        "experience": 850,
+        "access": "the <Infested Pit Dungeon>",
+        "items": "<Infested Pit Dungeon Key>"
+      },
+      "starter-mission": "Speak to Captain Enduyn at [-192,44,-1822]",
+      "province": "Wynn",
+      "starter-npc": "Captain Enduyn"
+    },
+    {
+      "name": "Creeper Infiltration",
+      "level": 14,
+      "length": "medium",
+      "rewards": {
+        "experience": 1400,
+        "emeralds": 64,
+        "items": "<Creeper Mask>"
+      },
+      "starter-mission": "Talk to Thomas in the Pigman Ravines at [-608,89,-1431]",
+      "province": "Wynn",
+      "starter-npc": "Thomas"
+    },
+    {
+      "name": "Deja Vu",
+      "level": 14,
+      "length": "medium",
+      "rewards": {
+        "experience": 1300,
+        "emeralds": 28,
+        "items": "<Familiar Essence>"
+      },
+      "starter-mission": "Talk to Asher near Time Valley at [-449,72,-1153].",
+      "province": "Wynn",
+      "starter-npc": "Asher"
+    },
+    {
+      "name": "Potion Making",
+      "level": 15,
+      "length": "medium",
+      "rewards": {
+        "experience": 1600,
+        "items": "<Essren's Coat>, <Weakening Catalyst>"
+      },
+      "starter-mission": "Talk to The Assistant on the Black Road at [617,67,-1612]",
+      "province": "Wynn",
+      "starter-npc": "The Assistant"
+    },
+    {
+      "name": "Maltic's Well",
+      "level": 18,
+      "length": "short",
+      "rewards": {
+        "experience": 2000,
+        "items": "<Maltic's Recommendation Letter>"
+      },
+      "starter-mission": "Talk to Rynend located in Maltic at [-568,48,-1922]",
+      "province": "Wynn",
+      "starter-npc": "Rynend"
+    },
+    {
+      "name": "Grave Digger",
+      "level": 20,
+      "length": "medium",
+      "rewards": {
+        "experience": 3300,
+        "emeralds": 128,
+        "access": "the <Saint's Row Graveyard>",
+        "items": "<Sayleros' Brother's Ashes>"
+      },
+      "starter-mission": "Talk to Sayleros in Detlas at [476,69,-1624]",
+      "province": "Wynn",
+      "starter-npc": "Sayleros",
+      "additional-npc": [
+        "Drucksh",
+        "The Priest"
+      ]
+    },
+    {
+      "name": "Macabre Masquerade ''Hallowynn 2014''",
+      "level": 21,
+      "length": "short",
+      "rewards": {
+        "experience": 10000,
+        "emeralds": 192
+      },
+      "starter-mission": "Find the Mask Salesman at his caravan at [-328,61,-1973]",
+      "province": "Wynn",
+      "starter-npc": "Mask Salesman"
+    },
+    {
+      "name": "Studying the Corrupt",
+      "level": 21,
+      "length": "medium",
+      "rewards": {
+        "experience": 3600,
+        "access": "the <Lost Sanctuary Dungeon>",
+        "items": "<Lost Sanctuary Dungeon Key>"
+      },
+      "starter-mission": "Something is going on at the big bridge near Time Valley. Go over there and see what's happening. [-258,80,-1046]",
+      "province": "Wynn",
+      "starter-npc": "Pottur"
+    },
+    {
+      "name": "Cluck Cluck",
+      "level": 23,
+      "length": "short",
+      "rewards": {
+        "experience": 2800,
+        "items": "<Cluckles' Favourite Feather>"
+      },
+      "starter-mission": "Talk to Nohno on Rooster Island at [-83,45,-2497]",
+      "province": "Ocean",
+      "starter-npc": "Nohno"
+    },
+    {
+      "name": "Pit of the Dead",
+      "level": 23,
+      "length": "short",
+      "rewards": {
+        "experience": 2675,
+        "items": "<Skeletal Legs>"
+      },
+      "starter-mission": "Talk to Merloni at [343,59,-1915]",
+      "province": "Wynn",
+      "starter-npc": "Merloni"
+    },
+    {
+      "name": "Dwelling Walls",
+      "level": 24,
+      "length": "medium",
+      "rewards": {
+        "experience": 3650,
+        "emeralds": 128
+      },
+      "starter-mission": "Talk to Leucsaa at [201,38,-2173]",
+      "province": "Wynn",
+      "starter-npc": "Leucsaa"
+    },
+    {
+      "name": "The Dark Descent",
+      "level": 24,
+      "length": "long",
+      "rewards": {
+        "experience": 2400,
+        "access": "the <Underworld Crypt Dungeon>",
+        "items": "<Underworld Crypt Dungeon Key>, <Dark Diadem>"
+      },
+      "starter-mission": "Talk to General Graken at [227,45,-1958]",
+      "province": "Wynn",
+      "starter-npc": "General Graken"
+    },
+    {
+      "name": "Recover the Past",
+      "level": 25,
+      "length": "long",
+      "rewards": {
+        "experience": 6000,
+        "items": "<Reset Scroll>, <Shattered Memory Shard>"
+      },
+      "starter-mission": "Talk to Dr. Picard at [103, 90, -1200].",
+      "province": "Wynn",
+      "starter-npc": "Dr. Picard"
+    },
+    {
+      "name": "Lost Tower",
+      "level": 26,
+      "length": "short",
+      "rewards": {
+        "experience": 6500,
+        "emeralds": 64
+      },
+      "starter-mission": "Talk to Laen in Nemract at [24,37,-2199]",
+      "province": "Wynn",
+      "starter-npc": "Laen"
+    },
+    {
+      "name": "The Corrupted Village",
+      "level": 26,
+      "length": "long",
+      "rewards": {
+        "experience": 4800,
+        "emeralds": 136,
+        "items": "<Corrupted Potato>"
+      },
+      "starter-mission": "Speak to Orikal outside the Angry Village at [318,78,-1097].",
+      "province": "Wynn",
+      "starter-npc": "Orikal"
+    },
+    {
+      "name": "Misadventure on the Sea",
+      "level": 28,
+      "length": "long",
+      "rewards": {
+        "experience": 8500,
+        "items": "4 <Nemract Boat Passes>, 4 <Selchar Boat Passes>"
+      },
+      "starter-mission": "Visit the Nemract bar at [114,40,-2176]",
+      "province": "Wynn",
+      "starter-npc": "Barman"
+    },
+    {
+      "name": "The Mercenary",
+      "level": 28,
+      "length": "medium",
+      "rewards": {
+        "experience": 10000,
+        "emeralds": 384,
+        "items": "<Vindicator>"
+      },
+      "starter-mission": "Talk to Mylo in Nemract at [184,54,-2141]",
+      "province": "Wynn",
+      "starter-npc": "Mylo",
+      "additional-npc": [
+        "Amerigo"
+      ]
+    },
+    {
+      "name": "Craftmas Chaos",
+      "level": 30,
+      "length": "long",
+      "rewards": {
+        "experience": 12000,
+        "emeralds": 640
+      },
+      "starter-mission": "Talk to Tom in Selchar at [164,64,-3226]",
+      "province": "Ocean",
+      "starter-npc": "Tom"
+    },
+    {
+      "name": "Green Gloop",
+      "level": 31,
+      "length": "medium",
+      "rewards": {
+        "experience": 9500,
+        "emeralds": 192,
+        "access": "the <Glassblowing Merchant>"
+      },
+      "starter-mission": "Talk to Eluzterp at [1172,77,-2027]",
+      "province": "Wynn",
+      "starter-npc": "Eluzterp",
+      "additional-npc": [
+        "Yodbon"
+      ]
+    },
+    {
+      "name": "A Sandy Scandal",
+      "level": 32,
+      "length": "long",
+      "rewards": {
+        "experience": 22000,
+        "emeralds": 128,
+        "access": "the <Almuj Bank>"
+      },
+      "starter-mission": "Talk to the Almuj Bank Guard at [976,83,-1963]",
+      "province": "Wynn",
+      "starter-npc": "Almuj Bank Guard"
+    },
+    {
+      "name": "Kingdom of Sand",
+      "level": 33,
+      "length": "long",
+      "rewards": {
+        "experience": 10000,
+        "emeralds": 192,
+        "access": "the <Sand-Swept Tomb Dungeon>",
+        "items": "<Sand-Swept Tomb Key>"
+      },
+      "starter-mission": "Find out what's going on at the Sand Swept Tomb",
+      "province": "Wynn",
+      "starter-npc": "Lanu"
+    },
+    {
+      "name": "Meaningful Holiday",
+      "level": 33,
+      "length": "long",
+      "rewards": {
+        "experience": 15000,
+        "emeralds": 128
+      },
+      "starter-mission": "Talk to Haily in Almuj at [929,75,-1899]",
+      "province": "Wynn",
+      "starter-npc": "Haily"
+    },
+    {
+      "name": "Stable Story",
+      "level": 34,
+      "length": "short",
+      "rewards": {
+        "experience": 9000,
+        "access": "<Ternaves' Horse Shop>",
+        "items": "<Brown Horse>"
+      },
+      "starter-mission": "Talk to Enkser in Ternaves at [828,69,-1636]",
+      "province": "Wynn",
+      "starter-npc": "Enkser"
+    },
+    {
+      "name": "Tribal Aggression",
+      "level": 35,
+      "length": "medium",
+      "rewards": {
+        "experience": 24000,
+        "items": "42 <Gold Ingot>"
+      },
+      "starter-mission": "Talk to Caras at [1077, 84, -1613]",
+      "province": "Wynn",
+      "starter-npc": "Caras",
+      "additional-npc": [
+        "Favian"
+      ]
+    },
+    {
+      "name": "WynnExcavation Site A",
+      "level": 35,
+      "length": "medium",
+      "rewards": {
+        "experience": 15000,
+        "items": "<Yellow Crystal Shard>"
+      },
+      "starter-mission": "Speak to Excavator Vade at [1150,54,-1771]",
+      "province": "Wynn",
+      "starter-npc": "Excavator Vade",
+      "additional-npc": [
+        "Tesha"
+      ]
+    },
+    {
+      "name": "Wrath of the Mummy",
+      "level": 36,
+      "length": "medium",
+      "rewards": {
+        "experience": 16600,
+        "emeralds": 128,
+        "items": "<Mummy's Rag>, <The Mummy's Bandage>"
+      },
+      "starter-mission": "Talk to Ormrod in the desert of Almuj at [979,69,-1808]",
+      "province": "Wynn",
+      "starter-npc": "Ormrod",
+      "additional-npc": [
+        "Achper",
+        "Bandit"
+      ]
+    },
+    {
+      "name": "Canyon Condor",
+      "level": 38,
+      "length": "medium",
+      "rewards": {
+        "experience": 21000,
+        "emeralds": 640,
+        "access": "the <Mesa Elevators>"
+      },
+      "starter-mission": "Talk to Svin in Rymek at [1352,30,-1300]",
+      "province": "Wynn",
+      "starter-npc": "Svin",
+      "additional-npc": [
+        "Jankan",
+        "Hermit"
+      ]
+    },
+    {
+      "name": "Pirate's Trove",
+      "level": 39,
+      "length": "medium",
+      "rewards": {
+        "experience": 26000,
+        "emeralds": 168
+      },
+      "starter-mission": "Talk to Damiral, outside Llevigar at [-1937, 38, -4260]",
+      "province": "Gavel",
+      "starter-npc": "Damiral"
+    },
+    {
+      "name": "Ice Nations",
+      "level": 40,
+      "length": "medium",
+      "rewards": {
+        "experience": 25000,
+        "emeralds": 256,
+        "access": "the <Dujgon Ore Refinery>",
+        "items": "<Climbing Helmet>"
+      },
+      "starter-mission": "Talk to Adigard on the Ice Islands at [806,59,-3353]",
+      "province": "Ocean",
+      "starter-npc": "Adigard",
+      "additional-npc": [
+        "Hallfred"
+      ]
+    },
+    {
+      "name": "Tower of Ascension",
+      "level": 40,
+      "length": "long",
+      "rewards": {
+        "experience": 925000,
+        "emeralds": 32768,
+        "items": "<Champion Armour>"
+      },
+      "starter-mission": "Talk to Ankou at [-350,14,-389]",
+      "province": "Wynn",
+      "starter-npc": "Ankou"
+    },
+    {
+      "name": "Heart of Llevigar",
+      "level": 41,
+      "length": "long",
+      "rewards": {
+        "experience": 24500,
+        "emeralds": 224,
+        "items": "<Generator Amulet>"
+      },
+      "starter-mission": "Find Zenam in his laboratory in Llevigar at [-1872,55,-4593]",
+      "province": "Gavel",
+      "starter-npc": "Zenam",
+      "additional-npc": [
+        "Head Engineer"
+      ]
+    },
+    {
+      "name": "Clearing the Camps",
+      "level": 42,
+      "length": "short",
+      "rewards": {
+        "experience": 23000,
+        "emeralds": 300
+      },
+      "starter-mission": "Talk to Captain Kymer in Llevigar at [-2008,33,-4605]",
+      "province": "Gavel",
+      "starter-npc": "Captain Kymer"
+    },
+    {
+      "name": "Star Thief",
+      "level": 42,
+      "length": "medium",
+      "rewards": {
+        "experience": 40000,
+        "emeralds": 256
+      },
+      "starter-mission": "Look into the rumors of strange weather near the Imal Inn at [-2018, 43, -4822].",
+      "province": "Gavel"
+    },
+    {
+      "name": "Fate of the Fallen",
+      "level": 43,
+      "length": "long",
+      "rewards": {
+        "experience": 20000,
+        "access": "the <Ice Barrows Dungeon>",
+        "items": "<Avalanche>, <Ice Barrows Dungeon Key>"
+      },
+      "starter-mission": "Talk to Telvu the mage at [165,74,-675]",
+      "province": "Wynn",
+      "starter-npc": "Telvu",
+      "additional-npc": [
+        "Psern",
+        "Theorick"
+      ]
+    },
+    {
+      "name": "Underice",
+      "level": 43,
+      "length": "medium",
+      "rewards": {
+        "experience": 34000,
+        "emeralds": 128,
+        "items": "<Gernald's Amulet> / <Calamaro's Token>"
+      },
+      "starter-mission": "Talk to Fredris in Nesaak at [157,73,-812]",
+      "province": "Wynn",
+      "starter-npc": "Fredris",
+      "additional-npc": [
+        "Calamaro"
+      ]
+    },
+    {
+      "name": "Green Skinned Trouble",
+      "level": 44,
+      "length": "medium",
+      "rewards": {
+        "experience": 38000,
+        "emeralds": 512,
+        "items": "<Hide of Gregg'r>"
+      },
+      "starter-mission": "Speak to Piere in the Llevigar plains at[-1851,56,-4959]",
+      "province": "Gavel",
+      "starter-npc": "Piere",
+      "additional-npc": [
+        "Detective Jackson"
+      ]
+    },
+    {
+      "name": "Bob's Lost Soul",
+      "level": 45,
+      "length": "long",
+      "rewards": {
+        "experience": 55000,
+        "access": "<Bob's Tomb>",
+        "items": "<Bob's Battle Chestplate>, <Bob's Crushed Soul>"
+      },
+      "starter-mission": "Talk to Tarod in Nesaak's Forest at [-7,68,-793]",
+      "province": "Wynn",
+      "starter-npc": "Tarod",
+      "additional-npc": [
+        "Wedyf",
+        "The Blacksmith"
+      ]
+    },
+    {
+      "name": "WynnExcavation Site B",
+      "level": 46,
+      "length": "medium",
+      "rewards": {
+        "experience": 50000,
+        "emeralds": 1536,
+        "items": "<Purple Crystal Shard>"
+      },
+      "starter-mission": "Bring the Yellow Crystal Shard to Excavator Lykron at [39,62,-526]",
+      "province": "Wynn",
+      "starter-npc": "Excavator Lykron",
+      "additional-npc": [
+        "Flendar"
+      ]
+    },
+    {
+      "name": "Frost Bite",
+      "level": 48,
+      "length": "long",
+      "rewards": {
+        "experience": 61000,
+        "emeralds": 640,
+        "items": "<Glaciate>"
+      },
+      "starter-mission": "Find Eppo at [-207, 37, -531]",
+      "province": "Wynn",
+      "starter-npc": "Eppo",
+      "additional-npc": [
+        "Rhudya"
+      ]
+    },
+    {
+      "name": "An Iron Heart Part I",
+      "level": 49,
+      "length": "medium",
+      "rewards": {
+        "experience": 42000,
+        "emeralds": 128,
+        "items": "<Factory Helmet>"
+      },
+      "starter-mission": "Speak with Duvale at [-1608,51,-4957]",
+      "province": "Gavel",
+      "starter-npc": "Duvale"
+    },
+    {
+      "name": "Rise of the Quartron",
+      "level": 49,
+      "length": "long",
+      "rewards": {
+        "experience": 75000,
+        "emeralds": 1408,
+        "items": "<Quartron's Eye>"
+      },
+      "starter-mission": "Talk to Nasea in [-1673,52,-4370]",
+      "province": "Gavel",
+      "starter-npc": "Manager Nasea",
+      "additional-npc": [
+        "Dado",
+        "Rinire",
+        "Kaosuw"
+      ]
+    },
+    {
+      "name": "The House of Twain",
+      "level": 49,
+      "length": "short",
+      "rewards": {
+        "experience": 45000,
+        "emeralds": 4096
+      },
+      "starter-mission": "Talk to Twendle at the House of Twain at [12,76,-456]",
+      "province": "Wynn",
+      "starter-npc": "Twendle"
+    },
+    {
+      "name": "A Grave Mistake",
+      "level": 50,
+      "length": "medium",
+      "rewards": {
+        "experience": 66666,
+        "emeralds": 640
+      },
+      "starter-mission": "., STAY;.  'AWAY:, .FROM;,  ,.; [157,78,-377] ':,",
+      "province": "Wynn",
+      "starter-npc": "Alem"
+    },
+    {
+      "name": "The Maiden Tower",
+      "level": 51,
+      "length": "medium",
+      "rewards": {
+        "experience": 77500,
+        "emeralds": 512
+      },
+      "starter-mission": "Visit Sherk at [-2172,54,-5118]",
+      "province": "Gavel",
+      "starter-npc": "Sherk",
+      "additional-npc": [
+        "Erlard"
+      ]
+    },
+    {
+      "name": "Corrupted Betrayal",
+      "level": 52,
+      "length": "long",
+      "rewards": {
+        "experience": 87725,
+        "emeralds": 1024,
+        "access": "the <Undergrowth Ruins Dungeon>",
+        "items": "<Undergrowth Ruins Dungeon Key>"
+      },
+      "starter-mission": "Talk to the Troms Mage at the dungeon entrance at [-641,59,-872]",
+      "province": "Wynn",
+      "starter-npc": "Troms Mage"
+    },
+    {
+      "name": "Crop Failure",
+      "level": 52,
+      "length": "medium",
+      "rewards": {
+        "experience": 57500,
+        "emeralds": 640
+      },
+      "starter-mission": "Talk to Anast in Olux, at [-1834,62,-5557]",
+      "province": "Gavel",
+      "starter-npc": "Anast",
+      "additional-npc": [
+        "Doubiss"
+      ]
+    },
+    {
+      "name": "Jungle Fever",
+      "level": 52,
+      "length": "medium",
+      "rewards": {
+        "experience": 86250,
+        "emeralds": 4096,
+        "items": "<Undergrowth Ruins Key>"
+      },
+      "starter-mission": "Talk to Worid in the jungle village at [-760,79,-666]",
+      "province": "Wynn",
+      "starter-npc": "Worid",
+      "additional-npc": [
+        "Banker",
+        "Almuj Banker"
+      ]
+    },
+    {
+      "name": "Death Whistle",
+      "level": 53,
+      "length": "medium",
+      "rewards": {
+        "experience": 95000,
+        "emeralds": 640
+      },
+      "starter-mission": "Talk to Voer at [-2103,59,-5427]",
+      "province": "Gavel",
+      "starter-npc": "Voer"
+    },
+    {
+      "name": "Master Piece",
+      "level": 53,
+      "length": "medium",
+      "rewards": {
+        "experience": 85000,
+        "items": "<Caissop's Master Piece>"
+      },
+      "starter-mission": "Talk to Caissop, the Artist, in his tent at [-1802,55,-5190]",
+      "province": "Gavel",
+      "starter-npc": "Caissop"
+    },
+    {
+      "name": "The Shadow of the Beast",
+      "level": 54,
+      "length": "long",
+      "rewards": {
+        "experience": 140000,
+        "emeralds": 512,
+        "items": "<Crushed Bigfoot Bone>"
+      },
+      "starter-mission": "Talk to Dereg in his house at [-1483,47,-5218]",
+      "province": "Gavel",
+      "starter-npc": "Dereg",
+      "additional-npc": [
+        "Tolem",
+        "Kroac",
+        "Rileen"
+      ]
+    },
+    {
+      "name": "The Worm Holes",
+      "level": 54,
+      "length": "medium",
+      "rewards": {
+        "experience": 100000,
+        "emeralds": 768,
+        "access": "the <Resource Tunnels>"
+      },
+      "starter-mission": "Talk to Malo in the swamps at [-2062,56,-5415]",
+      "province": "Gavel",
+      "starter-npc": "Malo"
+    },
+    {
+      "name": "WynnExcavation Site C",
+      "level": 55,
+      "length": "long",
+      "rewards": {
+        "experience": 150000,
+        "items": "<Red Crystal Shard>"
+      },
+      "starter-mission": "Talk to Excavator Placardus at [-1061,42,-3742] (Requires shard from Site B)",
+      "province": "Ocean",
+      "starter-npc": "Excavator Placardus"
+    },
+    {
+      "name": "Zhight Island",
+      "level": 55,
+      "length": "medium",
+      "rewards": {
+        "experience": 95000,
+        "access": "<Zhight Currency Exchange>",
+        "items": "16 <Zhight Money>"
+      },
+      "starter-mission": "Talk to Zhight of Zhight Island at [-542,38,-2755]",
+      "province": "Ocean",
+      "starter-npc": "Zhight",
+      "additional-npc": [
+        "Phief",
+        "Tirt",
+        "Czytash"
+      ]
+    },
+    {
+      "name": "The Passage",
+      "level": 57,
+      "length": "short",
+      "rewards": {
+        "experience": 140000,
+        "emeralds": 256,
+        "access": "the <Passage>"
+      },
+      "starter-mission": "Talk to Wirt in Troms at [-820,94,-1040]",
+      "province": "Wynn",
+      "starter-npc": "Wirt",
+      "additional-npc": [
+        "Ildan"
+      ]
+    },
+    {
+      "name": "An Iron Heart Part II",
+      "level": 58,
+      "length": "medium",
+      "rewards": {
+        "experience": 160000,
+        "emeralds": 768,
+        "items": "<Greaves of Honor> / <Shameful Greaves>"
+      },
+      "starter-mission": "Speak to Detective Hart at [-1762,67,-5531]",
+      "province": "Gavel",
+      "starter-npc": "Detective Hart",
+      "additional-npc": [
+        "Daxe",
+        "Elio",
+        "Dr. Urelix"
+      ]
+    },
+    {
+      "name": "The Order of the Grook",
+      "level": 59,
+      "length": "long",
+      "rewards": {
+        "experience": 242500,
+        "emeralds": 2176,
+        "access": "<magic tunnel fast-travel>",
+        "items": "<Draoi Fair> / <Dragon's Eye Bracelet> / <Renda Langit>"
+      },
+      "starter-mission": "Talk to Seasum on Mage Island at [940,77,-2866]",
+      "province": "Ocean",
+      "starter-npc": "Seasum"
+    },
+    {
+      "name": "Beneath the Depths",
+      "level": 60,
+      "length": "medium",
+      "rewards": {
+        "experience": 185000,
+        "emeralds": 1,
+        "items": "<Galleon's Graveyard Key>, <Abysso Galoshes>"
+      },
+      "starter-mission": "Talk to Javier in the Pirate Cove at [-640,53,-3117]",
+      "province": "Ocean",
+      "starter-npc": "Javier",
+      "additional-npc": [
+        "Dalben"
+      ]
+    },
+    {
+      "name": "Reclaiming the House",
+      "level": 61,
+      "length": "medium",
+      "rewards": {
+        "experience": 200000,
+        "emeralds": 2048,
+        "access": "the <Outpost>"
+      },
+      "starter-mission": "Talk to Ahmas at [-1494,47,-5360]",
+      "province": "Gavel",
+      "starter-npc": "Ahmas"
+    },
+    {
+      "name": "Redbeard's Booty",
+      "level": 61,
+      "length": "medium",
+      "rewards": {
+        "experience": 180000,
+        "access": "the <Galleon's Graveyard Dungeon>",
+        "items": "<Galleon's Graveyard Key>, <Golden Pirate Fish>"
+      },
+      "starter-mission": "Talk with Marston in the ocean at [-608,40,-3546]",
+      "province": "Ocean",
+      "starter-npc": "Marston"
+    },
+    {
+      "name": "Lost in the Jungle",
+      "level": 62,
+      "length": "medium",
+      "rewards": {
+        "experience": 225000,
+        "access": "<Gracen's House>",
+        "items": "3 <Jungle Jet Shards>, <Gemstone Dust>"
+      },
+      "starter-mission": "Speak to Gracen at [-738,80,-655]",
+      "province": "Wynn",
+      "starter-npc": "Gracen",
+      "additional-npc": [
+        "Aryn"
+      ]
+    },
+    {
+      "name": "Taproot",
+      "level": 62,
+      "length": "long",
+      "rewards": {
+        "experience": 275000,
+        "items": "<Taproot>"
+      },
+      "starter-mission": "Talk to Hazel in the Dark Forest [-1445,46,-5509]",
+      "province": "Gavel",
+      "starter-npc": "Hazel",
+      "additional-npc": [
+        "Tiek"
+      ]
+    },
+    {
+      "name": "Out of my Mind",
+      "level": 63,
+      "length": "medium",
+      "rewards": {
+        "experience": 300000,
+        "emeralds": 1024,
+        "items": "<Troms Kid Badge>"
+      },
+      "starter-mission": "Speak with the Troms children at [-860,93,-961] inside the treehouse",
+      "province": "Wynn",
+      "starter-npc": "Prentiss",
+      "additional-npc": [
+        "Viola",
+        "Todd",
+        "Ariodo"
+      ]
+    },
+    {
+      "name": "A Fighting Species",
+      "level": 64,
+      "length": "medium",
+      "rewards": {
+        "experience": 267500,
+        "emeralds": 1856,
+        "items": "<Upgraded Orc Mask>"
+      },
+      "starter-mission": "Talk to Darnes in the villager camp at [-1406,43,-5073]",
+      "province": "Gavel",
+      "starter-npc": "Darnes"
+    },
+    {
+      "name": "The Headless Hunt",
+      "level": 64,
+      "length": "long",
+      "rewards": {
+        "experience": 355000,
+        "emeralds": 1024
+      },
+      "starter-mission": "Talk to Referick in the dark forest at [-1081,48,-5368]",
+      "province": "Gavel",
+      "starter-npc": "Referick"
+    },
+    {
+      "name": "Lost Royalty",
+      "level": 65,
+      "length": "medium",
+      "rewards": {
+        "experience": 290000,
+        "emeralds": 2048
+      },
+      "starter-mission": "Talk to Yavlis in Troms at [-848,85,-875]",
+      "province": "Wynn",
+      "starter-npc": "Yavlis",
+      "additional-npc": [
+        "Mercenary Leader",
+        "King's Son"
+      ]
+    },
+    {
+      "name": "Lost Soles",
+      "level": 66,
+      "length": "long",
+      "rewards": {
+        "experience": 352000,
+        "emeralds": 1152,
+        "items": "<Sodeta Boots>"
+      },
+      "starter-mission": "Talk to Ferndor at [-915,33,-750]",
+      "province": "Wynn",
+      "starter-npc": "Ferndor",
+      "additional-npc": [
+        "Grandon"
+      ]
+    },
+    {
+      "name": "From the Mountains",
+      "level": 67,
+      "length": "long",
+      "rewards": {
+        "experience": 175000,
+        "emeralds": 1024,
+        "items": "<Fire Wire>"
+      },
+      "starter-mission": "Talk to Anrod at his house at [-1367,43,-4542]",
+      "province": "Gavel",
+      "starter-npc": "Anrod",
+      "additional-npc": [
+        "Rynver"
+      ]
+    },
+    {
+      "name": "Memory Paranoia",
+      "level": 67,
+      "length": "long",
+      "rewards": {
+        "experience": 375000,
+        "emeralds": 1536,
+        "items": "<Ring of Generosity>"
+      },
+      "starter-mission": "Speak to Atisun in front of Caritat Mansion at [-1192,46,-5198]",
+      "province": "Gavel",
+      "starter-npc": "Atisun",
+      "additional-npc": [
+        "Timmy",
+        "Mr. Caritat"
+      ]
+    },
+    {
+      "name": "Temple of the Legends",
+      "level": 68,
+      "length": "long",
+      "rewards": {
+        "experience": 550000,
+        "access": "the <Temple of the Legends>",
+        "items": "<Purified Helmet of the Legends>"
+      },
+      "starter-mission": "Talk to Kelight at the entrance of the Temple of the Legends, close to Troms at [-693,68,-993]",
+      "province": "Wynn",
+      "starter-npc": "Kelight",
+      "additional-npc": [
+        "Jorkin",
+        "Rayshyroth",
+        "Garull"
+      ]
+    },
+    {
+      "name": "Grand Youth",
+      "level": 69,
+      "length": "medium",
+      "rewards": {
+        "experience": 425000,
+        "emeralds": 1024
+      },
+      "starter-mission": "Talk to Monte at [-550,61,-747]",
+      "province": "Wynn",
+      "starter-npc": "Monte",
+      "additional-npc": [
+        "Salesman",
+        "Isfurus",
+        "Erisk"
+      ]
+    },
+    {
+      "name": "Lazarus Pit",
+      "level": 69,
+      "length": "long",
+      "rewards": {
+        "experience": 500000,
+        "emeralds": 1024,
+        "items": "<Lazarus' Brace>"
+      },
+      "starter-mission": "Talk to Burtur at [-980,45,-5305]",
+      "province": "Gavel",
+      "starter-npc": "Burtur",
+      "additional-npc": [
+        "Vesdar",
+        "Sesad"
+      ]
+    },
+    {
+      "name": "Haven Antiquity",
+      "level": 70,
+      "length": "medium",
+      "rewards": {
+        "experience": 300000,
+        "emeralds": 1408
+      },
+      "starter-mission": "Talk to Cinfras on the docks at Dead Island at [770,36,-3880]",
+      "province": "Ocean",
+      "starter-npc": "Cinfras",
+      "additional-npc": [
+        "Old Siwel",
+        "Siwel"
+      ]
+    },
+    {
+      "name": "Shattered Minds",
+      "level": 70,
+      "length": "long",
+      "rewards": {
+        "experience": 290000,
+        "emeralds": 2560,
+        "items": "A gift from Likeru"
+      },
+      "starter-mission": "Talk to Likeru in Efilim at [-1058,44,-5008]",
+      "province": "Gavel",
+      "starter-npc": "Likeru",
+      "additional-npc": [
+        "Dawm",
+        "Elder Berusia"
+      ]
+    },
+    {
+      "name": "WynnExcavation Site D",
+      "level": 70,
+      "length": "long",
+      "rewards": {
+        "experience": 600000,
+        "emeralds": 16384,
+        "items": "<Royal Token of Gratitude>"
+      },
+      "starter-mission": "Talk to Royal Advisor Carlos in Troms Castle [-848,98,-789] (Requires shard from Site C)",
+      "province": "Wynn",
+      "starter-npc": "Royal Advisor Carlos"
+    },
+    {
+      "name": "Finding The Light",
+      "level": 71,
+      "length": "long",
+      "rewards": {
+        "experience": 675000,
+        "access": "the <Realm of Light>"
+      },
+      "starter-mission": "Talk to the Guardian of The Forest in the Light Forest at [-1128,49,-4778] (Requires completion of Taproot)",
+      "province": "Gavel",
+      "starter-npc": "Guardian of The Forest",
+      "additional-npc": [
+        "Ollie",
+        "Charlie",
+        "Jack",
+        "Damien",
+        "Sasha The Apothecary",
+        "Gardener"
+      ]
+    },
+    {
+      "name": "Eye of the Storm",
+      "level": 72,
+      "length": "long",
+      "rewards": {
+        "experience": 725000,
+        "emeralds": 6106,
+        "items": "<Abyssal Amulet>"
+      },
+      "starter-mission": "Talk to Arwes in the ruined cathedral at [-683,45,-5347]",
+      "province": "Gavel",
+      "starter-npc": "Arwes",
+      "additional-npc": [
+        "Talos",
+        "Ceyquin",
+        "Rismor",
+        "Harker"
+      ]
+    },
+    {
+      "name": "Forbidden Prison",
+      "level": 72,
+      "length": "medium",
+      "rewards": {
+        "experience": 550000,
+        "items": "<Guards Uniform>"
+      },
+      "starter-mission": "Something looks suspicious in the prison at [-829,83,-5539]",
+      "province": "Gavel",
+      "starter-npc": "Prison Guard"
+    },
+    {
+      "name": "Hollow Sirene",
+      "level": 73,
+      "length": "long",
+      "rewards": {
+        "experience": 640000,
+        "emeralds": 1024
+      },
+      "starter-mission": "Talk to Laloire at [-660,43,-5199]",
+      "province": "Gavel",
+      "starter-npc": "Laloire",
+      "additional-npc": [
+        "Pastor Nitram"
+      ]
+    },
+    {
+      "name": "Troubled Tribesmen",
+      "level": 73,
+      "length": "medium",
+      "rewards": {
+        "experience": 500000,
+        "emeralds": 2048,
+        "access": "the <Dernel Tribe Shop in Entamis Village>"
+      },
+      "starter-mission": "Speak with Ka L'argwit at [-545,52,-313] in Dernel.",
+      "province": "Wynn",
+      "starter-npc": "Ka L'argwit"
+    },
+    {
+      "name": "Acquiring Credentials",
+      "level": 74,
+      "length": "long",
+      "rewards": {
+        "experience": 300000,
+        "emeralds": 768,
+        "items": "<Dusty Passport>"
+      },
+      "starter-mission": "Speak to Doan at [-267,59,-4973] regarding his passport",
+      "province": "Gavel",
+      "starter-npc": "Doan",
+      "additional-npc": [
+        "Black Market Guard",
+        "Peculiar Old Man",
+        "Document Merchant"
+      ]
+    },
+    {
+      "name": "Murder Mystery",
+      "level": 74,
+      "length": "medium",
+      "rewards": {
+        "experience": 350000,
+        "emeralds": 3072,
+        "items": "<Detective's Ring>"
+      },
+      "starter-mission": "Talk to Captain Lorias in Cinfras suburbs at [-592,45,-4972]",
+      "province": "Gavel",
+      "starter-npc": "Captain Lorias",
+      "additional-npc": [
+        "Rohem",
+        "Valimare"
+      ]
+    },
+    {
+      "name": "Reincarnation",
+      "level": 74,
+      "length": "long",
+      "rewards": {
+        "experience": 750000,
+        "items": "<Corrupted Treasure>"
+      },
+      "starter-mission": "Talk to Batelu in Bob's Tomb at [372,54,-775]",
+      "province": "Wynn",
+      "starter-npc": "Batelu"
+    },
+    {
+      "name": "The Realm of Light",
+      "level": 74,
+      "length": "long",
+      "rewards": {
+        "experience": 750000,
+        "emeralds": 4096,
+        "items": "<Cloak of Luminosity>"
+      },
+      "starter-mission": "Speak to Aluxander in the Realm of Light at [-1164,57,-6759] (Requires completion of Finding the Light)",
+      "province": "Gavel",
+      "starter-npc": "Aluxander",
+      "additional-npc": [
+        "Regulux",
+        "Heliorion",
+        "Gaclux"
+      ]
+    },
+    {
+      "name": "Flight in Distress",
+      "level": 75,
+      "length": "long",
+      "rewards": {
+        "experience": 750000,
+        "access": "<fast travel between Cinfras and Detlas>",
+        "items": "<Ring of Rubies>"
+      },
+      "starter-mission": "Speak to the Passenger Controllant at [-172,108,-4946]",
+      "province": "Gavel",
+      "starter-npc": "Passenger Controllant",
+      "additional-npc": [
+        "Captain Ackbar",
+        "Missing Child",
+        "Engineer Eric",
+        "Calo"
+      ]
+    },
+    {
+      "name": "The Ultimate Weapon",
+      "level": 75,
+      "length": "medium",
+      "rewards": {
+        "experience": 450000,
+        "items": "<Dodegar's Ultimate Weapon>"
+      },
+      "starter-mission": "Speak to Dodegar Bandysnoot at [-987,42,-4593]",
+      "province": "Gavel",
+      "starter-npc": "Dodegar"
+    },
+    {
+      "name": "Aldorei's Secret Part I",
+      "level": 76,
+      "length": "long",
+      "rewards": {
+        "experience": 512500,
+        "emeralds": 8192,
+        "access": "<Aldorei Town>",
+        "items": "<Elven Medallion> / <Receipt>"
+      },
+      "starter-mission": "Speak to Elrund outside Aldorei Valley at [-670,97,-4444]",
+      "province": "Gavel",
+      "starter-npc": "Elrund"
+    },
+    {
+      "name": "The Bigger Picture",
+      "level": 76,
+      "length": "medium",
+      "rewards": {
+        "experience": 500000,
+        "emeralds": 1920,
+        "items": "<Gnome's Ring>, <Giant's Ring>"
+      },
+      "starter-mission": "Talk to Psilo in the mushroom cave at [-205,42,-4308]",
+      "province": "Gavel",
+      "starter-npc": "Psilo"
+    },
+    {
+      "name": "Purple and Blue",
+      "level": 77,
+      "length": "long",
+      "rewards": {
+        "experience": 500000,
+        "emeralds": 2048,
+        "items": "<Restored Ancient Helmet>"
+      },
+      "starter-mission": "Talk to Korun near lake Gylia at [-236,36,-5225]",
+      "province": "Gavel",
+      "starter-npc": "Korun"
+    },
+    {
+      "name": "The Hunger of Gerts Part 1",
+      "level": 77,
+      "length": "long",
+      "rewards": {
+        "experience": 675000,
+        "emeralds": 4864
+      },
+      "starter-mission": "Talk to Cikal at [-35,68,-5413]",
+      "province": "Gavel",
+      "starter-npc": "Cikal"
+    },
+    {
+      "name": "Aldorei's Secret Part II",
+      "level": 78,
+      "length": "long",
+      "rewards": {
+        "experience": 450000,
+        "emeralds": 10240,
+        "items": "<Kaerynn's Armour> / Elves' Disappointment"
+      },
+      "starter-mission": "Speak to Legolus at [-139,92,-4445] (Requires completion of Part I)",
+      "province": "Gavel",
+      "starter-npc": "Legolus",
+      "additional-npc": [
+        "Elrund"
+      ]
+    },
+    {
+      "name": "The Hunger of Gerts Part 2",
+      "level": 78,
+      "length": "long",
+      "rewards": {
+        "experience": 730000,
+        "items": "<Gerten Ritual Mask>"
+      },
+      "starter-mission": "Talk to Gerten Chief Lobo at [-141,82,-5607]",
+      "province": "Gavel",
+      "starter-npc": "Gerten Chief Lobo"
+    },
+    {
+      "name": "Fallen Delivery",
+      "level": 79,
+      "length": "long",
+      "rewards": {
+        "experience": 1300000,
+        "emeralds": 2048,
+        "access": "<Cinfras Scroll Merchant>"
+      },
+      "starter-mission": "Talk to Bricot at [65,42,-4844]",
+      "province": "Gavel",
+      "starter-npc": "Bricot",
+      "additional-npc": [
+        "Marden",
+        "Gawrick",
+        "Office Manager"
+      ]
+    },
+    {
+      "name": "???",
+      "level": 80,
+      "length": "medium",
+      "rewards": {
+        "experience": 1400000,
+        "emeralds": 6144,
+        "items": "<Altum Spatium>, <Cosmic Armour>"
+      },
+      "starter-mission": "???",
+      "province": "Gavel"
+    },
+    {
+      "name": "From the Bottom",
+      "level": 80,
+      "length": "long",
+      "rewards": {
+        "experience": 700000,
+        "emeralds": 4096,
+        "items": "64 <Platinum Ingots>, <Troll Hair>"
+      },
+      "starter-mission": "Find someone in Thanos who wants to buy [10 Troll Hair]",
+      "province": "Gavel",
+      "starter-npc": "Nakoba",
+      "additional-npc": [
+        "Dobile",
+        "Dorroc",
+        "Govid",
+        "Yobon",
+        "Lodog",
+        "Syni",
+        "Dohstaj"
+      ]
+    },
+    {
+      "name": "General's Orders",
+      "level": 80,
+      "length": "long",
+      "rewards": {
+        "experience": 1300000,
+        "items": "<Changeling's Chestplate>"
+      },
+      "starter-mission": "Speak to Private Tylas outside of the fort at [115,53,-5439]",
+      "province": "Gavel",
+      "starter-npc": "Private Tylas",
+      "additional-npc": [
+        "General Lecade",
+        "Lieutenant Gren"
+      ]
+    },
+    {
+      "name": "The Qira Hive",
+      "level": 80,
+      "length": "long",
+      "rewards": {
+        "experience": 6250000,
+        "items": "<Master Voucher>"
+      },
+      "starter-mission": "Talk to Yansur at [372,66,-5501] and begin the Hive Challenge",
+      "province": "Gavel",
+      "starter-npc": "Yansur"
+    },
+    {
+      "name": "The Thanos Vaults",
+      "level": 81,
+      "length": "medium",
+      "rewards": {
+        "experience": 775000,
+        "emeralds": 4096
+      },
+      "starter-mission": "Speak to Dolem at [131,2,-5295]",
+      "province": "Gavel",
+      "starter-npc": "Dolem"
+    },
+    {
+      "name": "The Belly of the Beast",
+      "level": 82,
+      "length": "medium",
+      "rewards": {
+        "experience": 1250000,
+        "emeralds": 2048,
+        "items": "<Dragon Hide Plate>"
+      },
+      "starter-mission": "Speak to King Burtan at [51,17,-5242]",
+      "province": "Gavel",
+      "starter-npc": "King Burtan",
+      "additional-npc": [
+        "Tharroli"
+      ]
+    },
+    {
+      "name": "A Marauder's Dues",
+      "level": 83,
+      "length": "medium",
+      "rewards": {
+        "experience": 1375000,
+        "emeralds": 8192
+      },
+      "starter-mission": "Talk to Norsten at [437,77,-5056].",
+      "province": "Gavel",
+      "starter-npc": "Norsten",
+      "additional-npc": [
+        "Volmor"
+      ]
+    },
+    {
+      "name": "The Envoy Part I",
+      "level": 83,
+      "length": "long",
+      "rewards": {
+        "experience": 1750000,
+        "emeralds": 9152,
+        "access": "the <C.S.S. Wavebreaker>",
+        "items": "<Maxie's House Key>"
+      },
+      "starter-mission": "Talk to Olivin in Selchar at [112,66,-3173]",
+      "province": "Ocean",
+      "starter-npc": "Olivin",
+      "additional-npc": [
+        "Maxie",
+        "Corkus Delegate"
+      ]
+    },
+    {
+      "name": "The Canyon Guides",
+      "level": 84,
+      "length": "medium",
+      "rewards": {
+        "experience": 1450000,
+        "emeralds": 2048
+      },
+      "starter-mission": "Speak to Gana at [444,104,-4805]",
+      "province": "Gavel",
+      "starter-npc": "Gana",
+      "additional-npc": [
+        "Seluc"
+      ]
+    },
+    {
+      "name": "The Canary Calls",
+      "level": 85,
+      "length": "medium",
+      "rewards": {
+        "experience": 1575000,
+        "emeralds": 2048
+      },
+      "starter-mission": "Speak to Grenot outside the Thesead coal mine at [676,78,-5020]",
+      "province": "Gavel",
+      "starter-npc": "Grenot"
+    },
+    {
+      "name": "The Lost",
+      "level": 85,
+      "length": "medium",
+      "rewards": {
+        "experience": 1575000,
+        "emeralds": 2048,
+        "items": "<Canyon Chart>"
+      },
+      "starter-mission": "Find Dejol at [452,28,-4456]",
+      "province": "Gavel",
+      "starter-npc": "Dejol",
+      "additional-npc": [
+        "Ansei",
+        "Felim",
+        "Kofis",
+        "Sytis",
+        "Yuge"
+      ]
+    },
+    {
+      "name": "Cowfusion",
+      "level": 86,
+      "length": "long",
+      "rewards": {
+        "experience": 2300000,
+        "emeralds": 4096,
+        "items": "<Veekhat's Horns>, <Veekhat's Udders>"
+      },
+      "starter-mission": "Talk to Ranol at [768,45,-5425]",
+      "province": "Gavel",
+      "starter-npc": "Ranol",
+      "additional-npc": [
+        "Ibele",
+        "Drale",
+        "Veekhat"
+      ]
+    },
+    {
+      "name": "Desperate Metal",
+      "level": 86,
+      "length": "medium",
+      "rewards": {
+        "experience": 1580000,
+        "emeralds": 2048,
+        "items": "<Mech Core>"
+      },
+      "starter-mission": "Speak to Phinas on Corkus Island at [-1672,38,-2083]",
+      "province": "Corkus",
+      "starter-npc": "Phinas"
+    },
+    {
+      "name": "Beyond the Grave",
+      "level": 87,
+      "length": "medium",
+      "rewards": {
+        "experience": 2100000,
+        "emeralds": 8192,
+        "items": "<Raging Wind>"
+      },
+      "starter-mission": "Speak to Irlok in the Air Temple at [499,155,-4778].",
+      "province": "Gavel",
+      "starter-npc": "Irlok",
+      "additional-npc": [
+        "Death"
+      ]
+    },
+    {
+      "name": "Mixed Feelings",
+      "level": 87,
+      "length": "long",
+      "rewards": {
+        "experience": 1750000,
+        "emeralds": 2048
+      },
+      "starter-mission": "Go for a drink at the Corkus Docks Inn, [-1414, 46, -2921]",
+      "province": "Corkus",
+      "starter-npc": "Javen"
+    },
+    {
+      "name": "The Hidden City",
+      "level": 88,
+      "length": "long",
+      "rewards": {
+        "experience": 2700000,
+        "emeralds": 4096,
+        "access": "<fast travel between Thesead and Eltom>"
+      },
+      "starter-mission": "Talk to Narder at the Thesead Coal Mines at [661,78,-5070]",
+      "province": "Gavel",
+      "starter-npc": "Narder",
+      "additional-npc": [
+        "Hilan",
+        "Thesead's Mayor"
+      ]
+    },
+    {
+      "name": "Enter the Dojo",
+      "level": 89,
+      "length": "long",
+      "rewards": {
+        "experience": 2900000,
+        "items": "<Master's Gi>"
+      },
+      "starter-mission": "Talk to Sensei Miyagi at [495,109,-5571]",
+      "province": "Gavel",
+      "starter-npc": "Sensei Miyagi"
+    },
+    {
+      "name": "The Envoy Part II",
+      "level": 89,
+      "length": "long",
+      "rewards": {
+        "experience": 3050000,
+        "access": "the <hot air balloon fast travel between Corkus City and Kandon-Beda>",
+        "items": "<Fallen Factory Key>, <Electro Mage's Boots>"
+      },
+      "starter-mission": "Enter Maxie's house at [-1571,68,-2876].",
+      "province": "Corkus",
+      "starter-npc": "Security Bot N4T17",
+      "additional-npc": [
+        "Maxie",
+        "Avos Chief",
+        "Grandmaster Shaman"
+      ]
+    },
+    {
+      "name": "Fantastic Voyage",
+      "level": 90,
+      "length": "long",
+      "rewards": {
+        "experience": 3100000,
+        "emeralds": 6144,
+        "items": "<Pendant of Prosperity>"
+      },
+      "starter-mission": "Speak to Relend at [1304,35,-4043]",
+      "province": "Ocean",
+      "starter-npc": "Relend"
+    },
+    {
+      "name": "Dwarves and Doguns Part I",
+      "level": 91,
+      "length": "long",
+      "rewards": {
+        "experience": 3300000,
+        "access": "the <Molten Heights elevators>",
+        "items": "<Dogun Badge of Trust>"
+      },
+      "starter-mission": "Find out what's happening at the theatre at [1024,17,-5143]",
+      "province": "Gavel",
+      "starter-npc": "Lozeg"
+    },
+    {
+      "name": "Dwarves and Doguns Part II",
+      "level": 92,
+      "length": "long",
+      "rewards": {
+        "experience": 3500000,
+        "access": "the <Thanos-Rodoroc trading tunnel>",
+        "items": "<Letter to Korzim>"
+      },
+      "starter-mission": "Return to the Dogun village at [1371,141,-5306] with a Dogun Badge of Trust and talk to the leader of the town.",
+      "province": "Gavel",
+      "starter-npc": "Dogun Chieftain"
+    },
+    {
+      "name": "Dwarves and Doguns Part III",
+      "level": 93,
+      "length": "long",
+      "rewards": {
+        "experience": 4000000,
+        "items": "<Staff of True Ice>"
+      },
+      "starter-mission": "Return to the Dogun village with the letter and speak to Korzim at [1436,134,-5388].",
+      "province": "Gavel",
+      "starter-npc": "Korzim"
+    },
+    {
+      "name": "Dwarves and Doguns Part IV",
+      "level": 94,
+      "length": "long",
+      "rewards": {
+        "experience": 6000000,
+        "emeralds": 20480,
+        "access": "the <Ingredient shop in Maex>"
+      },
+      "starter-mission": "Return to Korzim at [1514, 51, -5342] on the second floor of the enchanter in Maex with the Amulet of Fire and the Staff of Ice.",
+      "province": "Gavel",
+      "starter-npc": "Korzim"
+    },
+    {
+      "name": "One Thousand Meters Under",
+      "level": 95,
+      "length": "long",
+      "rewards": {
+        "experience": 5500000,
+        "emeralds": 2048,
+        "access": "<The Void elevators>",
+        "items": "<Ominous Wind>"
+      },
+      "starter-mission": "Read the Help Wanted sign in Ahmsord at [1108,107,-4555]",
+      "province": "Gavel",
+      "starter-npc": "Help Wanted",
+      "additional-npc": [
+        "Captain Olof",
+        "Celuuse",
+        "Kantor",
+        "Rontaid",
+        "Scientist Ynnos",
+        "The Secretary"
+      ]
+    },
+    {
+      "name": "Recipe For Disaster",
+      "level": 96,
+      "length": "medium",
+      "rewards": {
+        "experience": 4200000,
+        "emeralds": 4096,
+        "items": "<Chef Hamsey's Apron> / <Sky Chef's Apron> / <Smoldering Apron>"
+      },
+      "starter-mission": "Meet up with Chef Hamsey in Ahmsord at [949,129,-4475]",
+      "province": "Gavel",
+      "starter-npc": "Chef Hamsey",
+      "additional-npc": [
+        "Brie",
+        "Frank",
+        "Kale"
+      ]
+    },
+    {
+      "name": "The Fortuneteller",
+      "level": 97,
+      "length": "medium",
+      "rewards": {
+        "experience": 3900000,
+        "items": "<Wealth or Knowledge>"
+      },
+      "starter-mission": "Talk to Jill in Kandon-Beda at [746,150,-4468]",
+      "province": "Gavel",
+      "starter-npc": "Jill",
+      "additional-npc": [
+        "Farcor"
+      ]
+    },
+    {
+      "name": "Royal Trials",
+      "level": 98,
+      "length": "long",
+      "rewards": {
+        "experience": 7270000,
+        "emeralds": 4096,
+        "items": "<The Queen's Headpiece>"
+      },
+      "starter-mission": "Talk to the Skyraider Guard at [1476,84,-4336]",
+      "province": "Gavel",
+      "starter-npc": "Skyraider Guard",
+      "additional-npc": [
+        "Hrona",
+        "Trials Overseer"
+      ]
+    },
+    {
+      "name": "A Journey Beyond",
+      "level": 100,
+      "length": "long",
+      "rewards": {
+        "experience": 6000000,
+        "emeralds": 12288
+      },
+      "starter-mission": "Join Elphaba on a mission in Detlas at [419, 67, -1533].",
+      "province": "Wynn",
+      "starter-npc": "Elphaba"
+    },
+    {
+      "name": "The Olmic Rune",
+      "level": 100,
+      "length": "medium",
+      "rewards": {
+        "experience": 5800000,
+        "access": "<Tol Altar>"
+      },
+      "starter-mission": "Explore the abandoned drill at [585,89,-457]",
+      "province": "Silent Expanse",
+      "additional-npc": [
+        "Aledar"
+      ]
+    },
+    {
+      "name": "A Journey Further",
+      "level": 101,
+      "length": "long",
+      "rewards": {
+        "experience": 7500000,
+        "emeralds": 20480,
+        "access": "the <Eldritch Outlook Dungeon>"
+      },
+      "starter-mission": "Talk to Aledar in Lutho at [977, 75, -732]",
+      "province": "Silent Expanse",
+      "starter-npc": "Aledar"
+    },
+    {
+      "name": "Point of No Return",
+      "level": 102,
+      "length": "long",
+      "rewards": {
+        "experience": 7000000,
+        "emeralds": 8192
+      },
+      "starter-mission": "Talk to the Lutho Citizen at [1014,77,-675].",
+      "province": "Silent Expanse",
+      "starter-npc": "Lutho Citizen"
+    },
+    {
+      "name": "A Hunter's Calling",
+      "level": 103,
+      "length": "long",
+      "rewards": {
+        "experience": 10008000,
+        "items": "<Corrupted Soul Token>, <Hunted Mode>"
+      },
+      "starter-mission": "Explore the deepest part of the Silent Expanse",
+      "province": "Silent Expanse"
+    }
+  ]
+}
