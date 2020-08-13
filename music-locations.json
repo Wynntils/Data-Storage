@@ -1,0 +1,21 @@
+{
+  "dungeons": {
+    "Decrepit Sewers": "Anthem of Rot (Decrepit Sewers)",
+    "Infested Pit": "Arachnophobia (Infested Pit)",
+    "Lost Sanctuary": "Bottom of the Food Chain (Lost Sanctuary)",
+    "Underworld Crypt": "March of the Defeated (Underworld Crypt)",
+    "Sand-Swept Tomb": "Mirage of Dust (Sand-Swept Tomb)",
+    "Ice Barrows": "Dissonance (Ice Barrows)",
+    "Undergrowth Ruins": "Tribal Drums Beating (Undergrowth Ruins)",
+    "Galleon's Graveyard": "Mind of a Pirate (Galleon's Graveyard)",
+    "Fallen Factory": "A-U-T-O-M-A-T-I-O-N (Fallen Factory)",
+    "Eldritch Outlook": "Everpresence (Eldritch Outlook)",
+    "Corrupted Decrepit Sewers": "Insanity (Corrupted Dungeon)",
+    "Corrupted Infested Pit": "Insanity (Corrupted Dungeon)",
+    "Corrupted Lost Sanctuary": "Insanity (Corrupted Dungeon)",
+    "Corrupted Underworld Crypt: "Insanity (Corrupted Dungeon)",
+    "Corrupted Sand-Swept Tomb": "Insanity (Corrupted Dungeon)",
+    "Corrupted Ice Barrows": "Insanity (Corrupted Dungeon)",
+    "Corrupted Undergrowth Ruins" : "Insanity (Corrupted Dungeon)"
+  }
+}
