@@ -251,6 +251,18 @@
       }
     },
     {
+      "id": "Fallen Factory Boss",
+      "trackName": "Fierce Foe (Boss Battle 1)",
+      "ignoreTerritory": false,
+      "fastSwitch": true,
+      "region": {
+        "startX": -8865,
+        "startZ": -2329,
+        "endX": -8740,
+        "endZ": -2239
+      }
+    },
+    {
       "id": "Eldritch Outlook Boss",
       "trackName": "Genesis of the End (Boss Battle 12)",
       "ignoreTerritory": false,
