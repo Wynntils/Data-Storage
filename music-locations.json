@@ -381,6 +381,54 @@
         "endX": -1216.0,
         "endZ": -1998.0
       }
+    },
+    {
+      "id": "Ruined Olmic City",
+      "trackName": "Where They Wandered (Forgotten Town)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": 395.0,
+        "startZ": -661.0,
+        "endX": 786.0,
+        "endZ": -302.0
+      }
+    },
+    {
+      "id": "Eyeball Forest",
+      "trackName": "All Eyes on Me (Eyeball Forest)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": 776.0,
+        "startZ": -340.0,
+        "endX": 1078.0,
+        "endZ": -645.0
+      }
+    },
+    {
+      "id": "Toxic Wastes",
+      "trackName": "Its Melting Point (Toxic Wastes)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": 698.0,
+        "startZ": -1105.0,
+        "endX": 1126.0,
+        "endZ": -797.0
+      }
+    },
+    {
+      "id": "Void Valley",
+      "trackName": "Tangled in Endless Roots (Void Valley)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": 1015.0,
+        "startZ": -1148.0,
+        "endX": 1298.0,
+        "endZ": -912.0
+      }
     }
   ]
 }
