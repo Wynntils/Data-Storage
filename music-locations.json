@@ -109,6 +109,17 @@
         "endX": -3618,
         "endZ": -1021
       }
+    },
+    {
+      "id": "Geyser Pit",
+      "trackName": "Chaotic Encounter (Boss Battle 3)",
+      "ignoreTerritory": false,
+      "region": {
+        "startX": -3235,
+        "startZ": -3331,
+        "endX": -3262,
+        "endZ": -3255
+      }
     }
   ]
 }
