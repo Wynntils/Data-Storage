@@ -142,6 +142,28 @@
         "endX": 2460,
         "endZ": -4677
       }
+    },
+    {
+      "id": "Lexdale",
+      "trackName": "No Place to Hide (Lexdale)",
+      "ignoreTerritory": true,
+      "region": {
+        "startX": -650,
+        "startZ": -5511,
+        "endX": -562,
+        "endZ": -5406
+      }
+    },
+    {
+      "id": "Kander Forest",
+      "trackName": "The Outlook is Bleak (Kander Woods)",
+      "ignoreTerritory": true,
+      "region": {
+        "startX": -400,
+        "startZ": -5158,
+        "endX": -972,
+        "endZ": -5616
+      }
     }
   ]
 }
