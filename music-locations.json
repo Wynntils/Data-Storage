@@ -275,6 +275,18 @@
       }
     },
     {
+      "id": "Legendary Challenge",
+      "trackName": "Legendary Rumble! (Boss Battle 14)",
+      "ignoreTerritory": false,
+      "fastSwitch": true,
+      "region": {
+        "startX": -5676,
+        "startZ": -3117,
+        "endX": -5688,
+        "endZ": -3028
+      }
+    },
+    {
       "id": "Lexdale",
       "trackName": "No Place to Hide (Lexdale)",
       "ignoreTerritory": true,
