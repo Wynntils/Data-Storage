@@ -88,7 +88,7 @@
         "endZ": 425
       }
     },
-     {
+    {
       "id": "Sunrise Canyon",
       "trackName": "Chaotic Encounter (Boss Battle 3)",
       "ignoreTerritory": false,
@@ -97,6 +97,17 @@
         "startZ": -1430,
         "endX": 2375,
         "endZ": -1459
+      }
+    },
+    {
+      "id": "Arena of the Legends",
+      "trackName": "Chaotic Encounter (Boss Battle 3)",
+      "ignoreTerritory": false,
+      "region": {
+        "startX": -3670,
+        "startZ": -1061,
+        "endX": -3618,
+        "endZ": -1021
       }
     }
   ]
