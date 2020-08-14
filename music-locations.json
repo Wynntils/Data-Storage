@@ -155,6 +155,114 @@
       }
     },
     {
+      "id": "Decrepit Sewers Boss",
+      "trackName": "Fierce Foe (Boss Battle 1)",
+      "ignoreTerritory": false,
+      "fastSwitch": true,
+      "region": {
+        "startX": -12545,
+        "startZ": -11214,
+        "endX": -12485,
+        "endZ": -11224
+      }
+    },
+    {
+      "id": "Infested Pit Boss",
+      "trackName": "Fierce Foe (Boss Battle 1)",
+      "ignoreTerritory": false,
+      "fastSwitch": true,
+      "region": {
+        "startX": -10096,
+        "startZ": -11117,
+        "endX": -10039,
+        "endZ": -10066
+      }
+    },
+    {
+      "id": "Lost Sanctuary Boss",
+      "trackName": "Fierce Foe (Boss Battle 1)",
+      "ignoreTerritory": false,
+      "fastSwitch": true,
+      "region": {
+        "startX": -11164,
+        "startZ": -10460,
+        "endX": -11157,
+        "endZ": -10401
+      }
+    },
+    {
+      "id": "Underworld Crypt Boss",
+      "trackName": "Uncertain Encounter (Boss Battle 4)",
+      "ignoreTerritory": false,
+      "fastSwitch": true,
+      "region": {
+        "startX": -12204,
+        "startZ": -12356,
+        "endX": -12248,
+        "endZ": -12282
+      }
+    },
+    {
+      "id": "Sand-Swerpt Tomb Boss",
+      "trackName": "Fierce Foe (Boss Battle 1)",
+      "ignoreTerritory": false,
+      "fastSwitch": true,
+      "region": {
+        "startX": -11897,
+        "startZ": -11455,
+        "endX": -11831,
+        "endZ": -11465
+      }
+    },
+    {
+      "id": "Ice Barrows Boss",
+      "trackName": "Fierce Foe (Boss Battle 1)",
+      "ignoreTerritory": false,
+      "fastSwitch": true,
+      "region": {
+        "startX": 51,
+        "startZ": 1851,
+        "endX": 51,
+        "endZ": 1856
+      }
+    },
+    {
+      "id": "Undergrowth Ruins Boss",
+      "trackName": "Fierce Foe (Boss Battle 1)",
+      "ignoreTerritory": false,
+      "fastSwitch": true,
+      "region": {
+        "startX": -2657,
+        "startZ": -949,
+        "endX": -2488,
+        "endZ": -886
+      }
+    },
+    {
+      "id": "Galleon's Graveyard Boss",
+      "trackName": "Fierce Foe (Boss Battle 1)",
+      "ignoreTerritory": false,
+      "fastSwitch": true,
+      "region": {
+        "startX": -3894,
+        "startZ": -2544,
+        "endX": -3912,
+        "endZ": -2568
+      }
+    },
+    {
+      "id": "Eldritch Outlook Boss",
+      "trackName": "Genesis of the End (Boss Battle 12)",
+      "ignoreTerritory": false,
+      "fastSwitch": true,
+      "region": {
+        "startX": 4901,
+        "startZ": 1808,
+        "endX": 4961,
+        "endZ": 1868
+      }
+    },
+    {
       "id": "Lexdale",
       "trackName": "No Place to Hide (Lexdale)",
       "ignoreTerritory": true,
