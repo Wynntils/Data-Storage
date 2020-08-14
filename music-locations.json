@@ -20,5 +20,84 @@
   },
   "entries": {
     "wars": "Begin the Siege! (Guild Wars)"
-  }
+  },
+  "areas": [
+    {
+      "id": "Rotten Passage",
+      "trackName": "Chaotic Encounter (Boss Battle 3)",
+      "ignoreTerritory": false,
+      "region": {
+        "startX": 3894,
+        "startZ": -2205,
+        "endX": 3953,
+        "endZ": -2241
+      }
+    },
+    {
+      "id": "Bovine Barn",
+      "trackName": "Chaotic Encounter (Boss Battle 3)",
+      "ignoreTerritory": false,
+      "region": {
+        "startX": 1747,
+        "startZ": -3488,
+        "endX": 1794,
+        "endZ": -3443
+      }
+    },
+    {
+      "id": "Plague Laboratory",
+      "trackName": "Chaotic Encounter (Boss Battle 3)",
+      "ignoreTerritory": false,
+      "region": {
+        "startX": -2251,
+        "startZ": -5649,
+        "endX": -2271,
+        "endZ": -5577
+      }
+    },
+    {
+      "id": "Tribal Sanctuary",
+      "trackName": "Chaotic Encounter (Boss Battle 3)",
+      "ignoreTerritory": false,
+      "region": {
+        "startX": -4992,
+        "startZ": -987,
+        "endX": -2271,
+        "endZ": -947
+      }
+    },
+    {
+      "id": "Altar of Sanctification",
+      "trackName": "Weirding (Boss Battle 9)",
+      "ignoreTerritory": false,
+      "region": {
+        "startX": -2831,
+        "startZ": -679,
+        "endX": -2849,
+        "endZ": -629
+      }
+    },
+    {
+      "id": "Prison of Souls",
+      "trackName": "Fearsome Foe (Boss Battle 2)",
+      "ignoreTerritory": false,
+      "region": {
+        "startX": -18,
+        "startZ": 439,
+        "endX": -29,
+        "endZ": 425
+      }
+    },
+     {
+      "id": "Sunrise Canyon",
+      "trackName": "Chaotic Encounter (Boss Battle 3)",
+      "ignoreTerritory": false,
+      "region": {
+        "startX": 2296,
+        "startZ": -1430,
+        "endX": 2375,
+        "endZ": -1459
+      }
+    }
+  ]
 }
