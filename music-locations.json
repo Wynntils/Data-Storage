@@ -131,6 +131,17 @@
         "endX": -2945,
         "endZ": -3125
       }
+    },
+    {
+      "id": "The Orange Wybel",
+      "trackName": "Chaotic Encounter (Boss Battle 3)",
+      "ignoreTerritory": false,
+      "region": {
+        "startX": 2418,
+        "startZ": -4662,
+        "endX": 2460,
+        "endZ": -4677
+      }
     }
   ]
 }
