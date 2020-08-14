@@ -297,6 +297,18 @@
         "endX": -972,
         "endZ": -5616
       }
+    },
+    {
+      "id": "Temple of Legends",
+      "trackName": "In The Little Wood (Little Wood)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": -665,
+        "startZ": -1091,
+        "endX": -719,
+        "endZ": -989
+      }
     }
   ]
 }
