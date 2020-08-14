@@ -321,6 +321,66 @@
         "endX": -719,
         "endZ": -989
       }
+    },
+    {
+      "id": "Relos",
+      "trackName": "Waters of Prosperity (Relos)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": -1720.0,
+        "startZ": -2426.0,
+        "endX": -1580.0,
+        "endZ": -2293.0
+      }
+    },
+    {
+      "id": "Corkus Docks",
+      "trackName": "Settlements of Freedom (Corkus Docks)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": -1447.0,
+        "startZ": -3006.0,
+        "endX": -1247.0,
+        "endZ": -2839.0
+      }
+    },
+    {
+      "id": "Corkus City",
+      "trackName": "Corkian National Anthem (Corkus City)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": -1696.0,
+        "startZ": -3018.0,
+        "endX": -1461.0,
+        "endZ": -2818.0
+      }
+    },
+    {
+      "id": "Avos Territory",
+      "trackName": "Wings of Distrust (Avos Territory)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": -2000.0,
+        "startZ": -3383.0,
+        "endX": -1655.0,
+        "endZ": -3070.0
+      }
+    },
+    {
+      "id": "Corkus Island",
+      "trackName": "Machinations of Chaos (Corkus)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": -2124.0,
+        "startZ": -3466.0,
+        "endX": -1216.0,
+        "endZ": -1998.0
+      }
     }
   ]
 }
