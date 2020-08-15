@@ -71,6 +71,18 @@
       }
     },
     {
+      "id": "Challenge of the Blades",
+      "trackName": "Chaotic Encounter (Boss Battle 3)",
+      "ignoreTerritory": false,
+      "fastSwitch": true,
+      "region": {
+        "startX": -772,
+        "startZ": -5682,
+        "endX": -744,
+        "endZ": -5649
+      }
+    },
+    {
       "id": "Altar of Sanctification",
       "trackName": "Weirding (Boss Battle 9)",
       "ignoreTerritory": false,
