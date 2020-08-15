@@ -465,6 +465,54 @@
         "endX": 1542.0,
         "endZ": -4228.0
       }
+    },
+    {
+      "id": "Nesaak Village",
+      "trackName": "Snowdrifts Billowing (Nesaak Village)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": 61.0,
+        "startZ": -888.0,
+        "endX": 226.0,
+        "endZ": -748.0
+      }
+    },
+    {
+      "id": "Bob's Thomb",
+      "trackName": "Visions of the Warrior (Bob's Tomb)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": 246,
+        "startZ": -747,
+        "endX": 380,
+        "endZ": -867,
+      }
+    },
+    {
+      "id": "Lusuco",
+      "trackName": "Frozen Waltz (Lusuco)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": -458.0,
+        "startZ": -539.0,
+        "endX": -79.0,
+        "endZ": -272.0
+      }
+    },
+    {
+      "id": "Nesaak Forest",
+      "trackName": "Icy Steps (Nesaak Forest)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": -246.0,
+        "startZ": -595.0,
+        "endX": 360.0,
+        "endZ": -978.0
+      }
     }
   ]
 }
