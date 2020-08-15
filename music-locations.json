@@ -429,6 +429,42 @@
         "endX": 1298.0,
         "endZ": -912.0
       }
+    },
+    {
+      "id": "Ahmsord",
+      "trackName": "City in the Sky (Ahmsord)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": 935.0,
+        "startZ": -4637.0,
+        "endX": 1171.0,
+        "endZ": -4462.0
+      }
+    },
+    {
+      "id": "Kandon-Beda",
+      "trackName": "Standing on Thin Air (Kandon-Beda)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": 539.0,
+        "startZ": -4566.0,
+        "endX": 817.0,
+        "endZ": -4348.0
+      }
+    },
+    {
+      "id": "Sky Islands",
+      "trackName": "Amongst the Clouds (Sky Islands)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": 699.0,
+        "startZ": -4958.0,
+        "endX": 1542.0,
+        "endZ": -4228.0
+      }
     }
   ]
 }
