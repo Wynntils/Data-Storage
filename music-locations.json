@@ -515,6 +515,18 @@
       }
     },
     {
+      "id": "Wynnter Fair",
+      "trackName": "Craftmas Carol (Craftmas Island)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": -460.0,
+        "startZ": -911.0,
+        "endX": -279.0,
+        "endZ": -756.0
+      }
+    },
+    {
       "id": "Nesaak Forest",
       "trackName": "Icy Steps (Nesaak Forest)",
       "ignoreTerritory": true,
