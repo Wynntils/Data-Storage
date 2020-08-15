@@ -287,6 +287,18 @@
       }
     },
     {
+      "id": "Bob's Reincarnation",
+      "trackName": "The Last Stand (Boss Battle 8)",
+      "ignoreTerritory": false,
+      "fastSwitch": true,
+      "region": {
+        "startX": 8193,
+        "startZ": 8034,
+        "endX": 8256,
+        "endZ": 8030
+      }
+    },
+    {
       "id": "Lexdale",
       "trackName": "No Place to Hide (Lexdale)",
       "ignoreTerritory": true,
