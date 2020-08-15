@@ -28,10 +28,10 @@
       "ignoreTerritory": false,
       "fastSwitch": true,
       "region": {
-        "startX": 3894,
-        "startZ": -2205,
-        "endX": 3953,
-        "endZ": -2241
+        "startX": 3886,
+        "startZ": -2258,
+        "endX": 3961,
+        "endZ": -2181
       }
     },
     {
@@ -40,10 +40,10 @@
       "ignoreTerritory": false,
       "fastSwitch": true,
       "region": {
-        "startX": 1747,
-        "startZ": -3488,
-        "endX": 1794,
-        "endZ": -3443
+        "startX": 1739,
+        "startZ": -3496,
+        "endX": 1802,
+        "endZ": -3435
       }
     },
     {
@@ -52,10 +52,10 @@
       "ignoreTerritory": false,
       "fastSwitch": true,
       "region": {
-        "startX": -2251,
-        "startZ": -5649,
-        "endX": -2271,
-        "endZ": -5577
+        "startX": -2295,
+        "startZ": -5657,
+        "endX": -2227,
+        "endZ": -5569
       }
     },
     {
@@ -64,10 +64,10 @@
       "ignoreTerritory": false,
       "fastSwitch": true,
       "region": {
-        "startX": -4992,
-        "startZ": -987,
-        "endX": -2271,
-        "endZ": -947
+        "startX": -5005,
+        "startZ": -995,
+        "endX": -4945,
+        "endZ": -939
       }
     },
     {
@@ -76,10 +76,10 @@
       "ignoreTerritory": false,
       "fastSwitch": true,
       "region": {
-        "startX": -2831,
-        "startZ": -679,
-        "endX": -2849,
-        "endZ": -629
+        "startX": -2873,
+        "startZ": -687,
+        "endX": -2807,
+        "endZ": -621
       }
     },
     {
@@ -88,10 +88,10 @@
       "ignoreTerritory": false,
       "fastSwitch": true,
       "region": {
-        "startX": -18,
-        "startZ": 439,
-        "endX": -29,
-        "endZ": 425
+        "startX": -53,
+        "startZ": 401,
+        "endX": 6,
+        "endZ": 463
       }
     },
     {
@@ -100,10 +100,10 @@
       "ignoreTerritory": false,
       "fastSwitch": true,
       "region": {
-        "startX": 2296,
-        "startZ": -1430,
-        "endX": 2375,
-        "endZ": -1459
+        "startX": 2288,
+        "startZ": -1483,
+        "endX": 2383,
+        "endZ": -1406
       }
     },
     {
@@ -112,10 +112,10 @@
       "ignoreTerritory": false,
       "fastSwitch": true,
       "region": {
-        "startX": -3670,
-        "startZ": -1061,
-        "endX": -3618,
-        "endZ": -1021
+        "startX": -3678,
+        "startZ": -1069,
+        "endX": -3610,
+        "endZ": -1013
       }
     },
     {
@@ -124,10 +124,10 @@
       "ignoreTerritory": false,
       "fastSwitch": true,
       "region": {
-        "startX": -3235,
-        "startZ": -3331,
-        "endX": -3262,
-        "endZ": -3255
+        "startX": -3286,
+        "startZ": -3339,
+        "endX": -3211,
+        "endZ": -3247
       }
     },
     {
@@ -136,10 +136,10 @@
       "ignoreTerritory": false,
       "fastSwitch": true,
       "region": {
-        "startX": -2945,
-        "startZ": -3144,
-        "endX": -2945,
-        "endZ": -3125
+        "startX": -2977,
+        "startZ": -3157,
+        "endX": -2893,
+        "endZ": -3112
       }
     },
     {
@@ -148,10 +148,10 @@
       "ignoreTerritory": false,
       "fastSwitch": true,
       "region": {
-        "startX": 2418,
-        "startZ": -4662,
-        "endX": 2460,
-        "endZ": -4677
+        "startX": 2410,
+        "startZ": -4701,
+        "endX": 2468,
+        "endZ": -4638
       }
     },
     {
