@@ -310,6 +310,18 @@
         "endZ": 8030
       }
     },
+     {
+      "id": "Seaskipper",
+      "trackName": "Beatskipper (Seaskipper)",
+      "ignoreTerritory": false,
+      "fastSwitch": true,
+      "region": {
+        "startX": 16327,
+        "startZ": 15725,
+        "endX": 16347,
+        "endZ": 15751
+      }
+    },
     {
       "id": "Lexdale",
       "trackName": "No Place to Hide (Lexdale)",
