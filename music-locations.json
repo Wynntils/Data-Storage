@@ -885,6 +885,30 @@
         "endX": 881.0,
         "endZ": -1166.0
       }
+    },
+    {
+      "id": "Ternaves",
+      "trackName": "Saddle Up (Ternaves)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": 760.0,
+        "startZ": -1683.0,
+        "endX": 875.0,
+        "endZ": -1532.0
+      }
+    },
+    {
+      "id": "Black Road",
+      "trackName": "Black Road Nostalgia (Black Road)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": 566.0,
+        "startZ": -1648.0,
+        "endX": 808.0,
+        "endZ": -1357.0
+      }
     }
   ]
 }
