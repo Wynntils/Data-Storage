@@ -508,6 +508,18 @@
       "ignoreTerritory": true,
       "fastSwitch": false,
       "region": {
+        "startX": -239.0,
+        "startZ": -338.0,
+        "endX": -156.0,
+        "endZ": -281.0
+      }
+    },
+    {
+      "id": "Ice Canyon",
+      "trackName": "Frozen Lands (Ice Canyon)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
         "startX": -458.0,
         "startZ": -539.0,
         "endX": -79.0,
