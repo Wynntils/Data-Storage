@@ -825,6 +825,30 @@
         "endX": -56.0,
         "endZ": -2161.0
       }
+    },
+    {
+      "id": "Maltic",
+      "trackName": "The Binding Alliance (Maltic)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": -612.0,
+        "startZ": -1966.0,
+        "endX": -454.0,
+        "endZ": -1873.0
+      }
+    },
+    {
+      "id": "Maltic Plains",
+      "trackName": "Warrior Adventure (Maltic Plains)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": -728.0,
+        "startZ": -1955.0,
+        "endX": -356.0,
+        "endZ": -1769.0
+      }
     }
   ]
 }
