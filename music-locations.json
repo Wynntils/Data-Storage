@@ -335,18 +335,6 @@
       }
     },
     {
-      "id": "Temple of Legends",
-      "trackName": "In The Little Wood (Little Wood)",
-      "ignoreTerritory": true,
-      "fastSwitch": false,
-      "region": {
-        "startX": -665,
-        "startZ": -1091,
-        "endX": -719,
-        "endZ": -989
-      }
-    },
-    {
       "id": "Relos",
       "trackName": "Waters of Prosperity (Relos)",
       "ignoreTerritory": true,
@@ -620,6 +608,78 @@
         "startZ": -1709.0,
         "endX": 1516.0,
         "endZ": -1162.0
+      }
+    },
+    {
+      "id": "Temple of Legends",
+      "trackName": "In The Little Wood (Little Wood)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": -665,
+        "startZ": -1091,
+        "endX": -719,
+        "endZ": -989
+      }
+    },
+    {
+      "id": "City of Troms",
+      "trackName": "Wynn's Shining Fortress (City of Troms)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": -932.0,
+        "startZ": -1057.0,
+        "endX": -738.0,
+        "endZ": -834.0
+      }
+    },
+    {
+      "id": "Dernel Jungle 1",
+      "trackName": "Uncivilization (Dernel Jungle)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": -1018.0,
+        "startZ": -543.0,
+        "endX": -487.0,
+        "endZ": -229.0
+      }
+    },
+    {
+      "id": "Dernel Jungle 2",
+      "trackName": "Uncivilization (Dernel Jungle)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": -1014.0,
+        "startZ": -835.0,
+        "endX": -808.0,
+        "endZ": -546.0
+      }
+    },
+    {
+      "id": "Iboju Village",
+      "trackName": "Harmonic Tradition (Iboju Village)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": -828.0,
+        "startZ": -722.0,
+        "endX": -704.0,
+        "endZ": -571.0
+      }
+    },
+    {
+      "id": "Jungle",
+      "trackName": "The Legend Begins (Jungle)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": -803.0,
+        "startZ": -832.0,
+        "endX": -502.0,
+        "endZ": -557.0
       }
     }
   ]
