@@ -587,6 +587,18 @@
       }
     },
     {
+      "id": "Ancient Nemract",
+      "trackName": "Yearning for the Days of Glory (Ancient Nemract)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": 90.0,
+        "startZ": -1993.0,
+        "endX": 338.0,
+        "endZ": -1851.0
+      }
+    },
+    {
       "id": "Rymek Mansion",
       "trackName": "Mission Wynnpossible (Rymek Mansion)",
       "ignoreTerritory": true,
