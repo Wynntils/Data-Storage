@@ -549,6 +549,42 @@
         "endX": 360.0,
         "endZ": -978.0
       }
+    },
+    {
+      "id": "Nemract",
+      "trackName": "Muddy Outlook (Nemract)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": 2.0,
+        "startZ": -2304.0,
+        "endX": 238.0,
+        "endZ": -2124.0
+      }
+    },
+    {
+      "id": "Saint's Row",
+      "trackName": "Defiled Sancitity (Saint's Row)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": 272.0,
+        "startZ": -2173.0,
+        "endX": 393.0,
+        "endZ": -2015.0
+      }
+    },
+    {
+      "id": "Nemract Swamp",
+      "trackName": "Unfamiliar Lands (Nemract Swamp)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": -49.0,
+        "startZ": -2322.0,
+        "endX": 433.0,
+        "endZ": -1996.0
+      }
     }
   ]
 }
