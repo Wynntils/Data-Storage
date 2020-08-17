@@ -873,6 +873,18 @@
         "endX": 392.0,
         "endZ": -1246.0
       }
+    },
+    {
+      "id": "Abandoned Mines",
+      "trackName": "Mining Rhythms (Abandoned Mines)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": 617.0,
+        "startZ": -1354.0,
+        "endX": 881.0,
+        "endZ": -1166.0
+      }
     }
   ]
 }
