@@ -777,6 +777,54 @@
         "endX": -678.0,
         "endZ": -1236.0
       }
+    },
+    {
+      "id": "Coast Trail 1",
+      "trackName": "Fresh Breeze of Salt (Coast Trail)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": -822.0,
+        "startZ": -2347.0,
+        "endX": -509.0,
+        "endZ": -1973.0
+      }
+    },
+    {
+      "id": "Coast Trail 2",
+      "trackName": "Fresh Breeze of Salt (Coast Trail)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": -507.0,
+        "startZ": -2269.0,
+        "endX": -353.0,
+        "endZ": -1987.0
+      }
+    },
+    {
+      "id": "Coast Trail 3",
+      "trackName": "Fresh Breeze of Salt (Coast Trail)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": -353.0,
+        "startZ": -2287.0,
+        "endX": -236.0,
+        "endZ": -2054.0
+      }
+    },
+    {
+      "id": "Coast Trail 4",
+      "trackName": "Fresh Breeze of Salt (Coast Trail)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": -236.0,
+        "startZ": -2320.0,
+        "endX": -56.0,
+        "endZ": -2161.0
+      }
     }
   ]
 }
