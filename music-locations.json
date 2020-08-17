@@ -585,6 +585,42 @@
         "endX": 433.0,
         "endZ": -1996.0
       }
+    },
+    {
+      "id": "Rymek Mansion",
+      "trackName": "Mission Wynnpossible (Rymek Mansion)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": 1161.0,
+        "startZ": -1311.0,
+        "endX": 1214.0,
+        "endZ": -1246.0
+      }
+    },
+    {
+      "id": "Rymek",
+      "trackName": "Shady Deals Abounding (Rymek)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": 1159.0,
+        "startZ": -1376.0,
+        "endX": 1382.0,
+        "endZ": -1185.0
+      }
+    },
+    {
+      "id": "Mesa",
+      "trackName": "Sun-Stained Stones (Mesa)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": 968.0,
+        "startZ": -1709.0,
+        "endX": 1516.0,
+        "endZ": -1162.0
+      }
     }
   ]
 }
