@@ -861,6 +861,18 @@
         "endX": -356.0,
         "endZ": -1769.0
       }
+    },
+    {
+      "id": "Roots of Corruption",
+      "trackName": "No Man's Land (Roots of Corruption)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": 73.0,
+        "startZ": -1427.0,
+        "endX": 392.0,
+        "endZ": -1246.0
+      }
     }
   ]
 }
