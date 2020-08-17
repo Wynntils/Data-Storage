@@ -693,6 +693,90 @@
         "endX": -502.0,
         "endZ": -557.0
       }
+    },
+    {
+      "id": "Ragni Outskirts",
+      "trackName": "Epic Wynn (Ragni Outskirts)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": -1663.0,
+        "startZ": -1771.0,
+        "endX": -985.0,
+        "endZ": -1360.0
+      }
+    },
+    {
+      "id": "Ragni",
+      "trackName": "Luxury of the Cease-Fire (Ragni)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": -979.0,
+        "startZ": -1767.0,
+        "endX": -741.0,
+        "endZ": -1413.0
+      }
+    },
+    {
+      "id": "Emerald Trail",
+      "trackName": "Adventure (Emerald Trail)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": -739.0,
+        "startZ": -1765.0,
+        "endX": -405.0,
+        "endZ": -1479.0
+      }
+    },
+    {
+      "id": "Ravine Village",
+      "trackName": "Sheltered Settlement (Ravine Village)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": -651.0,
+        "startZ": -1456.0,
+        "endX": -559.0,
+        "endZ": -1366.0
+      }
+    },
+    {
+      "id": "Pigman's Ravine 1",
+      "trackName": "Treacherous Walkways (Pigman's Ravines)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": -919.0,
+        "startZ": -1359.0,
+        "endX": -749.0,
+        "endZ": -1168.0
+      }
+    },
+    {
+      "id": "Pigman's Ravine 2",
+      "trackName": "Treacherous Walkways (Pigman's Ravines)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": -748.0,
+        "startZ": -1405.0,
+        "endX": -611.0,
+        "endZ": -1320.0
+      }
+    },
+    {
+      "id": "Pigman's Ravine 3",
+      "trackName": "Treacherous Walkways (Pigman's Ravines)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": -747.0,
+        "startZ": -1317.0,
+        "endX": -678.0,
+        "endZ": -1236.0
+      }
     }
   ]
 }
