@@ -975,6 +975,174 @@
         "endX": 808.0,
         "endZ": -1357.0
       }
+    },
+    {
+      "id": "Selchar",
+      "trackName": "Spirited Sailing Stories (Selchar)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": -35.0,
+        "startZ": -3277.0,
+        "endX": 220.0,
+        "endZ": -3035.0
+      }
+    },
+    {
+      "id": "Mage Island",
+      "trackName": "Antics of the Fantastical (Mage Island)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": 779.0,
+        "startZ": -2952.0,
+        "endX": 983.0,
+        "endZ": -2756.0
+      }
+    },
+    {
+      "id": "Icy Islands",
+      "trackName": "The Unforgiving Slopes (Ice Islands)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": 703.0,
+        "startZ": -3586.0,
+        "endX": 1193.0,
+        "endZ": -3211.0
+      }
+    },
+    {
+      "id": "Pirate Cove",
+      "trackName": "At the End of the Alley (Pirate Cove)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": -810.0,
+        "startZ": -3262.0,
+        "endX": -563.0,
+        "endZ": -2991.0
+      }
+    },
+    {
+      "id": "Half-Moon Island",
+      "trackName": "Affliction of Lunacy (Half Moon Island)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": 898.0,
+        "startZ": -2711.0,
+        "endX": 1143.0,
+        "endZ": -2456.0
+      }
+    },
+    {
+      "id": "Volcanic Isles",
+      "trackName": "Pioneered Triumph (Volcanic Islands)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": -1183.0,
+        "startZ": -3882.0,
+        "endX": -701.0,
+        "endZ": -3531.0
+      }
+    },
+    {
+      "id": "Skiens Island",
+      "trackName": "The Stronghold Yet Stands (Skien's Island)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": 256.0,
+        "startZ": -3648.0,
+        "endX": 557.0,
+        "endZ": -3368.0
+      }
+    },
+    {
+      "id": "Maro Peaks",
+      "trackName": "Forgotten Excelsior (Maro Peaks)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": -26.0,
+        "startZ": -4162.0,
+        "endX": 428.0,
+        "endZ": -3774.0
+      }
+    },
+    {
+      "id": "Craftmas Island",
+      "trackName": "Craftmas Carol (Craftmas Island)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": 1048.0,
+        "startZ": -3211.0,
+        "endX": 1238.0,
+        "endZ": -3066.0
+      }
+    },
+    {
+      "id": "Dead Island",
+      "trackName": "Antiquated Ancestry (Dead Island)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": 744.0,
+        "startZ": -4063.0,
+        "endX": 1008.0,
+        "endZ": -3810.0
+      }
+    },
+    {
+      "id": "Jofash Docks",
+      "trackName": "Shanty of the Somber Sailors (Jofash Docks)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": 1110.0,
+        "startZ": -4226.0,
+        "endX": 1490.0,
+        "endZ": -3985.0
+      }
+    },
+    {
+      "id": "Ocean 1",
+      "trackName": "High Tides (Ocean 1)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": -2073.0,
+        "startZ": -4136.0,
+        "endX": -853.0,
+        "endZ": -2644.0
+      }
+    },
+    {
+      "id": "Ocean 2",
+      "trackName": "Stormy Seas (Ocean 2)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": -789.0,
+        "startZ": -4170.0,
+        "endX": 629.0,
+        "endZ": -2431.0
+      }
+    },
+    {
+      "id": "Ocean 3",
+      "trackName": "Balada del Vagabundo Marino (Ocean 3)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": 649.0,
+        "startZ": -4156.0,
+        "endX": 1426.0,
+        "endZ": -2713.0
+      }
     }
   ]
 }
