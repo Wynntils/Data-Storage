@@ -581,6 +581,18 @@
       }
     },
     {
+      "id": "Great Bridge",
+      "trackName": "The Great Race (Great Bridge)",
+      "ignoreTerritory": true,
+      "fastSwitch": true,
+      "region": {
+        "startX": -502.0,
+        "startZ": -743.0,
+        "endX": -238.0,
+        "endZ": -647.0
+      }
+    },
+    {
       "id": "Lusuco",
       "trackName": "Frozen Waltz (Lusuco)",
       "ignoreTerritory": true,
