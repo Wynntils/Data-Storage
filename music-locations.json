@@ -977,6 +977,150 @@
       }
     },
     {
+      "id": "Detlas",
+      "trackName": "Triumphant Citadel (Detlas)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": 388.0,
+        "startZ": -1663.0,
+        "endX": 549.0,
+        "endZ": -1502.0
+      }
+    },
+    {
+      "id": "Detlas Suburbs",
+      "trackName": "Quiet Beginnings (Detlas Suburbs)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": 68.0,
+        "startZ": -1794.0,
+        "endX": 380.0,
+        "endZ": -1445.0
+      }
+    },
+    {
+      "id": "Almuj",
+      "trackName": "Jewel of the Desert (Almuj)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": 839.0,
+        "startZ": -2049.0,
+        "endX": 1056.0,
+        "endZ": -1872.0
+      }
+    },
+    {
+      "id": "Invaded Barracks",
+      "trackName": "Allegiances as Quicksand (Takan's Barracks)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": 1354.0,
+        "startZ": -2321.0,
+        "endX": 1503.0,
+        "endZ": -2222.0
+      }
+    },
+    {
+      "id": "Mummy's Tomb",
+      "trackName": "Accursed Dunes (Mummy's Tomb)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": 1021.0,
+        "startZ": -2381.0,
+        "endX": 1079.0,
+        "endZ": -2290.0
+      }
+    },
+    {
+      "id": "Desert",
+      "trackName": "Stirring the Sands (Desert)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": 908.0,
+        "startZ": -2324.0,
+        "endX": 1459.0,
+        "endZ": -1621.0
+      }
+    },
+    {
+      "id": "Bremminglar",
+      "trackName": "Sacred Hospitality (Bremminglar)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": 627.0,
+        "startZ": -2144.0,
+        "endX": 759.0,
+        "endZ": -2032.0
+      }
+    },
+    {
+      "id": "Savannah",
+      "trackName": "Ballad of the Trees (Savannah)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": 620.0,
+        "startZ": -2216.0,
+        "endX": 898.0,
+        "endZ": -1662.0
+      }
+    },
+    {
+      "id": "Nivla Wood",
+      "trackName": "Forest Dance (Nivla Woods)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": -406.0,
+        "startZ": -1818.0,
+        "endX": -56.0,
+        "endZ": -1361.0
+      }
+    },
+    {
+      "id": "Little Wood",
+      "trackName": "In The Little Wood (Little Wood)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": -778.0,
+        "startZ": -1257.0,
+        "endX": -604.0,
+        "endZ": -1071.0
+      }
+    },
+    {
+      "id": "Time Valley",
+      "trackName": "Remnants of the Past (Time Valley)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": -581.0,
+        "startZ": -1247.0,
+        "endX": -372.0,
+        "endZ": -1016.0
+      }
+    },
+    {
+      "id": "Elkurn",
+      "trackName": "Understated Pride (Elkurn)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": -47.0,
+        "startZ": -1266.0,
+        "endX": 45.0,
+        "endZ": -1086.0
+      }
+    },
+    {
       "id": "Selchar",
       "trackName": "Spirited Sailing Stories (Selchar)",
       "ignoreTerritory": true,
