@@ -497,6 +497,18 @@
       }
     },
     {
+      "id": "Portal to Dern",
+      "trackName": "End of the Road (Portal to Dern)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": 1232.0,
+        "startZ": -532.0,
+        "endX": 1407.0,
+        "endZ": -307.0
+      }
+    },
+    {
       "id": "Ahmsord",
       "trackName": "City in the Sky (Ahmsord)",
       "ignoreTerritory": true,
