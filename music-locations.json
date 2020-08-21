@@ -1421,6 +1421,138 @@
       }
     },
     {
+      "id": "Ozoth's Spire",
+      "trackName": "Clear Day Shadows from Above (Ozoth’s Spire)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": 110.0,
+        "startZ": -5189.0,
+        "endX": 259.0,
+        "endZ": -5104.0
+      }
+    },
+    {
+      "id": "Thanos",
+      "trackName": "The Hardiest of Souls (Thanos)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": 60.0,
+        "startZ": -5290.0,
+        "endX": 191.0,
+        "endZ": -5186.0
+      }
+    },
+    {
+      "id": "Bantisu Air Temple",
+      "trackName": "Anthem of the Air Mage (Bantisu Air Temple)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": 469.0,
+        "startZ": -4878.0,
+        "endX": 569.0,
+        "endZ": -4715.0
+      }
+    },
+    {
+      "id": "Thesead",
+      "trackName": "Hard Work Alone (Thesead)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": 737.0,
+        "startZ": -5102.0,
+        "endX": 878.0,
+        "endZ": -4970.0
+      }
+    },
+    {
+      "id": "Eltom 1",
+      "trackName": "Fine Work Together (Eltom)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": 838.0,
+        "startZ": -5612.0,
+        "endX": 914.0,
+        "endZ": -5544.0
+      }
+    },
+    {
+      "id": "Eltom 2",
+      "trackName": "Fine Work Together (Eltom)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": 880.0,
+        "startZ": -5553.0,
+        "endX": 967.0,
+        "endZ": -5496.0
+      }
+    },
+    {
+      "id": "Eltom 3",
+      "trackName": "Fine Work Together (Eltom)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": 916.0,
+        "startZ": -5548.0,
+        "endX": 1035.0,
+        "endZ": -5422.0
+      }
+    },
+    {
+      "id": "Eltom 4",
+      "trackName": "Fine Work Together (Eltom)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": 896.0,
+        "startZ": -5490.0,
+        "endX": 935.0,
+        "endZ": -5445.0
+      }
+    },
+    {
+      "id": "Rodoroc",
+      "trackName": "Pride, Progress, and Digging Holes (Rodoroc)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": 962.0,
+        "startZ": -5225.0,
+        "endX": 1177.0,
+        "endZ": -5064.0
+      }
+    },
+    {
+      "id": "Maex",
+      "trackName": "Hideaway of the Stalwart (Maex)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": 1410.0,
+        "startZ": -5307.0,
+        "endX": 1531.0,
+        "endZ": -5246.0
+      }
+    },
+    {
+      "id": "Sakura Dojo",
+      "trackName": "Call of the Orient (Sakura Dojo)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": 435.0,
+        "startZ": -5606.0,
+        "endX": 687.0,
+        "endZ": -5475.0
+      }
+    },
+    {
       "id": "Gavel Gate",
       "trackName": "Epic Gavel (Gavel Gate)",
       "ignoreTerritory": true,
@@ -1574,6 +1706,66 @@
         "startZ": -7137.0,
         "endX": 28.0,
         "endZ": -6317.0
+      }
+    },
+    {
+      "id": "Upper Molten Heights",
+      "trackName": "Peaks of Ash and Flame (Upper Molten Heights)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": 1205.0,
+        "startZ": -5637.0,
+        "endX": 1567.0,
+        "endZ": -5353.0
+      }
+    },
+    {
+      "id": "Lower Molten Heights",
+      "trackName": "Blazing Mountain (Lower Molten Heights)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": 966.0,
+        "startZ": -5377.0,
+        "endX": 1617.0,
+        "endZ": -5007.0
+      }
+    },
+    {
+      "id": "Canyon of the Lost 1",
+      "trackName": "Aimless Paths (Canyon of the Lost)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": 194.0,
+        "startZ": -5623.0,
+        "endX": 687.0,
+        "endZ": -4300.0
+      }
+    },
+    {
+      "id": "Canyon of the Lost 2",
+      "trackName": "Aimless Paths (Canyon of the Lost)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": 690.0,
+        "startZ": -5654.0,
+        "endX": 955.0,
+        "endZ": -5034.0
+      }
+    },
+    {
+      "id": "Canyon of the Lost 3",
+      "trackName": "Aimless Paths (Canyon of the Lost)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": 957.0,
+        "startZ": -5652.0,
+        "endX": 1108.0,
+        "endZ": -5386.0
       }
     }
   ]
