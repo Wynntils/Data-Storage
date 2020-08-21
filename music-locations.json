@@ -1563,6 +1563,18 @@
         "endX": -972,
         "endZ": -5616
       }
+    },
+    {
+      "id": "Realm of Light",
+      "trackName": "Light's Hymn (Realm of Light)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": -1431.0,
+        "startZ": -7137.0,
+        "endX": 28.0,
+        "endZ": -6317.0
+      }
     }
   ]
 }
