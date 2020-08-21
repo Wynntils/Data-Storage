@@ -569,6 +569,18 @@
       }
     },
     {
+      "id": "House of Twain",
+      "trackName": "Forlorn Halls (House of Twain)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": 88.0,
+        "startZ": -398.0,
+        "endX": 142.0,
+        "endZ": -319.0
+      }
+    },
+    {
       "id": "Lusuco",
       "trackName": "Frozen Waltz (Lusuco)",
       "ignoreTerritory": true,
