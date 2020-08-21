@@ -461,6 +461,18 @@
       }
     },
     {
+      "id": "Lutho",
+      "trackName": "Freedom in Darkness (Lutho)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": 925.0,
+        "startZ": -760.0,
+        "endX": 1048.0,
+        "endZ": -650.0
+      }
+    },
+    {
       "id": "Toxic Wastes",
       "trackName": "Its Melting Point (Toxic Wastes)",
       "ignoreTerritory": true,
