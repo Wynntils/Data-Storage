@@ -377,30 +377,6 @@
       }
     },
     {
-      "id": "Lexdale",
-      "trackName": "No Place to Hide (Lexdale)",
-      "ignoreTerritory": true,
-      "fastSwitch": false,
-      "region": {
-        "startX": -650,
-        "startZ": -5511,
-        "endX": -562,
-        "endZ": -5406
-      }
-    },
-    {
-      "id": "Kander Forest",
-      "trackName": "The Outlook is Bleak (Kander Woods)",
-      "ignoreTerritory": true,
-      "fastSwitch": false,
-      "region": {
-        "startX": -400,
-        "startZ": -5158,
-        "endX": -972,
-        "endZ": -5616
-      }
-    },
-    {
       "id": "Relos",
       "trackName": "Waters of Prosperity (Relos)",
       "ignoreTerritory": true,
@@ -1310,6 +1286,282 @@
         "startZ": -4156.0,
         "endX": 1426.0,
         "endZ": -2713.0
+      }
+    },
+    {
+      "id": "Lexdale",
+      "trackName": "No Place to Hide (Lexdale)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": -650,
+        "startZ": -5511,
+        "endX": -562,
+        "endZ": -5406
+      }
+    },
+    {
+      "id": "Llevigar",
+      "trackName": "Monument of a New Land (Llevigar)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": -2182.0,
+        "startZ": -4658.0,
+        "endX": -1818.0,
+        "endZ": -4407.0
+      }
+    },
+    {
+      "id": "Karoc Quarry",
+      "trackName": "Ten Minutes 'til Breaktime (Karoc Quarry)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": -1775.0,
+        "startZ": -4559.0,
+        "endX": -1471.0,
+        "endZ": -4346.0
+      }
+    },
+    {
+      "id": "Bucie",
+      "trackName": "Humble Beginnings (Bucie)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": -1669.0,
+        "startZ": -5013.0,
+        "endX": -1558.0,
+        "endZ": -4930.0
+      }
+    },
+    {
+      "id": "Olux",
+      "trackName": "Gray Skies Dark Days (Olux)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": -1875.0,
+        "startZ": -5592.0,
+        "endX": -1600.0,
+        "endZ": -5394.0
+      }
+    },
+    {
+      "id": "Gelibord",
+      "trackName": "Lament of the Decay (Gelibord)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": -1066.0,
+        "startZ": -5345.0,
+        "endX": -963.0,
+        "endZ": -5233.0
+      }
+    },
+    {
+      "id": "Efilim",
+      "trackName": "Camaraderie (Efilim)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": -1122.0,
+        "startZ": -5050.0,
+        "endX": -1003.0,
+        "endZ": -4964.0
+      }
+    },
+    {
+      "id": "Cinfras",
+      "trackName": "Shining Citadel of the Allies (Cinfras)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": -511.0,
+        "startZ": -5050.0,
+        "endX": -320.0,
+        "endZ": -4833.0
+      }
+    },
+    {
+      "id": "Letvus Airbase",
+      "trackName": "To The Sky! (Letvus Airbase)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": -317.0,
+        "startZ": -5011.0,
+        "endX": -152.0,
+        "endZ": -4867.0
+      }
+    },
+    {
+      "id": "Aldorei Valley 1",
+      "trackName": "Horizon of the East (Aldorei Valley)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": -601.0,
+        "startZ": -4613.0,
+        "endX": -412.0,
+        "endZ": -4355.0
+      }
+    },
+    {
+      "id": "Aldorei Valley 2",
+      "trackName": "Horizon of the East (Aldorei Valley)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": -393.0,
+        "startZ": -4528.0,
+        "endX": -50.0,
+        "endZ": -4318.0
+      }
+    },
+    {
+      "id": "Gavel Gate",
+      "trackName": "Epic Gavel (Gavel Gate)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": -2183.0,
+        "startZ": -4406.0,
+        "endX": -1843.0,
+        "endZ": -4223.0
+      }
+    },
+    {
+      "id": "Llevigar Plains",
+      "trackName": "Gavel Journey (Llevigar Plains)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": -2199.0,
+        "startZ": -5001.0,
+        "endX": -1474.0,
+        "endZ": -4563.0
+      }
+    },
+    {
+      "id": "Olux Swamp",
+      "trackName": "Trodden-Down Paths (Olux Swamp)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": -2310.0,
+        "startZ": -5627.0,
+        "endX": -1478.0,
+        "endZ": -5058.0
+      }
+    },
+    {
+      "id": "Pre-Light Forest",
+      "trackName": "Fringe of Fantasy (Pre-Light Forest)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": -1434.0,
+        "startZ": -5021.0,
+        "endX": -1187.0,
+        "endZ": -4339.0
+      }
+    },
+    {
+      "id": "Light Forest 1",
+      "trackName": "The Forest Lives On (Light Forest)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": -1194.0,
+        "startZ": -5111.0,
+        "endX": -866.0,
+        "endZ": -4345.0
+      }
+    },
+    {
+      "id": "Light Forest 2",
+      "trackName": "The Forest Lives On (Light Forest)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": -864.0,
+        "startZ": -4828.0,
+        "endX": -553.0,
+        "endZ": -4410.0
+      }
+    },
+    {
+      "id": "Dark Forest",
+      "trackName": "The Forest Dies (Dark Forest)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": -1442.0,
+        "startZ": -5609.0,
+        "endX": -960.0,
+        "endZ": -5080.0
+      }
+    },
+    {
+      "id": "Cinfras County 1",
+      "trackName": "Gylia Shanty (Cinfras County)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": -399.0,
+        "startZ": -5590.0,
+        "endX": 52.0,
+        "endZ": -5056.0
+      }
+    },
+    {
+      "id": "Cinfras County 2",
+      "trackName": "Gylia Shanty (Cinfras County)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": -672.0,
+        "startZ": -5147.0,
+        "endX": -523.0,
+        "endZ": -4837.0
+      }
+    },
+    {
+      "id": "Cinfras County 3",
+      "trackName": "Gylia Shanty (Cinfras County)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": -536.0,
+        "startZ": -4815.0,
+        "endX": -1.0,
+        "endZ": -4670.0
+      }
+    },
+    {
+      "id": "Cinfras County 4",
+      "trackName": "Gylia Shanty (Cinfras County)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": -135.0,
+        "startZ": -5048.0,
+        "endX": 22.0,
+        "endZ": -4821.0
+      }
+    },
+    {
+      "id": "Kander Forest",
+      "trackName": "The Outlook is Bleak (Kander Woods)",
+      "ignoreTerritory": true,
+      "fastSwitch": false,
+      "region": {
+        "startX": -400,
+        "startZ": -5158,
+        "endX": -972,
+        "endZ": -5616
       }
     }
   ]
