@@ -35,6 +35,13 @@
     "Pharaoh Nabak": "Fearsome Foe (Boss Battle 2)",
     "The Mummy": "Energetic Encounter (Boss Battle 5)",
     "The Cockatrice": "Fearsome Foe (Boss Battle 2)",
+    "Snow Bear": "Infinite Ascension (Tower of Ascension 2)",
+    "Argaddon": "Infinite Ascension (Tower of Ascension 2)",
+    "Witch-Doctor": "Infinite Ascension (Tower of Ascension 2)",
+    "Guardian": "Infinite Ascension (Tower of Ascension 2)",
+    "Chained Beast": "Infinite Ascension (Tower of Ascension 2)",
+    "Alkevö": "Infinite Ascension (Tower of Ascension 2)",
+    "Death": "Infinite Ascension (Tower of Ascension 2)",
     "Captain": "Fearsome Foe (Boss Battle 2)",
     "Phantom Twain": "Fearsome Foe (Boss Battle 2)",
     "Dead Pirate Guard": "Fearsome Foe (Boss Battle 2)",
@@ -317,6 +324,83 @@
         "startZ": 1808,
         "endX": 4961,
         "endZ": 1868
+      }
+    },
+    {
+      "id": "Tower of Ascention Floor 1",
+      "trackName": "Endless Climb (Tower of Ascension 1)",
+      "fastSwitch": false,
+      "region": {
+        "startX": -282.0,
+        "startZ": 777.0,
+        "endX": -204.0,
+        "endZ": 1538.0
+      }
+    },
+    {
+      "id": "Tower of Ascention Floor 2",
+      "trackName": "Endless Climb (Tower of Ascension 1)",
+      "fastSwitch": false,
+      "region": {
+        "startX": -354.0,
+        "startZ": 777.0,
+        "endX": -297.0,
+        "endZ": 1540.0
+      }
+    },
+    {
+      "id": "Tower of Ascention Floor 3",
+      "trackName": "Endless Climb (Tower of Ascension 1)",
+      "fastSwitch": false,
+      "region": {
+        "startX": -442.0,
+        "startZ": 778.0,
+        "endX": -368.0,
+        "endZ": 1540.0
+      }
+    },
+    {
+      "id": "Tower of Ascention Floor 4",
+      "trackName": "Endless Climb (Tower of Ascension 1)",
+      "fastSwitch": false,
+      "region": {
+        "startX": -517.0,
+        "startZ": 779.0,
+        "endX": -451.0,
+        "endZ": 1541.0
+      }
+    },
+    {
+      "id": "Tower of Ascention Floor 5",
+      "trackName": "Endless Climb (Tower of Ascension 1)",
+      "fastSwitch": false,
+      "region": {
+        "startX": -601.0,
+        "startZ": 780.0,
+        "endX": -536.0,
+        "endZ": 1542.0
+      }
+    },
+    {
+      "id": "Tower of Ascention Floor 6",
+      "trackName": "Endless Climb (Tower of Ascension 1)",
+      "fastSwitch": false,
+      "region": {
+        "startX": -691.0,
+        "startZ": 781.0,
+        "endX": -621.0,
+        "endZ": 1544.0
+      }
+    },
+    {
+      "id": "Tower of Ascention Floor 7",
+      "trackName": "Endless Climb (Tower of Ascension 1)",
+      "fastSwitch": false,
+      "region": {
+        "startX": 298.0,
+        "startZ": 988.0,
+        "endX": 1434.0,
+        "endZ": 1296.0
       }
     },
     {
