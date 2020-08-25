@@ -19,7 +19,8 @@
     "Corrupted Undergrowth Ruins" : "Insanity (Corrupted Dungeon)"
   },
   "entries": {
-    "wars": "Begin the Siege! (Guild Wars)"
+    "wars": "Begin the Siege! (Guild Wars)",
+    "characterSelector": "What Must Be Done (The Sacrifice)"
   },
   "bosses": {
     "Well Witch": "Fearsome Foe (Boss Battle 2)",
