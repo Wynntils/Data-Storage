@@ -20,7 +20,8 @@
   },
   "entries": {
     "wars": "Begin the Siege! (Guild Wars)",
-    "characterSelector": "What Must Be Done (The Sacrifice)"
+    "characterSelector": "What Must Be Done (The Sacrifice)",
+    "regionCompleted": "Triumphant Adventure (Region Completed)"
   },
   "bosses": {
     "Well Witch": "Fearsome Foe (Boss Battle 2)",
