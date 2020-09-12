@@ -433,9 +433,9 @@
       "fastSwitch": false,
       "region": {
         "startX": 1045.0,
-        "startZ": -7836.0,
-        "endX": 1079.0,
-        "endZ": -7274.0
+        "startZ": -7835.0,
+        "endX": 1080.0,
+        "endZ": -7223.0
       }
     },
     {
@@ -443,10 +443,10 @@
       "trackName": "Elemental Chaos (Hive Floors)",
       "fastSwitch": false,
       "region": {
-        "startX": 975.0,
-        "startZ": -7833.0,
-        "endX": 1007.0,
-        "endZ": -7272.0
+        "startX": 976.0,
+        "startZ": -7832.0,
+        "endX": 1009.0,
+        "endZ": -7222.0
       }
     },
     {
@@ -456,8 +456,8 @@
       "region": {
         "startX": 1116.0,
         "startZ": -7835.0,
-        "endX": 1150.0,
-        "endZ": -7271.0
+        "endX": 1151.0,
+        "endZ": -7222.0
       }
     },
     {
@@ -467,11 +467,11 @@
       "region": {
         "startX": 1186.0,
         "startZ": -7834.0,
-        "endX": 1222.0,
-        "endZ": -7269.0
+        "endX": 1223.0,
+        "endZ": -7221.0
       }
     },
-    {
+   {
       "id": "Hive Fire Floor",
       "trackName": "Elemental Chaos (Hive Floors)",
       "fastSwitch": false,
@@ -479,7 +479,7 @@
         "startX": 1255.0,
         "startZ": -7834.0,
         "endX": 1289.0,
-        "endZ": -7268.0
+        "endZ": -7220.0
       }
     },
     {
