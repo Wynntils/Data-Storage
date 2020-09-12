@@ -1539,6 +1539,17 @@
       }
     },
     {
+      "id": "Qira's Hive",
+      "trackName": "The Dark Artist's Anthem (Qira's Hive)",
+      "fastSwitch": false,
+      "region": {
+        "startX": 247.0,
+        "startZ": -5670.0,
+        "endX": 429.0,
+        "endZ": -5387.0
+      }
+    },
+    {
       "id": "Gavel Gate",
       "trackName": "Epic Gavel (Gavel Gate)",
       "fastSwitch": false,
