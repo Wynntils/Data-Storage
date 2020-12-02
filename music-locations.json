@@ -471,7 +471,7 @@
         "endZ": -7221.0
       }
     },
-   {
+    {
       "id": "Hive Fire Floor",
       "trackName": "Elemental Chaos (Hive Floors)",
       "fastSwitch": false,
@@ -480,6 +480,17 @@
         "startZ": -7834.0,
         "endX": 1289.0,
         "endZ": -7220.0
+      }
+    },
+    {
+      "id": "Death's Realm",
+      "trackName": "Funeral Service at 10 O'Clock (Death's Realm)",
+      "fastSwitch": false,
+      "region": {
+        "startX": 11.0,
+        "startZ": -8265.0,
+        "endX": 971.0,
+        "endZ": -7305.0
       }
     },
     {
