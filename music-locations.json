@@ -21,7 +21,8 @@
   "entries": {
     "wars": "Begin the Siege! (Guild Wars)",
     "characterSelector": "Shining Citadel of the Allies (Cinfras)",
-    "regionCompleted": "Triumphant Adventure (Region Completed)"
+    "regionCompleted": "Triumphant Adventure (Region Completed)",
+    "mythicFound": "Infinite Pleasure (Mythic Found)"
   },
   "bosses": {
     "Well Witch": "Fearsome Foe (Boss Battle 2)",
