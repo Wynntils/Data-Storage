@@ -29,6 +29,7 @@
     "easterEgg1": "Never Gonna Give You Up (Easter Egg 1)"
   },
   "bosses": {
+    "Witherhead": "Fierce Foe (Boss Battle 1)",
     "Well Witch": "Fearsome Foe (Boss Battle 2)",
     "Sayleros' Brother": "Fearsome Foe (Boss Battle 2)",
     "Sayleros' Brother's Skeleton": "Fearsome Foe (Boss Battle 2)",
@@ -222,17 +223,6 @@
         "startZ": -4701,
         "endX": 2468,
         "endZ": -4638
-      }
-    },
-    {
-      "id": "Decrepit Sewers Boss",
-      "trackName": "Fierce Foe (Boss Battle 1)",
-      "fastSwitch": true,
-      "region": {
-        "startX": -12545,
-        "startZ": -11256,
-        "endX": -12485,
-        "endZ": -11182
       }
     },
     {
