@@ -709,6 +709,12 @@
       "name": "The Eldritch Outlook",
       "layer": 3,
       "level": "100+"
+    },
+    {
+      "x": -300,
+      "z": -1148,
+      "name": "Tempo Town",
+      "layer": 3
     }
   ]
 }

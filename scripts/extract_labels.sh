@@ -8,6 +8,9 @@
 MYDIR=$(cd $(dirname "$0") && pwd)
 TARGET="$MYDIR/../map-labels.json"
 
+# This file contain additional labels that are not provided by upstread.
+MISSING="$MYDIR/../map-labels-missing.json"
+
 command -v curl > /dev/null 2>&1
 if test $? -ne 0; then
   echo curl is required
@@ -75,6 +78,9 @@ case 14:
   }
   print "{ " jsonval("x") ", " jsonval("z") ", " jsonvalquote("name") ", " jsonval("layer") " }"
 }
-' | jq -s '{labels: .}' > "$TARGET"
+' > "$TARGET.tmp"
+
+cat "$TARGET.tmp" "$MISSING" | jq -s '{labels: .}' > "$TARGET"
+rm "$TARGET.tmp"
 
 echo Finished updating "$TARGET"
