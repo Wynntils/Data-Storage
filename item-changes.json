@@ -413,8 +413,8 @@
                 "isFixed": false,
                 "baseValue": 560
             },
-            "spellCost1stRaw": {
-                "type": "PERCENTAGE",
+            "raw1stSpellCost": {
+                "type": "INTEGER",
                 "isFixed": false,
                 "baseValue": -1
             },
