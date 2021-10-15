@@ -1,187 +1,429 @@
 {
   "changes": {
     "Hadal": {
-      "damageTypes": {
-        "water": "1750-2150"
-      },
-      "requirements": {
-        "intelligence": 130
-      }
+        "damageTypes": {
+            "water": "1750-2150"
+        },
+        "requirements": {
+            "intelligence": 130
+        }
     },
     "Alkatraz": {
-      "requirements": {
-        "strength": 110
-      },
-      "statuses": {
-        "rawStrength": 40,
-        "rawDexterity": -10,
-        "rawIntelligence": -10,
-        "rawAgility": -10,
-        "rawDefence": -10,
-        "mainAttackDamage": 40,
-        "exploding": 40,
-        "earthDamage": 40
-      }
+        "requirements": {
+            "strength": 110
+        },
+        "statuses": {
+            "rawStrength": {
+                "type": "INTEGER",
+                "isFixed": true,
+                "baseValue": 40
+            },
+            "rawDexterity": {
+                "type": "INTEGER",
+                "isFixed": true,
+                "baseValue": -10
+            },
+            "rawIntelligence": {
+                "type": "INTEGER",
+                "isFixed": true,
+                "baseValue": -10
+            },
+            "rawAgility": {
+                "type": "INTEGER",
+                "isFixed": true,
+                "baseValue": -10
+            },
+            "rawDefence": {
+                "type": "INTEGER",
+                "isFixed": false,
+                "baseValue": -10
+            },
+            "mainAttackDamage": {
+                "type": "PERCENTAGE",
+                "isFixed": false,
+                "baseValue": 40
+            },
+            "exploding": {
+                "type": "PERCENTAGE",
+                "isFixed": false,
+                "baseValue": 40
+            },
+            "earthDamage": {
+                "type": "PERCENTAGE",
+                "isFixed": false,
+                "baseValue": 40
+            }
+        }
     },
     "Idol": {
-      "statuses": {
-        "rawNeutralSpellDamage": 264
-      }
+        "statuses": {
+            "rawNeutralSpellDamage": {
+                "type": "INTEGER",
+                "isFixed": false,
+                "baseValue": 264
+            }
+        }
     },
     "Pure": {
-      "statuses": {
-        "spellDamage": 400
-      }
+        "statuses": {
+            "spellDamage": {
+                "type": "PERCENTAGE",
+                "isFixed": false,
+                "baseValue": 400
+            }
+        }
     },
     "Gaia": {
-      "statuses": {
-        "spellDamage": 0,
-        "rawNeutralSpellDamage": -275,
-        "rawMainAttackNeutralDamage": 575
-      }
+        "statuses": {
+            "spellDamage": {
+                "type": "PERCENTAGE",
+                "isFixed": false,
+                "baseValue": 0
+            },
+            "rawNeutralSpellDamage": {
+                "type": "INTEGER",
+                "isFixed": false,
+                "baseValue": -275
+            },
+            "rawMainAttackNeutralDamage": {
+                "type": "INTEGER",
+                "isFixed": false,
+                "baseValue": 575
+            }
+        }
     },
     "Slayer": {
-      "statuses": {
-        "rawDexterity": 20,
-        "3rdSpellCost": -44
-      }
+        "statuses": {
+            "rawDexterity": {
+                "type": "INTEGER",
+                "isFixed": true,
+                "baseValue": 20
+            },
+            "3rdSpellCost": {
+                "type": "PERCENTAGE",
+                "isFixed": false,
+                "baseValue": -44
+            }
+        }
     },
     "Cataclysm": {
-      "damageTypes": {
-        "neutral": "40-140",
-        "thunder": "45-305"
-      }
+        "damageTypes": {
+            "neutral": "40-140",
+            "thunder": "45-305"
+        }
     },
     "Divzer": {
-      "damageTypes": {
-        "neutral": "48-50",
-        "thunder": "250-250"
-      }
+        "damageTypes": {
+            "neutral": "48-50",
+            "thunder": "250-250"
+        }
     },
     "Resurgence": {
-      "statuses": {
-        "spellDamage": -35,
-        "mainAttackDamage": -45,
-        "rawHealthRegen": 390
-      }
+        "statuses": {
+            "spellDamage": {
+                "type": "PERCENTAGE",
+                "isFixed": false,
+                "baseValue": -35
+            },
+            "mainAttackDamage": {
+                "type": "PERCENTAGE",
+                "isFixed": false,
+                "baseValue": -45
+            },
+            "rawHealthRegen": {
+                "type": "INTEGER",
+                "isFixed": false,
+                "baseValue": 390
+            }
+        }
     },
     "Guardian": {
-      "statuses": {
-        "rawHealthRegen": 585
-      }
+        "statuses": {
+            "rawHealthRegen": {
+                "type": "INTEGER",
+                "isFixed": false,
+                "baseValue": 585
+            }
+        }
     },
     "Warp": {
-      "damageTypes": {
-        "air": "190-220"
-      }
+        "damageTypes": {
+            "air": "190-220"
+        }
     },
     "Grandmother": {
-      "statuses": {
-        "rawAgility": 55,
-        "healthRegen": -35,
-        "rawHealthRegen": -605
-      }
+        "statuses": {
+            "rawAgility": {
+                "type": "INTEGER",
+                "isFixed": true,
+                "baseValue": 55
+            },
+            "healthRegen": {
+                "type": "PERCENTAGE",
+                "isFixed": false,
+                "baseValue": -35
+            },
+            "rawHealthRegen": {
+                "type": "INTEGER",
+                "isFixed": false,
+                "baseValue": -605
+            }
+        }
     },
     "Ignis": {
-      "statuses": {
-        "healthRegen": 40,
-        "rawHealthRegen": 345
-      }
+        "statuses": {
+            "healthRegen": {
+                "type": "PERCENTAGE",
+                "isFixed": false,
+                "baseValue": 40
+            },
+            "rawHealthRegen": {
+                "type": "INTEGER",
+                "isFixed": false,
+                "baseValue": 345
+            }
+        }
     },
     "Moontower": {
-      "defenseTypes": {
-        "health": 4150,
-        "thunder": 225
-      },
-      "requirements": {
-        "intelligence": 70,
-        "agility": 80
-      },
-      "statuses": {
-        "rawStrength": -10,
-        "rawDexterity": -10,
-        "rawIntelligence": 35,
-        "rawDefence": -40
-      }
+        "defenseTypes": {
+            "health": 4150,
+            "thunder": 225
+        },
+        "requirements": {
+            "intelligence": 70,
+            "agility": 80
+        },
+        "statuses": {
+            "rawStrength": {
+                "type": "INTEGER",
+                "isFixed": true,
+                "baseValue": -10
+            },
+            "rawDexterity": {
+                "type": "INTEGER",
+                "isFixed": true,
+                "baseValue": -10
+            },
+            "rawIntelligence": {
+                "type": "INTEGER",
+                "isFixed": true,
+                "baseValue": 35
+            },
+            "rawDefence": {
+                "type": "INTEGER",
+                "isFixed": false,
+                "baseValue": -40
+            }
+        }
     },
     "Stratiformis": {
-      "damageTypes": {
-        "neutral": "95-175",
-        "air": "170-300"
-      }
+        "damageTypes": {
+            "neutral": "95-175",
+            "air": "170-300"
+        }
     },
     "Galleon": {
-      "defenseTypes": {
-        "air": -175,
-        "thunder": 0
-      },
-      "statuses": {
-        "mainAttackDamage": 45,
-        "poison": 4231,
-        "waterDamage": 36,
-        "earthDamage": 36,
-        "stealing": 15
-      }
+        "defenseTypes": {
+            "air": -175,
+            "thunder": 0
+        },
+        "statuses": {
+            "mainAttackDamage": {
+                "type": "PERCENTAGE",
+                "isFixed": false,
+                "baseValue": 45
+            },
+            "poison": {
+                "type": "THREE_SECONDS",
+                "isFixed": false,
+                "baseValue": 4231
+            },
+            "waterDamage": {
+                "type": "PERCENTAGE",
+                "isFixed": false,
+                "baseValue": 36
+            },
+            "earthDamage": {
+                "type": "PERCENTAGE",
+                "isFixed": false,
+                "baseValue": 36
+            },
+            "stealing": {
+                "type": "PERCENTAGE",
+                "isFixed": false,
+                "baseValue": 15
+            }
+        }
     },
     "Sprinter": {
-      "statuses": {
-        "sprint": 7
-      }
+        "statuses": {
+            "sprint": {
+                "type": "PERCENTAGE",
+                "isFixed": false,
+                "baseValue": 7
+            }
+        }
     },
     "Sprint Belt": {
-      "statuses": {
-        "sprint": 18,
-        "sprintRegen": 18
-      }
+        "statuses": {
+            "sprint": {
+                "type": "PERCENTAGE",
+                "isFixed": false,
+                "baseValue": 18
+            },
+            "sprintRegen": {
+                "type": "PERCENTAGE",
+                "isFixed": false,
+                "baseValue": 18
+            }
+        }
     },
     "Rhythm of the Seasons": {
-      "damageTypes": {
-        "neutral": "40-50",
-        "earth": "100-140"
-      },
-      "requirements": {
-        "strength": 80,
-        "intelligence": 0,
-        "defense": 60
-      },
-      "statuses": {
-        "rawHealthRegen": -660
-      }
+        "damageTypes": {
+            "neutral": "40-50",
+            "earth": "100-140"
+        },
+        "requirements": {
+            "strength": 80,
+            "intelligence": 0,
+            "defense": 60
+        },
+        "statuses": {
+            "rawHealthRegen": {
+                "type": "INTEGER",
+                "isFixed": false,
+                "baseValue": -660
+            }
+        }
     },
     "Abrasion": {
-      "requirements": {
-        "agility": 0
-      }
+        "requirements": {
+            "agility": 0
+        }
     },
     "Luto Aquarum": {
-      "damageTypes": {
-        "water": "5-5"
-      },
-      "requirements": {
-        "strength": 50
-      },
-      "statuses": {
-        "lifeSteal": 269,
-        "manaSteal": 3,
-        "rawHealth": 3000,
-        "rawMainAttackNeutralDamage": 169,
-        "fireDefence": 0,
-        "earthDefence": 20,
-        "3rdSpellCost": -31
-      }
+        "damageTypes": {
+            "water": "5-5"
+        },
+        "requirements": {
+            "strength": 50
+        },
+        "statuses": {
+            "lifeSteal": {
+                "type": "FOUR_SECONDS",
+                "isFixed": false,
+                "baseValue": 269
+            },
+            "manaSteal": {
+                "type": "FOUR_SECONDS",
+                "isFixed": false,
+                "baseValue": 3
+            },
+            "rawHealth": {
+                "type": "INTEGER",
+                "isFixed": false,
+                "baseValue": 3000
+            },
+            "rawMainAttackNeutralDamage": {
+                "type": "INTEGER",
+                "isFixed": false,
+                "baseValue": 169
+            },
+            "fireDefence": {
+                "type": "PERCENTAGE",
+                "isFixed": false,
+                "baseValue": 0
+            },
+            "earthDefence": {
+                "type": "PERCENTAGE",
+                "isFixed": false,
+                "baseValue": 20
+            },
+            "3rdSpellCost": {
+                "type": "PERCENTAGE",
+                "isFixed": false,
+                "baseValue": -31
+            }
+        }
     },
     "Flameshot Hilt": {
-      "damageTypes": {
-        "fire": "1100-1300"
-      },
-      "statuses": {
-        "rawDefence": 20,
-        "mainAttackDamage": 15,
-        "fireDamage": 25,
-        "fireDefence": 35,
-        "waterDefence": 0,
-        "raw3rdSpellCost": -3
-      }
+        "damageTypes": {
+            "fire": "1100-1300"
+        },
+        "statuses": {
+            "rawDefence": {
+                "type": "INTEGER",
+                "isFixed": false,
+                "baseValue": 20
+            },
+            "mainAttackDamage": {
+                "type": "PERCENTAGE",
+                "isFixed": false,
+                "baseValue": 15
+            },
+            "fireDamage": {
+                "type": "PERCENTAGE",
+                "isFixed": false,
+                "baseValue": 25
+            },
+            "fireDefence": {
+                "type": "PERCENTAGE",
+                "isFixed": false,
+                "baseValue": 35
+            },
+            "waterDefence": {
+                "type": "PERCENTAGE",
+                "isFixed": false,
+                "baseValue": 0
+            },
+            "raw3rdSpellCost": {
+                "type": "INTEGER",
+                "isFixed": false,
+                "baseValue": -3
+            }
+        }
+    },
+    "Inferno": {
+        "damageTypes": {
+            "fire": "855-1045"
+        },
+        "statuses": {
+            "rawDefence": {
+                "type": "INTEGER",
+                "isFixed": false,
+                "baseValue": 15
+            },
+            "healthRegen": {
+                "type": "PERCENTAGE",
+                "isFixed": false,
+                "baseValue": -45
+            },
+            "walkSpeed": {
+                "type": "PERCENTAGE",
+                "isFixed": false,
+                "baseValue": 25
+            },
+            "rawHealth": {
+                "type": "INTEGER",
+                "isFixed": false,
+                "baseValue": 1500
+            },
+            "rawMainAttackNeutralDamage": {
+                "type": "INTEGER",
+                "isFixed": false,
+                "baseValue": 560
+            },
+            "spellCost1stRaw": {
+                "type": "PERCENTAGE",
+                "isFixed": false,
+                "baseValue": -1
+            },
+            "fireDamage": {
+                "type": "PERCENTAGE",
+                "isFixed": false,
+                "baseValue": 35
+            }
+        }
     }
   },
   "items": [
