@@ -40,8 +40,8 @@ elif [[ $COMMAND == "update-raw-map" ]]; then
     echo "Failed to create temporary directory"
     exit 1
   fi
-  mkdir -p $TMPDIR
-  cp -a $WYNNDATA_DIR/journeymap-data/* $TMPDIR
+  mkdir -p $TMPDIR/DIM0/day
+  cp -a $WYNNDATA_DIR/journeymap-data/DIM0/day/[0-5],-[1-9].png $WYNNDATA_DIR/journeymap-data/DIM0/day/-[1-5],-[1-9].png $WYNNDATA_DIR/journeymap-data/DIM0/day/0,0.png $TMPDIR/DIM0/day/
   echo "Using java:"
   java -version
   java -jar $WYNNDATA_DIR/bin/journeymaptools-0.3.jar MapSaver $TMPDIR $WYNNDATA_DIR/rawmap/map-raw.png 512 512 -1 0 false day
