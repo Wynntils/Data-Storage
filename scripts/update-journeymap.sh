@@ -31,7 +31,7 @@ elif [[ $COMMAND == "install-in-journeymap" ]]; then
   mkdir -p journeymap/data/mp/$WYNNCRAFT_WORLD_NAME/DIM0/day
   echo "Changed files:"
   diff -q $WYNNDATA_DIR/journeymap-data/DIM0/day journeymap/data/mp/$WYNNCRAFT_WORLD_NAME/DIM0/day
-  cp -f $WYNNDATA_DIR/journeymap-data/DIM0/day* journeymap/data/mp/$WYNNCRAFT_WORLD_NAME/DIM0/day
+  cp -f $WYNNDATA_DIR/journeymap-data/DIM0/day/* journeymap/data/mp/$WYNNCRAFT_WORLD_NAME/DIM0/day
   echo "Your journeymap installation now has the latest map data"
 elif [[ $COMMAND == "update-raw-map" ]]; then
   mkdir -p $WYNNDATA_DIR/rawmap
