@@ -7,7 +7,8 @@
 
 MYDIR=$(cd $(dirname "$0") > /dev/null && pwd)
 
-RAW_FILE_NAME="$MYDIR/../map-raw.png"
+# mask is 4034x6414
+RAW_FILE_NAME="$MYDIR/../worldmap/rawmap/map-raw.png"
 # Offset of mask into the raw map file
 RAW_FILE_OFFSET_X=177
 RAW_FILE_OFFSET_Y=83
