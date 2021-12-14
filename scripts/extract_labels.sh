@@ -5,7 +5,7 @@
 #
 # Made by magicus (https://github.com/magicus)
 #
-MYDIR=$(cd $(dirname "$0") && pwd)
+MYDIR=$(cd $(dirname "$0") >/dev/null 2>&1 && pwd)
 TARGET="$MYDIR/../map-labels.json"
 
 # This file contain additional labels that are not provided by upstread.

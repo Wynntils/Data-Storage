@@ -68,7 +68,7 @@
       "z": -1254,
       "name": "Time Valley",
       "layer": 3,
-      "level": "15"
+      "level": "25"
     },
     {
       "x": -680,
@@ -88,7 +88,7 @@
       "x": 117,
       "z": -817,
       "name": "Nesaak",
-      "layer": 3,
+      "layer": 2,
       "level": "40"
     },
     {
@@ -103,7 +103,7 @@
       "z": -2096,
       "name": "Bremminglar",
       "layer": 3,
-      "level": "30"
+      "level": "15"
     },
     {
       "x": 280,
@@ -411,7 +411,14 @@
       "z": -1214,
       "name": "Door of Time",
       "layer": 3,
-      "level": "15"
+      "level": "25"
+    },
+    {
+      "x": -301,
+      "z": -1171,
+      "name": "Tempo Town",
+      "layer": 2,
+      "level": "25"
     },
     {
       "x": 762,
@@ -499,7 +506,7 @@
       "x": 941,
       "z": -5506,
       "name": "Eltom",
-      "layer": 3,
+      "layer": 2,
       "level": "85"
     },
     {
@@ -709,12 +716,6 @@
       "name": "The Eldritch Outlook",
       "layer": 3,
       "level": "100+"
-    },
-    {
-      "x": -300,
-      "z": -1148,
-      "name": "Tempo Town",
-      "layer": 3
     }
   ]
 }
