@@ -1,13 +1,28 @@
 NPC, Accessory Merchant, Merchant, -1407, 43, -4738
-NPC, Bak'al, ..., -724, 117, -6386
-NPC, Bak'al, ..., -726, 110, -6405
-NPC, Bak'al, ..., -731, 101, -6398
-NPC, Bak'al, ..., -732, 101, -6400
-NPC, Bak'al:, ..., -732, 104, -6384
-NPC, Bak'al, ..., -732, 114, -6392
-NPC, Bak'al, ..., -733, 106, -6394
-NPC, Bak'al, ..., -744, 121, -6405
+NPC, Accessory Merchant, Merchant, -174, 102, -4421
+NPC, Accessory Merchant, Merchant, -249, 72, -1409
+NPC, Agitated Citizen, Citizen, -1759, 66, -5517
+NPC, Alfonse, ..., 330, 42, -1130
+NPC, Alfonse, ..., 347, 41, -1128
+NPC, Angry Townsperson, ..., 365, 70, -1103
+NPC, Angry Townsperson, ..., 365, 71, -1103
+NPC, Angry Townsperson, ..., 403, 79, -1104
+NPC, Angry Townsperson, ..., 403, 80, -1104
+NPC, Art Merchant, Merchant, -227, 57, -4982
+NPC, Artefact Merchant, Merchant, -895, 43, -4525
+NPC, Asher, ..., -449, 73, -1153
+NPC, Asher, ..., 492, 68, -1588
+NPC, Barman, ..., 115, 41, -2172
+NPC, Barman, ..., 119, 41, -2173
+NPC, Basement Dweller, ..., 443, 57, -1544
 NPC, Bucie Citizen, Citizen, -1401, 43, -4709
+NPC, Burtur, ..., -1025, 47, -5302
+NPC, Calamaro, ..., 227, 21, -741
+NPC, Calo, ..., -205, 103, -4921
+NPC, Calo, ..., 416, 82, -1515
+NPC, Captain Fenor, ..., 380, 68, -1570
+NPC, Captain Kymer, ..., -1991, 35, -4658
+NPC, Captain Kymer, ..., -1991, 36, -4658
 NPC, Captain Lorias, ..., -601, 45, -4963
 NPC, Child, ..., -450, 47, -4987
 NPC, Cinfras Citizen, Citizen, -385, 47, -4945
@@ -15,24 +30,182 @@ NPC, Cinfras Citizen, Citizen, -405, 47, -4979
 NPC, Cinfras Citizen, Citizen, -441, 47, -4899
 NPC, Cinfras Citizen, Citizen, -441, 47, -4965
 NPC, Cinfras Citizen, Citizen, -463, 47, -4884
+NPC, Cinfras Citizen, Citizen, -466, 53, -4846
+NPC, Collector Merchant, Merchant, -235, 57, -4985
+NPC, Confectionary Merchant, Merchant, -252, 57, -4955
+NPC, Craftmas Cracker Vendor, ..., 482, 68, -1588
+NPC, Criminal, ..., -478, 126, -4420
+NPC, Criminal, ..., -532, 63, -4514
+NPC, Criminal, ..., -618, 92, -4476
+NPC, Criminal, ..., -622, 66, -4501
+NPC, Damiral, ..., -1938, 38, -4260
+NPC, Damiral, ..., -1938, 39, -4260
+NPC, Damiral, ..., -1972, 75, -4542
+NPC, Damys, ..., -544, 113, -4449
+NPC, Damys, ..., -545, 113, -4448
+NPC, Damys, ..., -547, 113, -4447
+NPC, Damys, ..., -548, 113, -4443
+NPC, Detective Hart, ..., -1745, 66, -5479
+NPC, Detective Jackson, ..., -1731, 54, -4836
+NPC, Detective, ..., -432, 172, -4388
+NPC, Detective, ..., -448, 165, -4380
+NPC, Detlas Citizen, ..., 413, 68, -1580
+NPC, Detlas Citizen, ..., 452, 68, -1518
+NPC, Detlas Citizen, ..., 479, 68, -1643
+NPC, Detlas Citizen, Citizen, 413, 68, -1580
+NPC, Detlas Citizen, Citizen, 452, 68, -1518
+NPC, Detlas Citizen, Citizen, 479, 68, -1643
+NPC, Detlas Citizen, Citizen, 535, 68, -1586
+NPC, Doan, ..., -213, 105, -4941
+NPC, Doubiss, ..., -1769, 66, -5540
+NPC, Doug the Scout, ..., -299, 72, -1234
+NPC, Dr. Picard, ..., 103, 91, -1200
+NPC, Drucksh, ..., 71, 41, -2178
+NPC, Elder, ..., -801, 89, -4554
+NPC, Electromagic Expert, ..., -1868, 105, -4468
+NPC, Electromagic Expert, ..., -1868, 106, -4468
+NPC, Elf Guard, ..., -462, 133, -4460
+NPC, Elf Guard, ..., -462, 134, -4460
+NPC, Elphaba, ..., 419, 68, -1534
 NPC, Enzan, ..., -772, 68, -1574
+NPC, Enzan, ..., 457, 68, -1589
+NPC, Event Airship Pilot, ..., 401, 83, -1529
+NPC, Explorer, ..., -1139, 44, -5490
+NPC, Fiona, ..., -539, 107, -4546
+NPC, Fish Merchant, Merchant, 95, 73, -793
+NPC, Fredris, ..., 157, 74, -812
 NPC, Gawrick, ..., -487, 52, -4882
+NPC, Gelibord Citizen, Citizen, -1018, 47, -5290
+NPC, Gelibord Citizen, Citizen, -1035, 47, -5313
+NPC, Gelibord Citizen, Citizen, -984, 47, -5288
+NPC, Gelibord Guard, ..., -1008, 46, -5319
+NPC, General Graken, ..., 512, 68, -1622
+NPC, Gernald, ..., 56, 72, -675
 NPC, Gracen, ..., -753, 81, -663
+NPC, Guard, ..., -466, 168, -4382
+NPC, Hans, ..., -1096, 42, -5384
+NPC, Harv, ..., 67, 23, -2176
+NPC, Head Engineer, ..., -2058, 4, -4499
+NPC, Head Engineer, ..., -2058, 5, -4499
+NPC, Homeless Mayor, ..., -298, 44, -1147
+NPC, Homeless Mayor, ..., -298, 45, -1147
+NPC, Honip, ..., 118, 41, -2195
+NPC, Honip, ..., 445, 68, -1613
 NPC, Horse Merchant, Merchant, -1483, 43, -4715
+NPC, Information Post, ..., -475, 49, -4917
+NPC, Jorkin, ..., 338, 41, -1242
+NPC, Jorkin, ..., 338, 42, -1242
+NPC, Juggler, ..., -476, 47, -4906
 NPC, Jungle Native, ..., -746, 81, -685
+NPC, Key Forge Merchant, Merchant, -873, 122, -4914
 NPC, King's Merchant, Merchant, -426, 48, -4936
-NPC, Lari, ..., -726, 111, -6403
-NPC, Lari, ..., -730, 101, -6399
-NPC, Lari, ..., -732, 102, -6391
-NPC, Lari, ..., -732, 102, -6394
-NPC, Light Blade, ..., -732, 102, -6399
+NPC, Korben, ..., -487, 124, -4451
+NPC, Korben, ..., -614, 99, -4454
+NPC, Lari, ..., -1054, 47, -4364
+NPC, Lari, ..., -1060, 74, -4346
+NPC, Lari, ..., -1118, 47, -4773
+NPC, Lari, ..., -1124, 47, -4772
+NPC, Lari, ..., -770, 85, -4518
+NPC, Lari, ..., -793, 89, -4546
+NPC, Lari, ..., -799, 89, -4552
+NPC, Legolus, ..., -139, 94, -4445
+NPC, Librarian, ..., -1856, 87, -4510
+NPC, Librarian, ..., -1856, 88, -4510
+NPC, Llevigar Citizen, ..., -1884, 95, -4498
+NPC, Llevigar Citizen, ..., -1884, 96, -4498
+NPC, Llevigar Citizen, ..., -1887, 49, -4551
+NPC, Llevigar Citizen, ..., -1887, 50, -4551
+NPC, Llevigar Citizen, ..., -1970, 34, -4581
+NPC, Llevigar Citizen, ..., -1970, 35, -4581
+NPC, Llevigar Citizen, ..., -1992, 34, -4610
+NPC, Llevigar Citizen, ..., -1992, 35, -4610
+NPC, Llevigar Citizen, ..., -2049, 77, -4498
+NPC, Llevigar Citizen, ..., -2049, 78, -4498
+NPC, Llevigar Citizen, ..., -2124, 53, -4565
+NPC, Llevigar Citizen, ..., -2124, 54, -4565
+NPC, Llevigar Citizen, Citizen, -1970, 35, -4581
+NPC, Llevigar Citizen, Citizen, -2049, 77, -4498
+NPC, Llevigar Professor, ..., -1871, 87, -4514
+NPC, Llevigar Professor, ..., -1871, 88, -4514
+NPC, Llevigar Receptionist, ..., -2128, 79, -4524
+NPC, Llevigar Soldier, ..., -1992, 35, -4675
+NPC, Llevigar Soldier, ..., -1992, 36, -4675
+NPC, Lord Plaatic the Kind, ..., -1133, 44, -5512
+NPC, Lucio, ..., 416, 66, -1542
+NPC, Marlow, ..., 68, 23, -2181
 NPC, Mother, ..., -448, 47, -4988
+NPC, Mysterious Merchant, Merchant, -290, 45, -1146
+NPC, Nemract Citizen, Citizen, 119, 39, -2247
+NPC, Nemract Citizen, Citizen, 122, 41, -2180
+NPC, Nesaak Citizen, Citizen, 127, 74, -770
+NPC, Nesaak Citizen, Citizen, 89, 74, -808
+NPC, Nick, ..., 466, 68, -1586
+NPC, Nohno, ..., 479, 67, -1576
+NPC, Office Manager, ..., -258, 57, -4999
+NPC, Old Journal, ..., 507, 67, -1594
+NPC, Old Man Martyn, ..., -433, 13, -1258
+NPC, Olux Citizen, Citizen, -1752, 66, -5493
+NPC, Olux Citizen, Citizen, -1764, 61, -5480
+NPC, Olux Citizen, Citizen, -1765, 66, -5540
+NPC, Orikal, ..., 322, 79, -1089
+NPC, Orikal, ..., 329, 42, -1130
 NPC, Otium, ..., -913, 68, -1537
+NPC, Passenger Controllant, ..., -172, 108, -4946
+NPC, Piere, ..., -1844, 55, -4951
+NPC, Plaque, ..., -375, 64, -4803
+NPC, Poclo Wafflebuff of Gelibord, ..., -1161, 45, -5512
+NPC, Poe, ..., 34, 26, -2191
+NPC, Ragamal, ..., 58, 25, -2212
 NPC, Ragni Guard, ..., -877, 68, -1573
+NPC, Ragon, ..., -80, 67, -1391
+NPC, Referick, ..., -1086, 48, -5376
+NPC, Reset Scroll Merchant, Merchant, 101, 92, -1205
 NPC, Rohem, ..., -487, 47, -4975
+NPC, Roy, ..., 327, 42, -1130
+NPC, Roy, ..., 345, 41, -1130
+NPC, Rusty Bartender, ..., 419, 68, -1524
+NPC, Santa, ..., 472, 68, -1586
+NPC, Sayleros, ..., 476, 68, -1624
+NPC, Seaskipper Captain, Utility, -1948, 34, -4225
+NPC, Seaskipper Captain, Utility, 443, 67, -1610
+NPC, Seaskipper Captain, Utility, 77, 66, -925
 NPC, Selchar Citizen, Citizen, 23, 68, -3199
 NPC, Sergeant Klafson, ..., -738, 67, -1595
+NPC, Siegfried Fan Item Merchant, ..., -2122, 53, -4571
 NPC, Siegfried Fan Merchant, Merchant, -453, 47, -4981
+NPC, Sir Pigglesworth the Thirty-Fifth, ..., -1124, 45, -5466
+NPC, Souvenir Sweater Merchant, ..., 470, 67, -1609
+NPC, Souvenir Sweater Merchant, Merchant, 470, 67, -1609
+NPC, Souvenir T-Shirt Merchant, Merchant, -211, 57, -4952
+NPC, Soway, ..., -181, 111, -4320
+NPC, Squid Merchant, Merchant, 213, 21, -718
+NPC, Squiddles, ..., 205, 22, -732
+NPC, "Stiba, the Weapon Merchant", Merchant, -75, 67, -1389
+NPC, "Suri, the Study Merchant", Merchant, -92, 67, -1386
+NPC, Sylvar, ..., -504, 113, -4426
+NPC, Tarod, ..., -7, 69, -793
+NPC, The Assistant, ..., 491, 68, -1575
+NPC, The Banker, ..., 498, 67, -1558
 NPC, The Cook, ..., -847, 67, -1562
+NPC, The Cook, ..., 444, 67, -1577
+NPC, The Traveler, ..., 469, 68, -1576
+NPC, Therck, ..., -536, 70, -1589
+NPC, Therck, ..., 456, 68, -1587
+NPC, Ticket Merchant, ..., 419, 67, -1564
+NPC, Ticket Merchant, Merchant, 419, 67, -1564
+NPC, Tool Merchant, ..., -1725, 49, -4778
+NPC, Tool Merchant, ..., -1725, 50, -4778
+NPC, Tool Merchant, ..., 159, 75, -1002
+NPC, Tool Merchant, ..., 296, 82, -1077
+NPC, Tool Merchant, ..., 296, 83, -1077
 NPC, Tribal Merchant, Merchant, -765, 81, -671
+NPC, Tyko, ..., 87, 39, -2199
+NPC, Vaenr, ..., -506, 113, -4425
+NPC, Vagrant Van, ..., 196, 68, -1591
+NPC, Valimare, ..., -405, 24, -5020
+NPC, Water Merchant, Merchant, -496, 113, -4442
+NPC, Water Merchant, Merchant, -496, 114, -4442
 NPC, Worid, ..., -740, 82, -662
+NPC, Worid, ..., 476, 15, -1707
+NPC, Yahya, ..., 446, 67, -1588
+NPC, Zenam, ..., -1872, 56, -4593

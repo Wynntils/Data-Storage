@@ -1,39 +1,137 @@
+ServiceNPC, Armour Merchant, ..., -1021, 47, -5294
+ServiceNPC, Armour Merchant, ..., -1776, 66, -5532
 ServiceNPC, Armour Merchant, ..., -467, 49, -4922
 ServiceNPC, Armour Merchant, ..., -865, 67, -1561
 ServiceNPC, Armour Merchant, ..., -869, 67, -1557
+ServiceNPC, Armour Merchant, ..., 457, 67, -1613
+ServiceNPC, Armour Merchant, ..., 89, 73, -822
 ServiceNPC, Blacksmith, ..., -1431, 42, -4734
 ServiceNPC, Blacksmith, ..., -1479, 42, -4747
+ServiceNPC, Blacksmith, ..., -1763, 66, -5520
+ServiceNPC, Blacksmith, ..., -1971, 77, -4483
+ServiceNPC, Blacksmith, ..., -2003, 77, -4484
+ServiceNPC, Blacksmith, ..., -2005, 77, -4462
+ServiceNPC, Blacksmith, ..., -289, 43, -1157
 ServiceNPC, Blacksmith, ..., -459, 49, -4929
 ServiceNPC, Blacksmith, ..., -464, 49, -4918
 ServiceNPC, Blacksmith, ..., -464, 49, -4926
+ServiceNPC, Blacksmith, ..., -565, 67, -1597
 ServiceNPC, Blacksmith, ..., -727, 100, -6444
 ServiceNPC, Blacksmith, ..., -727, 90, -636
 ServiceNPC, Blacksmith, ..., -825, 67, -1495
 ServiceNPC, Blacksmith, ..., -833, 67, -1586
 ServiceNPC, Blacksmith, ..., -858, 67, -1549
+ServiceNPC, Blacksmith, ..., -868, 122, -4921
+ServiceNPC, Blacksmith, ..., -982, 47, -5282
+ServiceNPC, Blacksmith, ..., 102, 73, -784
+ServiceNPC, Blacksmith, ..., 487, 67, -1597
+ServiceNPC, Blacksmith, ..., 96, 38, -2244
+ServiceNPC, Dungeon Scroll Merchant, ..., -1005, 47, -5323
+ServiceNPC, Dungeon Scroll Merchant, ..., -1697, 67, -5525
+ServiceNPC, Dungeon Scroll Merchant, ..., -1697, 68, -5525
+ServiceNPC, Dungeon Scroll Merchant, ..., -2044, 78, -4484
+ServiceNPC, Dungeon Scroll Merchant, ..., -452, 49, -5007
+ServiceNPC, Dungeon Scroll Merchant, ..., -871, 123, -4910
+ServiceNPC, Dungeon Scroll Merchant, ..., 419, 68, -1610
+ServiceNPC, Dungeon Scroll Merchant, ..., 419, 69, -1610
+ServiceNPC, Dungeon Scroll Merchant, ..., 42, 39, -2198
+ServiceNPC, Dungeon Scroll Merchant, ..., 85, 74, -806
+ServiceNPC, Emerald Merchant, ..., -1018, 46, -5324
+ServiceNPC, Emerald Merchant, ..., -1027, 46, -5324
 ServiceNPC, Emerald Merchant, ..., -1449, 44, -4716
 ServiceNPC, Emerald Merchant, ..., -1449, 44, -4736
+ServiceNPC, Emerald Merchant, ..., -1735, 68, -5529
+ServiceNPC, Emerald Merchant, ..., -1735, 68, -5539
+ServiceNPC, Emerald Merchant, ..., -1738, 68, -5526
+ServiceNPC, Emerald Merchant, ..., -1738, 68, -5542
+ServiceNPC, Emerald Merchant, ..., -1748, 68, -5526
+ServiceNPC, Emerald Merchant, ..., -1748, 68, -5542
+ServiceNPC, Emerald Merchant, ..., -1751, 68, -5529
+ServiceNPC, Emerald Merchant, ..., -1751, 68, -5539
+ServiceNPC, Emerald Merchant, ..., -284, 43, -1152
 ServiceNPC, Emerald Merchant, ..., -416, 49, -4919
 ServiceNPC, Emerald Merchant, ..., -425, 49, -4910
 ServiceNPC, Emerald Merchant, ..., -727, 102, -6453
 ServiceNPC, Emerald Merchant, ..., -850, 67, -1596
 ServiceNPC, Emerald Merchant, ..., -856, 67, -1599
 ServiceNPC, Emerald Merchant, ..., -864, 67, -1600
+ServiceNPC, Emerald Merchant, ..., 484, 67, -1551
+ServiceNPC, Emerald Merchant, ..., 488, 67, -1551
+ServiceNPC, Emerald Merchant, ..., 491, 67, -1554
+ServiceNPC, Emerald Merchant, ..., 491, 67, -1558
+ServiceNPC, Emerald Merchant, ..., 85, 42, -2215
+ServiceNPC, Emerald Merchant, ..., 85, 42, -2225
+ServiceNPC, Emerald Merchant, ..., 86, 41, -2211
+ServiceNPC, Emerald Merchant, ..., 86, 42, -2229
+ServiceNPC, Emerald Merchant, ..., 87, 73, -845
+ServiceNPC, Emerald Merchant, ..., 87, 73, -847
+ServiceNPC, Emerald Merchant, ..., 89, 73, -842
+ServiceNPC, Emerald Merchant, ..., 89, 73, -850
 ServiceNPC, Emerald Merchant, ..., 9, 66, -3212
 ServiceNPC, Emerald Merchant, ..., 9, 66, -3222
+ServiceNPC, Emerald Merchant, ..., 95, 41, -2229
+ServiceNPC, Emerald Merchant, ..., 95, 42, -2211
+ServiceNPC, Emerald Merchant, ..., 96, 41, -2215
+ServiceNPC, Emerald Merchant, ..., 96, 41, -2225
+ServiceNPC, Item Identifier, ..., -1039, 47, -5309
 ServiceNPC, Item Identifier, ..., -1467, 42, -4718
+ServiceNPC, Item Identifier, ..., -1723, 66, -5509
+ServiceNPC, Item Identifier, ..., -280, 43, -1158
 ServiceNPC, Item Identifier, ..., -437, 47, -4950
+ServiceNPC, Item Identifier, ..., -553, 67, -1581
 ServiceNPC, Item Identifier, ..., -803, 67, -1569
+ServiceNPC, Item Identifier, ..., 462, 67, -1574
+ServiceNPC, Item Identifier, ..., 85, 40, -2179
+ServiceNPC, Item Identifier, ..., 91, 73, -779
+ServiceNPC, Liquid Merchant, ..., -1998, 77, -4427
 ServiceNPC, Liquid Merchant, ..., -425, 47, -4927
 ServiceNPC, Liquid Merchant, ..., -433, 47, -4919
+ServiceNPC, Liquid Merchant, ..., 474, 67, -1554
+ServiceNPC, Liquid Merchant, ..., 488, 67, -1568
+ServiceNPC, Potion Merchant, ..., -1014, 47, -5286
 ServiceNPC, Potion Merchant, ..., -1467, 42, -4734
+ServiceNPC, Potion Merchant, ..., -1735, 66, -5492
 ServiceNPC, Potion Merchant, ..., -493, 47, -4950
 ServiceNPC, Potion Merchant, ..., -737, 102, -6443
 ServiceNPC, Potion Merchant, ..., -821, 68, -1593
 ServiceNPC, Potion Merchant, ..., -872, 59, -6010
+ServiceNPC, Potion Merchant, ..., 114, 41, -2172
+ServiceNPC, Potion Merchant, ..., 116, 73, -778
+ServiceNPC, Potion Merchant, ..., 452, 67, -1595
+ServiceNPC, Powder Master, ..., -1000, 44, -5311
+ServiceNPC, Powder Master, ..., -1759, 66, -5507
+ServiceNPC, Powder Master, ..., -309, 43, -1149
 ServiceNPC, Powder Master, ..., -463, 47, -4957
+ServiceNPC, Powder Master, ..., 115, 73, -792
+ServiceNPC, Powder Master, ..., 493, 67, -1621
 ServiceNPC, Scroll Merchant, ..., -1431, 42, -4718
+ServiceNPC, Scroll Merchant, ..., -1725, 66, -5529
+ServiceNPC, Scroll Merchant, ..., -300, 43, -1141
 ServiceNPC, Scroll Merchant, ..., -456, 47, -4957
 ServiceNPC, Scroll Merchant, ..., -816, 67, -1561
+ServiceNPC, Scroll Merchant, ..., -993, 47, -5289
+ServiceNPC, Scroll Merchant, ..., 112, 73, -834
+ServiceNPC, Scroll Merchant, ..., 123, 40, -2208
+ServiceNPC, Scroll Merchant, ..., 478, 67, -1537
+ServiceNPC, Tool Merchant, ..., -1049, 53, -5273
+ServiceNPC, Tool Merchant, ..., -1227, 45, -5390
+ServiceNPC, Tool Merchant, ..., -323, 39, -4630
+ServiceNPC, Tool Merchant, ..., -547, 113, -4427
+ServiceNPC, Tool Merchant, ..., -547, 114, -4427
+ServiceNPC, Tool Merchant, ..., -63, 71, -896
+ServiceNPC, Tool Merchant, ..., -649, 69, -1599
+ServiceNPC, Tool Merchant, ..., -739, 46, -4897
+ServiceNPC, Tool Merchant, ..., -83, 69, -787
+ServiceNPC, Tool Merchant, ..., -987, 45, -4568
+ServiceNPC, Tool Merchant, ..., 159, 74, -1002
+ServiceNPC, Tool Merchant, ..., 165, 70, -1535
+ServiceNPC, Tool Merchant, ..., 182, 70, -1608
+ServiceNPC, Tool Merchant, ..., 47, 72, -678
+ServiceNPC, Tool Merchant, ..., 76, 52, -2024
+ServiceNPC, Weapon Merchant, ..., -1027, 47, -5298
+ServiceNPC, Weapon Merchant, ..., -1769, 66, -5527
 ServiceNPC, Weapon Merchant, ..., -462, 49, -4900
 ServiceNPC, Weapon Merchant, ..., -808, 68, -1596
+ServiceNPC, Weapon Merchant, ..., 116, 45, -2152
+ServiceNPC, Weapon Merchant, ..., 116, 73, -819
+ServiceNPC, Weapon Merchant, ..., 507, 36, -1594
