@@ -1,0 +1,50 @@
+material,level,profession
+Copper,1,Mining
+Granite,10,Mining
+Gold,20,Mining
+Sandstone,30,Mining
+Iron,40,Mining
+Silver,50,Mining
+Cobalt,60,Mining
+Kanderstone,70,Mining
+Diamond,80,Mining
+Molten,90,Mining
+Voidstone,100,Mining
+Dernic,110,Mining
+Oak,1,Woodcutting
+Birch,10,Woodcutting
+Willow,20,Woodcutting
+Acacia,30,Woodcutting
+Spruce,40,Woodcutting
+Jungle,50,Woodcutting
+Dark,60,Woodcutting
+Light,70,Woodcutting
+Pine,80,Woodcutting
+Bamboo,80,Woodcutting
+Avo,90,Woodcutting
+Sky,100,Woodcutting
+Dernic,110,Woodcutting
+Wheat,1,Farming
+Barley,10,Farming
+Oat,20,Farming
+Malt,30,Farming
+Hops,40,Farming
+Rye,50,Farming
+Millet,60,Farming
+Decay Roots,70,Farming
+Rice,80,Farming
+Sorghum,90,Farming
+Hemp,100,Farming
+Dernic Seed,110,Farming
+Gudgeon,1,Fishing
+Trout,10,Fishing
+Salmon,20,Fishing
+Carp,30,Fishing
+Icefish,40,Fishing
+Piranha,50,Fishing
+Koi,60,Fishing
+Gylia Fish,70,Fishing
+Bass,80,Fishing
+Molten Eel,90,Fishing
+Starfish,100,Fishing
+Dernic Fish,110,Fishing
