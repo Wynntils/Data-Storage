@@ -1,119 +1,122 @@
 name,x,y,z
-Accessory Merchant,-1702,39,-2331
+Accessory Merchant,-1702,38,-2331
 Accessory Merchant,-1407,43,-4738
 Accessory Merchant,-580,61,-5443
+Accessory Merchant,-249,72,-1409
 Accessory Merchant,-174,101,-4421
-Accessory Merchant,176,8,-5194
-Accessory Merchant,891,124,-5591
+Accessory Merchant,176,7,-5194
+Accessory Merchant,891,123,-5591
 Accessory Merchant,1261,32,-1274
-Accessory Merchant,1517,46,-5284
+Accessory Merchant,1517,47,-5284
+Accessory Merchant,7960,26,5116
 Apple Merchant,1304,32,-1252
 Art Merchant,-227,57,-4982
 Artefact Merchant,-895,43,-4525
 Black Market Merchant,989,68,-1919
 Boat Merchant,-266,34,-4040
-Book Merchant,157,8,-5209
+Book Merchant,157,7,-5209
 Bowl Merchant,-292,72,-1377
 Brew-it-Yourself Merchant,-580,38,-2788
-Bronze Rewards Merchant,-1082,67,-2410
+Bronze Rewards Merchant,-1082,66,-2410
 Bucket Merchant,-805,67,-1924
 Bucket Merchant,-805,67,-1919
+Candy Merchant,6717,39,4428
+Cauldron Merchant,6763,39,4435
 Charmcrafter Merchant,-1093,42,-5029
-Charmcrafter Merchant,-771,96,-627
-Cheese Merchant,1109,174,-4539
+Charmcrafter Merchant,-771,95,-627
+Collectibles Merchant,-287,103,-4406
 Collector Merchant,-235,57,-4985
 Confectionary Merchant,-252,57,-4955
 Craftmas Merchant,1150,61,-3139
-Dungeon Merchant,-1683,79,-2614
-Dungeon Merchant,-922,68,-1875
-Dungeon Merchant,-631,61,-878
-Dungeon Merchant,-588,41,-3552
-Dungeon Merchant,-274,66,-1051
-Dungeon Merchant,-168,64,-1840
-Dungeon Merchant,171,81,-661
-Dungeon Merchant,284,18,-1943
-Dungeon Merchant,1304,89,-749
-Dungeon Merchant,1413,96,-1838
+Diamond Rewards Merchant,-1075,66,-2374
+Diamond Rewards Merchant,-1071,66,-2378
 Egg Merchant,-538,59,-1830
 Egg Merchant,1304,32,-1268
-Exchange Merchant,-1646,70,-2869
-Exchange Merchant,-1642,70,-2869
-Exchange Merchant,-1638,70,-2869
-Exchange Merchant,-1634,70,-2869
-Exchange Merchant,-1630,70,-2869
 Explosives Merchant,-201,46,-282
 Fabrics Merchant,1288,32,-1252
 Feather Merchant,1296,32,-1234
+Fish Merchant,84,74,-819
 Fish Merchant,95,73,-793
+Food Merchant,-159,131,-4951
+Food Merchant,-145,131,-4951
+Galleon's Key Merchant,-584,40,-3541
 Gift Merchant,1603,83,-5095
 Glassblowing Merchant,924,61,-1979
-Gold Rewards Merchant,-1067,67,-2395
-Golden Fish Merchant,-689,40,-3068
+Gold Rewards Merchant,-1067,66,-2395
+Golden Fish Merchant,-689,39,-3068
 Hive Air Merchant,344,21,-5530
-Hive Earth Merchant,343,18,-5549
-Hive Fire Merchant,343,10,-5589
-Hive Thunder Merchant,344,30,-5500
-Hive Water Merchant,343,14,-5568
-Hook Merchant,-643,42,-3178
+Hive Earth Merchant,343,17,-5549
+Hive Fire Merchant,343,9,-5589
+Hive Thunder Merchant,344,29,-5500
+Hive Water Merchant,343,13,-5568
+Hook Merchant,-643,41,-3178
 Horse Merchant,-1483,43,-4715
 Horse Merchant,852,70,-1633
 Ingredient Merchant,1487,45,-5259
 Key Forge Merchant,-873,122,-4914
 King's Merchant,-426,48,-4936
-Legendary Merchant,-5675,27,-3247
+Legendary Merchant,-5675,26,-3247
 Literature Merchant,1020,112,-4534
+Magical Book Merchant,6749,39,4427
 Mask Merchant,-580,89,-1426
-Master Armour Merchant,334,6,-5613
-Master Trinket Merchant,343,6,-5613
-Master Weapon Merchant,340,6,-5623
-Miner Pass Merchant,1535,63,-5343
+Master Armour Merchant,334,5,-5613
+Master Trinket Merchant,343,5,-5613
+Master Weapon Merchant,340,5,-5623
+Medicinal Merchant,-1029,42,-4992
+Melon? Merchant,181,7,-5288
+Miner Pass Merchant,1535,62,-5343
+Mushroom Merchant,-21,74,-1174
 Mushroom Merchant,1288,32,-1260
-Mysterious Merchant,-290,45,-1146
-Mysterious Merchant,946,75,-661
-Necromancy Merchant,158,8,-5195
+Mysterious Merchant,-290,44,-1146
+Mysterious Merchant,946,74,-661
+Nameless Merchant,1063,107,-819
+Necromancy Merchant,158,7,-5195
 Pink Wool Merchant,1329,31,-1272
-Platinum Dealer Merchant,158,8,-5218
-Potato Merchant,181,8,-5288
+Platinum Dealer Merchant,158,7,-5218
+Potato Merchant,181,7,-5288
 Potato Merchant,651,62,-2086
 Potato Merchant,1304,32,-1244
-Powder Merchant,-1646,70,-2891
-Powder Merchant,-1642,70,-2891
-Powder Merchant,-1638,70,-2891
+Powder Merchant,-1646,69,-2891
+Powder Merchant,-1642,69,-2891
+Powder Merchant,-1638,69,-2891
 Powder Merchant,-1634,69,-2891
-Powder Merchant,-1630,70,-2891
-Reset Scroll Merchant,101,92,-1205
+Powder Merchant,-1630,69,-2891
+Recipe Merchant,917,53,-4297
 Rymek Dealer Merchant,1288,32,-1316
 Rymek Dealer Merchant,1295,32,-1302
 Rymek Dealer Merchant,1297,32,-1318
 Rymek Dealer Merchant,1318,32,-1315
-Seasail Merchant,-625,36,-3538
 Seasail Merchant,86,35,-3071
-Shifty Merchant,200,8,-5230
+Shifty Merchant,200,7,-5230
 Siegfried Fan Item Merchant,-2122,53,-4571
 Siegfried Fan Item Merchant,1032,110,-4589
 Siegfried Fan Merchant,-453,47,-4981
+Siegfried Fan Merchant,775,75,-5090
 Siegfried Fan Merchant,784,79,-5054
-Silver Rewards Merchant,-1062,67,-2423
+Silver Rewards Merchant,-1062,66,-2423
 Souvenir Merchant,-335,40,-2485
 Souvenir T-Shirt Merchant,-211,57,-4952
+Squid Merchant,213,21,-718
 Ticket Merchant,419,67,-1564
 Tour Pass Merchant,-653,27,-2662
-Transmutation Merchant,332,14,-5568
-Transmutation Merchant,332,18,-5550
-Transmutation Merchant,333,10,-5588
-Transmutation Merchant,333,22,-5530
-Transmutation Merchant,333,30,-5501
-Transmutation Merchant,334,6,-5617
-Transmutation Merchant,336,6,-5623
-Transmutation Merchant,343,6,-5617
+Transmutation Merchant,332,13,-5568
+Transmutation Merchant,332,17,-5550
+Transmutation Merchant,333,9,-5588
+Transmutation Merchant,333,21,-5530
+Transmutation Merchant,333,29,-5501
+Transmutation Merchant,334,5,-5617
+Transmutation Merchant,336,5,-5623
+Transmutation Merchant,343,5,-5617
 Treasure Merchant,107,66,-3158
 Treasure Prize Merchant,-644,41,-2661
 Treasure Prize Merchant,-640,41,-2661
-Tribal Armour Merchant,-527,61,-277
-Tribal Merchant,-765,81,-671
-Tribal Weapon Merchant,-519,61,-277
-Void Merchant,14081,122,-4151
-Water Merchant,-496,114,-4442
+Tribal Armour Merchant,-527,60,-277
+Tribal Merchant,-765,80,-671
+Tribal Weapon Merchant,-519,60,-277
+Trinket Merchant,-325,104,-4423
+Void Merchant,14081,121,-4151
+Wand Merchant,6728,39,4451
+Water Merchant,-496,113,-4442
 Water Merchant,1288,32,-1268
 Wig Merchant,994,114,-4509
 Wynnter 2016 Merchant,1128,41,-3120
@@ -125,3 +128,297 @@ Wynnter 2017 Merchant,1104,46,-3126
 Zhight Brew Merchant,-576,38,-2792
 Zhight Exchange Merchant,-592,38,-2780
 Zhight Exchange Merchant,-588,38,-2780
+Armour Merchant,-1871,53,-4571
+Armour Merchant,-1776,66,-5532
+Armour Merchant,-1643,70,-2911
+Armour Merchant,-1021,47,-5294
+Armour Merchant,-869,67,-1557
+Armour Merchant,-865,67,-1561
+Armour Merchant,-832,78,-894
+Armour Merchant,-627,39,-3085
+Armour Merchant,-621,54,-3078
+Armour Merchant,-467,49,-4922
+Armour Merchant,85,73,-801
+Armour Merchant,89,73,-822
+Armour Merchant,137,66,-3161
+Armour Merchant,147,43,-2153
+Armour Merchant,250,30,-5225
+Armour Merchant,457,67,-1613
+Armour Merchant,738,74,-2106
+Armour Merchant,761,79,-5033
+Armour Merchant,775,75,-5104
+Armour Merchant,801,60,-3333
+Armour Merchant,928,110,-4546
+Armour Merchant,979,83,-1992
+Armour Merchant,994,39,-3478
+Armour Merchant,1092,14,-5175
+Armour Merchant,1095,14,-5099
+Armour Merchant,1255,32,-1357
+Armour Merchant,7967,26,5121
+Dungeon Merchant,-1683,78,-2614
+Dungeon Merchant,-922,68,-1875
+Dungeon Merchant,-631,60,-878
+Dungeon Merchant,-588,41,-3552
+Dungeon Merchant,-568,42,-3561
+Dungeon Merchant,-274,65,-1051
+Dungeon Merchant,-168,64,-1840
+Dungeon Merchant,136,84,-642
+Dungeon Merchant,171,80,-661
+Dungeon Merchant,284,17,-1943
+Dungeon Merchant,1304,88,-749
+Dungeon Merchant,1413,95,-1838
+Dungeon Scroll Merchant,-2044,78,-4484
+Dungeon Scroll Merchant,-1697,67,-5525
+Dungeon Scroll Merchant,-1005,47,-5323
+Dungeon Scroll Merchant,-882,76,-933
+Dungeon Scroll Merchant,-871,123,-4910
+Dungeon Scroll Merchant,-452,48,-5007
+Dungeon Scroll Merchant,42,39,-2198
+Dungeon Scroll Merchant,85,74,-806
+Dungeon Scroll Merchant,90,74,-796
+Dungeon Scroll Merchant,419,68,-1610
+Dungeon Scroll Merchant,861,68,-1973
+Dungeon Scroll Merchant,1234,32,-1300
+Emerald Merchant,-2030,77,-4432
+Emerald Merchant,-2030,77,-4428
+Emerald Merchant,-2030,77,-4422
+Emerald Merchant,-1966,77,-4433
+Emerald Merchant,-1966,77,-4427
+Emerald Merchant,-1966,77,-4422
+Emerald Merchant,-1751,68,-5539
+Emerald Merchant,-1751,68,-5529
+Emerald Merchant,-1748,68,-5542
+Emerald Merchant,-1748,68,-5526
+Emerald Merchant,-1738,68,-5542
+Emerald Merchant,-1738,68,-5526
+Emerald Merchant,-1735,68,-5539
+Emerald Merchant,-1735,68,-5529
+Emerald Merchant,-1601,74,-2893
+Emerald Merchant,-1598,74,-2889
+Emerald Merchant,-1593,74,-2889
+Emerald Merchant,-1587,74,-2889
+Emerald Merchant,-1585,74,-2893
+Emerald Merchant,-1449,44,-4736
+Emerald Merchant,-1449,44,-4716
+Emerald Merchant,-1168,66,-2404
+Emerald Merchant,-1027,46,-5324
+Emerald Merchant,-1018,46,-5324
+Emerald Merchant,-900,85,-923
+Emerald Merchant,-900,85,-915
+Emerald Merchant,-898,77,-923
+Emerald Merchant,-898,77,-915
+Emerald Merchant,-896,85,-923
+Emerald Merchant,-896,85,-915
+Emerald Merchant,-894,77,-923
+Emerald Merchant,-894,77,-915
+Emerald Merchant,-893,85,-924
+Emerald Merchant,-893,85,-914
+Emerald Merchant,-864,67,-1600
+Emerald Merchant,-856,67,-1599
+Emerald Merchant,-850,67,-1596
+Emerald Merchant,-727,102,-6453
+Emerald Merchant,-721,40,-3097
+Emerald Merchant,-721,40,-3089
+Emerald Merchant,-720,55,-3095
+Emerald Merchant,-720,55,-3091
+Emerald Merchant,-717,40,-3097
+Emerald Merchant,-717,40,-3089
+Emerald Merchant,-662,67,-1048
+Emerald Merchant,-662,67,-1025
+Emerald Merchant,-427,47,-4910
+Emerald Merchant,-425,49,-4910
+Emerald Merchant,-423,47,-4910
+Emerald Merchant,-416,47,-4921
+Emerald Merchant,-416,49,-4919
+Emerald Merchant,-416,47,-4917
+Emerald Merchant,-315,47,-4975
+Emerald Merchant,-302,104,-4393
+Emerald Merchant,-292,104,-4379
+Emerald Merchant,-292,104,-4375
+Emerald Merchant,-284,43,-1152
+Emerald Merchant,-213,28,-298
+Emerald Merchant,-212,28,-301
+Emerald Merchant,-208,28,-301
+Emerald Merchant,-207,28,-298
+Emerald Merchant,9,66,-3222
+Emerald Merchant,9,66,-3212
+Emerald Merchant,85,42,-2225
+Emerald Merchant,85,42,-2215
+Emerald Merchant,86,42,-2229
+Emerald Merchant,86,41,-2211
+Emerald Merchant,87,73,-847
+Emerald Merchant,87,73,-845
+Emerald Merchant,89,73,-850
+Emerald Merchant,89,73,-842
+Emerald Merchant,90,73,-774
+Emerald Merchant,92,73,-776
+Emerald Merchant,95,41,-2229
+Emerald Merchant,95,42,-2211
+Emerald Merchant,96,41,-2225
+Emerald Merchant,96,41,-2215
+Emerald Merchant,164,7,-5322
+Emerald Merchant,170,7,-5322
+Emerald Merchant,224,30,-5242
+Emerald Merchant,484,67,-1551
+Emerald Merchant,488,67,-1551
+Emerald Merchant,491,67,-1558
+Emerald Merchant,491,67,-1554
+Emerald Merchant,740,164,-4438
+Emerald Merchant,745,147,-4496
+Emerald Merchant,784,60,-3326
+Emerald Merchant,800,94,-5041
+Emerald Merchant,800,60,-3326
+Emerald Merchant,801,94,-5037
+Emerald Merchant,808,94,-5033
+Emerald Merchant,835,75,-5097
+Emerald Merchant,835,75,-5093
+Emerald Merchant,836,75,-5101
+Emerald Merchant,836,75,-5089
+Emerald Merchant,918,117,-5473
+Emerald Merchant,918,117,-5465
+Emerald Merchant,920,117,-5475
+Emerald Merchant,920,117,-5463
+Emerald Merchant,975,74,-698
+Emerald Merchant,975,74,-692
+Emerald Merchant,979,16,-5124
+Emerald Merchant,980,16,-5146
+Emerald Merchant,980,16,-5135
+Emerald Merchant,990,74,-691
+Emerald Merchant,991,74,-696
+Emerald Merchant,1015,99,-1987
+Emerald Merchant,1015,99,-1938
+Emerald Merchant,1025,99,-1977
+Emerald Merchant,1025,99,-1928
+Emerald Merchant,1073,108,-4562
+Emerald Merchant,1073,108,-4536
+Emerald Merchant,1081,108,-4562
+Emerald Merchant,1081,108,-4536
+Emerald Merchant,1142,43,-3120
+Emerald Merchant,1473,45,-5305
+Emerald Merchant,1473,45,-5300
+Emerald Merchant,65535,102,65924
+Liquid Merchant,-1998,77,-4427
+Liquid Merchant,-1593,69,-2904
+Liquid Merchant,-887,85,-919
+Liquid Merchant,-646,65,-1031
+Liquid Merchant,-433,47,-4919
+Liquid Merchant,-425,47,-4927
+Liquid Merchant,-303,104,-4372
+Liquid Merchant,-291,104,-4393
+Liquid Merchant,167,7,-5324
+Liquid Merchant,474,67,-1554
+Liquid Merchant,488,67,-1568
+Liquid Merchant,835,75,-5095
+Liquid Merchant,937,67,-1970
+Liquid Merchant,981,74,-690
+Liquid Merchant,992,16,-5138
+Liquid Merchant,995,16,-5135
+Liquid Merchant,1062,108,-4549
+Potion Merchant,-1868,59,-4534
+Potion Merchant,-1735,66,-5492
+Potion Merchant,-1692,75,-2595
+Potion Merchant,-1637,74,-2946
+Potion Merchant,-1467,42,-4734
+Potion Merchant,-1395,70,-2852
+Potion Merchant,-1170,66,-2383
+Potion Merchant,-1014,47,-5286
+Potion Merchant,-890,60,-1883
+Potion Merchant,-882,78,-943
+Potion Merchant,-872,59,-6010
+Potion Merchant,-821,68,-1593
+Potion Merchant,-737,102,-6443
+Potion Merchant,-647,59,-878
+Potion Merchant,-618,89,-1443
+Potion Merchant,-611,39,-3069
+Potion Merchant,-611,54,-3063
+Potion Merchant,-594,40,-3554
+Potion Merchant,-572,39,-3549
+Potion Merchant,-493,47,-4950
+Potion Merchant,-269,63,-1044
+Potion Merchant,-267,104,-4455
+Potion Merchant,-189,28,-321
+Potion Merchant,-142,67,-1806
+Potion Merchant,-12,76,-1135
+Potion Merchant,93,66,-3167
+Potion Merchant,114,41,-2172
+Potion Merchant,116,73,-778
+Potion Merchant,125,73,-781
+Potion Merchant,136,83,-662
+Potion Merchant,182,77,-672
+Potion Merchant,215,30,-5219
+Potion Merchant,284,16,-1961
+Potion Merchant,452,67,-1595
+Potion Merchant,743,164,-4447
+Potion Merchant,749,150,-4476
+Potion Merchant,758,79,-5045
+Potion Merchant,807,75,-5108
+Potion Merchant,862,45,-2874
+Potion Merchant,922,115,-5489
+Potion Merchant,923,67,-1955
+Potion Merchant,1014,78,-682
+Potion Merchant,1099,14,-5207
+Potion Merchant,1121,107,-4549
+Potion Merchant,1267,32,-1322
+Potion Merchant,1278,88,-749
+Potion Merchant,1377,144,-5285
+Potion Merchant,1413,94,-1824
+Potion Merchant,1480,46,-5275
+Potion Merchant,65543,102,65927
+Potion Merchant,65547,102,65519
+Scroll Merchant,-2136,53,-4563
+Scroll Merchant,-1725,66,-5529
+Scroll Merchant,-1632,69,-2910
+Scroll Merchant,-1431,42,-4718
+Scroll Merchant,-1175,66,-2419
+Scroll Merchant,-993,47,-5289
+Scroll Merchant,-879,77,-895
+Scroll Merchant,-816,67,-1561
+Scroll Merchant,-691,39,-3116
+Scroll Merchant,-690,54,-3110
+Scroll Merchant,-456,47,-4957
+Scroll Merchant,-300,43,-1141
+Scroll Merchant,-253,104,-4395
+Scroll Merchant,87,66,-3189
+Scroll Merchant,112,73,-834
+Scroll Merchant,116,73,-813
+Scroll Merchant,123,40,-2208
+Scroll Merchant,226,30,-5268
+Scroll Merchant,478,67,-1537
+Scroll Merchant,737,164,-4417
+Scroll Merchant,749,150,-4462
+Scroll Merchant,776,79,-5051
+Scroll Merchant,797,75,-5110
+Scroll Merchant,876,46,-2858
+Scroll Merchant,931,76,-1923
+Scroll Merchant,953,118,-4593
+Scroll Merchant,969,74,-667
+Scroll Merchant,1004,110,-5464
+Scroll Merchant,1034,19,-5120
+Scroll Merchant,1324,32,-1346
+Scroll Merchant,1476,44,-5309
+Weapon Merchant,-1873,53,-4567
+Weapon Merchant,-1769,66,-5527
+Weapon Merchant,-1626,70,-2970
+Weapon Merchant,-1027,47,-5298
+Weapon Merchant,-859,78,-944
+Weapon Merchant,-808,68,-1596
+Weapon Merchant,-728,65,-1020
+Weapon Merchant,-623,54,-3081
+Weapon Merchant,-618,39,-3078
+Weapon Merchant,-462,49,-4900
+Weapon Merchant,115,73,-790
+Weapon Merchant,116,45,-2152
+Weapon Merchant,116,73,-819
+Weapon Merchant,135,66,-3159
+Weapon Merchant,250,30,-5259
+Weapon Merchant,507,36,-1594
+Weapon Merchant,739,74,-2085
+Weapon Merchant,767,75,-5096
+Weapon Merchant,772,79,-5030
+Weapon Merchant,783,60,-3334
+Weapon Merchant,925,110,-4543
+Weapon Merchant,962,67,-1966
+Weapon Merchant,994,39,-3496
+Weapon Merchant,1130,14,-5096
+Weapon Merchant,1262,32,-1362
+Weapon Merchant,7986,26,5124
