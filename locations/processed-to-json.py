@@ -20,6 +20,9 @@ for line in lines:
 
     parts = line.split(",")
     location = {'x': int(parts[1]), 'y': int(parts[2]), 'z': int(parts[3])}
+    if location['x'] > 2000 or location["x"] < -2500 or location["z"] < -200 or location["z"] > 7000:
+        # exclude as it is not part of main map area
+        continue
     if parts[0] not in service_map:
         service_map[parts[0]] = [location]
     else:
