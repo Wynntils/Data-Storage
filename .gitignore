@@ -1,1 +1,4 @@
 .vscode/
+locations/unhandled/
+locations/cleaned.csv
+locations/tmp*

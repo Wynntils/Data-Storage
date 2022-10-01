@@ -1,32 +1,42 @@
 name,x,y,z
 C.S.S Wavebreaker,-1371,39,-2948
-C.S.S Wavebreaker,153,40,-3111
-Hot Air Balloon,-1571,103,-2915
+C.S.S Wavebreaker,153,39,-3111
+Hot Air Balloon,-1571,104,-2915
 Hot Air Balloon,756,175,-4402
-Lift,1128,105,-1486
-Lift,1133,108,-1385
-Lift,1184,93,-1621
-Lift,1194,33,-1429
-Lift,1211,118,-1422
-Lift,1295,101,-1467
+Hot Air Balloon,769,163,-4380
+Lift,1055,93,-1543
+Lift,1068,32,-1532
+Lift,1128,104,-1486
+Lift,1130,32,-1503
+Lift,1133,109,-1385
+Lift,1146,36,-1387
+Lift,1184,92,-1621
+Lift,1194,32,-1429
+Lift,1202,33,-1612
+Lift,1211,117,-1422
+Lift,1291,32,-1449
+Lift,1295,100,-1467
+Lift,1301,33,-1581
 Lift,1319,94,-1586
 Lift,1341,99,-1482
-Lift,1386,109,-1371
-Seaskipper,-1948,36,-4225
-Seaskipper,-1084,36,-3788
+Lift,1353,32,-1492
+Lift,1386,108,-1371
+Lift,1387,32,-1360
+Seaskipper,-1948,34,-4225
+Seaskipper,-1084,35,-3788
 Seaskipper,-691,35,-3162
-Seaskipper,-518,35,-2679
+Seaskipper,-518,36,-2679
 Seaskipper,-299,36,-2505
 Seaskipper,-52,36,-2520
-Seaskipper,92,36,-3065
+Seaskipper,77,66,-925
+Seaskipper,92,34,-3065
 Seaskipper,154,36,-3804
 Seaskipper,182,34,-2274
-Seaskipper,436,36,-2949
+Seaskipper,436,34,-2949
 Seaskipper,561,36,-3722
 Seaskipper,719,34,-3380
-Seaskipper,772,36,-3864
-Seaskipper,863,36,-2821
-Seaskipper,1080,36,-2540
+Seaskipper,772,34,-3864
+Seaskipper,863,35,-2821
+Seaskipper,1080,35,-2540
 Seaskipper,1263,35,-4095
-Seaskipper,16339,36,15738
 The Juggler,-475,49,-4917
