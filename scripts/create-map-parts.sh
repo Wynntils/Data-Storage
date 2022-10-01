@@ -101,7 +101,7 @@ echo "[" > $JSON_METADATA_FILE
 
 do_map "Sunset Valley" "sunset-valley" -4 -3 19 19
 
-#do_map "Realm of Light" "light" -3 -2 -13 -12
+do_map "Realm of Light" "realm-of-light" -3 -2 -13 -12
 
 # Remove the trailing comma
 $HEAD -n -1 $JSON_METADATA_FILE > $JSON_METADATA_FILE.tmp
