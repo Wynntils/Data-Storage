@@ -33,37 +33,6 @@ elif [[ $COMMAND == "install-in-journeymap" ]]; then
   diff -q $WYNNDATA_DIR/journeymap-data/DIM0/day journeymap/data/mp/$WYNNCRAFT_WORLD_NAME/DIM0/day
   cp -f $WYNNDATA_DIR/journeymap-data/DIM0/day/* journeymap/data/mp/$WYNNCRAFT_WORLD_NAME/DIM0/day
   echo "Your journeymap installation now has the latest map data"
-elif [[ $COMMAND == "update-raw-map" ]]; then
-  mkdir -p $WYNNDATA_DIR/rawmap
-  TMPDIR=$(mktemp -dt wynntils-map.XXXXX)
-  if [[ ! -e $TMPDIR ]]; then
-    echo "Failed to create temporary directory"
-    exit 1
-  fi
-  echo "Using java:"
-  java -version
-
-  #### Do main map
-  OUTPUT_MAP=map-raw-main.png
-  SOURCE_TILES="$(ls $WYNNDATA_DIR/journeymap-data/DIM0/day/[0-5],-[1-9].png $WYNNDATA_DIR/journeymap-data/DIM0/day/-[1-5],-[1-9].png $WYNNDATA_DIR/journeymap-data/DIM0/day/[0-5],-1[0-3].png $WYNNDATA_DIR/journeymap-data/DIM0/day/-[1-5],-1[0-3].png $WYNNDATA_DIR/journeymap-data/DIM0/day/0,0.png)"
-  mkdir -p $TMPDIR/DIM0/day
-  cp -a $SOURCE_TILES $TMPDIR/DIM0/day/
-  # for syntax regarding journeymaptools-0.3.jar, see https://journeymap.info/JourneyMapTools
-#  java -jar $WYNNDATA_DIR/bin/journeymaptools-0.3.jar MapSaver $TMPDIR $WYNNDATA_DIR/rawmap/$OUTPUT_MAP 512 512 -1 0 false day
-  rm -rf $TMPDIR/DIM0/day
-
-  #### Do side maps
-  # Bonfire area
-  OUTPUT_MAP=map-raw-bonfire.png
-  SOURCE_TILES="$(ls $WYNNDATA_DIR/journeymap-data/DIM0/day/-[3-4],19.png)"
-  mkdir -p $TMPDIR/DIM0/day
-  cp -a $SOURCE_TILES $TMPDIR/DIM0/day/
-  # for syntax regarding journeymaptools-0.3.jar, see https://journeymap.info/JourneyMapTools
-  java -jar $WYNNDATA_DIR/bin/journeymaptools-0.3.jar MapSaver $TMPDIR $WYNNDATA_DIR/rawmap/$OUTPUT_MAP 512 512 -1 0 false day
-  rm -rf $TMPDIR/DIM0/day
-
-  rm -rf $TMPDIR
-  echo "Rawmap updated. Please go to $WYNNDATA_DIR and commit and push your changes"
 elif [[ $COMMAND == "install-wynntils-config" ]]; then
   if [[ ! -d journeymap/config/5.7 ]]; then
       echo "Cannot find journeymap 5.7 config directory"
