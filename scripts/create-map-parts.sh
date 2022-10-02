@@ -97,7 +97,7 @@ echo "[" > $JSON_METADATA_FILE
 #### Create all maps
 # syntax: do_map "Nice name" "short-name" x1 x2 z1 z2, where x1 <= x2 and z1 <= z2
 
-#do_map "Main" "main" -5 3 -12 -1
+do_map "Main" "main" -5 3 -12 -1
 
 do_map "Sunset Valley" "sunset-valley" -4 -3 19 19
 
