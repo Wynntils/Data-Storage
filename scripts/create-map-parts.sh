@@ -12,7 +12,7 @@ JSON_METADATA_FILE="$WYNNDATA_DIR/out/maps.json"
 
 if [ "$(uname -s)" == "Linux" ]; then
     HEAD=head
-else # Use GNU sed, macOS BSD sed is too stupid
+else # Use GNU head, macOS BSD head is too stupid
     HEAD=ghead
 fi
 
@@ -31,6 +31,7 @@ function do_map() {
   Z1=$5
   Z2=$6
 
+  echo "===================="
   echo "Processing $NAME..."
   OUTPUT_MAP=raw-map-$FILE.png
   SOURCE_TILES=""
@@ -56,22 +57,30 @@ function do_map() {
   # for syntax regarding journeymaptools-0.3.jar, see https://journeymap.info/JourneyMapTools
   java -Djava.awt.headless=true -jar $WYNNDATA_DIR/bin/journeymaptools-0.3.jar MapSaver $TMPDIR $RAW_FILE_NAME 512 512 -1 0 false day
 
-
-  # mask and map is 1024 x 512
-  # Offset of mask into the raw map file
+  echo
 
   MASK_FILE_NAME="$WYNNDATA_DIR/masks/map-mask-$FILE.png"
 
   OUTPUT_FILE_NAME="$WYNNDATA_DIR/out/map-$FILE.png"
 
+  # If we have a mask:
   # First crop the input map to match the mask dimensions, using offset 167+48
   # Then make all black areas on the mask 100% alpha
+
+  # Always:
   # Then do "vibrance", turning up the saturation of unsaturated colors
   # (Inspired by http://www.fmwconcepts.com/imagemagick/vibrance3/index.php)
   # Finally store as max commpressed png, using -quality 94 == max zlib compression
   # with the Paeth filter.
 
-  magick $RAW_FILE_NAME +repage $MASK_FILE_NAME -alpha off -compose CopyOpacity -composite -colorspace HCL -channel g -sigmoidal-contrast 2,0% +channel -colorspace sRGB +repage -quality 94 $OUTPUT_FILE_NAME
+  if [ -e $MASK_FILE_NAME ]; then
+    echo Using mask $MASK_FILE_NAME
+    magick $RAW_FILE_NAME +repage $MASK_FILE_NAME -alpha off -compose CopyOpacity -composite -colorspace HCL -channel g -sigmoidal-contrast 2,0% +channel -colorspace sRGB +repage -quality 94 $OUTPUT_FILE_NAME
+  else
+    echo No mask file found
+    magick $RAW_FILE_NAME -colorspace HCL -channel g -sigmoidal-contrast 2,0% +channel -colorspace sRGB +repage -quality 94 $OUTPUT_FILE_NAME
+  fi
+  echo
 
   x_min=$(expr $X1 '*' 512)
   x_max=$(expr $X2 '*' 512 + 511)
@@ -101,6 +110,8 @@ do_map "Main" "main" -5 3 -12 -1
 do_map "Sunset Valley" "sunset-valley" -4 -3 19 19
 do_map "Realm of Light" "realm-of-light" -3 -2 -13 -12
 do_map "The Void" "void" 26 27 -10 -7
+do_map "Ceralus Farm 1" "ceralus-1" -10 -7 -3 -3
+do_map "Ceralus Farm 2" "ceralus-2" -17 -16 -3 -3
 
 # Remove the trailing comma
 $HEAD -n -1 $JSON_METADATA_FILE > $JSON_METADATA_FILE.tmp
