@@ -117,6 +117,7 @@ do_map "Seaskipper" "seaskipper" 31 32 30 30
 do_map "Sunset Valley" "sunset-valley" -4 -3 19 19
 do_map "The Void" "void" 26 27 -10 -7
 do_map "Wynnter Fair" "wynnter-fair" -3 -2 31 32
+do_map "Wynnter Fair Parkour" "wynnter-fair-parkour" -4 -4 35 36
 
 # Remove the trailing comma
 $HEAD -n -1 $JSON_METADATA_FILE > $JSON_METADATA_FILE.tmp
