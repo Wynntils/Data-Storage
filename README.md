@@ -1,12 +1,35 @@
 # Wynntils Data-Storage
 
-## worldmap
+## Wynntils maps
+
+Generating maps for Wynntils (both Artemis and Legacy) is a two-step process.
+First, we must gather "tiles" of maps using Journeymap, and then we can process
+these tiles into the png files and additional metadata needed by Wynntils.
+
+It is important to keep a high quality of the tile data. This will allow us to
+make minor updates to the map by just gathering the modified tiles, and then
+easily update the map using a simple script.
+
+### The worldmap directory
+
 The `worldmap` directory contains all data needed to re-generate the in-game
 worldmap/minimap.
+
+`worldmap/journeymap-data` contains tiles that are created by Journeymap, and
+special care must be taken to keep them correctly updated. Make sure to read the
+following instructions carefully!
+
+`worldmap/masks` contains black and white masks that determine which part of the
+mapped areas that should be included, and which should be transparent. See below
+on adding new areas on how to update these. The single mask used by Legacy is
+instead stored in `reference/map-mask.png`.
 
 The script `scripts/update-journeymap.sh` will help you with updating the
 worldmap, to make sure this is done as smoothly as possible for you, and with
 repeatable results.
+
+## Gathering tiles data
+
 ### Preparations before first mapping
 
 Select the Minecraft installation that you're planning to use. You can use your
@@ -24,7 +47,7 @@ folder. Run the script from there, e.g.
 OK, you will see a help screen:
 
 ```
-Usage: ./Data-Storage/scripts/update-journeymap.sh [get-from-journeymap|install-in-journeymap|update-raw-map|install-wynntils-config|restore-orig-config]
+Usage: ./Data-Storage/scripts/update-journeymap.sh [get-from-journeymap|install-in-journeymap|install-wynntils-config|restore-orig-config]
 ```
 
 Now setup the wynntils configuration. (Don't worry, your original config will be
@@ -60,7 +83,50 @@ that. When you are done, quit Minecraft.
 Go to your Minecraft folder, and run `$DS/scripts/update-journeymap.sh
 get-from-journeymap` to copy the latest map data into the git repo from your
 journeymap installation. (If your world is not named `Wynncraft`, you need to
-override )`WYNNCRAFT_WORLD_NAME`)
+override `WYNNCRAFT_WORLD_NAME`)
 
 Then go to `$DS`, do `git status` to verify that you have changed only the tiles
-in `worldmap/journeymap-data`, and then commit and push your changes.
+in `worldmap/journeymap-data`. Now comes the tricky part. Journeymap will always
+update all tiles you have visited, even if there are no visible changes. If we
+blindly push all binary changes in this directory, the repository will quickly
+grow in size. So, please double check all changed image tiles if you really
+intended to update them. If you were just about remapping a specific area,
+revert all changes except for that area. If you can't visibly spot any
+difference in unrelated areas, just revert those files.
+
+Finally, commit the real changed tiles, and push it upstream/open a PR.
+
+## Generating maps from collected tiles
+
+The next step is to use the scripts available here to generate the updated map
+png files and associated metadata. Make sure you have updated the tiles properly
+first as described above.
+
+### Artemis
+
+Run the shell script `scripts/update-maps-artemis.sh`. This will create a
+directory `worldmap/out` (and also other data files). Do not commit these
+generated files to the repository! Instead, copy them to the `maps` directory in
+where you have checked out https://github.com/Wynntils/WynntilsWebsite-API
+(called `$WWAPI` below). Note especially the updated maps.json, which contain
+new md5 sums for these maps.
+
+However **don't commit these files blindly** to `$WWAPI`! The script will
+regenerate all maps, and they will get new md5 due to time stamps, but they are
+visually identical, and it is just a waste of disk space and bandwith for us and
+all our users to update them without need. Instead, revert those map files that
+you know have not been changed. Also revert the corresponding md5 sums in
+`maps.json`. So if you e.g. are updating just the main map, there should only be
+a map-main.png file, and a single md5 line change in `maps.json`.
+
+Now you can commit this to `$WWAPI`, and push upstream/open a PR.
+
+### Legacy
+
+Run the shell script `scripts/update-maps-legacy.sh`. This will create a file
+`main-map.png` in `$DS`. Do not commit this generated files to the repository!
+Instead, copy it to the `maps` directory in where you have checked out
+https://github.com/Wynntils/WynntilsWebsite-API (called `$WWAPI` below).
+
+The md5 sum will be updated after commit by a php script, so now you can commit
+this to `$WWAPI`, and push upstream/open a PR.

@@ -54,5 +54,5 @@ elif [[ $COMMAND == "restore-orig-config" ]]; then
   cp -a journeymap/colorpalette.json.orig journeymap/colorpalette.json
   echo "Restored journeymap.core.config and colorpalette.json from backups"
 else
-  echo "Usage: $0 [get-from-journeymap|install-in-journeymap|update-raw-map|install-wynntils-config|restore-orig-config]"
+  echo "Usage: $0 [get-from-journeymap|install-in-journeymap|install-wynntils-config|restore-orig-config]"
 fi
