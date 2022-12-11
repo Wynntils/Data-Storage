@@ -30,6 +30,11 @@ repeatable results.
 
 ## Gathering tiles data
 
+The following sections describes the setup you need to do once to start
+gathering tiles, preparations that you need to do before each mapping session,
+how you do the actual mapping and how you save the tiles to the repository when
+you are done.
+
 ### Preparations before first mapping
 
 Select the Minecraft installation that you're planning to use. You can use your
