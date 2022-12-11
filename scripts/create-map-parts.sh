@@ -10,6 +10,9 @@ WYNNDATA_DIR=${WYNNDATA_DIR:-$base_dir/worldmap}
 BASE_URL="https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps"
 JSON_METADATA_FILE="$WYNNDATA_DIR/out/maps.json"
 
+# ImageMagick respects SOURCE_DATE_EPOCH, and will make consistent timestamps if it is set
+export SOURCE_DATE_EPOCH=946684800
+
 if [ "$(uname -s)" == "Linux" ]; then
     HEAD=head
 else # Use GNU head, macOS BSD head is too stupid
@@ -62,7 +65,8 @@ function do_map() {
   MASK_FILE_NAME="$WYNNDATA_DIR/masks/map-mask-$FILE.png"
 
   OUTPUT_FILE_NAME="$WYNNDATA_DIR/out/map-$FILE.png"
-  BLACKEDOUT_FILE_NAME="$WYNNDATA_DIR/tmp/blacked-out-map-$FILE.png"
+  FULLCOLOR_FILE_NAME="$WYNNDATA_DIR/tmp/fullcolor-$FILE.png"
+  INDEXED_FILE_NAME="$WYNNDATA_DIR/tmp/indexed-$FILE.png"
   mkdir -p $WYNNDATA_DIR/tmp
 
   # If we have a mask: First start by procecting all areas covered by the mask,
@@ -77,12 +81,17 @@ function do_map() {
 
   if [ -e $MASK_FILE_NAME ]; then
     echo Using mask $MASK_FILE_NAME
-    magick $RAW_FILE_NAME -alpha off -write-mask $MASK_FILE_NAME -fill black -colorize 100% +write-mask $MASK_FILE_NAME -compose copy-opacity -composite -colorspace HCL -channel g -sigmoidal-contrast 2,0% +channel -colorspace sRGB -quality 94 $OUTPUT_FILE_NAME
+    magick $RAW_FILE_NAME -alpha off -write-mask $MASK_FILE_NAME -fill black -colorize 100% +write-mask $MASK_FILE_NAME -compose copy-opacity -composite -colorspace HCL -channel g -sigmoidal-contrast 2,0% +channel -colorspace sRGB -quality 94 $FULLCOLOR_FILE_NAME
 
   else
     echo No mask file found
-    magick $RAW_FILE_NAME -colorspace HCL -channel g -sigmoidal-contrast 2,0% +channel -colorspace sRGB -quality 94 $OUTPUT_FILE_NAME
+    magick $RAW_FILE_NAME -colorspace HCL -channel g -sigmoidal-contrast 2,0% +channel -colorspace sRGB -quality 94 $FULLCOLOR_FILE_NAME
   fi
+
+  echo Will now compress using pngquant and zopflipng
+  pngquant --nofs --quality 100 --speed 1 --force --strip -o  $INDEXED_FILE_NAME $FULLCOLOR_FILE_NAME
+  zopflipng -y --iterations=5 --filters=0 $INDEXED_FILE_NAME $OUTPUT_FILE_NAME
+
   echo
 
   x_min=$(expr $X1 '*' 512)
