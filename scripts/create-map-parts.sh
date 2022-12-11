@@ -62,9 +62,12 @@ function do_map() {
   MASK_FILE_NAME="$WYNNDATA_DIR/masks/map-mask-$FILE.png"
 
   OUTPUT_FILE_NAME="$WYNNDATA_DIR/out/map-$FILE.png"
+  BLACKEDOUT_FILE_NAME="$WYNNDATA_DIR/tmp/blacked-out-map-$FILE.png"
+  mkdir -p $WYNNDATA_DIR/tmp
 
   # If we have a mask: First start by procecting all areas covered by the mask,
-  # and make all other areas black.
+  # and make all other areas black, and then reapply the mask as an alpha
+  # channel
 
   # Always:
   # Then do "vibrance", turning up the saturation of unsaturated colors
@@ -74,7 +77,10 @@ function do_map() {
 
   if [ -e $MASK_FILE_NAME ]; then
     echo Using mask $MASK_FILE_NAME
-    magick $RAW_FILE_NAME -alpha off -write-mask $MASK_FILE_NAME -fill black -colorize 100% -colorspace HCL -channel g -sigmoidal-contrast 2,0% +channel -colorspace sRGB +repage -quality 94 $OUTPUT_FILE_NAME
+    magick $RAW_FILE_NAME -alpha off -write-mask $MASK_FILE_NAME -fill black -colorize 100% $BLACKEDOUT_FILE_NAME
+    magick $BLACKEDOUT_FILE_NAME +repage $MASK_FILE_NAME -alpha off -compose CopyOpacity -composite -colorspace HCL -channel g -sigmoidal-contrast 2,0% +channel -colorspace sRGB +repage -quality 94 $OUTPUT_FILE_NAME
+
+
   else
     echo No mask file found
     magick $RAW_FILE_NAME -colorspace HCL -channel g -sigmoidal-contrast 2,0% +channel -colorspace sRGB +repage -quality 94 $OUTPUT_FILE_NAME
