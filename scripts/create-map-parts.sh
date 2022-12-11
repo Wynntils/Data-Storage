@@ -63,9 +63,8 @@ function do_map() {
 
   OUTPUT_FILE_NAME="$WYNNDATA_DIR/out/map-$FILE.png"
 
-  # If we have a mask:
-  # First crop the input map to match the mask dimensions, using offset 167+48
-  # Then make all black areas on the mask 100% alpha
+  # If we have a mask: First start by procecting all areas covered by the mask,
+  # and make all other areas black.
 
   # Always:
   # Then do "vibrance", turning up the saturation of unsaturated colors
@@ -75,7 +74,7 @@ function do_map() {
 
   if [ -e $MASK_FILE_NAME ]; then
     echo Using mask $MASK_FILE_NAME
-    magick $RAW_FILE_NAME +repage $MASK_FILE_NAME -alpha off -compose CopyOpacity -composite -colorspace HCL -channel g -sigmoidal-contrast 2,0% +channel -colorspace sRGB +repage -quality 94 $OUTPUT_FILE_NAME
+    magick $RAW_FILE_NAME -alpha off -write-mask $MASK_FILE_NAME -fill black -colorize 100% -colorspace HCL -channel g -sigmoidal-contrast 2,0% +channel -colorspace sRGB +repage -quality 94 $OUTPUT_FILE_NAME
   else
     echo No mask file found
     magick $RAW_FILE_NAME -colorspace HCL -channel g -sigmoidal-contrast 2,0% +channel -colorspace sRGB +repage -quality 94 $OUTPUT_FILE_NAME
