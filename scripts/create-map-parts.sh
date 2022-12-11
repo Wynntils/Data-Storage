@@ -77,13 +77,11 @@ function do_map() {
 
   if [ -e $MASK_FILE_NAME ]; then
     echo Using mask $MASK_FILE_NAME
-    magick $RAW_FILE_NAME -alpha off -write-mask $MASK_FILE_NAME -fill black -colorize 100% $BLACKEDOUT_FILE_NAME
-    magick $BLACKEDOUT_FILE_NAME +repage $MASK_FILE_NAME -alpha off -compose CopyOpacity -composite -colorspace HCL -channel g -sigmoidal-contrast 2,0% +channel -colorspace sRGB +repage -quality 94 $OUTPUT_FILE_NAME
-
+    magick $RAW_FILE_NAME -alpha off -write-mask $MASK_FILE_NAME -fill black -colorize 100% +write-mask $MASK_FILE_NAME -compose copy-opacity -composite -colorspace HCL -channel g -sigmoidal-contrast 2,0% +channel -colorspace sRGB -quality 94 $OUTPUT_FILE_NAME
 
   else
     echo No mask file found
-    magick $RAW_FILE_NAME -colorspace HCL -channel g -sigmoidal-contrast 2,0% +channel -colorspace sRGB +repage -quality 94 $OUTPUT_FILE_NAME
+    magick $RAW_FILE_NAME -colorspace HCL -channel g -sigmoidal-contrast 2,0% +channel -colorspace sRGB -quality 94 $OUTPUT_FILE_NAME
   fi
   echo
 
