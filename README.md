@@ -126,6 +126,59 @@ a map-main.png file, and a single md5 line change in `maps.json`.
 
 Now you can commit this to `$WWAPI`, and push upstream/open a PR.
 
+### Adding a new map part to Artemis
+
+In Artemis, multiple map parts are supported. (Legacy only has the main map.)
+
+* To add a new area, first start by mapping the tiles.
+
+* Then you need to figure out the bounding box of the region. You can easily
+spot this in the set of new files in the git repo for the tiles directory.
+
+* Set up a new area ("part") in `scripts/update-maps-artemis.sh`. Add a new line
+like this: \
+`do_map "Seaskipper" "seaskipper" 31 32 30 30`
+
+  This reads as follows: `do_map` is the function call, `"Seaskipper"` is a human
+friendly name for the area (currently not really used), `"seaskipper"` is a
+identifier suitable for the resulting png file name etc. The four numbers are
+the region bounding box. `31 32` is the X axis, `31` is the smallest (closest to
+negative infinity) value, and `32` is the largest. `30 30` is the Z axis, from
+smallest to largest. So if you have regions going from -3 to -4, make sure you
+put them as `-4 -3`!
+
+  A hint is to comment out the other `do_map` calls at this point, to speed up the
+process.
+
+* Now you can run the script `update-maps-artemis.sh`, and you will get the
+processed output image file in image file in
+`worldmap/out/map-<identifier>.png`. If this looks fine, you are done, but most
+likely, you will need to create a mask for this file to filter out bad parts of
+the terrain that is not supposed to be visible.
+
+* To create a mask, open the generated map in a image editor (I prefer Gimp).
+Make sure to not resize or translate the image. Now create a black and white
+mask of the same size. Black means that areas will be removed on the map, white
+that it will be kept.
+
+  You can do this in many ways. I prefer to add a new layer, trace the contour of
+the area I want to keep with e.g. the brush tool, and then fill the area outside
+this contour. I personally think this looks better if the contour looks a bit
+organic and not to strict. Make sure you have no dangling white spots where the
+flood fill did not fully fill all the way in to the brushed contour.
+
+  Regardless of how you produce the mask, at the end, make sure only the black and
+white layer is visible (e.g. by removing the original image layer), and convert
+the color model to a 2-color (1-bit) index color model. Now the mask is done.
+Save it as `worldmap/masks/map-mask-<your-area-identifier>.png`.
+
+* Now you can re-run the  `update-maps-artemis.sh` scripts. The image file in
+`worldmap/out/map-<identifier>.png` should be updated with a new file, with the
+mask applied. Check that it looks good.
+
+* When you are happy, make a PR/commit with the new mask and the new line in
+`update-maps-artemis.sh`.
+
 ### Legacy
 
 Run the shell script `scripts/update-maps-legacy.sh`. This will create a file
