@@ -1,5 +1,6 @@
 #!/bin/bash
-# This script helps the user update the map for Wynntils, using journeymap.
+# This script helps the user update the map for Artemis, using journeymap and
+# ImageMagick.
 # Please install journeymap 5.7, found in the bin directory.
 #
 # Made by magicus (https://github.com/magicus)
