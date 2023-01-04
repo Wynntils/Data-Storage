@@ -131,6 +131,14 @@ do_map "Sunset Valley" "sunset-valley" -4 -3 19 19
 do_map "The Void" "void" 26 27 -10 -7
 do_map "Wynnter Fair" "wynnter-fair" -3 -2 31 32
 do_map "Wynnter Fair Parkour" "wynnter-fair-parkour" -4 -4 35 36
+do_map "A Sandy Scandal 1" "sandy-scandal-1" -28 -27 40 41
+do_map "A Sandy Scandal 2" "sandy-scandal-2" -30 -29 40 40
+do_map "A Sandy Scandal 3" "sandy-scandal-3" -34 -33 41 42
+do_map "Kingdom of Sand 1" "kingdom-of-sand-1" 3 4 -4 -4
+do_map "Kingdom of Sand 2" "kingdom-of-sand-2" 4 5 1 1
+do_map "Kingdom of Sand 3" "kingdom-of-sand-3" 6 6 -3 -3
+do_map "Kingdom of Sand 4" "kingdom-of-sand-4" 11 11 -5 -4
+do_map "Kingdom of Sand 5" "kingdom-of-sand-5" 15 16 -4 -4
 
 # Remove the trailing comma
 $HEAD -n -1 $JSON_METADATA_FILE > $JSON_METADATA_FILE.tmp
