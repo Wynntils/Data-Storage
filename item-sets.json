@@ -362,7 +362,7 @@
         "healthBonus": 1500,
         "healthRegenRaw": 330,
         "intelligencePoints": 20,
-        "manaRegen": 30
+        "manaRegen": 24
       }
     ],
     "items": [
