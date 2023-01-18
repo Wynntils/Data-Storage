@@ -747,29 +747,20 @@
         "xpBonus": 20
       },
       {
-        "emeraldStealing": 5,
+        "emeraldStealing": 3,
         "healthBonus": 240,
         "lootBonus": 45,
         "speed": 5,
         "xpBonus": 45
       },
       {
-        "emeraldStealing": 15,
+        "emeraldStealing": 8,
         "healthBonus": 480,
         "lootBonus": 75,
         "reflection": 12,
         "speed": 10,
         "thorns": 12,
         "xpBonus": 75
-      },
-      {
-        "emeraldStealing": 20,
-        "healthBonus": 720,
-        "lootBonus": 120,
-        "reflection": 30,
-        "speed": 25,
-        "thorns": 30,
-        "xpBonus": 120
       }
     ],
     "items": [
