@@ -1,5 +1,5 @@
 {
-  "Adventurer's": {
+  "Adventurer": {
     "bonuses": [
       {},
       {
@@ -268,7 +268,7 @@
       "Recursion"
     ]
   },
-  "Champion": {
+  "Ascension": {
     "bonuses": [
       {},
       {},
@@ -347,7 +347,7 @@
       "Clock Mail"
     ]
   },
-  "Corrupted Nii": {
+  "Nii": {
     "bonuses": [
       {},
       {
@@ -371,7 +371,7 @@
       "Corrupted Nii Shako"
     ]
   },
-  "Corrupted Uth": {
+  "Uth": {
     "bonuses": [
       {},
       {
@@ -785,7 +785,7 @@
       "Jester Ring"
     ]
   },
-  "Kaerynn's": {
+  "Kaerynn": {
     "bonuses": [
       {},
       {
@@ -1536,7 +1536,7 @@
       "Ultramarine Cape"
     ]
   },
-  "Veekhat's": {
+  "Bovine": {
     "bonuses": [
       {},
       {
