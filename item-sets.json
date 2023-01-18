@@ -614,13 +614,6 @@
         "bonusWaterDefense": -15,
         "speed": 8,
         "waterDamageBonus": -15
-      },
-      {
-        "attackSpeedBonus": 1,
-        "bonusWaterDefense": -15,
-        "fireDamageBonus": 12,
-        "speed": 16,
-        "waterDamageBonus": -15
       }
     ],
     "items": [
