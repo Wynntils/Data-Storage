@@ -1543,7 +1543,7 @@
         "mainAttackDamageBonus": 30,
         "manaSteal": 8,
         "speed": 25,
-        "spellCostPct2": -28
+        "spellCostPct2": -40
       }
     ],
     "items": [
