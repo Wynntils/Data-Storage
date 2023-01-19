@@ -881,7 +881,7 @@
       {
         "healthBonus": 425,
         "lootBonus": 15,
-        "manaRegen": 6,
+        "manaRegen": 8,
         "spellCostRaw2": -5,
         "xpBonus": 15
       },
@@ -896,7 +896,7 @@
       {
         "healthBonus": 2275,
         "lootBonus": 55,
-        "manaRegen": 12,
+        "manaRegen": 14,
         "spellCostRaw2": -5,
         "spellCostRaw4": -5,
         "xpBonus": 55
