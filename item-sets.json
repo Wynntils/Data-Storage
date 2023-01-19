@@ -1097,31 +1097,31 @@
     "bonuses": [
       {},
       {
-        "airDamageBonus": 15,
-        "defensePoints": 7,
-        "mainAttackDamageBonus": -15,
+        "airDamageBonus": 10,
+        "defensePoints": 5,
+        "mainAttackDamageBonus": -10,
         "manaRegen": 6,
+        "soulPoints": 5,
+        "spellDamageBonus": -5,
+        "waterDamageBonus": 10
+      },
+      {
+        "airDamageBonus": 20,
+        "defensePoints": 10,
+        "mainAttackDamageBonus": -20,
+        "manaRegen": 18,
         "soulPoints": 10,
         "spellDamageBonus": -10,
-        "waterDamageBonus": 15
+        "waterDamageBonus": 20
       },
       {
-        "airDamageBonus": 40,
-        "defensePoints": 15,
-        "mainAttackDamageBonus": -40,
-        "manaRegen": 18,
-        "soulPoints": 25,
-        "spellDamageBonus": -20,
-        "waterDamageBonus": 40
-      },
-      {
-        "airDamageBonus": 85,
-        "defensePoints": 40,
-        "mainAttackDamageBonus": -85,
-        "manaRegen": 36,
+        "airDamageBonus": 35,
+        "defensePoints": 30,
+        "mainAttackDamageBonus": -35,
+        "manaRegen": 30,
         "soulPoints": 100,
-        "spellDamageBonus": -40,
-        "waterDamageBonus": 85
+        "spellDamageBonus": -15,
+        "waterDamageBonus": 35
       }
     ],
     "items": [
