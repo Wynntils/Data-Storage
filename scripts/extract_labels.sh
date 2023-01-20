@@ -44,7 +44,7 @@ match($0, /fromWorldToLatLng\( *([0-9-]*), *[0-9-]*, *([0-9-]*), *ovconf/, a) {
   x = a[1];
   z = a[2];
 }
-match($0, /labelHtml\('"'"'(.*) *<div class="level">\[Lv. ([0-9+ -]*)\]<\/div>'"'"', '"'"'([0-9]*)'"'"'/, b) {
+match($0, /[^/] *html: labelHtml\('"'"'(.*) *<div class="level">\[Lv. ([0-9+ -]*)\]<\/div>'"'"', '"'"'([0-9]*)'"'"'/, b) {
   name = b[1];
   gsub(/[ \t]+$/, "", name);
   gsub("\\\\", "", name);
@@ -60,10 +60,12 @@ case 16:
 case 14:
     layer=3; break
   }
-  print "{ " jsonval("x") ", " jsonval("z") ", " jsonvalquote("name") ", " jsonval("layer") ", " jsonvalquote("level") " }"
+  if (substr(name,1,1) != "<") {
+    print "{ " jsonval("x") ", " jsonval("z") ", " jsonvalquote("name") ", " jsonval("layer") ", " jsonvalquote("level") " }"
+  }
 }
 
-match($0, /labelHtml\('"'"'([^[]*)'"'"', '"'"'([0-9]*)'"'"'/, b) {
+match($0, /[^/] *html: labelHtml\('"'"'([^[]*)'"'"', '"'"'([0-9]*)'"'"'/, b) {
   name = b[1];
   gsub(/[ \t]+$/, "", name);
   gsub("\\\\", "", name);
@@ -76,7 +78,9 @@ case 16:
 case 14:
     layer=3; break
   }
-  print "{ " jsonval("x") ", " jsonval("z") ", " jsonvalquote("name") ", " jsonval("layer") " }"
+  if (substr(name,1,1) != "<") {
+    print "{ " jsonval("x") ", " jsonval("z") ", " jsonvalquote("name") ", " jsonval("layer") " }"
+  }
 }
 ' > "$TARGET.tmp"
 

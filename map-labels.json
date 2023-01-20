@@ -297,7 +297,7 @@
     {
       "x": -751,
       "z": -751,
-      "name": "Jungle Village",
+      "name": "Iboju Village",
       "layer": 3,
       "level": "50"
     },
@@ -367,7 +367,7 @@
     {
       "x": 300,
       "z": -3186,
-      "name": "Seavale Reefs",
+      "name": "Seavale Reef",
       "layer": 3,
       "level": "25"
     },
@@ -417,7 +417,7 @@
       "x": -301,
       "z": -1171,
       "name": "Tempo Town",
-      "layer": 2,
+      "layer": 3,
       "level": "25"
     },
     {
@@ -520,7 +520,7 @@
       "x": 757,
       "z": -4466,
       "name": "Kandon-Beda",
-      "layer": 3,
+      "layer": 2,
       "level": "95"
     },
     {
@@ -531,8 +531,8 @@
       "level": "45"
     },
     {
-      "x": -950,
-      "z": -4913,
+      "x": -1031,
+      "z": -4795,
       "name": "Light Forest",
       "layer": 3,
       "level": "70"
@@ -622,8 +622,8 @@
       "level": "70"
     },
     {
-      "x": -1926,
-      "z": -5299,
+      "x": -1636,
+      "z": -5317,
       "name": "Swamp",
       "layer": 3,
       "level": "50"
@@ -650,12 +650,13 @@
     {
       "x": 395,
       "z": -5573,
-      "name": "The Hive",
-      "layer": 3
+      "name": "Qira Hive",
+      "layer": 3,
+      "level": "80-100"
     },
     {
-      "x": -1041,
-      "z": -4480,
+      "x": -1029,
+      "z": -4408,
       "name": "Light's Secret",
       "layer": 3
     },
@@ -716,6 +717,76 @@
       "name": "The Eldritch Outlook",
       "layer": 3,
       "level": "100+"
+    },
+    {
+      "x": 1106,
+      "z": -1011,
+      "name": "Toxic Wastes",
+      "layer": 3,
+      "level": "105"
+    },
+    {
+      "x": 1464,
+      "z": -1059,
+      "name": "Void Valley",
+      "layer": 3,
+      "level": "105"
+    },
+    {
+      "x": -2199,
+      "z": -4844,
+      "name": "Fallen Meteor",
+      "layer": 3,
+      "level": "40"
+    },
+    {
+      "x": -2009,
+      "z": -5541,
+      "name": "Devastated Swamp",
+      "layer": 3,
+      "level": "55"
+    },
+    {
+      "x": -1990,
+      "z": -5306,
+      "name": "The Maiden Tower",
+      "layer": 3,
+      "level": "50"
+    },
+    {
+      "x": -1397,
+      "z": -5211,
+      "name": "Overtaken Outpost",
+      "layer": 3,
+      "level": "60"
+    },
+    {
+      "x": -1191,
+      "z": -5157,
+      "name": "Caritat Mansion",
+      "layer": 3,
+      "level": "65"
+    },
+    {
+      "x": -1028,
+      "z": -5670,
+      "name": "Dullahan Castle",
+      "layer": 3,
+      "level": "65"
+    },
+    {
+      "x": 689,
+      "z": -4521,
+      "name": "The Colossus",
+      "layer": 3,
+      "level": "95"
+    },
+    {
+      "x": -826,
+      "z": -6090,
+      "name": "The Realm of Light",
+      "layer": 2,
+      "level": "80"
     }
   ]
 }
