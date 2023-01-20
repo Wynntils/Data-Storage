@@ -84,7 +84,7 @@ case 14:
 }
 ' > "$TARGET.tmp"
 
-cat "$TARGET.tmp" "$MISSING" | jq -s '{labels: .}' > "$TARGET"
+cat "$TARGET.tmp" "$MISSING" | jq -s '{labels: .}' | jq --sort-keys ".labels|=sort_by(.name)" > "$TARGET"
 rm "$TARGET.tmp"
 
 echo Finished updating "$TARGET"

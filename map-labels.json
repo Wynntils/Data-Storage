@@ -1,792 +1,792 @@
 {
   "labels": [
     {
-      "x": -819,
-      "z": -1581,
-      "name": "Ragni",
-      "layer": 2,
-      "level": "1"
-    },
-    {
-      "x": 970,
-      "z": -1983,
-      "name": "Almuj",
-      "layer": 2,
-      "level": "30"
-    },
-    {
-      "x": 477,
-      "z": -1590,
-      "name": "Detlas",
-      "layer": 2,
-      "level": "10"
-    },
-    {
-      "x": 119,
-      "z": -2206,
-      "name": "Nemract",
-      "layer": 2,
-      "level": "20"
-    },
-    {
-      "x": -539,
-      "z": -1926,
-      "name": "Maltic",
       "layer": 3,
-      "level": "10"
-    },
-    {
-      "x": 828,
-      "z": -1610,
-      "name": "Ternaves",
-      "layer": 3,
-      "level": "15"
-    },
-    {
-      "x": 305,
-      "z": -2053,
-      "name": "Saint's Row",
-      "layer": 3,
-      "level": "25"
-    },
-    {
-      "x": 206,
-      "z": -1884,
-      "name": "Ancient Nemract",
-      "layer": 3,
-      "level": "20"
-    },
-    {
-      "x": -603,
-      "z": -1611,
-      "name": "Emerald Trail",
-      "layer": 3,
-      "level": "1"
-    },
-    {
-      "x": -459,
-      "z": -1254,
-      "name": "Time Valley",
-      "layer": 3,
-      "level": "25"
-    },
-    {
-      "x": -680,
-      "z": -1384,
-      "name": "Pigmen's Ravines",
-      "layer": 3,
-      "level": "15"
-    },
-    {
-      "x": -198,
-      "z": -1536,
-      "name": "Nivla Woods",
-      "layer": 3,
-      "level": "5"
-    },
-    {
-      "x": 117,
-      "z": -817,
-      "name": "Nesaak",
-      "layer": 2,
-      "level": "40"
-    },
-    {
-      "x": 10,
-      "z": -1227,
-      "name": "Elkurn",
-      "layer": 3,
-      "level": "5"
-    },
-    {
-      "x": 705,
-      "z": -2096,
-      "name": "Bremminglar",
-      "layer": 3,
-      "level": "15"
-    },
-    {
-      "x": 280,
-      "z": -1586,
-      "name": "Detlas Suburb",
-      "layer": 3,
-      "level": "10"
-    },
-    {
-      "x": 1362,
-      "z": -539,
-      "name": "Path to Darkness",
-      "layer": 3,
-      "level": "110"
-    },
-    {
-      "x": 873,
-      "z": -2844,
-      "name": "Mage Island",
-      "layer": 3,
-      "level": "30"
-    },
-    {
-      "x": 667,
-      "z": -1519,
-      "name": "Black Road",
-      "layer": 3,
-      "level": "12"
-    },
-    {
-      "x": 480,
-      "z": -2058,
-      "name": "Pirate Bay",
-      "layer": 3,
-      "level": "20"
-    },
-    {
-      "x": -793,
-      "z": -963,
-      "name": "Troms",
-      "layer": 2,
-      "level": "55"
-    },
-    {
-      "x": 410,
-      "z": -1128,
-      "name": "Corrupted Village",
-      "layer": 3,
-      "level": "25"
-    },
-    {
-      "x": -691,
-      "z": -1022,
-      "name": "Temple of Legends",
-      "layer": 3,
-      "level": "70"
-    },
-    {
-      "x": 999,
-      "z": -2580,
-      "name": "Half Moon Island",
-      "layer": 3,
-      "level": "30"
-    },
-    {
-      "x": 437,
-      "z": -2880,
-      "name": "Durum Isles",
-      "layer": 3,
-      "level": "20"
-    },
-    {
-      "x": 92,
-      "z": -3183,
-      "name": "Selchar",
-      "layer": 2,
-      "level": "25"
-    },
-    {
-      "x": -1632,
-      "z": -2930,
-      "name": "Corkus City",
-      "layer": 2,
-      "level": "85"
-    },
-    {
-      "x": -1112,
-      "z": -2430,
-      "name": "Legendary Island",
-      "layer": 2,
-      "level": "90+"
-    },
-    {
-      "x": -1668,
-      "z": -2366,
-      "name": "Relos",
-      "layer": 3,
-      "level": "85"
-    },
-    {
-      "x": -1822,
-      "z": -3176,
-      "name": "Avos Territory",
-      "layer": 3,
-      "level": "90"
-    },
-    {
-      "x": 718,
-      "z": -3741,
-      "name": "Ghost Ship",
-      "layer": 3,
-      "level": "45"
-    },
-    {
-      "x": -106,
-      "z": -2476,
-      "name": "Rooster Island",
-      "layer": 3,
-      "level": "20"
-    },
-    {
-      "x": 376,
-      "z": -3485,
-      "name": "Skiens Island",
-      "layer": 3,
-      "level": "55"
-    },
-    {
-      "x": 791,
-      "z": -3340,
-      "name": "Nodguj Nation",
-      "layer": 3,
-      "level": "45"
-    },
-    {
-      "x": 977,
-      "z": -3468,
-      "name": "Dujgon Nation",
-      "layer": 3,
-      "level": "45"
-    },
-    {
-      "x": 909,
-      "z": -3339,
-      "name": "Ice Islands",
-      "layer": 2,
-      "level": "45"
-    },
-    {
-      "x": 173,
-      "z": -3947,
-      "name": "Maro Peaks",
-      "layer": 3,
-      "level": "60"
-    },
-    {
-      "x": -373,
-      "z": -2456,
-      "name": "The Bear Zoo",
-      "layer": 3,
-      "level": "15"
-    },
-    {
-      "x": 79,
-      "z": -2646,
-      "name": "Underwater Route",
-      "layer": 3,
-      "level": "20"
-    },
-    {
-      "x": -290,
-      "z": -2127,
-      "name": "Coastal Trail",
-      "layer": 3,
-      "level": "5"
-    },
-    {
-      "x": -800,
-      "z": -1907,
-      "name": "Katoa Ranch",
-      "layer": 3,
-      "level": "5"
-    },
-    {
-      "x": 124,
-      "z": -1227,
-      "name": "The Tower of Amnesia",
-      "layer": 3,
-      "level": "25"
-    },
-    {
-      "x": -751,
-      "z": -751,
-      "name": "Iboju Village",
-      "layer": 3,
-      "level": "50"
-    },
-    {
-      "x": 221,
-      "z": -814,
-      "name": "Underground Squid Village",
-      "layer": 3,
-      "level": "40"
-    },
-    {
-      "x": -365,
-      "z": -770,
-      "name": "The Great Bridge",
-      "layer": 3,
-      "level": "50"
-    },
-    {
-      "x": 1090,
-      "z": -2329,
-      "name": "Mummy's Tomb",
-      "layer": 3,
-      "level": "35"
-    },
-    {
-      "x": 122,
-      "z": -369,
-      "name": "House of Twain",
-      "layer": 3,
-      "level": "45"
-    },
-    {
-      "x": -695,
-      "z": -3132,
-      "name": "Pirate Town",
-      "layer": 3,
-      "level": "60"
-    },
-    {
-      "x": -500,
-      "z": -2831,
-      "name": "Zhight Island",
-      "layer": 3,
-      "level": "50"
-    },
-    {
-      "x": -98,
-      "z": -2010,
-      "name": "Mt. Wynn",
-      "layer": 3,
-      "level": "20"
-    },
-    {
-      "x": -992,
-      "z": -3672,
-      "name": "Volcanic Isles",
-      "layer": 3,
-      "level": "55"
-    },
-    {
-      "x": -182,
-      "z": -352,
-      "name": "Lusuco",
-      "layer": 3,
-      "level": "45"
-    },
-    {
-      "x": 300,
-      "z": -3186,
-      "name": "Seavale Reef",
-      "layer": 3,
-      "level": "25"
-    },
-    {
-      "x": 1291,
-      "z": -4082,
-      "name": "Jofash Dock",
-      "layer": 3,
-      "level": "90"
-    },
-    {
-      "x": 872,
-      "z": -3923,
-      "name": "Dead Island",
-      "layer": 3,
-      "level": "75"
-    },
-    {
-      "x": 806,
-      "z": -2253,
-      "name": "Lion Lair",
-      "layer": 3,
-      "level": "25"
-    },
-    {
-      "x": 1250,
-      "z": -1334,
-      "name": "Rymek",
-      "layer": 3,
-      "level": "35"
-    },
-    {
-      "x": 1380,
-      "z": -2247,
-      "name": "Invaded Barracks",
-      "layer": 3,
-      "level": "30"
-    },
-    {
-      "x": -549,
-      "z": -1214,
-      "name": "Door of Time",
-      "layer": 3,
-      "level": "25"
-    },
-    {
-      "x": -301,
-      "z": -1171,
-      "name": "Tempo Town",
-      "layer": 3,
-      "level": "25"
-    },
-    {
-      "x": 762,
-      "z": -1251,
+      "level": "25",
       "name": "Abandoned Mines",
-      "layer": 3,
-      "level": "25"
+      "x": 762,
+      "z": -1251
     },
     {
-      "x": 232,
-      "z": -1291,
-      "name": "Roots of Corruption",
-      "layer": 3
-    },
-    {
-      "x": 103,
-      "z": -1726,
-      "name": "The Province of Wynn",
-      "layer": 1
-    },
-    {
-      "x": -1989,
-      "z": -4533,
-      "name": "Llevigar",
       "layer": 2,
-      "level": "40"
-    },
-    {
-      "x": -1727,
-      "z": -5532,
-      "name": "Olux",
-      "layer": 2,
-      "level": "50"
-    },
-    {
-      "x": -455,
-      "z": -4928,
-      "name": "Cinfras",
-      "layer": 2,
-      "level": "75"
-    },
-    {
-      "x": 770,
-      "z": -5043,
-      "name": "Thesead",
-      "layer": 2,
-      "level": "85"
-    },
-    {
-      "x": 1101,
-      "z": -5136,
-      "name": "Rodoroc",
-      "layer": 2,
-      "level": "90"
-    },
-    {
-      "x": 1010,
-      "z": -4554,
+      "level": "100",
       "name": "Ahmsord",
-      "layer": 2,
-      "level": "100"
+      "x": 1010,
+      "z": -4554
     },
     {
-      "x": -479,
-      "z": -4546,
+      "layer": 3,
+      "level": "75",
       "name": "Aldorei",
-      "layer": 3,
-      "level": "75"
+      "x": -479,
+      "z": -4546
     },
     {
-      "x": 134,
-      "z": -5241,
-      "name": "Thanos",
-      "layer": 3,
-      "level": "80"
-    },
-    {
-      "x": -608,
-      "z": -5442,
-      "name": "Lexdale",
-      "layer": 3,
-      "level": "70"
-    },
-    {
-      "x": 941,
-      "z": -5506,
-      "name": "Eltom",
       "layer": 2,
-      "level": "85"
+      "level": "30",
+      "name": "Almuj",
+      "x": 970,
+      "z": -1983
     },
     {
-      "x": 1486,
-      "z": -5292,
-      "name": "Maex",
       "layer": 3,
-      "level": "90"
+      "level": "20",
+      "name": "Ancient Nemract",
+      "x": 206,
+      "z": -1884
     },
     {
-      "x": 757,
-      "z": -4466,
-      "name": "Kandon-Beda",
-      "layer": 2,
-      "level": "95"
-    },
-    {
-      "x": -1617,
-      "z": -4470,
-      "name": "Karoc Quarry",
       "layer": 3,
-      "level": "45"
+      "level": "90",
+      "name": "Avos Territory",
+      "x": -1822,
+      "z": -3176
     },
     {
-      "x": -1031,
-      "z": -4795,
-      "name": "Light Forest",
       "layer": 3,
-      "level": "70"
-    },
-    {
-      "x": -1162,
-      "z": -5341,
-      "name": "Dark Forest",
-      "layer": 3,
-      "level": "60"
-    },
-    {
-      "x": 1495,
-      "z": -5492,
-      "name": "Molten Heights",
-      "layer": 3,
-      "level": "90"
-    },
-    {
-      "x": -1493,
-      "z": -4818,
-      "name": "Pre-Light Forest",
-      "layer": 3,
-      "level": "65"
-    },
-    {
-      "x": 629,
-      "z": -5224,
-      "name": "Canyon of the Lost",
-      "layer": 3,
-      "level": "85"
-    },
-    {
-      "x": -1066,
-      "z": -5007,
-      "name": "Efilim",
-      "layer": 3,
-      "level": "70"
-    },
-    {
-      "x": 1266,
-      "z": -4697,
-      "name": "Sky Islands",
-      "layer": 3,
-      "level": "95"
-    },
-    {
-      "x": -1004,
-      "z": -5300,
-      "name": "Gelibord",
-      "layer": 2,
-      "level": "60"
-    },
-    {
-      "x": -779,
-      "z": -435,
-      "name": "Dernel Jungle",
-      "layer": 3,
-      "level": "60-70"
-    },
-    {
-      "x": -46,
-      "z": -5539,
-      "name": "Gert Camp",
-      "layer": 3,
-      "level": "75"
-    },
-    {
-      "x": -1459,
-      "z": -4719,
-      "name": "Bucie",
-      "layer": 3,
-      "level": "40"
-    },
-    {
-      "x": -164,
-      "z": -5238,
-      "name": "Lake Gylia",
-      "layer": 3,
-      "level": "75"
-    },
-    {
-      "x": -805,
-      "z": -5312,
-      "name": "Kander Forest",
-      "layer": 3,
-      "level": "70"
-    },
-    {
-      "x": -1636,
-      "z": -5317,
-      "name": "Swamp",
-      "layer": 3,
-      "level": "50"
-    },
-    {
-      "x": 606,
-      "z": -4873,
+      "level": "85",
       "name": "Bantisu Air Temple",
+      "x": 606,
+      "z": -4873
+    },
+    {
       "layer": 3,
-      "level": "85"
+      "level": "12",
+      "name": "Black Road",
+      "x": 667,
+      "z": -1519
     },
     {
-      "x": -189,
-      "z": -4917,
-      "name": "Letvus Airbase",
-      "layer": 3
-    },
-    {
-      "x": -310,
-      "z": -4933,
-      "name": "Guild Hall",
-      "layer": 3
-    },
-    {
-      "x": 395,
-      "z": -5573,
-      "name": "Qira Hive",
       "layer": 3,
-      "level": "80-100"
+      "level": "15",
+      "name": "Bremminglar",
+      "x": 705,
+      "z": -2096
     },
     {
-      "x": -1029,
-      "z": -4408,
-      "name": "Light's Secret",
-      "layer": 3
-    },
-    {
-      "x": -310,
-      "z": -430,
-      "name": "Tower of Ascension",
-      "layer": 3
-    },
-    {
-      "x": -847,
-      "z": -4911,
-      "name": "The Forgery",
       "layer": 3,
-      "level": "70"
+      "level": "40",
+      "name": "Bucie",
+      "x": -1459,
+      "z": -4719
     },
     {
-      "x": 256,
-      "z": -5288,
-      "name": "Ozoth's Spire",
-      "layer": 3
-    },
-    {
-      "x": -110,
-      "z": -5049,
-      "name": "The Province of Gavel",
-      "layer": 1
-    },
-    {
-      "x": 1144,
-      "z": -845,
-      "name": "The Silent Expanse",
-      "layer": 1
-    },
-    {
-      "x": -1522,
-      "z": -2752,
-      "name": "Corkus Island",
-      "layer": 1
-    },
-    {
-      "x": 979,
-      "z": -675,
-      "name": "Lutho",
-      "layer": 2,
-      "level": "105"
-    },
-    {
-      "x": 603,
-      "z": -543,
-      "name": "Ruined Olmic City",
       "layer": 3,
-      "level": "100"
+      "level": "85",
+      "name": "Canyon of the Lost",
+      "x": 629,
+      "z": -5224
     },
     {
-      "x": 1350,
-      "z": -904,
-      "name": "The Eldritch Outlook",
       "layer": 3,
-      "level": "100+"
-    },
-    {
-      "x": 1106,
-      "z": -1011,
-      "name": "Toxic Wastes",
-      "layer": 3,
-      "level": "105"
-    },
-    {
-      "x": 1464,
-      "z": -1059,
-      "name": "Void Valley",
-      "layer": 3,
-      "level": "105"
-    },
-    {
-      "x": -2199,
-      "z": -4844,
-      "name": "Fallen Meteor",
-      "layer": 3,
-      "level": "40"
-    },
-    {
-      "x": -2009,
-      "z": -5541,
-      "name": "Devastated Swamp",
-      "layer": 3,
-      "level": "55"
-    },
-    {
-      "x": -1990,
-      "z": -5306,
-      "name": "The Maiden Tower",
-      "layer": 3,
-      "level": "50"
-    },
-    {
-      "x": -1397,
-      "z": -5211,
-      "name": "Overtaken Outpost",
-      "layer": 3,
-      "level": "60"
-    },
-    {
-      "x": -1191,
-      "z": -5157,
+      "level": "65",
       "name": "Caritat Mansion",
-      "layer": 3,
-      "level": "65"
+      "x": -1191,
+      "z": -5157
     },
     {
-      "x": -1028,
-      "z": -5670,
-      "name": "Dullahan Castle",
-      "layer": 3,
-      "level": "65"
-    },
-    {
-      "x": 689,
-      "z": -4521,
-      "name": "The Colossus",
-      "layer": 3,
-      "level": "95"
-    },
-    {
-      "x": -826,
-      "z": -6090,
-      "name": "The Realm of Light",
       "layer": 2,
-      "level": "80"
+      "level": "75",
+      "name": "Cinfras",
+      "x": -455,
+      "z": -4928
+    },
+    {
+      "layer": 3,
+      "level": "5",
+      "name": "Coastal Trail",
+      "x": -290,
+      "z": -2127
+    },
+    {
+      "layer": 2,
+      "level": "85",
+      "name": "Corkus City",
+      "x": -1632,
+      "z": -2930
+    },
+    {
+      "layer": 1,
+      "name": "Corkus Island",
+      "x": -1522,
+      "z": -2752
+    },
+    {
+      "layer": 3,
+      "level": "25",
+      "name": "Corrupted Village",
+      "x": 410,
+      "z": -1128
+    },
+    {
+      "layer": 3,
+      "level": "60",
+      "name": "Dark Forest",
+      "x": -1162,
+      "z": -5341
+    },
+    {
+      "layer": 3,
+      "level": "75",
+      "name": "Dead Island",
+      "x": 872,
+      "z": -3923
+    },
+    {
+      "layer": 3,
+      "level": "60-70",
+      "name": "Dernel Jungle",
+      "x": -779,
+      "z": -435
+    },
+    {
+      "layer": 2,
+      "level": "10",
+      "name": "Detlas",
+      "x": 477,
+      "z": -1590
+    },
+    {
+      "layer": 3,
+      "level": "10",
+      "name": "Detlas Suburb",
+      "x": 280,
+      "z": -1586
+    },
+    {
+      "layer": 3,
+      "level": "55",
+      "name": "Devastated Swamp",
+      "x": -2009,
+      "z": -5541
+    },
+    {
+      "layer": 3,
+      "level": "25",
+      "name": "Door of Time",
+      "x": -549,
+      "z": -1214
+    },
+    {
+      "layer": 3,
+      "level": "45",
+      "name": "Dujgon Nation",
+      "x": 977,
+      "z": -3468
+    },
+    {
+      "layer": 3,
+      "level": "65",
+      "name": "Dullahan Castle",
+      "x": -1028,
+      "z": -5670
+    },
+    {
+      "layer": 3,
+      "level": "20",
+      "name": "Durum Isles",
+      "x": 437,
+      "z": -2880
+    },
+    {
+      "layer": 3,
+      "level": "70",
+      "name": "Efilim",
+      "x": -1066,
+      "z": -5007
+    },
+    {
+      "layer": 3,
+      "level": "5",
+      "name": "Elkurn",
+      "x": 10,
+      "z": -1227
+    },
+    {
+      "layer": 2,
+      "level": "85",
+      "name": "Eltom",
+      "x": 941,
+      "z": -5506
+    },
+    {
+      "layer": 3,
+      "level": "1",
+      "name": "Emerald Trail",
+      "x": -603,
+      "z": -1611
+    },
+    {
+      "layer": 3,
+      "level": "40",
+      "name": "Fallen Meteor",
+      "x": -2199,
+      "z": -4844
+    },
+    {
+      "layer": 2,
+      "level": "60",
+      "name": "Gelibord",
+      "x": -1004,
+      "z": -5300
+    },
+    {
+      "layer": 3,
+      "level": "75",
+      "name": "Gert Camp",
+      "x": -46,
+      "z": -5539
+    },
+    {
+      "layer": 3,
+      "level": "45",
+      "name": "Ghost Ship",
+      "x": 718,
+      "z": -3741
+    },
+    {
+      "layer": 3,
+      "name": "Guild Hall",
+      "x": -310,
+      "z": -4933
+    },
+    {
+      "layer": 3,
+      "level": "30",
+      "name": "Half Moon Island",
+      "x": 999,
+      "z": -2580
+    },
+    {
+      "layer": 3,
+      "level": "45",
+      "name": "House of Twain",
+      "x": 122,
+      "z": -369
+    },
+    {
+      "layer": 3,
+      "level": "50",
+      "name": "Iboju Village",
+      "x": -751,
+      "z": -751
+    },
+    {
+      "layer": 2,
+      "level": "45",
+      "name": "Ice Islands",
+      "x": 909,
+      "z": -3339
+    },
+    {
+      "layer": 3,
+      "level": "30",
+      "name": "Invaded Barracks",
+      "x": 1380,
+      "z": -2247
+    },
+    {
+      "layer": 3,
+      "level": "90",
+      "name": "Jofash Dock",
+      "x": 1291,
+      "z": -4082
+    },
+    {
+      "layer": 3,
+      "level": "70",
+      "name": "Kander Forest",
+      "x": -805,
+      "z": -5312
+    },
+    {
+      "layer": 2,
+      "level": "95",
+      "name": "Kandon-Beda",
+      "x": 757,
+      "z": -4466
+    },
+    {
+      "layer": 3,
+      "level": "45",
+      "name": "Karoc Quarry",
+      "x": -1617,
+      "z": -4470
+    },
+    {
+      "layer": 3,
+      "level": "5",
+      "name": "Katoa Ranch",
+      "x": -800,
+      "z": -1907
+    },
+    {
+      "layer": 3,
+      "level": "75",
+      "name": "Lake Gylia",
+      "x": -164,
+      "z": -5238
+    },
+    {
+      "layer": 2,
+      "level": "90+",
+      "name": "Legendary Island",
+      "x": -1112,
+      "z": -2430
+    },
+    {
+      "layer": 3,
+      "name": "Letvus Airbase",
+      "x": -189,
+      "z": -4917
+    },
+    {
+      "layer": 3,
+      "level": "70",
+      "name": "Lexdale",
+      "x": -608,
+      "z": -5442
+    },
+    {
+      "layer": 3,
+      "level": "70",
+      "name": "Light Forest",
+      "x": -1031,
+      "z": -4795
+    },
+    {
+      "layer": 3,
+      "name": "Light's Secret",
+      "x": -1029,
+      "z": -4408
+    },
+    {
+      "layer": 3,
+      "level": "25",
+      "name": "Lion Lair",
+      "x": 806,
+      "z": -2253
+    },
+    {
+      "layer": 2,
+      "level": "40",
+      "name": "Llevigar",
+      "x": -1989,
+      "z": -4533
+    },
+    {
+      "layer": 3,
+      "level": "45",
+      "name": "Lusuco",
+      "x": -182,
+      "z": -352
+    },
+    {
+      "layer": 2,
+      "level": "105",
+      "name": "Lutho",
+      "x": 979,
+      "z": -675
+    },
+    {
+      "layer": 3,
+      "level": "90",
+      "name": "Maex",
+      "x": 1486,
+      "z": -5292
+    },
+    {
+      "layer": 3,
+      "level": "30",
+      "name": "Mage Island",
+      "x": 873,
+      "z": -2844
+    },
+    {
+      "layer": 3,
+      "level": "10",
+      "name": "Maltic",
+      "x": -539,
+      "z": -1926
+    },
+    {
+      "layer": 3,
+      "level": "60",
+      "name": "Maro Peaks",
+      "x": 173,
+      "z": -3947
+    },
+    {
+      "layer": 3,
+      "level": "90",
+      "name": "Molten Heights",
+      "x": 1495,
+      "z": -5492
+    },
+    {
+      "layer": 3,
+      "level": "20",
+      "name": "Mt. Wynn",
+      "x": -98,
+      "z": -2010
+    },
+    {
+      "layer": 3,
+      "level": "35",
+      "name": "Mummy's Tomb",
+      "x": 1090,
+      "z": -2329
+    },
+    {
+      "layer": 2,
+      "level": "20",
+      "name": "Nemract",
+      "x": 119,
+      "z": -2206
+    },
+    {
+      "layer": 2,
+      "level": "40",
+      "name": "Nesaak",
+      "x": 117,
+      "z": -817
+    },
+    {
+      "layer": 3,
+      "level": "5",
+      "name": "Nivla Woods",
+      "x": -198,
+      "z": -1536
+    },
+    {
+      "layer": 3,
+      "level": "45",
+      "name": "Nodguj Nation",
+      "x": 791,
+      "z": -3340
+    },
+    {
+      "layer": 2,
+      "level": "50",
+      "name": "Olux",
+      "x": -1727,
+      "z": -5532
+    },
+    {
+      "layer": 3,
+      "level": "60",
+      "name": "Overtaken Outpost",
+      "x": -1397,
+      "z": -5211
+    },
+    {
+      "layer": 3,
+      "name": "Ozoth's Spire",
+      "x": 256,
+      "z": -5288
+    },
+    {
+      "layer": 3,
+      "level": "110",
+      "name": "Path to Darkness",
+      "x": 1362,
+      "z": -539
+    },
+    {
+      "layer": 3,
+      "level": "15",
+      "name": "Pigmen's Ravines",
+      "x": -680,
+      "z": -1384
+    },
+    {
+      "layer": 3,
+      "level": "20",
+      "name": "Pirate Bay",
+      "x": 480,
+      "z": -2058
+    },
+    {
+      "layer": 3,
+      "level": "60",
+      "name": "Pirate Town",
+      "x": -695,
+      "z": -3132
+    },
+    {
+      "layer": 3,
+      "level": "65",
+      "name": "Pre-Light Forest",
+      "x": -1493,
+      "z": -4818
+    },
+    {
+      "layer": 3,
+      "level": "80-100",
+      "name": "Qira Hive",
+      "x": 395,
+      "z": -5573
+    },
+    {
+      "layer": 2,
+      "level": "1",
+      "name": "Ragni",
+      "x": -819,
+      "z": -1581
+    },
+    {
+      "layer": 3,
+      "level": "85",
+      "name": "Relos",
+      "x": -1668,
+      "z": -2366
+    },
+    {
+      "layer": 2,
+      "level": "90",
+      "name": "Rodoroc",
+      "x": 1101,
+      "z": -5136
+    },
+    {
+      "layer": 3,
+      "level": "20",
+      "name": "Rooster Island",
+      "x": -106,
+      "z": -2476
+    },
+    {
+      "layer": 3,
+      "name": "Roots of Corruption",
+      "x": 232,
+      "z": -1291
+    },
+    {
+      "layer": 3,
+      "level": "100",
+      "name": "Ruined Olmic City",
+      "x": 603,
+      "z": -543
+    },
+    {
+      "layer": 3,
+      "level": "35",
+      "name": "Rymek",
+      "x": 1250,
+      "z": -1334
+    },
+    {
+      "layer": 3,
+      "level": "25",
+      "name": "Saint's Row",
+      "x": 305,
+      "z": -2053
+    },
+    {
+      "layer": 3,
+      "level": "25",
+      "name": "Seavale Reef",
+      "x": 300,
+      "z": -3186
+    },
+    {
+      "layer": 2,
+      "level": "25",
+      "name": "Selchar",
+      "x": 92,
+      "z": -3183
+    },
+    {
+      "layer": 3,
+      "level": "55",
+      "name": "Skiens Island",
+      "x": 376,
+      "z": -3485
+    },
+    {
+      "layer": 3,
+      "level": "95",
+      "name": "Sky Islands",
+      "x": 1266,
+      "z": -4697
+    },
+    {
+      "layer": 3,
+      "level": "50",
+      "name": "Swamp",
+      "x": -1636,
+      "z": -5317
+    },
+    {
+      "layer": 3,
+      "level": "70",
+      "name": "Temple of Legends",
+      "x": -691,
+      "z": -1022
+    },
+    {
+      "layer": 3,
+      "level": "25",
+      "name": "Tempo Town",
+      "x": -301,
+      "z": -1171
+    },
+    {
+      "layer": 3,
+      "level": "15",
+      "name": "Ternaves",
+      "x": 828,
+      "z": -1610
+    },
+    {
+      "layer": 3,
+      "level": "80",
+      "name": "Thanos",
+      "x": 134,
+      "z": -5241
+    },
+    {
+      "layer": 3,
+      "level": "15",
+      "name": "The Bear Zoo",
+      "x": -373,
+      "z": -2456
+    },
+    {
+      "layer": 3,
+      "level": "95",
+      "name": "The Colossus",
+      "x": 689,
+      "z": -4521
+    },
+    {
+      "layer": 3,
+      "level": "100+",
+      "name": "The Eldritch Outlook",
+      "x": 1350,
+      "z": -904
+    },
+    {
+      "layer": 3,
+      "level": "70",
+      "name": "The Forgery",
+      "x": -847,
+      "z": -4911
+    },
+    {
+      "layer": 3,
+      "level": "50",
+      "name": "The Great Bridge",
+      "x": -365,
+      "z": -770
+    },
+    {
+      "layer": 3,
+      "level": "50",
+      "name": "The Maiden Tower",
+      "x": -1990,
+      "z": -5306
+    },
+    {
+      "layer": 1,
+      "name": "The Province of Gavel",
+      "x": -110,
+      "z": -5049
+    },
+    {
+      "layer": 1,
+      "name": "The Province of Wynn",
+      "x": 103,
+      "z": -1726
+    },
+    {
+      "layer": 2,
+      "level": "80",
+      "name": "The Realm of Light",
+      "x": -826,
+      "z": -6090
+    },
+    {
+      "layer": 1,
+      "name": "The Silent Expanse",
+      "x": 1144,
+      "z": -845
+    },
+    {
+      "layer": 3,
+      "level": "25",
+      "name": "The Tower of Amnesia",
+      "x": 124,
+      "z": -1227
+    },
+    {
+      "layer": 2,
+      "level": "85",
+      "name": "Thesead",
+      "x": 770,
+      "z": -5043
+    },
+    {
+      "layer": 3,
+      "level": "25",
+      "name": "Time Valley",
+      "x": -459,
+      "z": -1254
+    },
+    {
+      "layer": 3,
+      "name": "Tower of Ascension",
+      "x": -310,
+      "z": -430
+    },
+    {
+      "layer": 3,
+      "level": "105",
+      "name": "Toxic Wastes",
+      "x": 1106,
+      "z": -1011
+    },
+    {
+      "layer": 2,
+      "level": "55",
+      "name": "Troms",
+      "x": -793,
+      "z": -963
+    },
+    {
+      "layer": 3,
+      "level": "40",
+      "name": "Underground Squid Village",
+      "x": 221,
+      "z": -814
+    },
+    {
+      "layer": 3,
+      "level": "20",
+      "name": "Underwater Route",
+      "x": 79,
+      "z": -2646
+    },
+    {
+      "layer": 3,
+      "level": "105",
+      "name": "Void Valley",
+      "x": 1464,
+      "z": -1059
+    },
+    {
+      "layer": 3,
+      "level": "55",
+      "name": "Volcanic Isles",
+      "x": -992,
+      "z": -3672
+    },
+    {
+      "layer": 3,
+      "level": "50",
+      "name": "Zhight Island",
+      "x": -500,
+      "z": -2831
     }
   ]
 }
