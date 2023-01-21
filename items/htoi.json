@@ -13176,11 +13176,7 @@
     "id": "16955",
     "name": "Ensa's Faith",
     "level": "73",
-    "forgerychest": [
-      {
-        "description": "Can be obtained from a Forgery chest"
-      }
-    ]
+    "forgerychest": "Can be obtained from a Forgery chest"
   },
   {
     "id": "16956",
@@ -13220,12 +13216,6 @@
     "name": "Ohms' Rage",
     "level": "52",
     "unobtainable": "Unobtainable"
-  },
-  {
-    "id": "16962",
-    "name": "Paw",
-    "level": "70",
-    "mobs": "True"
   },
   {
     "id": "16963",
@@ -13309,11 +13299,7 @@
     "id": "16968",
     "name": "Remikas' Authority",
     "level": "66",
-    "forgerychest": [
-      {
-        "description": "Requires tier 5+ chest"
-      }
-    ]
+    "forgerychest": "Requires tier 5+ chest"
   },
   {
     "id": "16969",
@@ -13331,11 +13317,7 @@
     "id": "16971",
     "name": "Tisaun's Valor",
     "level": "87",
-    "forgerychest": [
-      {
-        "description": "Can be obtained from a Forgery chest"
-      }
-    ]
+    "forgerychest": "Can be obtained from a Forgery chest"
   },
   {
     "id": "16972",
