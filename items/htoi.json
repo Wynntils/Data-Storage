@@ -3,704 +3,229 @@
     "id": "16079",
     "name": "Back-Up Plan",
     "level": "70",
-    "bossaltar": [
-      {
-        "name": "Altar of Sanctification",
-        "coords": {
-          "x": "-915",
-          "z": "-621"
-        },
-        "requirements": [
-          {
-            "item": "Skiens Badge",
-            "quantity": "1"
-          }
-        ]
-      }
-    ]
+    "bossaltar": "Altar of Sanctification"
   },
   {
     "id": "16080",
     "name": "Binding Brace",
     "level": "50",
-    "bossaltar": [
-      {
-        "screenshots": "https://imgur.com/zuxv48D, https://imgur.com/1npQUAQ",
-        "name": "Prison of Souls",
-        "location": "Twain Lake",
-        "coords": {
-          "x": "52",
-          "y": "67",
-          "z": "-485"
-        },
-        "requirements": [
-          {
-            "item": "Ghostly Essence",
-            "quantity": "15"
-          }
-        ]
-      }
-    ]
+    "bossaltar": "Prison of Souls"
   },
   {
     "id": "16081",
     "name": "Blade of Shade",
     "level": "70",
-    "bossaltar": [
-      {
-        "name": "Challenge of the Blades",
-        "requirements": [
-          {
-            "item": "Werewolf Tails",
-            "quantity": "16"
-          }
-        ]
-      }
-    ]
+    "bossaltar": "Challenge of the Blades"
   },
   {
     "id": "16082",
     "name": "Bonder",
     "level": "99",
-    "bossaltar": [
-      {
-        "name": "The Orange Wybel",
-        "requirements": [
-          {
-            "item": "Wybel Fluff",
-            "quantity": "8"
-          }
-        ]
-      }
-    ]
+    "bossaltar": "The Orange Wybel"
   },
   {
     "id": "16083",
     "name": "Braker",
     "level": "99",
-    "bossaltar": [
-      {
-        "name": "The Orange Wybel",
-        "requirements": [
-          {
-            "item": "Wybel Fluff",
-            "quantity": "8"
-          }
-        ]
-      }
-    ]
+    "bossaltar": "The Orange Wybel"
   },
   {
     "id": "16084",
     "name": "Breakbore",
     "level": "90",
-    "bossaltar": [
-      {
-        "name": "Geyser Pit",
-        "requirements": [
-          {
-            "item": "Robot Antennas",
-            "quantity": "20"
-          }
-        ]
-      }
-    ]
+    "bossaltar": "Geyser Pit"
   },
   {
     "id": "16085",
     "name": "Constrict Collar",
     "level": "45",
-    "bossaltar": [
-      {
-        "screenshots": "https://imgur.com/zuxv48D, https://imgur.com/1npQUAQ",
-        "name": "Prison of Souls",
-        "location": "Twain Lake",
-        "coords": {
-          "x": "52",
-          "y": "67",
-          "z": "-485"
-        },
-        "requirements": [
-          {
-            "item": "Ghostly Essence",
-            "quantity": "15"
-          }
-        ]
-      }
-    ]
+    "bossaltar": "Prison of Souls"
   },
   {
     "id": "16086",
     "name": "Crossbolt",
     "level": "25",
-    "bossaltar": [
-      {
-        "screenshots": "https://imgur.com/kgriXOx, https://imgur.com/ybebFLd, https://imgur.com/KVO9Ink",
-        "name": "Rotten Passage",
-        "location": "Saints Row Graveyard",
-        "coords": {
-          "x": "337",
-          "y": "42",
-          "z": "-2048"
-        },
-        "requirements": [
-          {
-            "item": "Rotten Flesh",
-            "quantity": "8"
-          }
-        ]
-      }
-    ]
+    "bossaltar": "Rotten Passage"
   },
   {
     "id": "16087",
     "name": "Deadeye",
     "level": "45",
-    "bossaltar": [
-      {
-        "screenshots": "https://imgur.com/EzG28zz, https://imgur.com/Zbqz3x0",
-        "name": "Sunrise Canyon",
-        "location": "Mesa Canyon",
-        "coords": {
-          "x": "1413",
-          "y": "99",
-          "z": "-1463"
-        },
-        "requirements": [
-          {
-            "item": "Coyote Fangs",
-            "quantity": "12"
-          }
-        ]
-      }
-    ]
+    "bossaltar": "Sunrise Canyon"
   },
   {
     "id": "16088",
     "name": "Dondasch",
     "level": "100",
-    "bossaltar": [
-      {
-        "name": "Aerie of the Recluse",
-        "requirements": [
-          {
-            "item": "Turtle Shells",
-            "quantity": "12"
-          }
-        ]
-      }
-    ]
+    "bossaltar": "Aerie of the Recluse"
   },
   {
     "id": "16089",
     "name": "Durum's Serenity",
     "level": "25",
-    "bossaltar": [
-      {
-        "screenshots": "https://imgur.com/caUHYQG, https://imgur.com/sXGEw5I",
-        "name": "Bovine Barn",
-        "location": "Durum Isles",
-        "coords": {
-          "x": "471",
-          "y": "43",
-          "z": "-2912"
-        },
-        "requirements": [
-          {
-            "item": "Leather",
-            "quantity": "20"
-          }
-        ]
-      }
-    ]
+    "bossaltar": "Bovine Barn"
   },
   {
     "id": "16090",
     "name": "Eidolon",
     "level": "95",
-    "bossaltar": [
-      {
-        "name": "Aerie of the Recluse",
-        "requirements": [
-          {
-            "item": "Turtle Shells",
-            "quantity": "12"
-          }
-        ]
-      }
-    ]
+    "bossaltar": "Aerie of the Recluse"
   },
   {
     "id": "16091",
     "name": "Greenhoof",
     "level": "20",
-    "bossaltar": [
-      {
-        "screenshots": "https://imgur.com/caUHYQG, https://imgur.com/sXGEw5I",
-        "name": "Bovine Barn",
-        "location": "Durum Isles",
-        "coords": {
-          "x": "471",
-          "y": "43",
-          "z": "-2912"
-        },
-        "requirements": [
-          {
-            "item": "Leather",
-            "quantity": "20"
-          }
-        ]
-      }
-    ]
+    "bossaltar": "Bovine Barn"
   },
   {
     "id": "16092",
     "name": "Haros' Oar",
     "level": "30",
-    "bossaltar": [
-      {
-        "screenshots": "https://imgur.com/kgriXOx, https://imgur.com/ybebFLd, https://imgur.com/KVO9Ink",
-        "name": "Rotten Passage",
-        "location": "Saints Row Graveyard",
-        "coords": {
-          "x": "337",
-          "y": "42",
-          "z": "-2048"
-        },
-        "requirements": [
-          {
-            "item": "Rotten Flesh",
-            "quantity": "8"
-          }
-        ]
-      }
-    ]
+    "bossaltar": "Rotten Passage"
   },
   {
     "id": "16093",
     "name": "Helm Splitter",
     "level": "70",
-    "bossaltar": [
-      {
-        "name": "Altar of Sanctification",
-        "requirements": [
-          {
-            "item": "Skiens Badge",
-            "quantity": "1"
-          }
-        ]
-      }
-    ]
+    "bossaltar": "Altar of Sanctification"
   },
   {
     "id": "16094",
     "name": "Kahontsi Ohstyen",
     "level": "60",
-    "bossaltar": [
-      {
-        "name": "Tribal Sanctuary",
-        "requirements": [
-          {
-            "item": "Zombie Eyes",
-            "quantity": "4"
-          }
-        ]
-      }
-    ]
+    "bossaltar": "Tribal Sanctuary"
   },
   {
     "id": "16095",
     "name": "Legend Guard's Plate",
     "level": "70",
-    "bossaltar": [
-      {
-        "name": "Arena of the Legends",
-        "requirements": [
-          {
-            "item": "Broken Amulets",
-            "quantity": "5"
-          }
-        ]
-      }
-    ]
+    "bossaltar": "Arena of the Legends"
   },
   {
     "id": "16096",
     "name": "Marius' Prison",
     "level": "50",
-    "bossaltar": [
-      {
-        "screenshots": "https://imgur.com/zuxv48D, https://imgur.com/1npQUAQ",
-        "name": "Prison of Souls",
-        "location": "Twain Lake",
-        "coords": {
-          "x": "52",
-          "y": "67",
-          "z": "-485"
-        },
-        "requirements": [
-          {
-            "item": "Ghostly Essence",
-            "quantity": "15"
-          }
-        ]
-      }
-    ]
+    "bossaltar": "Prison of Souls"
   },
   {
     "id": "16097",
     "name": "Nona",
     "level": "95",
-    "bossaltar": [
-      {
-        "name": "Aerie of the Recluse",
-        "requirements": [
-          {
-            "item": "Turtle Shells",
-            "quantity": "12"
-          }
-        ]
-      }
-    ]
+    "bossaltar": "Aerie of the Recluse"
   },
   {
     "id": "16098",
     "name": "Obolus",
     "level": "25",
-    "bossaltar": [
-      {
-        "screenshots": "https://imgur.com/kgriXOx, https://imgur.com/ybebFLd, https://imgur.com/KVO9Ink",
-        "name": "Rotten Passage",
-        "location": "Saints Row Graveyard",
-        "coords": {
-          "x": "337",
-          "y": "42",
-          "z": "-2048"
-        },
-        "requirements": [
-          {
-            "item": "Rotten Flesh",
-            "quantity": "8"
-          }
-        ]
-      }
-    ]
+    "bossaltar": "Rotten Passage"
   },
   {
     "id": "16099",
     "name": "Ohonte Kerhite",
     "level": "60",
-    "bossaltar": [
-      {
-        "name": "Tribal Sanctuary",
-        "requirements": [
-          {
-            "item": "Zombie Eyes",
-            "quantity": "4"
-          }
-        ]
-      }
-    ]
+    "bossaltar": "Tribal Sanctuary"
   },
   {
     "id": "16100",
     "name": "Onenya Hronkas",
     "level": "60",
-    "bossaltar": [
-      {
-        "name": "Tribal Sanctuary",
-        "requirements": [
-          {
-            "item": "Zombie Eyes",
-            "quantity": "4"
-          }
-        ]
-      }
-    ]
+    "bossaltar": "Tribal Sanctuary"
   },
   {
     "id": "16101",
     "name": "Plague Mask",
     "level": "55",
-    "bossaltar": [
-      {
-        "name": "Plague Laboratory",
-        "requirements": [
-          {
-            "item": "Cursed Venom Sac",
-            "quantity": "5"
-          }
-        ]
-      }
-    ]
+    "bossaltar": "Plague Laboratory"
   },
   {
     "id": "16102",
     "name": "Plague Staff",
     "level": "60",
-    "bossaltar": [
-      {
-        "name": "Plague Laboratory",
-        "requirements": [
-          {
-            "item": "Cursed Venom Sac",
-            "quantity": "5"
-          }
-        ]
-      }
-    ]
+    "bossaltar": "Plague Laboratory"
   },
   {
     "id": "16103",
     "name": "Purification Bead",
     "level": "55",
-    "bossaltar": [
-      {
-        "name": "Plague Laboratory",
-        "requirements": [
-          {
-            "item": "Cursed Venom Sac",
-            "quantity": "5"
-          }
-        ]
-      }
-    ]
+    "bossaltar": "Plague Laboratory"
   },
   {
     "id": "16104",
     "name": "Quick-Strike Leggings",
     "level": "70",
-    "bossaltar": [
-      {
-        "name": "Altar of Sanctification",
-        "requirements": [
-          {
-            "item": "Skiens Badge",
-            "quantity": "1"
-          }
-        ]
-      }
-    ]
+    "bossaltar": "Altar of Sanctification"
   },
   {
     "id": "16105",
     "name": "Redrock Bandanna",
     "level": "40",
-    "bossaltar": [
-      {
-        "screenshots": "https://imgur.com/EzG28zz, https://imgur.com/Zbqz3x0",
-        "name": "Sunrise Canyon",
-        "location": "Mesa Canyon",
-        "coords": {
-          "x": "1413",
-          "y": "99",
-          "z": "-1463"
-        },
-        "requirements": [
-          {
-            "item": "Coyote Fangs",
-            "quantity": "12"
-          }
-        ]
-      }
-    ]
+    "bossaltar": "Sunrise Canyon"
   },
   {
     "id": "16106",
     "name": "Shackle of Shade",
     "level": "70",
-    "bossaltar": [
-      {
-        "name": "Challenge of the Blades",
-        "requirements": [
-          {
-            "item": "Werewolf Tails",
-            "quantity": "20"
-          }
-        ]
-      }
-    ]
+    "bossaltar": "Challenge of the Blades"
   },
   {
     "id": "16107",
     "name": "Shackles of the Beast",
     "level": "45",
-    "bossaltar": [
-      {
-        "screenshots": "https://imgur.com/zuxv48D, https://imgur.com/1npQUAQ",
-        "name": "Prison of Souls",
-        "location": "Twain Lake",
-        "coords": {
-          "x": "52",
-          "y": "67",
-          "z": "-485"
-        },
-        "requirements": [
-          {
-            "item": "Ghostly Essence",
-            "quantity": "15"
-          }
-        ]
-      }
-    ]
+    "bossaltar": "Prison of Souls"
   },
   {
     "id": "16108",
     "name": "Shadestep",
     "level": "70",
-    "bossaltar": [
-      {
-        "name": "Challenge of the Blades",
-        "requirements": [
-          {
-            "item": "Werewolf Tails",
-            "quantity": "16"
-          }
-        ]
-      }
-    ]
+    "bossaltar": "Challenge of the Blades"
   },
   {
     "id": "16109",
     "name": "Slider",
     "level": "99",
-    "bossaltar": [
-      {
-        "name": "The Orange Wybel",
-        "requirements": [
-          {
-            "item": "Wybel Fluff",
-            "quantity": "8"
-          }
-        ]
-      }
-    ]
+    "bossaltar": "The Orange Wybel"
   },
   {
     "id": "16110",
     "name": "Stave of the Legends",
     "level": "70",
-    "bossaltar": [
-      {
-        "name": "Arena of the Legends",
-        "requirements": [
-          {
-            "item": "Broken Amulets",
-            "quantity": "5"
-          }
-        ]
-      }
-    ]
+    "bossaltar": "Arena of the Legends"
   },
   {
     "id": "16111",
     "name": "Stinger",
     "level": "99",
-    "bossaltar": [
-      {
-        "name": "The Orange Wybel",
-        "requirements": [
-          {
-            "item": "Wybel Fluff",
-            "quantity": "8"
-          }
-        ]
-      }
-    ]
+    "bossaltar": "The Orange Wybel"
   },
   {
     "id": "16112",
     "name": "Summa",
     "level": "95",
-    "bossaltar": [
-      {
-        "name": "Geyser Pit",
-        "requirements": [
-          {
-            "item": "Robot Antennas",
-            "quantity": "20"
-          }
-        ]
-      }
-    ]
+    "bossaltar": "Geyser Pit"
   },
   {
     "id": "16113",
     "name": "Sundown Poncho",
     "level": "40",
-    "bossaltar": [
-      {
-        "screenshots": "https://imgur.com/EzG28zz, https://imgur.com/Zbqz3x0",
-        "name": "Sunrise Canyon",
-        "location": "Mesa Canyon",
-        "coords": {
-          "x": "1413",
-          "y": "99",
-          "z": "-1463"
-        },
-        "requirements": [
-          {
-            "item": "Coyote Fangs",
-            "quantity": "12"
-          }
-        ]
-      }
-    ]
+    "bossaltar": "Sunrise Canyon"
   },
   {
     "id": "16114",
     "name": "Tera",
     "level": "90",
-    "bossaltar": [
-      {
-        "name": "Geyser Pit",
-        "requirements": [
-          {
-            "item": "Robot Antennas",
-            "quantity": "20"
-          }
-        ]
-      }
-    ]
+    "bossaltar": "Geyser Pit"
   },
   {
     "id": "16115",
     "name": "The Scarecrow's Vest",
     "level": "20",
-    "bossaltar": [
-      {
-        "screenshots": "https://imgur.com/caUHYQG, https://imgur.com/sXGEw5I",
-        "name": "Bovine Barn",
-        "location": "Durum Isles",
-        "coords": {
-          "x": "471",
-          "y": "43",
-          "z": "-2912"
-        },
-        "requirements": [
-          {
-            "item": "Leather",
-            "quantity": "20"
-          }
-        ]
-      }
-    ]
+    "bossaltar": "Bovine Barn"
   },
   {
     "id": "16116",
     "name": "Trainer's Pendant",
     "level": "70",
-    "bossaltar": [
-      {
-        "name": "Arena of the Legends",
-        "requirements": [
-          {
-            "item": "Broken Amulets",
-            "quantity": "5"
-          }
-        ]
-      }
-    ]
+    "bossaltar": "Arena of the Legends"
   },
   {
     "id": "16117",
@@ -20721,24 +20246,7 @@
     "id": "17450",
     "name": "Eye of The Beast",
     "level": "50",
-    "bossaltar": [
-      {
-        "screenshots": "https://imgur.com/zuxv48D, https://imgur.com/1npQUAQ",
-        "name": "Prison of Souls",
-        "location": "Twain Lake",
-        "coords": {
-          "x": "52",
-          "y": "67",
-          "z": "-485"
-        },
-        "requirements": [
-          {
-            "item": "Ghostly Essence",
-            "quantity": "15"
-          }
-        ]
-      }
-    ]
+    "bossaltar": "Prison of Souls"
   },
   {
     "id": "17451",
@@ -20762,24 +20270,7 @@
     "id": "17452",
     "name": "Aqua Vitae",
     "level": "60",
-    "bossaltar": [
-      {
-        "screenshots": "https://imgur.com/PJ7BsmO, https://imgur.com/Cexk3bs",
-        "name": "Plague Laboratory",
-        "location": "Olux Swamp",
-        "coords": {
-          "x": "-1834",
-          "y": "46",
-          "z": "-5260"
-        },
-        "requirements": [
-          {
-            "item": "Cursed Venom Sac",
-            "quantity": "5"
-          }
-        ]
-      }
-    ]
+    "bossaltar": "Plague Laboratory"
   },
   {
     "id": "17453",
@@ -20852,12 +20343,7 @@
     "id": "17458",
     "name": "More-Pearlescent Jewel",
     "level": "70",
-    "bossaltar": [
-      {
-        "description": "Uncommon drop",
-        "name": "Arena of the Legends"
-      }
-    ]
+    "bossaltar": "Arena of the Legends"
   },
   {
     "id": "17459",
@@ -21088,17 +20574,7 @@
     "id": "17472",
     "name": "Borange Fluff",
     "level": "100",
-    "bossaltar": [
-      {
-        "name": "The Orange Wybel",
-        "requirements": [
-          {
-            "item": "Wybel Fluff",
-            "quantity": "8"
-          }
-        ]
-      }
-    ]
+    "bossaltar": "The Orange Wybel"
   },
   {
     "id": "17473",
@@ -21187,24 +20663,7 @@
     "id": "17477",
     "name": "Haros' Broken Badge",
     "level": "30",
-    "bossaltar": [
-      {
-        "screenshots": "https://imgur.com/kgriXOx, https://imgur.com/ybebFLd, https://imgur.com/KVO9Ink",
-        "name": "Rotten Passage",
-        "location": "Saints Row Graveyard",
-        "coords": {
-          "x": "337",
-          "y": "42",
-          "z": "-2048"
-        },
-        "requirements": [
-          {
-            "item": "Rotten Flesh",
-            "quantity": "8"
-          }
-        ]
-      }
-    ]
+    "bossaltar": "Rotten Passage"
   },
   {
     "id": "17478",
@@ -21259,21 +20718,13 @@
     "id": "17482",
     "name": "Urdar's Stone",
     "level": "100",
-    "bossaltar": [
-      {
-        "name": "Aerie of the Recluse"
-      }
-    ]
+    "bossaltar": "Aerie of the Recluse"
   },
   {
     "id": "17483",
     "name": "Adamastor's Faceplate",
     "level": "100",
-    "bossaltar": [
-      {
-        "name": "Aerie of the Recluse"
-      }
-    ]
+    "bossaltar": "Aerie of the Recluse"
   },
   {
     "id": "17484",
@@ -22929,11 +22380,7 @@
     "id": "17552",
     "name": "Subsuming Darkness",
     "level": "70",
-    "bossaltar": [
-      {
-        "name": "Challenge of Blades"
-      }
-    ]
+    "bossaltar": "Challenge of Blades"
   },
   {
     "id": "17553",
@@ -24967,24 +24414,7 @@
     "id": "17655",
     "name": "Corn Husk",
     "level": "23",
-    "bossaltar": [
-      {
-        "screenshots": "https://imgur.com/caUHYQG, https://imgur.com/sXGEw5I",
-        "name": "Bovine Barn",
-        "location": "Durum Isles",
-        "coords": {
-          "x": "471",
-          "y": "43",
-          "z": "-2912"
-        },
-        "requirements": [
-          {
-            "item": "Leather",
-            "quantity": "20"
-          }
-        ]
-      }
-    ],
+    "bossaltar": "Bovine Barn",
     "specialdrop": [
       {
         "screenshots": "https://imgur.com/nOEx6tH, https://imgur.com/aAcvvB9",
@@ -25456,11 +24886,7 @@
     "id": "17675",
     "name": "Large Titanium Chunk",
     "level": "70",
-    "bossaltar": [
-      {
-        "name": "Altar of Sanctification"
-      }
-    ]
+    "bossaltar": "Altar of Sanctification"
   },
   {
     "id": "17676",
@@ -26516,11 +25942,7 @@
     "id": "17744",
     "name": "Wriggling Darkness",
     "level": "70",
-    "bossaltar": [
-      {
-        "name": "Challenge of Blades"
-      }
-    ]
+    "bossaltar": "Challenge of Blades"
   },
   {
     "id": "17745",
@@ -26690,24 +26112,7 @@
     "id": "17754",
     "name": "Router's Shield",
     "level": "30",
-    "bossaltar": [
-      {
-        "screenshots": "https://imgur.com/kgriXOx, https://imgur.com/ybebFLd, https://imgur.com/KVO9Ink",
-        "name": "Rotten Passage",
-        "location": "Saints Row Graveyard",
-        "coords": {
-          "x": "337",
-          "y": "42",
-          "z": "-2048"
-        },
-        "requirements": [
-          {
-            "item": "Rotten Flesh",
-            "quantity": "8"
-          }
-        ]
-      }
-    ]
+    "bossaltar": "Rotten Passage"
   },
   {
     "id": "17755",
@@ -28632,24 +28037,7 @@
     "id": "17854",
     "name": "Beef Tongue",
     "level": "25",
-    "bossaltar": [
-      {
-        "screenshots": "https://imgur.com/caUHYQG, https://imgur.com/sXGEw5I",
-        "name": "Bovine Barn",
-        "location": "Durum Isles",
-        "coords": {
-          "x": "471",
-          "y": "43",
-          "z": "-2912"
-        },
-        "requirements": [
-          {
-            "item": "Leather",
-            "quantity": "20"
-          }
-        ]
-      }
-    ]
+    "bossaltar": "Bovine Barn"
   },
   {
     "id": "17855",
@@ -28732,13 +28120,7 @@
   {
     "id": "17859",
     "name": "Pearlescent Jewel",
-    "level": "70",
-    "bossaltar": [
-      {
-        "description": "Common drop from Arena of the Legends",
-        "location": "Temple of Legends"
-      }
-    ]
+    "level": "70"
   },
   {
     "id": "17860",
@@ -29143,24 +28525,7 @@
     "id": "17880",
     "name": "Powdery Bone",
     "level": "30",
-    "bossaltar": [
-      {
-        "screenshots": "https://imgur.com/kgriXOx, https://imgur.com/ybebFLd, https://imgur.com/KVO9Ink",
-        "name": "Rotten Passage",
-        "location": "Saints Row Graveyard",
-        "coords": {
-          "x": "337",
-          "y": "42",
-          "z": "-2048"
-        },
-        "requirements": [
-          {
-            "item": "Rotten Flesh",
-            "quantity": "8"
-          }
-        ]
-      }
-    ]
+    "bossaltar": "Rotten Passage"
   },
   {
     "id": "17881",
@@ -29428,12 +28793,7 @@
     "id": "17896",
     "name": "Shiny Mineral Deposit",
     "level": "95",
-    "bossaltar": [
-      {
-        "description": "From boss Mining Mech TERA-4M",
-        "name": "Geyser Pit"
-      }
-    ]
+    "bossaltar": "Geyser Pit"
   },
   {
     "id": "17897",
@@ -29485,21 +28845,13 @@
     "id": "17900",
     "name": "Mixed Jewel Deposit",
     "level": "95",
-    "bossaltar": [
-      {
-        "name": "Geyser Pit"
-      }
-    ]
+    "bossaltar": "Geyser Pit"
   },
   {
     "id": "17901",
     "name": "Mixed Mineral Deposit",
     "level": "95",
-    "bossaltar": [
-      {
-        "name": "Geyser Pit"
-      }
-    ]
+    "bossaltar": "Geyser Pit"
   },
   {
     "id": "17902",
@@ -31211,24 +30563,7 @@
     "id": "17984",
     "name": "Nightmare Fuel",
     "level": "50",
-    "bossaltar": [
-      {
-        "screenshots": "https://imgur.com/zuxv48D, https://imgur.com/1npQUAQ",
-        "name": "Prison of Souls",
-        "location": "Twain Lake",
-        "coords": {
-          "x": "52",
-          "y": "67",
-          "z": "-485"
-        },
-        "requirements": [
-          {
-            "item": "Ghostly Essence",
-            "quantity": "15"
-          }
-        ]
-      }
-    ]
+    "bossaltar": "Prison of Souls"
   },
   {
     "id": "17985",
@@ -31261,24 +30596,7 @@
     "id": "17986",
     "name": "Reinforced Leather",
     "level": "25",
-    "bossaltar": [
-      {
-        "screenshots": "https://imgur.com/caUHYQG, https://imgur.com/sXGEw5I",
-        "name": "Bovine Barn",
-        "location": "Durum Isles",
-        "coords": {
-          "x": "471",
-          "y": "43",
-          "z": "-2912"
-        },
-        "requirements": [
-          {
-            "item": "Leather",
-            "quantity": "20"
-          }
-        ]
-      }
-    ]
+    "bossaltar": "Bovine Barn"
   },
   {
     "id": "17987",
@@ -31347,70 +30665,19 @@
     "id": "17990",
     "name": "Spiked Capsule",
     "level": "60",
-    "bossaltar": [
-      {
-        "screenshots": "https://imgur.com/PJ7BsmO, https://imgur.com/Cexk3bs",
-        "name": "Plague Laboratory",
-        "location": "Olux Swamp",
-        "coords": {
-          "x": "-1834",
-          "y": "46",
-          "z": "-5260"
-        },
-        "requirements": [
-          {
-            "item": "Cursed Venom Sac",
-            "quantity": "5"
-          }
-        ]
-      }
-    ]
+    "bossaltar": "Plague Laboratory"
   },
   {
     "id": "17991",
     "name": "Black Sulphur",
     "level": "45",
-    "bossaltar": [
-      {
-        "screenshots": "https://imgur.com/EzG28zz, https://imgur.com/Zbqz3x0",
-        "name": "Sunrise Canyon",
-        "location": "Mesa Canyon",
-        "coords": {
-          "x": "1413",
-          "y": "99",
-          "z": "-1463"
-        },
-        "requirements": [
-          {
-            "item": "Coyote Fang",
-            "quantity": "12"
-          }
-        ]
-      }
-    ]
+    "bossaltar": "Sunrise Canyon"
   },
   {
     "id": "17992",
     "name": "Empty Casings",
     "level": "45",
-    "bossaltar": [
-      {
-        "screenshots": "https://imgur.com/EzG28zz, https://imgur.com/Zbqz3x0",
-        "name": "Sunrise Canyon",
-        "location": "Mesa Canyon",
-        "coords": {
-          "x": "1413",
-          "y": "99",
-          "z": "-1463"
-        },
-        "requirements": [
-          {
-            "item": "Coyote Fang",
-            "quantity": "12"
-          }
-        ]
-      }
-    ]
+    "bossaltar": "Sunrise Canyon"
   },
   {
     "id": "17993",
@@ -31660,16 +30927,7 @@
     "id": "18007",
     "name": "Titanium Chunk",
     "level": "70",
-    "bossaltar": [
-      {
-        "name": "Altar of Sanctification",
-        "location": "Dernel Jungle",
-        "coords": {
-          "x": "-911",
-          "z": "-623"
-        }
-      }
-    ]
+    "bossaltar": "Altar of Sanctification"
   },
   {
     "id": "18008",
@@ -31732,24 +30990,7 @@
     "id": "18013",
     "name": "Acidic Solution",
     "level": "60",
-    "bossaltar": [
-      {
-        "screenshots": "https://imgur.com/PJ7BsmO, https://imgur.com/Cexk3bs",
-        "name": "Plague Laboratory",
-        "location": "Olux Swamp",
-        "coords": {
-          "x": "-1834",
-          "y": "46",
-          "z": "-5260"
-        },
-        "requirements": [
-          {
-            "item": "Cursed Venom Sac",
-            "quantity": "5"
-          }
-        ]
-      }
-    ]
+    "bossaltar": "Plague Laboratory"
   },
   {
     "id": "18014",
@@ -33000,17 +32241,7 @@
     "id": "18089",
     "name": "Lower",
     "level": "99",
-    "bossaltar": [
-      {
-        "name": "The Orange Wybel",
-        "requirements": [
-          {
-            "item": "Wybel Fluff",
-            "quantity": "8"
-          }
-        ]
-      }
-    ]
+    "bossaltar": "The Orange Wybel"
   },
   {
     "id": "18090",
@@ -36777,24 +36008,7 @@
     "id": "18317",
     "name": "Anxiolytic",
     "level": "101",
-    "bossaltar": [
-      {
-        "description": "Drop from boss: Panic Zealot",
-        "name": "Bottomless Pit",
-        "location": "Portal to Dern",
-        "coords": {
-          "x": "1335",
-          "y": "10",
-          "z": "-515"
-        },
-        "requirements": [
-          {
-            "item": "Soul Essence",
-            "quantity": "6"
-          }
-        ]
-      }
-    ]
+    "bossaltar": "Bottomless Pit"
   },
   {
     "id": "18318",
@@ -36830,24 +36044,7 @@
     "id": "18321",
     "name": "Dissociation",
     "level": "101",
-    "bossaltar": [
-      {
-        "description": "Drop from boss: Panic Zealot",
-        "name": "Bottomless Pit",
-        "location": "Portal to Dern",
-        "coords": {
-          "x": "1335",
-          "y": "10",
-          "z": "-515"
-        },
-        "requirements": [
-          {
-            "item": "Soul Essence",
-            "quantity": "6"
-          }
-        ]
-      }
-    ]
+    "bossaltar": "Bottomless Pit"
   },
   {
     "id": "18322",
@@ -36889,24 +36086,7 @@
     "id": "18325",
     "name": "Panic Zealot",
     "level": "101",
-    "bossaltar": [
-      {
-        "description": "Drop from boss: Panic Zealot",
-        "name": "Bottomless Pit",
-        "location": "Portal to Dern",
-        "coords": {
-          "x": "1335",
-          "y": "10",
-          "z": "-515"
-        },
-        "requirements": [
-          {
-            "item": "Soul Essence",
-            "quantity": "6"
-          }
-        ]
-      }
-    ]
+    "bossaltar": "Bottomless Pit"
   },
   {
     "id": "18326",
@@ -37062,24 +36242,7 @@
     "id": "18337",
     "name": "Coalescence",
     "level": "105",
-    "bossaltar": [
-      {
-        "screenshots": "https://imgur.com/6FdGDg7, https://imgur.com/s5uCtc2",
-        "name": "Bottomless Pit",
-        "location": "Portal to Dern",
-        "coords": {
-          "x": "1331",
-          "y": "11",
-          "z": "-511"
-        },
-        "requirements": [
-          {
-            "item": "Soul Essence",
-            "quantity": "6"
-          }
-        ]
-      }
-    ]
+    "bossaltar": "Bottomless Pit"
   },
   {
     "id": "18338",
@@ -37562,24 +36725,7 @@
     "id": "18359",
     "name": "Fragmentation",
     "level": "101",
-    "bossaltar": [
-      {
-        "screenshots": "https://imgur.com/6FdGDg7, https://imgur.com/s5uCtc2",
-        "name": "Bottomless Pit",
-        "location": "Portal to Dern",
-        "coords": {
-          "x": "1331",
-          "y": "11",
-          "z": "-511"
-        },
-        "requirements": [
-          {
-            "item": "Soul Essence",
-            "quantity": "6"
-          }
-        ]
-      }
-    ]
+    "bossaltar": "Bottomless Pit"
   },
   {
     "id": "18360",
@@ -38247,24 +37393,7 @@
     "id": "18395",
     "name": "Scopaesthesia",
     "level": "103",
-    "bossaltar": [
-      {
-        "screenshots": "https://imgur.com/6FdGDg7, https://imgur.com/s5uCtc2",
-        "name": "Bottomless Pit",
-        "location": "Portal to Dern",
-        "coords": {
-          "x": "1331",
-          "y": "11",
-          "z": "-511"
-        },
-        "requirements": [
-          {
-            "item": "Soul Essence",
-            "quantity": "6"
-          }
-        ]
-      }
-    ]
+    "bossaltar": "Bottomless Pit"
   },
   {
     "id": "18396",
@@ -39468,103 +38597,37 @@
     "id": "18458",
     "name": "Capsid Frame",
     "level": "60",
-    "bossaltar": [
-      {
-        "name": "Magmastream Core",
-        "location": "Volcanic Isles",
-        "requirements": [
-          {
-            "item": "Mineral Cinders",
-            "quantity": "6"
-          }
-        ]
-      }
-    ]
+    "bossaltar": "Magmastream Core"
   },
   {
     "id": "18459",
     "name": "Crystal Coil",
     "level": "60",
-    "bossaltar": [
-      {
-        "name": "Magmastream Core",
-        "location": "Volcanic Isles",
-        "requirements": [
-          {
-            "item": "Mineral Cinders",
-            "quantity": "6"
-          }
-        ]
-      }
-    ]
+    "bossaltar": "Magmastream Core"
   },
   {
     "id": "18460",
     "name": "Phage Pins",
     "level": "65",
-    "bossaltar": [
-      {
-        "name": "Magmastream Core",
-        "location": "Volcanic Isles",
-        "requirements": [
-          {
-            "item": "Mineral Cinders",
-            "quantity": "6"
-          }
-        ]
-      }
-    ]
+    "bossaltar": "Magmastream Core"
   },
   {
     "id": "18461",
     "name": "Resistant Strain",
     "level": "60",
-    "bossaltar": [
-      {
-        "name": "Magmastream Core",
-        "location": "Volcanic Isles",
-        "requirements": [
-          {
-            "item": "Mineral Cinders",
-            "quantity": "6"
-          }
-        ]
-      }
-    ]
+    "bossaltar": "Magmastream Core"
   },
   {
     "id": "18462",
     "name": "Scuttling Syenite",
     "level": "62",
-    "bossaltar": [
-      {
-        "name": "Magmastream Core",
-        "location": "Volcanic Isles",
-        "requirements": [
-          {
-            "item": "Mineral Cinders",
-            "quantity": "6"
-          }
-        ]
-      }
-    ]
+    "bossaltar": "Magmastream Core"
   },
   {
     "id": "18463",
     "name": "Thermal Replication",
     "level": "65",
-    "bossaltar": [
-      {
-        "name": "Magmastream Core",
-        "location": "Volcanic Isles",
-        "requirements": [
-          {
-            "item": "Mineral Cinders",
-            "quantity": "6"
-          }
-        ]
-      }
-    ]
+    "bossaltar": "Magmastream Core"
   },
   {
     "id": "18464",
