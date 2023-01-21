@@ -20,23 +20,6 @@
     ]
   },
   {
-    "id": "17592",
-    "name": "Memorial",
-    "level": "19",
-    "merchant": [
-      {
-        "name": "Nemract Armor Merchant",
-        "location": "Nemract",
-        "price": [
-          {
-            "item": "Emeralds",
-            "quantity": "112"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": "16080",
     "name": "Binding Brace",
     "level": "50",
@@ -76,19 +59,6 @@
     ]
   },
   {
-    "id": "18253",
-    "name": "Blighted Brain",
-    "level": "20",
-    "specialdrop": [
-      {
-        "description": "Rare Mob",
-        "screenshots": "https://imgur.com/htJH6th",
-        "name": "Skelemancer",
-        "location": "Ancient Nemract"
-      }
-    ]
-  },
-  {
     "id": "16082",
     "name": "Bonder",
     "level": "99",
@@ -101,17 +71,6 @@
             "quantity": "8"
           }
         ]
-      }
-    ]
-  },
-  {
-    "id": "17952",
-    "name": "Essence of Dusk",
-    "level": "64",
-    "specialdrop": [
-      {
-        "name": "Tenebrous Infantry",
-        "location": "Dark Forest"
       }
     ]
   },
@@ -382,16 +341,6 @@
     ]
   },
   {
-    "id": "18473",
-    "name": "Mask of the Spirits",
-    "level": "1",
-    "discontinued": [
-      {
-        "description": "Was obtainable during &#34;Drawing of the Spirits&#34; event"
-      }
-    ]
-  },
-  {
     "id": "16095",
     "name": "Legend Guard's Plate",
     "level": "70",
@@ -514,17 +463,6 @@
             "quantity": "4"
           }
         ]
-      }
-    ]
-  },
-  {
-    "id": "18474",
-    "name": "Organic Explosive",
-    "level": "77",
-    "specialdrop": [
-      {
-        "name": "Creepers",
-        "location": "Realm of Light"
       }
     ]
   },
@@ -763,17 +701,6 @@
             "quantity": "8"
           }
         ]
-      }
-    ]
-  },
-  {
-    "id": "17956",
-    "name": "Luxic Plasma",
-    "level": "73",
-    "specialdrop": [
-      {
-        "description": "Luxic Plasma drops from mobs in the Light Realm",
-        "location": "Light Realm"
       }
     ]
   },
@@ -1532,23 +1459,6 @@
     ]
   },
   {
-    "id": "18173",
-    "name": "Andesite-Hewn Bow",
-    "level": "8",
-    "merchant": [
-      {
-        "name": "Detlas Weapon Merchant",
-        "location": "Detlas",
-        "price": [
-          {
-            "item": "Emeralds",
-            "quantity": "10"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": "16172",
     "name": "Admiral",
     "level": "67",
@@ -1577,19 +1487,6 @@
             "quantity": "6"
           }
         ]
-      }
-    ]
-  },
-  {
-    "id": "18168",
-    "name": "Earth Relic Relik",
-    "level": "45",
-    "specialdrop": [
-      {
-        "description": "Rare Mob",
-        "screenshots": "https://i.imgur.com/RwieYNx.png",
-        "name": "Relic Guardian",
-        "location": "Near Nesaak, Tower of Ascension or Dernel Jungle"
       }
     ]
   },
@@ -1788,23 +1685,6 @@
           {
             "item": "runs",
             "quantity": "2"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "18239",
-    "name": "Cracked Iron Helmet",
-    "level": "61",
-    "merchant": [
-      {
-        "name": "Gelibord Armour Merchant",
-        "location": "Gelibord",
-        "price": [
-          {
-            "item": "Emeralds",
-            "quantity": "454"
           }
         ]
       }
@@ -2299,24 +2179,6 @@
     ]
   },
   {
-    "id": "18163",
-    "name": "Shimmering Jewel",
-    "level": "40",
-    "specialdrop": {
-      "1": {
-        "description": "Rare drop",
-        "screenshots": "https://imgur.com/8kolGhU, https://imgur.com/JPwYL5q",
-        "name": "Goblins",
-        "location": "Llevigar Plains",
-        "coords": {
-          "x": "-1680",
-          "y": "56",
-          "z": "-4936"
-        }
-      }
-    }
-  },
-  {
     "id": "16208",
     "name": "Dune Beast Jaw",
     "level": "36",
@@ -2397,29 +2259,6 @@
     ]
   },
   {
-    "id": "17984",
-    "name": "Nightmare Fuel",
-    "level": "50",
-    "bossaltar": [
-      {
-        "screenshots": "https://imgur.com/zuxv48D, https://imgur.com/1npQUAQ",
-        "name": "Prison of Souls",
-        "location": "Twain Lake",
-        "coords": {
-          "x": "52",
-          "y": "67",
-          "z": "-485"
-        },
-        "requirements": [
-          {
-            "item": "Ghostly Essence",
-            "quantity": "15"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": "16212",
     "name": "Fangs",
     "level": "19",
@@ -2468,23 +2307,6 @@
     ]
   },
   {
-    "id": "18240",
-    "name": "Flawless Granite Bow",
-    "level": "54",
-    "merchant": [
-      {
-        "name": "Olux Weapon Merchant",
-        "location": "Olux",
-        "price": [
-          {
-            "item": "Emeralds",
-            "quantity": "154"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": "16215",
     "name": "Fire Sanctuary",
     "level": "80",
@@ -2511,23 +2333,6 @@
           {
             "item": "runs",
             "quantity": "3"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "18243",
-    "name": "Flawless Granite Spear",
-    "level": "54",
-    "merchant": [
-      {
-        "name": "Olux Weapon Merchant",
-        "location": "Olux",
-        "price": [
-          {
-            "item": "Emeralds",
-            "quantity": "154"
           }
         ]
       }
@@ -2570,20 +2375,6 @@
             "quantity": "4"
           }
         ]
-      }
-    ]
-  },
-  {
-    "id": "18273",
-    "name": "Maromagnetite",
-    "level": "63",
-    "specialdrop": [
-      {
-        "name": "Sunstone Ram"
-      },
-      {
-        "name": "Altitude Walker",
-        "location": "Maro Peaks"
       }
     ]
   },
@@ -2664,21 +2455,6 @@
             "quantity": "5"
           }
         ]
-      }
-    ]
-  },
-  {
-    "id": "18007",
-    "name": "Titanium Chunk",
-    "level": "70",
-    "bossaltar": [
-      {
-        "name": "Altar of Sanctification",
-        "location": "Dernel Jungle",
-        "coords": {
-          "x": "-911",
-          "z": "-623"
-        }
       }
     ]
   },
@@ -3003,19 +2779,6 @@
     ]
   },
   {
-    "id": "18167",
-    "name": "Air Relic Relik",
-    "level": "45",
-    "specialdrop": [
-      {
-        "description": "Rare Mob",
-        "screenshots": "https://i.imgur.com/RwieYNx.png",
-        "name": "Relic Guardian",
-        "location": "Near Nesaak, Tower of Ascension or Dernel Jungle"
-      }
-    ]
-  },
-  {
     "id": "16241",
     "name": "Miasma",
     "level": "38",
@@ -3056,23 +2819,6 @@
     ]
   },
   {
-    "id": "18281",
-    "name": "Antique Metal",
-    "level": "78",
-    "specialdrop": [
-      {
-        "description": "[!] Plains Guardian has been reported as no longer dropping Antique Metal",
-        "screenshots": "https://imgur.com/s1AlM3r",
-        "name": "Plains Guardian",
-        "location": "East of Cinfras in the Cinfras County Mid-Lower territory"
-      },
-      {
-        "name": "Obsidian Sentinel",
-        "location": "East of Cinfras in the Cinfras County Mid-Lower territory"
-      }
-    ]
-  },
-  {
     "id": "16243",
     "name": "Mud",
     "level": "28",
@@ -3083,23 +2829,6 @@
           {
             "item": "runs",
             "quantity": "5"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "18244",
-    "name": "Pure Andesite Bow",
-    "level": "63",
-    "merchant": [
-      {
-        "name": "Gelibord Weapon Merchant",
-        "location": "Gelibord",
-        "price": [
-          {
-            "item": "Emeralds",
-            "quantity": "211"
           }
         ]
       }
@@ -3224,19 +2953,6 @@
     "dungeon": [
       {
         "name": "Undergrowth Ruins"
-      }
-    ]
-  },
-  {
-    "id": "17950",
-    "name": "Plasteel Plating",
-    "level": "97",
-    "specialdrop": [
-      {
-        "description": "Possible Drop from Rare Mob",
-        "screenshots": "https://imgur.com/ZTA5GGR",
-        "name": "U-454 Stabot",
-        "location": "Corkus, near Fallen Factory"
       }
     ]
   },
@@ -3461,21 +3177,6 @@
             "quantity": "6"
           }
         ]
-      }
-    ]
-  },
-  {
-    "id": "17824",
-    "name": "Agullo Beak",
-    "level": "81",
-    "specialdrop": [
-      {
-        "name": "Agullo&#39;s",
-        "location": "Corkus Beach",
-        "coords": {
-          "x": "-1300",
-          "z": "-2225"
-        }
       }
     ]
   },
@@ -3866,23 +3567,6 @@
           {
             "item": "runs",
             "quantity": "6"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "18210",
-    "name": "Brilliant Diamond Boots",
-    "level": "98",
-    "merchant": [
-      {
-        "name": "Ahmsord Armour Merchant",
-        "location": "Ahmsord",
-        "price": [
-          {
-            "item": "Emeralds",
-            "quantity": "1920"
           }
         ]
       }
@@ -6586,23 +6270,6 @@
     ]
   },
   {
-    "id": "18186",
-    "name": "Aged Golden Boots",
-    "level": "22",
-    "merchant": [
-      {
-        "name": "Nemract Armour Merchant",
-        "location": "Nemract",
-        "price": [
-          {
-            "item": "Emeralds",
-            "quantity": "32"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": "16388",
     "name": "Affluence",
     "level": "92",
@@ -6614,23 +6281,6 @@
           {
             "item": "Emeralds",
             "quantity": "1690"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "18220",
-    "name": "Flawless Oak Shears",
-    "level": "28",
-    "merchant": [
-      {
-        "name": "Almuj Weapon Merchant",
-        "location": "Almuj",
-        "price": [
-          {
-            "item": "Emeralds",
-            "quantity": "47"
           }
         ]
       }
@@ -6754,23 +6404,6 @@
     ]
   },
   {
-    "id": "18205",
-    "name": "Pure Oak Wood Shears",
-    "level": "56",
-    "merchant": [
-      {
-        "name": "Troms Weapon Merchant",
-        "location": "Troms",
-        "price": [
-          {
-            "item": "Emeralds",
-            "quantity": "166"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": "16394",
     "name": "Ashen Helm",
     "level": "92",
@@ -6875,23 +6508,6 @@
           {
             "item": "Emeralds",
             "quantity": "256"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "18196",
-    "name": "Jungle Wood Stick",
-    "level": "19",
-    "merchant": [
-      {
-        "name": "Nemract Weapon Merchant",
-        "location": "Nemract",
-        "price": [
-          {
-            "item": "Emeralds",
-            "quantity": "28"
           }
         ]
       }
@@ -7050,23 +6666,6 @@
           {
             "item": "Emeralds",
             "quantity": "19"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "18178",
-    "name": "Hard Leather Cap",
-    "level": "13",
-    "merchant": [
-      {
-        "name": "Detlas Armour Merchant",
-        "location": "Detlas",
-        "price": [
-          {
-            "item": "Emeralds",
-            "quantity": "17"
           }
         ]
       }
@@ -7837,23 +7436,6 @@
     ]
   },
   {
-    "id": "18236",
-    "name": "Cracked Iron Boots",
-    "level": "62",
-    "merchant": [
-      {
-        "name": "Gelibord Armour Merchant",
-        "location": "Gelibord",
-        "price": [
-          {
-            "item": "Emeralds",
-            "quantity": "461"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": "16439",
     "name": "Chipped Glitz",
     "level": "34",
@@ -7941,23 +7523,6 @@
     ]
   },
   {
-    "id": "18221",
-    "name": "Flawless Oak Spear",
-    "level": "28",
-    "merchant": [
-      {
-        "name": "Almuj Weapon Merchant",
-        "location": "Almuj",
-        "price": [
-          {
-            "item": "Emeralds",
-            "quantity": "47"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": "16443",
     "name": "Cloudwalkers",
     "level": "94",
@@ -7998,17 +7563,6 @@
     ]
   },
   {
-    "id": "18285",
-    "name": "Cursed Ashes",
-    "level": "65",
-    "specialdrop": [
-      {
-        "name": "Cursed Farmer and Cursed Adventurer",
-        "location": "Dark Forest"
-      }
-    ]
-  },
-  {
     "id": "16445",
     "name": "Cold Snap",
     "level": "71",
@@ -8019,23 +7573,6 @@
           {
             "item": "Emeralds",
             "quantity": "806"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "18195",
-    "name": "Jungle Wood Spear",
-    "level": "19",
-    "merchant": [
-      {
-        "name": "Nemract Weapon Merchant",
-        "location": "Nemract",
-        "price": [
-          {
-            "item": "Emeralds",
-            "quantity": "28"
           }
         ]
       }
@@ -8416,23 +7953,6 @@
           {
             "item": "Emeralds",
             "quantity": "845"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "18194",
-    "name": "Jungle Wood Shears",
-    "level": "19",
-    "merchant": [
-      {
-        "name": "Nemract Weapon Merchant",
-        "location": "Nemract",
-        "price": [
-          {
-            "item": "Emeralds",
-            "quantity": "28"
           }
         ]
       }
@@ -8848,30 +8368,6 @@
     ]
   },
   {
-    "id": "17997",
-    "name": "Elysium-Engraved Aegis",
-    "level": "100",
-    "hive": [
-      {
-        "description": null,
-        "screenshots": null,
-        "name": "Hive Master Division",
-        "location": null,
-        "coords": {
-          "x": null,
-          "y": null,
-          "z": null
-        },
-        "price": [
-          {
-            "item": "Master Voucher",
-            "quantity": "1"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": "16482",
     "name": "Douglas Fir",
     "level": "75",
@@ -9079,24 +8575,6 @@
     ]
   },
   {
-    "id": "18338",
-    "name": "Aspect of the Void",
-    "level": "100",
-    "specialdrop": [
-      {
-        "description": "Rare Mob",
-        "screenshots": "https://imgur.com/wwvBJrl",
-        "name": "Umbral Singularity",
-        "location": "The Void",
-        "coords": {
-          "x": "13967",
-          "y": "129",
-          "z": "-3795"
-        }
-      }
-    ]
-  },
-  {
     "id": "16492",
     "name": "Dujgon Warrior Hammer",
     "level": "43",
@@ -9289,23 +8767,6 @@
     ]
   },
   {
-    "id": "17871",
-    "name": "Dry Seeds",
-    "level": "20",
-    "specialdrop": [
-      {
-        "screenshots": "https://imgur.com/0p245q0, https://imgur.com/T4ir3EB",
-        "name": "Merlug",
-        "location": "Cave near Nemract River",
-        "coords": {
-          "x": "110",
-          "y": "40",
-          "z": "-1938"
-        }
-      }
-    ]
-  },
-  {
     "id": "16501",
     "name": "Emerald-Tinted Charm",
     "level": "31",
@@ -9428,33 +8889,6 @@
             "quantity": "52"
           }
         ]
-      }
-    ]
-  },
-  {
-    "id": "17599",
-    "name": "Algae Mat",
-    "level": "36",
-    "specialdrop": [
-      {
-        "screenshots": "https://i.imgur.com/QtE3rN8.png, https://i.imgur.com/DuE2QrI.png",
-        "name": "Lunatic Squid",
-        "location": "Half Moon Island Shoreline",
-        "coords": {
-          "x": "885",
-          "y": "34",
-          "z": "-2558"
-        }
-      },
-      {
-        "screenshots": "https://i.imgur.com/raoWuFL.png, https://i.imgur.com/i1ovqbP.png",
-        "name": "Tiderider Squid",
-        "location": "Kraken Island",
-        "coords": {
-          "x": "-251",
-          "y": "35",
-          "z": "-2703"
-        }
       }
     ]
   },
@@ -9591,19 +9025,6 @@
             "quantity": "5120"
           }
         ]
-      }
-    ]
-  },
-  {
-    "id": "18342",
-    "name": "Adaptive Tissue",
-    "level": "78",
-    "specialdrop": [
-      {
-        "description": "Rare Mob",
-        "screenshots": "https://imgur.com/xl6Ugv2",
-        "name": "Master Regenerator",
-        "location": "Realm of Light"
       }
     ]
   },
@@ -9850,23 +9271,6 @@
     ]
   },
   {
-    "id": "18219",
-    "name": "Flawless Oak Bow",
-    "level": "28",
-    "merchant": [
-      {
-        "name": "Almuj Weapon Merchant",
-        "location": "Almuj",
-        "price": [
-          {
-            "item": "Emeralds",
-            "quantity": "47"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": "16524",
     "name": "Flaming War Spear",
     "level": "45",
@@ -10029,23 +9433,6 @@
     ]
   },
   {
-    "id": "18192",
-    "name": "High-Quality Chain Helmet",
-    "level": "57",
-    "merchant": [
-      {
-        "name": "Troms Armour Merchant",
-        "location": "Troms",
-        "price": [
-          {
-            "item": "Emeralds",
-            "quantity": "173"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": "16532",
     "name": "Frost",
     "level": "70",
@@ -10134,30 +9521,6 @@
     ]
   },
   {
-    "id": "16536",
-    "name": "Fulminate Staff",
-    "level": "89",
-    "merchant": [
-      {
-        "description": null,
-        "screenshots": null,
-        "name": "Rodoroc weapon merchant",
-        "location": null,
-        "coords": {
-          "x": null,
-          "y": null,
-          "z": null
-        },
-        "price": [
-          {
-            "item": "Emeralds",
-            "quantity": 20480
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": "16537",
     "name": "Fuunyet",
     "level": "75",
@@ -10220,23 +9583,6 @@
           {
             "item": "Emeralds",
             "quantity": "30"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "18177",
-    "name": "Hard Leather Boots",
-    "level": "14",
-    "merchant": [
-      {
-        "name": "Detlas Armour Merchant",
-        "location": "Detlas",
-        "price": [
-          {
-            "item": "Emeralds",
-            "quantity": "18"
           }
         ]
       }
@@ -10788,23 +10134,6 @@
     ]
   },
   {
-    "id": "18190",
-    "name": "High-Quality Chain Boots",
-    "level": "58",
-    "merchant": [
-      {
-        "name": "Troms Armour Merchant",
-        "location": "Troms",
-        "price": [
-          {
-            "item": "Emeralds",
-            "quantity": "179"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": "16563",
     "name": "Hembwal",
     "level": "76",
@@ -11200,23 +10529,6 @@
     ]
   },
   {
-    "id": "18193",
-    "name": "Jungle Wood Bow",
-    "level": "19",
-    "merchant": [
-      {
-        "name": "Nemract Weapon Merchant",
-        "location": "Nemract",
-        "price": [
-          {
-            "item": "Emeralds",
-            "quantity": "28"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": "16581",
     "name": "Jewel Cutter",
     "level": "81",
@@ -11252,23 +10564,6 @@
           {
             "item": "Emeralds",
             "quantity": "4096"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "18223",
-    "name": "Light Jungle Wood Bow",
-    "level": "25",
-    "merchant": [
-      {
-        "name": "Selchar Weapon Merchant",
-        "location": "Selchar",
-        "price": [
-          {
-            "item": "Emeralds",
-            "quantity": "40"
           }
         ]
       }
@@ -11407,23 +10702,6 @@
     ]
   },
   {
-    "id": "18198",
-    "name": "Plated Iron Chestplate",
-    "level": "72",
-    "merchant": [
-      {
-        "name": "Cinfras Armour Merchant",
-        "location": "Cinfras",
-        "price": [
-          {
-            "item": "Emeralds",
-            "quantity": "282"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": "16589",
     "name": "Longtail Boots",
     "level": "51",
@@ -11434,28 +10712,6 @@
           {
             "item": "Emeralds",
             "quantity": "269"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "18422",
-    "name": "Dim Diamond Boots",
-    "level": "82",
-    "merchant": [
-      {
-        "name": "Corkus City Armour Merchant",
-        "location": "Corkus",
-        "coords": {
-          "x": "-1643",
-          "y": "68",
-          "z": "-2913"
-        },
-        "price": [
-          {
-            "item": "Emeralds",
-            "quantity": "397"
           }
         ]
       }
@@ -11752,23 +11008,6 @@
     ]
   },
   {
-    "id": "18181",
-    "name": "Padded Leather Boots",
-    "level": "10",
-    "merchant": [
-      {
-        "name": "Detlas Armour Merchant",
-        "location": "Detlas",
-        "price": [
-          {
-            "item": "Emeralds",
-            "quantity": "18"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": "16604",
     "name": "Mercurial Chestplate",
     "level": "92",
@@ -11916,23 +11155,6 @@
           {
             "item": "Emeralds",
             "quantity": "864"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "18197",
-    "name": "Plated Iron Boots",
-    "level": "70",
-    "merchant": [
-      {
-        "name": "Cinfras Armour Merchant",
-        "location": "Cinfras",
-        "price": [
-          {
-            "item": "Emeralds",
-            "quantity": "256"
           }
         ]
       }
@@ -12463,20 +11685,6 @@
     ]
   },
   {
-    "id": "18011",
-    "name": "Enhanced Dynamics Microchip",
-    "level": "90",
-    "specialdrop": [
-      {
-        "location": "Geyser Pits"
-      },
-      {
-        "name": "H-101 War Machine",
-        "location": "Corkus"
-      }
-    ]
-  },
-  {
     "id": "16633",
     "name": "Pewter Ring",
     "level": "46",
@@ -12845,30 +12053,6 @@
     ]
   },
   {
-    "id": "17996",
-    "name": "Eden-Blessed Guards",
-    "level": "100",
-    "hive": [
-      {
-        "description": null,
-        "screenshots": null,
-        "name": "Hive Master Division",
-        "location": null,
-        "coords": {
-          "x": null,
-          "y": null,
-          "z": null
-        },
-        "price": [
-          {
-            "item": "Master Voucher",
-            "quantity": "1"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": "16649",
     "name": "Recovery",
     "level": "72",
@@ -13164,23 +12348,6 @@
           {
             "item": "Emeralds",
             "quantity": "845"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "18213",
-    "name": "Impeccable Granite Bow",
-    "level": "98",
-    "merchant": [
-      {
-        "name": "Ahmsord Weapon Merchant",
-        "location": "Ahmsord",
-        "price": [
-          {
-            "item": "Emeralds",
-            "quantity": "1920"
           }
         ]
       }
@@ -13547,23 +12714,6 @@
     ]
   },
   {
-    "id": "18228",
-    "name": "Used Golden Boots",
-    "level": "30",
-    "merchant": [
-      {
-        "name": "Almuj Armour Merchant",
-        "location": "Almuj",
-        "price": [
-          {
-            "item": "Emeralds",
-            "quantity": "52"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": "16679",
     "name": "Scout Dagger",
     "level": "10",
@@ -13663,23 +12813,6 @@
           {
             "item": "Emeralds",
             "quantity": "384"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "18246",
-    "name": "Standard Chain Boots",
-    "level": "50",
-    "merchant": [
-      {
-        "name": "Olux Armour Merchant",
-        "location": "Olux",
-        "price": [
-          {
-            "item": "Emeralds",
-            "quantity": "128"
           }
         ]
       }
@@ -13963,23 +13096,6 @@
           {
             "item": "Emeralds",
             "quantity": "768"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "18212",
-    "name": "Brilliant Diamond Helmet",
-    "level": "97",
-    "merchant": [
-      {
-        "name": "Ahmsord Armour Merchant",
-        "location": "Ahmsord",
-        "price": [
-          {
-            "item": "Emeralds",
-            "quantity": "1920"
           }
         ]
       }
@@ -14499,32 +13615,6 @@
     ]
   },
   {
-    "id": "18185",
-    "name": "Sticky Fern",
-    "level": "25",
-    "specialdrop": [
-      {
-        "screenshots": "https://imgur.com/opmHJ27, https://imgur.com/bgDd1lo",
-        "name": "Undead Explorers",
-        "location": "Cave near Coastal Trail",
-        "coords": {
-          "x": "-231",
-          "z": "-2101"
-        }
-      },
-      {
-        "screenshots": "https://imgur.com/qWKH06R, https://imgur.com/wcQIrBI, https://imgur.com/7XRiawI, https://imgur.com/cXATbrY, https://imgur.com/zKC0pDO",
-        "name": "Watery Sludge, Aquifer Silkworm, Digested Muck",
-        "location": "Cave in Olux",
-        "coords": {
-          "x": "-1733",
-          "y": "15",
-          "z": "-5468"
-        }
-      }
-    ]
-  },
-  {
     "id": "16720",
     "name": "Stagnant",
     "level": "49",
@@ -14637,30 +13727,6 @@
           {
             "item": "Platinum Ingots",
             "quantity": "20"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "17995",
-    "name": "Chaos-Woven Greaves",
-    "level": "100",
-    "hive": [
-      {
-        "description": null,
-        "screenshots": null,
-        "name": "Hive Master Division",
-        "location": null,
-        "coords": {
-          "x": null,
-          "y": null,
-          "z": null
-        },
-        "price": [
-          {
-            "item": "Master Voucher",
-            "quantity": "1"
           }
         ]
       }
@@ -14998,30 +14064,6 @@
     ]
   },
   {
-    "id": "17994",
-    "name": "Abyss-Imbued Leggings",
-    "level": "100",
-    "hive": [
-      {
-        "description": null,
-        "screenshots": null,
-        "name": "Hive Master Division",
-        "location": null,
-        "coords": {
-          "x": null,
-          "y": null,
-          "z": null
-        },
-        "price": [
-          {
-            "item": "Master Voucher",
-            "quantity": "1"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": "16741",
     "name": "Thanos Legionnaire Greaves",
     "level": "82",
@@ -15058,33 +14100,6 @@
             "quantity": "10"
           }
         ]
-      }
-    ]
-  },
-  {
-    "id": "17598",
-    "name": "Alga",
-    "level": "60",
-    "specialdrop": [
-      {
-        "screenshots": "https://imgur.com/fREaPTT",
-        "name": "Feligember Frog",
-        "location": "Olux Swamp",
-        "coords": {
-          "x": "-1762",
-          "y": "56",
-          "z": "-5300"
-        }
-      },
-      {
-        "screenshots": "https://imgur.com/XRp7E4J",
-        "name": "Feligember Frog",
-        "location": "Olux Swamp",
-        "coords": {
-          "x": "-1524",
-          "y": "47",
-          "z": "-5267"
-        }
       }
     ]
   },
@@ -15129,23 +14144,6 @@
     ]
   },
   {
-    "id": "17597",
-    "name": "Crawler Eye",
-    "level": "32",
-    "specialdrop": [
-      {
-        "screenshots": "https://i.imgur.com/PrjOSBz.png, https://i.imgur.com/GFndGXr.png",
-        "name": "Sand Crawlers",
-        "location": "All around the Desert",
-        "coords": {
-          "x": "1139",
-          "y": "76",
-          "z": "-1953"
-        }
-      }
-    ]
-  },
-  {
     "id": "16745",
     "name": "Thanos Siege Bow",
     "level": "82",
@@ -15182,17 +14180,6 @@
             "quantity": "10"
           }
         ]
-      }
-    ]
-  },
-  {
-    "id": "17993",
-    "name": "Enhanced Behaviour Microchip",
-    "level": "90",
-    "specialdrop": [
-      {
-        "name": "U-08 Servant Bot",
-        "location": "Corkus Island"
       }
     ]
   },
@@ -15315,23 +14302,6 @@
     ]
   },
   {
-    "id": "17568",
-    "name": "Reinforced Composite Bow",
-    "level": "11",
-    "merchant": [
-      {
-        "name": "Detlas weapon merchant",
-        "location": "Detlas",
-        "price": [
-          {
-            "item": "Emeralds",
-            "quantity": "54"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": "16753",
     "name": "The Modulator",
     "level": "88",
@@ -15404,23 +14374,6 @@
     ]
   },
   {
-    "id": "18211",
-    "name": "Brilliant Diamond Chestplate",
-    "level": "100",
-    "merchant": [
-      {
-        "name": "Ahmsord Armour Merchant",
-        "location": "Ahmsord",
-        "price": [
-          {
-            "item": "Emeralds",
-            "quantity": "1920"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": "16757",
     "name": "Toy Maker",
     "level": "85",
@@ -15456,23 +14409,6 @@
           {
             "item": "Emeralds",
             "quantity": "2470"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "18204",
-    "name": "Pure Diorite Stick",
-    "level": "69",
-    "merchant": [
-      {
-        "name": "Cinfras Weapon Merchant",
-        "location": "Cinfras",
-        "price": [
-          {
-            "item": "Emeralds",
-            "quantity": "250"
           }
         ]
       }
@@ -15740,23 +14676,6 @@
           {
             "item": "Emeralds",
             "quantity": "435"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "18251",
-    "name": "Pure Andesite Shears",
-    "level": "63",
-    "merchant": [
-      {
-        "name": "Gelibord Weapon Merchant",
-        "location": "Gelibord",
-        "price": [
-          {
-            "item": "Emeralds",
-            "quantity": "211"
           }
         ]
       }
@@ -16058,23 +14977,6 @@
     ]
   },
   {
-    "id": "18200",
-    "name": "Plated Iron Leggings",
-    "level": "71",
-    "merchant": [
-      {
-        "name": "Cinfras Armour Merchant",
-        "location": "Cinfras",
-        "price": [
-          {
-            "item": "Emeralds",
-            "quantity": "269"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": "16785",
     "name": "Warming Heart",
     "level": "90",
@@ -16163,23 +15065,6 @@
     ]
   },
   {
-    "id": "18232",
-    "name": "Worn Golden Boots",
-    "level": "26",
-    "merchant": [
-      {
-        "name": "Selchar Armour Merchant",
-        "location": "Selchar",
-        "price": [
-          {
-            "item": "Emeralds",
-            "quantity": "47"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": "16789",
     "name": "Werepelt",
     "level": "61",
@@ -16208,23 +15093,6 @@
           {
             "item": "Emeralds",
             "quantity": "156"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "18191",
-    "name": "High-Quality Chain Leggings",
-    "level": "59",
-    "merchant": [
-      {
-        "name": "Troms Armour Merchant",
-        "location": "Troms",
-        "price": [
-          {
-            "item": "Emeralds",
-            "quantity": "186"
           }
         ]
       }
@@ -16353,23 +15221,6 @@
           {
             "item": "Emeralds",
             "quantity": "397"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "18250",
-    "name": "Pure Andesite Spear",
-    "level": "63",
-    "merchant": [
-      {
-        "name": "Gelibord Weapon Merchant",
-        "location": "Gelibord",
-        "price": [
-          {
-            "item": "Emeralds",
-            "quantity": "211"
           }
         ]
       }
@@ -16648,24 +15499,6 @@
             "quantity": "4"
           }
         ]
-      }
-    ]
-  },
-  {
-    "id": "18274",
-    "name": "Ancient Panel",
-    "level": "37",
-    "specialdrop": [
-      {
-        "description": "Rare Mob",
-        "screenshots": "https://i.imgur.com/a9t4PJa.png, https://i.imgur.com/ozursLz.png",
-        "name": "Limestone Machination",
-        "location": "Desert, Sand-Swept Tomb entrance",
-        "coords": {
-          "x": "1344",
-          "y": "77",
-          "z": "-1840"
-        }
       }
     ]
   },
@@ -18326,17 +17159,6 @@
     ]
   },
   {
-    "id": "16941",
-    "name": "Blood Moon",
-    "level": "67",
-    "unobtainable": [
-      {
-        "description": "Unobtainable",
-        "screenshots": null
-      }
-    ]
-  },
-  {
     "id": "16942",
     "name": "Blue Team Boots",
     "level": "20",
@@ -18591,23 +17413,6 @@
     "name": "Paw",
     "level": "70",
     "mobs": "True"
-  },
-  {
-    "id": "17596",
-    "name": "Rotten Bone",
-    "level": "8",
-    "specialdrop": [
-      {
-        "screenshots": "https://imgur.com/sF4Nj6L, https://imgur.com/6VZ9adS",
-        "name": "Burned Suburb Resident, Dead Suburb Resident",
-        "location": "Detlas Suburbs",
-        "coords": {
-          "x": "130",
-          "y": "67",
-          "z": "-1578"
-        }
-      }
-    ]
   },
   {
     "id": "16963",
@@ -19022,35 +17827,6 @@
     ]
   },
   {
-    "id": "17954",
-    "name": "Sticky Mudball",
-    "level": "21",
-    "specialdrop": [
-      {
-        "description": "Rare drop",
-        "screenshots": "https://imgur.com/7dd7426, https://imgur.com/DPLoQwk",
-        "name": "Bubbling Mud Pile",
-        "location": "Mud Holes South of Nemract ",
-        "coords": {
-          "x": "113",
-          "y": "38",
-          "z": "-2116"
-        }
-      },
-      {
-        "description": "Rare drop",
-        "screenshots": "https://imgur.com/sZQXwkw, https://imgur.com/DPLoQwk",
-        "name": "Slimy Swamp Zombie",
-        "location": "Mud Holes South of Nemract",
-        "coords": {
-          "x": "113",
-          "y": "38",
-          "z": "-2116"
-        }
-      }
-    ]
-  },
-  {
     "id": "16988",
     "name": "Arakadicus' Body",
     "level": "21",
@@ -19101,126 +17877,6 @@
           "y": null,
           "z": null
         }
-      }
-    ]
-  },
-  {
-    "id": "16991",
-    "name": "Gaze from the Snowbank",
-    "unknown": [
-      {
-        "description": "Unknown",
-        "screenshots": null
-      }
-    ]
-  },
-  {
-    "id": "16992",
-    "name": "Conduit of Spirit",
-    "unknown": [
-      {
-        "description": "Unknown",
-        "screenshots": null
-      }
-    ]
-  },
-  {
-    "id": "16993",
-    "name": "The Crossing",
-    "unknown": [
-      {
-        "description": "Unknown",
-        "screenshots": null
-      }
-    ]
-  },
-  {
-    "id": "16994",
-    "name": "Pulse Starter",
-    "unknown": [
-      {
-        "description": "Unknown",
-        "screenshots": null
-      }
-    ]
-  },
-  {
-    "id": "16995",
-    "name": "Rune of Safe Passage",
-    "unknown": [
-      {
-        "description": "Unknown",
-        "screenshots": null
-      }
-    ]
-  },
-  {
-    "id": "16996",
-    "name": "Pulse Stopper",
-    "unknown": [
-      {
-        "description": "Unknown",
-        "screenshots": null
-      }
-    ]
-  },
-  {
-    "id": "16997",
-    "name": "Closure",
-    "unknown": [
-      {
-        "description": "Unknown",
-        "screenshots": null
-      }
-    ]
-  },
-  {
-    "id": "16998",
-    "name": "Desperation",
-    "unknown": [
-      {
-        "description": "Unknown",
-        "screenshots": null
-      }
-    ]
-  },
-  {
-    "id": "16999",
-    "name": "Brace of the Ninth",
-    "unknown": [
-      {
-        "description": "Unknown",
-        "screenshots": null
-      }
-    ]
-  },
-  {
-    "id": "17000",
-    "name": "Final Compulsion",
-    "unknown": [
-      {
-        "description": "Unknown",
-        "screenshots": null
-      }
-    ]
-  },
-  {
-    "id": "17001",
-    "name": "Peaceful Rest",
-    "unknown": [
-      {
-        "description": "Unknown",
-        "screenshots": null
-      }
-    ]
-  },
-  {
-    "id": "17002",
-    "name": "Gert-blin Healy-Stealy Smashrod",
-    "unknown": [
-      {
-        "description": "Unknown",
-        "screenshots": null
       }
     ]
   },
@@ -25198,28 +23854,6 @@
     ]
   },
   {
-    "id": "18277",
-    "name": "Ambivalence",
-    "level": "100",
-    "dungeonmerchant": [
-      {
-        "name": "Dungeon Merchant",
-        "location": "Eldritch Outlook Dungeon",
-        "coords": {
-          "x": "1300",
-          "y": "87",
-          "z": "-749"
-        },
-        "price": [
-          {
-            "item": "The Eye&#39;s Pupils",
-            "quantity": "2"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": "17425",
     "name": "Waterlogged Branch",
     "level": "20",
@@ -25667,23 +24301,6 @@
           "x": "-2078",
           "y": "45",
           "z": "-4777"
-        }
-      }
-    ]
-  },
-  {
-    "id": "17973",
-    "name": "Green Opal",
-    "level": "100",
-    "specialdrop": [
-      {
-        "description": "Possible Drop",
-        "screenshots": "https://imgur.com/XrFJ2b6",
-        "name": "Angels",
-        "location": "Sky Islands",
-        "coords": {
-          "x": "1000",
-          "z": "-4680"
         }
       }
     ]
@@ -27402,6 +26019,23 @@
     ]
   },
   {
+    "id": "17531",
+    "name": "Warped Skin",
+    "level": "14",
+    "specialdrop": [
+      {
+        "screenshots": "https://imgur.com/yWK2ONq, https://imgur.com/ELPhyd9",
+        "name": "Valley Wanderer",
+        "location": "Time Valley",
+        "coords": {
+          "x": "-500 ",
+          "y": "72 ",
+          "z": "-1110"
+        }
+      }
+    ]
+  },
+  {
     "id": "17532",
     "name": "Bone Ash",
     "level": "14",
@@ -27424,23 +26058,6 @@
           "x": "-554 ",
           "y": "70 ",
           "z": "-1173"
-        }
-      }
-    ]
-  },
-  {
-    "id": "17531",
-    "name": "Warped Skin",
-    "level": "14",
-    "specialdrop": [
-      {
-        "screenshots": "https://imgur.com/yWK2ONq, https://imgur.com/ELPhyd9",
-        "name": "Valley Wanderer",
-        "location": "Time Valley",
-        "coords": {
-          "x": "-500 ",
-          "y": "72 ",
-          "z": "-1110"
         }
       }
     ]
@@ -28337,6 +26954,23 @@
     ]
   },
   {
+    "id": "17568",
+    "name": "Reinforced Composite Bow",
+    "level": "11",
+    "merchant": [
+      {
+        "name": "Detlas weapon merchant",
+        "location": "Detlas",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "54"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "17569",
     "name": "Almuj Turban",
     "level": "14",
@@ -28721,6 +27355,23 @@
     ]
   },
   {
+    "id": "17592",
+    "name": "Memorial",
+    "level": "19",
+    "merchant": [
+      {
+        "name": "Nemract Armor Merchant",
+        "location": "Nemract",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "112"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "17593",
     "name": "Foundation",
     "level": "20",
@@ -28768,6 +27419,94 @@
             "quantity": "3"
           }
         ]
+      }
+    ]
+  },
+  {
+    "id": "17596",
+    "name": "Rotten Bone",
+    "level": "8",
+    "specialdrop": [
+      {
+        "screenshots": "https://imgur.com/sF4Nj6L, https://imgur.com/6VZ9adS",
+        "name": "Burned Suburb Resident, Dead Suburb Resident",
+        "location": "Detlas Suburbs",
+        "coords": {
+          "x": "130",
+          "y": "67",
+          "z": "-1578"
+        }
+      }
+    ]
+  },
+  {
+    "id": "17597",
+    "name": "Crawler Eye",
+    "level": "32",
+    "specialdrop": [
+      {
+        "screenshots": "https://i.imgur.com/PrjOSBz.png, https://i.imgur.com/GFndGXr.png",
+        "name": "Sand Crawlers",
+        "location": "All around the Desert",
+        "coords": {
+          "x": "1139",
+          "y": "76",
+          "z": "-1953"
+        }
+      }
+    ]
+  },
+  {
+    "id": "17598",
+    "name": "Alga",
+    "level": "60",
+    "specialdrop": [
+      {
+        "screenshots": "https://imgur.com/fREaPTT",
+        "name": "Feligember Frog",
+        "location": "Olux Swamp",
+        "coords": {
+          "x": "-1762",
+          "y": "56",
+          "z": "-5300"
+        }
+      },
+      {
+        "screenshots": "https://imgur.com/XRp7E4J",
+        "name": "Feligember Frog",
+        "location": "Olux Swamp",
+        "coords": {
+          "x": "-1524",
+          "y": "47",
+          "z": "-5267"
+        }
+      }
+    ]
+  },
+  {
+    "id": "17599",
+    "name": "Algae Mat",
+    "level": "36",
+    "specialdrop": [
+      {
+        "screenshots": "https://i.imgur.com/QtE3rN8.png, https://i.imgur.com/DuE2QrI.png",
+        "name": "Lunatic Squid",
+        "location": "Half Moon Island Shoreline",
+        "coords": {
+          "x": "885",
+          "y": "34",
+          "z": "-2558"
+        }
+      },
+      {
+        "screenshots": "https://i.imgur.com/raoWuFL.png, https://i.imgur.com/i1ovqbP.png",
+        "name": "Tiderider Squid",
+        "location": "Kraken Island",
+        "coords": {
+          "x": "-251",
+          "y": "35",
+          "z": "-2703"
+        }
       }
     ]
   },
@@ -30426,16 +29165,6 @@
     "level": "20"
   },
   {
-    "id": "18008",
-    "name": "Skyraider Coin",
-    "level": "99",
-    "specialdrop": [
-      {
-        "name": "Skyraiders"
-      }
-    ]
-  },
-  {
     "id": "17679",
     "name": "Panda King's Crown",
     "level": "89",
@@ -30455,18 +29184,6 @@
         "screenshots": "https://imgur.com/5xD3W1C",
         "name": "Bushpigs, Bush Boar",
         "location": "Corkus Avo Forest"
-      }
-    ]
-  },
-  {
-    "id": "17681",
-    "name": "Primordial Soul",
-    "level": "90",
-    "specialdrop": [
-      {
-        "screenshots": "https://imgur.com/a/tY38C4J",
-        "name": "Plains Guardian",
-        "location": "Cinfras County"
       }
     ]
   },
@@ -30503,16 +29220,6 @@
       {
         "description": "rarity 6 (0.02%) drop from the &#34;Major&#34; peaceful mob that spawns at the military base",
         "location": "Canyon of the Lost, Military Base"
-      }
-    ]
-  },
-  {
-    "id": "17810",
-    "name": "Severed Heart",
-    "level": "69",
-    "specialdrop": [
-      {
-        "location": "mobs at Dead Island"
       }
     ]
   },
@@ -31286,17 +29993,6 @@
     ]
   },
   {
-    "id": "18434",
-    "name": "Blood Moon",
-    "level": "70",
-    "specialdrop": [
-      {
-        "name": "Werewolves",
-        "location": "East of Gelibord"
-      }
-    ]
-  },
-  {
     "id": "17734",
     "name": "Terracotta Chunk",
     "level": "33",
@@ -31750,17 +30446,6 @@
     ]
   },
   {
-    "id": "17826",
-    "name": "Ironwood Chips",
-    "level": "70",
-    "specialdrop": [
-      {
-        "name": "Mahogany Colossus",
-        "location": "Dernel Jungle"
-      }
-    ]
-  },
-  {
     "id": "17759",
     "name": "Serpent Tongue",
     "level": "89",
@@ -32145,17 +30830,6 @@
         }
       }
     }
-  },
-  {
-    "id": "18475",
-    "name": "Ashstained Basalt",
-    "level": "94",
-    "specialdrop": [
-      {
-        "name": "Pyroclastic Hydra",
-        "location": "Upper Molten Heights"
-      }
-    ]
   },
   {
     "id": "17778",
@@ -32803,6 +31477,16 @@
     ]
   },
   {
+    "id": "17810",
+    "name": "Severed Heart",
+    "level": "69",
+    "specialdrop": [
+      {
+        "location": "mobs at Dead Island"
+      }
+    ]
+  },
+  {
     "id": "17811",
     "name": "Spellbound Ash",
     "level": "18",
@@ -33052,6 +31736,21 @@
     ]
   },
   {
+    "id": "17824",
+    "name": "Agullo Beak",
+    "level": "81",
+    "specialdrop": [
+      {
+        "name": "Agullo&#39;s",
+        "location": "Corkus Beach",
+        "coords": {
+          "x": "-1300",
+          "z": "-2225"
+        }
+      }
+    ]
+  },
+  {
     "id": "17825",
     "name": "Blazing Fireball",
     "level": "6",
@@ -33066,6 +31765,17 @@
           "y": "66",
           "z": "-1610"
         }
+      }
+    ]
+  },
+  {
+    "id": "17826",
+    "name": "Ironwood Chips",
+    "level": "70",
+    "specialdrop": [
+      {
+        "name": "Mahogany Colossus",
+        "location": "Dernel Jungle"
       }
     ]
   },
@@ -33885,6 +32595,23 @@
           "x": "130",
           "y": "67",
           "z": "-1578"
+        }
+      }
+    ]
+  },
+  {
+    "id": "17871",
+    "name": "Dry Seeds",
+    "level": "20",
+    "specialdrop": [
+      {
+        "screenshots": "https://imgur.com/0p245q0, https://imgur.com/T4ir3EB",
+        "name": "Merlug",
+        "location": "Cave near Nemract River",
+        "coords": {
+          "x": "110",
+          "y": "40",
+          "z": "-1938"
         }
       }
     ]
@@ -35555,6 +34282,19 @@
     ]
   },
   {
+    "id": "17950",
+    "name": "Plasteel Plating",
+    "level": "97",
+    "specialdrop": [
+      {
+        "description": "Possible Drop from Rare Mob",
+        "screenshots": "https://imgur.com/ZTA5GGR",
+        "name": "U-454 Stabot",
+        "location": "Corkus, near Fallen Factory"
+      }
+    ]
+  },
+  {
     "id": "17951",
     "name": "Tanned Flesh",
     "level": "35",
@@ -35578,6 +34318,17 @@
           "y": "31",
           "z": "-1460"
         }
+      }
+    ]
+  },
+  {
+    "id": "17952",
+    "name": "Essence of Dusk",
+    "level": "64",
+    "specialdrop": [
+      {
+        "name": "Tenebrous Infantry",
+        "location": "Dark Forest"
       }
     ]
   },
@@ -35609,6 +34360,35 @@
     ]
   },
   {
+    "id": "17954",
+    "name": "Sticky Mudball",
+    "level": "21",
+    "specialdrop": [
+      {
+        "description": "Rare drop",
+        "screenshots": "https://imgur.com/7dd7426, https://imgur.com/DPLoQwk",
+        "name": "Bubbling Mud Pile",
+        "location": "Mud Holes South of Nemract ",
+        "coords": {
+          "x": "113",
+          "y": "38",
+          "z": "-2116"
+        }
+      },
+      {
+        "description": "Rare drop",
+        "screenshots": "https://imgur.com/sZQXwkw, https://imgur.com/DPLoQwk",
+        "name": "Slimy Swamp Zombie",
+        "location": "Mud Holes South of Nemract",
+        "coords": {
+          "x": "113",
+          "y": "38",
+          "z": "-2116"
+        }
+      }
+    ]
+  },
+  {
     "id": "17955",
     "name": "Succulent Crab Meat",
     "level": "85",
@@ -35616,6 +34396,17 @@
       {
         "name": "King Crab",
         "location": "Corkus Shoreline"
+      }
+    ]
+  },
+  {
+    "id": "17956",
+    "name": "Luxic Plasma",
+    "level": "73",
+    "specialdrop": [
+      {
+        "description": "Luxic Plasma drops from mobs in the Light Realm",
+        "location": "Light Realm"
       }
     ]
   },
@@ -35853,6 +34644,23 @@
     ]
   },
   {
+    "id": "17973",
+    "name": "Green Opal",
+    "level": "100",
+    "specialdrop": [
+      {
+        "description": "Possible Drop",
+        "screenshots": "https://imgur.com/XrFJ2b6",
+        "name": "Angels",
+        "location": "Sky Islands",
+        "coords": {
+          "x": "1000",
+          "z": "-4680"
+        }
+      }
+    ]
+  },
+  {
     "id": "17974",
     "name": "Potion of Healing",
     "level": "100",
@@ -36068,6 +34876,29 @@
     ]
   },
   {
+    "id": "17984",
+    "name": "Nightmare Fuel",
+    "level": "50",
+    "bossaltar": [
+      {
+        "screenshots": "https://imgur.com/zuxv48D, https://imgur.com/1npQUAQ",
+        "name": "Prison of Souls",
+        "location": "Twain Lake",
+        "coords": {
+          "x": "52",
+          "y": "67",
+          "z": "-485"
+        },
+        "requirements": [
+          {
+            "item": "Ghostly Essence",
+            "quantity": "15"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "17985",
     "name": "Naga Tail",
     "level": "55",
@@ -36244,6 +35075,113 @@
           {
             "item": "Coyote Fang",
             "quantity": "12"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "17993",
+    "name": "Enhanced Behaviour Microchip",
+    "level": "90",
+    "specialdrop": [
+      {
+        "name": "U-08 Servant Bot",
+        "location": "Corkus Island"
+      }
+    ]
+  },
+  {
+    "id": "17994",
+    "name": "Abyss-Imbued Leggings",
+    "level": "100",
+    "hive": [
+      {
+        "description": null,
+        "screenshots": null,
+        "name": "Hive Master Division",
+        "location": null,
+        "coords": {
+          "x": null,
+          "y": null,
+          "z": null
+        },
+        "price": [
+          {
+            "item": "Master Voucher",
+            "quantity": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "17995",
+    "name": "Chaos-Woven Greaves",
+    "level": "100",
+    "hive": [
+      {
+        "description": null,
+        "screenshots": null,
+        "name": "Hive Master Division",
+        "location": null,
+        "coords": {
+          "x": null,
+          "y": null,
+          "z": null
+        },
+        "price": [
+          {
+            "item": "Master Voucher",
+            "quantity": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "17996",
+    "name": "Eden-Blessed Guards",
+    "level": "100",
+    "hive": [
+      {
+        "description": null,
+        "screenshots": null,
+        "name": "Hive Master Division",
+        "location": null,
+        "coords": {
+          "x": null,
+          "y": null,
+          "z": null
+        },
+        "price": [
+          {
+            "item": "Master Voucher",
+            "quantity": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "17997",
+    "name": "Elysium-Engraved Aegis",
+    "level": "100",
+    "hive": [
+      {
+        "description": null,
+        "screenshots": null,
+        "name": "Hive Master Division",
+        "location": null,
+        "coords": {
+          "x": null,
+          "y": null,
+          "z": null
+        },
+        "price": [
+          {
+            "item": "Master Voucher",
+            "quantity": "1"
           }
         ]
       }
@@ -36459,6 +35397,31 @@
     ]
   },
   {
+    "id": "18007",
+    "name": "Titanium Chunk",
+    "level": "70",
+    "bossaltar": [
+      {
+        "name": "Altar of Sanctification",
+        "location": "Dernel Jungle",
+        "coords": {
+          "x": "-911",
+          "z": "-623"
+        }
+      }
+    ]
+  },
+  {
+    "id": "18008",
+    "name": "Skyraider Coin",
+    "level": "99",
+    "specialdrop": [
+      {
+        "name": "Skyraiders"
+      }
+    ]
+  },
+  {
     "id": "18009",
     "name": "Bamboo",
     "level": "80",
@@ -36476,6 +35439,20 @@
     "specialdrop": [
       {
         "name": "U-45 Repaired Bot",
+        "location": "Corkus"
+      }
+    ]
+  },
+  {
+    "id": "18011",
+    "name": "Enhanced Dynamics Microchip",
+    "level": "90",
+    "specialdrop": [
+      {
+        "location": "Geyser Pits"
+      },
+      {
+        "name": "H-101 War Machine",
         "location": "Corkus"
       }
     ]
@@ -38014,84 +36991,6 @@
     ]
   },
   {
-    "id": "18104",
-    "name": "Earth Relic Relik",
-    "level": "50",
-    "specialdrop": [
-      {
-        "description": "Rare Mob",
-        "screenshots": "https://i.imgur.com/RwieYNx.png",
-        "name": "Relic Guardian",
-        "location": "Near Nesaak, Tower of Ascension or Dernel Jungle"
-      }
-    ]
-  },
-  {
-    "id": "18105",
-    "name": "Thunder Relic Relik",
-    "level": "50",
-    "specialdrop": [
-      {
-        "description": "Rare Mob",
-        "screenshots": "https://i.imgur.com/RwieYNx.png",
-        "name": "Relic Guardian",
-        "location": "Near Nesaak, Tower of Ascension or Dernel Jungle"
-      }
-    ]
-  },
-  {
-    "id": "18106",
-    "name": "Water Relic Relik",
-    "level": "50",
-    "specialdrop": [
-      {
-        "description": "Rare Mob",
-        "screenshots": "https://i.imgur.com/RwieYNx.png",
-        "name": "Relic Guardian",
-        "location": "Near Nesaak, Tower of Ascension or Dernel Jungle"
-      }
-    ]
-  },
-  {
-    "id": "18107",
-    "name": "Fire Relic Relik",
-    "level": "50",
-    "specialdrop": [
-      {
-        "description": "Rare Mob",
-        "screenshots": "https://i.imgur.com/RwieYNx.png",
-        "name": "Relic Guardian",
-        "location": "Near Nesaak, Tower of Ascension or Dernel Jungle"
-      }
-    ]
-  },
-  {
-    "id": "18108",
-    "name": "Air Relic Relik",
-    "level": "50",
-    "specialdrop": [
-      {
-        "description": "Rare Mob",
-        "screenshots": "https://i.imgur.com/RwieYNx.png",
-        "name": "Relic Guardian",
-        "location": "Near Nesaak, Tower of Ascension or Dernel Jungle"
-      }
-    ]
-  },
-  {
-    "id": "18109",
-    "name": "Relic Relik",
-    "level": "50",
-    "specialdrop": [
-      {
-        "description": "Rare Mob",
-        "screenshots": "https://i.imgur.com/RwieYNx.png",
-        "name": "Relic Guardian",
-        "location": "Near Nesaak, Tower of Ascension or Dernel Jungle"
-      }
-    ]
-  },
-  {
     "id": "18110",
     "name": "Gift of the Magi",
     "level": "95",
@@ -38827,6 +37726,24 @@
     ]
   },
   {
+    "id": "18163",
+    "name": "Shimmering Jewel",
+    "level": "40",
+    "specialdrop": {
+      "1": {
+        "description": "Rare drop",
+        "screenshots": "https://imgur.com/8kolGhU, https://imgur.com/JPwYL5q",
+        "name": "Goblins",
+        "location": "Llevigar Plains",
+        "coords": {
+          "x": "-1680",
+          "y": "56",
+          "z": "-4936"
+        }
+      }
+    }
+  },
+  {
     "id": "18164",
     "name": "Spider Leg",
     "level": "43",
@@ -38892,6 +37809,32 @@
     ]
   },
   {
+    "id": "18167",
+    "name": "Air Relic Relik",
+    "level": "45",
+    "specialdrop": [
+      {
+        "description": "Rare Mob",
+        "screenshots": "https://i.imgur.com/RwieYNx.png",
+        "name": "Relic Guardian",
+        "location": "Near Nesaak, Tower of Ascension or Dernel Jungle"
+      }
+    ]
+  },
+  {
+    "id": "18168",
+    "name": "Earth Relic Relik",
+    "level": "45",
+    "specialdrop": [
+      {
+        "description": "Rare Mob",
+        "screenshots": "https://i.imgur.com/RwieYNx.png",
+        "name": "Relic Guardian",
+        "location": "Near Nesaak, Tower of Ascension or Dernel Jungle"
+      }
+    ]
+  },
+  {
     "id": "18169",
     "name": "Fire Relic Relik",
     "level": "45",
@@ -38940,6 +37883,23 @@
         "screenshots": "https://i.imgur.com/RwieYNx.png",
         "name": "Relic Guardian",
         "location": "Near Nesaak, Tower of Ascension or Dernel Jungle"
+      }
+    ]
+  },
+  {
+    "id": "18173",
+    "name": "Andesite-Hewn Bow",
+    "level": "8",
+    "merchant": [
+      {
+        "name": "Detlas Weapon Merchant",
+        "location": "Detlas",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "10"
+          }
+        ]
       }
     ]
   },
@@ -38995,6 +37955,40 @@
     ]
   },
   {
+    "id": "18177",
+    "name": "Hard Leather Boots",
+    "level": "14",
+    "merchant": [
+      {
+        "name": "Detlas Armour Merchant",
+        "location": "Detlas",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "18"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "18178",
+    "name": "Hard Leather Cap",
+    "level": "13",
+    "merchant": [
+      {
+        "name": "Detlas Armour Merchant",
+        "location": "Detlas",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "17"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "18179",
     "name": "Hard Leather Leggings",
     "level": "15",
@@ -39023,6 +38017,23 @@
           {
             "item": "Emeralds",
             "quantity": "23"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "18181",
+    "name": "Padded Leather Boots",
+    "level": "10",
+    "merchant": [
+      {
+        "name": "Detlas Armour Merchant",
+        "location": "Detlas",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "18"
           }
         ]
       }
@@ -39080,6 +38091,49 @@
     ]
   },
   {
+    "id": "18185",
+    "name": "Sticky Fern",
+    "level": "25",
+    "specialdrop": [
+      {
+        "screenshots": "https://imgur.com/opmHJ27, https://imgur.com/bgDd1lo",
+        "name": "Undead Explorers",
+        "location": "Cave near Coastal Trail",
+        "coords": {
+          "x": "-231",
+          "z": "-2101"
+        }
+      },
+      {
+        "screenshots": "https://imgur.com/qWKH06R, https://imgur.com/wcQIrBI, https://imgur.com/7XRiawI, https://imgur.com/cXATbrY, https://imgur.com/zKC0pDO",
+        "name": "Watery Sludge, Aquifer Silkworm, Digested Muck",
+        "location": "Cave in Olux",
+        "coords": {
+          "x": "-1733",
+          "y": "15",
+          "z": "-5468"
+        }
+      }
+    ]
+  },
+  {
+    "id": "18186",
+    "name": "Aged Golden Boots",
+    "level": "22",
+    "merchant": [
+      {
+        "name": "Nemract Armour Merchant",
+        "location": "Nemract",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "32"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "18187",
     "name": "Aged Golden Chestplate",
     "level": "24",
@@ -39131,6 +38185,159 @@
     ]
   },
   {
+    "id": "18190",
+    "name": "High-Quality Chain Boots",
+    "level": "58",
+    "merchant": [
+      {
+        "name": "Troms Armour Merchant",
+        "location": "Troms",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "179"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "18191",
+    "name": "High-Quality Chain Leggings",
+    "level": "59",
+    "merchant": [
+      {
+        "name": "Troms Armour Merchant",
+        "location": "Troms",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "186"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "18192",
+    "name": "High-Quality Chain Helmet",
+    "level": "57",
+    "merchant": [
+      {
+        "name": "Troms Armour Merchant",
+        "location": "Troms",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "173"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "18193",
+    "name": "Jungle Wood Bow",
+    "level": "19",
+    "merchant": [
+      {
+        "name": "Nemract Weapon Merchant",
+        "location": "Nemract",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "28"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "18194",
+    "name": "Jungle Wood Shears",
+    "level": "19",
+    "merchant": [
+      {
+        "name": "Nemract Weapon Merchant",
+        "location": "Nemract",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "28"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "18195",
+    "name": "Jungle Wood Spear",
+    "level": "19",
+    "merchant": [
+      {
+        "name": "Nemract Weapon Merchant",
+        "location": "Nemract",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "28"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "18196",
+    "name": "Jungle Wood Stick",
+    "level": "19",
+    "merchant": [
+      {
+        "name": "Nemract Weapon Merchant",
+        "location": "Nemract",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "28"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "18197",
+    "name": "Plated Iron Boots",
+    "level": "70",
+    "merchant": [
+      {
+        "name": "Cinfras Armour Merchant",
+        "location": "Cinfras",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "256"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "18198",
+    "name": "Plated Iron Chestplate",
+    "level": "72",
+    "merchant": [
+      {
+        "name": "Cinfras Armour Merchant",
+        "location": "Cinfras",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "282"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "18199",
     "name": "High-Quality Chain Mail",
     "level": "60",
@@ -39142,6 +38349,23 @@
           {
             "item": "Emeralds",
             "quantity": "192"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "18200",
+    "name": "Plated Iron Leggings",
+    "level": "71",
+    "merchant": [
+      {
+        "name": "Cinfras Armour Merchant",
+        "location": "Cinfras",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "269"
           }
         ]
       }
@@ -39193,6 +38417,40 @@
           {
             "item": "Emeralds",
             "quantity": "250"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "18204",
+    "name": "Pure Diorite Stick",
+    "level": "69",
+    "merchant": [
+      {
+        "name": "Cinfras Weapon Merchant",
+        "location": "Cinfras",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "250"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "18205",
+    "name": "Pure Oak Wood Shears",
+    "level": "56",
+    "merchant": [
+      {
+        "name": "Troms Weapon Merchant",
+        "location": "Troms",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "166"
           }
         ]
       }
@@ -39261,6 +38519,74 @@
           {
             "item": "Emeralds",
             "quantity": "250"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "18210",
+    "name": "Brilliant Diamond Boots",
+    "level": "98",
+    "merchant": [
+      {
+        "name": "Ahmsord Armour Merchant",
+        "location": "Ahmsord",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "1920"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "18211",
+    "name": "Brilliant Diamond Chestplate",
+    "level": "100",
+    "merchant": [
+      {
+        "name": "Ahmsord Armour Merchant",
+        "location": "Ahmsord",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "1920"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "18212",
+    "name": "Brilliant Diamond Helmet",
+    "level": "97",
+    "merchant": [
+      {
+        "name": "Ahmsord Armour Merchant",
+        "location": "Ahmsord",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "1920"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "18213",
+    "name": "Impeccable Granite Bow",
+    "level": "98",
+    "merchant": [
+      {
+        "name": "Ahmsord Weapon Merchant",
+        "location": "Ahmsord",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "1920"
           }
         ]
       }
@@ -39352,6 +38678,57 @@
     ]
   },
   {
+    "id": "18219",
+    "name": "Flawless Oak Bow",
+    "level": "28",
+    "merchant": [
+      {
+        "name": "Almuj Weapon Merchant",
+        "location": "Almuj",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "47"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "18220",
+    "name": "Flawless Oak Shears",
+    "level": "28",
+    "merchant": [
+      {
+        "name": "Almuj Weapon Merchant",
+        "location": "Almuj",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "47"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "18221",
+    "name": "Flawless Oak Spear",
+    "level": "28",
+    "merchant": [
+      {
+        "name": "Almuj Weapon Merchant",
+        "location": "Almuj",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "47"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "18222",
     "name": "Flawless Oak Stick",
     "level": "28",
@@ -39363,6 +38740,23 @@
           {
             "item": "Emeralds",
             "quantity": "47"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "18223",
+    "name": "Light Jungle Wood Bow",
+    "level": "25",
+    "merchant": [
+      {
+        "name": "Selchar Weapon Merchant",
+        "location": "Selchar",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "40"
           }
         ]
       }
@@ -39437,6 +38831,23 @@
     ]
   },
   {
+    "id": "18228",
+    "name": "Used Golden Boots",
+    "level": "30",
+    "merchant": [
+      {
+        "name": "Almuj Armour Merchant",
+        "location": "Almuj",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "52"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "18229",
     "name": "Used Golden Chestplate",
     "level": "32",
@@ -39482,6 +38893,23 @@
           {
             "item": "Emeralds",
             "quantity": "54"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "18232",
+    "name": "Worn Golden Boots",
+    "level": "26",
+    "merchant": [
+      {
+        "name": "Selchar Armour Merchant",
+        "location": "Selchar",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "47"
           }
         ]
       }
@@ -39539,6 +38967,23 @@
     ]
   },
   {
+    "id": "18236",
+    "name": "Cracked Iron Boots",
+    "level": "62",
+    "merchant": [
+      {
+        "name": "Gelibord Armour Merchant",
+        "location": "Gelibord",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "461"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "18237",
     "name": "Cracked Iron Chestplate",
     "level": "64",
@@ -39567,6 +39012,40 @@
           {
             "item": "Emeralds",
             "quantity": "467"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "18239",
+    "name": "Cracked Iron Helmet",
+    "level": "61",
+    "merchant": [
+      {
+        "name": "Gelibord Armour Merchant",
+        "location": "Gelibord",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "454"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "18240",
+    "name": "Flawless Granite Bow",
+    "level": "54",
+    "merchant": [
+      {
+        "name": "Olux Weapon Merchant",
+        "location": "Olux",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "154"
           }
         ]
       }
@@ -39607,6 +39086,40 @@
     ]
   },
   {
+    "id": "18243",
+    "name": "Flawless Granite Spear",
+    "level": "54",
+    "merchant": [
+      {
+        "name": "Olux Weapon Merchant",
+        "location": "Olux",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "154"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "18244",
+    "name": "Pure Andesite Bow",
+    "level": "63",
+    "merchant": [
+      {
+        "name": "Gelibord Weapon Merchant",
+        "location": "Gelibord",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "211"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "18245",
     "name": "Pure Andesite Stick",
     "level": "63",
@@ -39618,6 +39131,23 @@
           {
             "item": "Emeralds",
             "quantity": "211"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "18246",
+    "name": "Standard Chain Boots",
+    "level": "50",
+    "merchant": [
+      {
+        "name": "Olux Armour Merchant",
+        "location": "Olux",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "128"
           }
         ]
       }
@@ -39675,6 +39205,40 @@
     ]
   },
   {
+    "id": "18250",
+    "name": "Pure Andesite Spear",
+    "level": "63",
+    "merchant": [
+      {
+        "name": "Gelibord Weapon Merchant",
+        "location": "Gelibord",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "211"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "18251",
+    "name": "Pure Andesite Shears",
+    "level": "63",
+    "merchant": [
+      {
+        "name": "Gelibord Weapon Merchant",
+        "location": "Gelibord",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "211"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "18252",
     "name": "Sealed Blaze",
     "level": "59",
@@ -39711,6 +39275,19 @@
           "y": "40",
           "z": "-3735"
         }
+      }
+    ]
+  },
+  {
+    "id": "18253",
+    "name": "Blighted Brain",
+    "level": "20",
+    "specialdrop": [
+      {
+        "description": "Rare Mob",
+        "screenshots": "https://imgur.com/htJH6th",
+        "name": "Skelemancer",
+        "location": "Ancient Nemract"
       }
     ]
   },
@@ -40034,13 +39611,34 @@
     ]
   },
   {
-    "id": "18280",
-    "name": "Enhanced Potential Microchip",
-    "level": "90",
+    "id": "18273",
+    "name": "Maromagnetite",
+    "level": "63",
     "specialdrop": [
       {
-        "name": "U-04 ClockBot",
-        "location": "Corkus"
+        "name": "Sunstone Ram"
+      },
+      {
+        "name": "Altitude Walker",
+        "location": "Maro Peaks"
+      }
+    ]
+  },
+  {
+    "id": "18274",
+    "name": "Ancient Panel",
+    "level": "37",
+    "specialdrop": [
+      {
+        "description": "Rare Mob",
+        "screenshots": "https://i.imgur.com/a9t4PJa.png, https://i.imgur.com/ozursLz.png",
+        "name": "Limestone Machination",
+        "location": "Desert, Sand-Swept Tomb entrance",
+        "coords": {
+          "x": "1344",
+          "y": "77",
+          "z": "-1840"
+        }
       }
     ]
   },
@@ -40085,6 +39683,28 @@
     ]
   },
   {
+    "id": "18277",
+    "name": "Ambivalence",
+    "level": "100",
+    "dungeonmerchant": [
+      {
+        "name": "Dungeon Merchant",
+        "location": "Eldritch Outlook Dungeon",
+        "coords": {
+          "x": "1300",
+          "y": "87",
+          "z": "-749"
+        },
+        "price": [
+          {
+            "item": "The Eye&#39;s Pupils",
+            "quantity": "2"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "18278",
     "name": "Mythical Hoof",
     "level": "92",
@@ -40111,6 +39731,34 @@
       {
         "name": "U-03 Miner Bot",
         "location": "Corkus"
+      }
+    ]
+  },
+  {
+    "id": "18280",
+    "name": "Enhanced Potential Microchip",
+    "level": "90",
+    "specialdrop": [
+      {
+        "name": "U-04 ClockBot",
+        "location": "Corkus"
+      }
+    ]
+  },
+  {
+    "id": "18281",
+    "name": "Antique Metal",
+    "level": "78",
+    "specialdrop": [
+      {
+        "description": "[!] Plains Guardian has been reported as no longer dropping Antique Metal",
+        "screenshots": "https://imgur.com/s1AlM3r",
+        "name": "Plains Guardian",
+        "location": "East of Cinfras in the Cinfras County Mid-Lower territory"
+      },
+      {
+        "name": "Obsidian Sentinel",
+        "location": "East of Cinfras in the Cinfras County Mid-Lower territory"
       }
     ]
   },
@@ -40150,6 +39798,17 @@
           "x": "500",
           "z": "-3750"
         }
+      }
+    ]
+  },
+  {
+    "id": "18285",
+    "name": "Cursed Ashes",
+    "level": "65",
+    "specialdrop": [
+      {
+        "name": "Cursed Farmer and Cursed Adventurer",
+        "location": "Dark Forest"
       }
     ]
   },
@@ -41112,6 +40771,17 @@
     ]
   },
   {
+    "id": "18335",
+    "name": "Spiketop",
+    "level": "9",
+    "discovery": [
+      {
+        "description": "Far From the Roots, Dropped from the Corrupted Egg at the end of the cave",
+        "screenshots": "https://imgur.com/p8B00gw, https://imgur.com/eevgJwS"
+      }
+    ]
+  },
+  {
     "id": "18336",
     "name": "Dernic Parasite",
     "level": "104",
@@ -41125,17 +40795,6 @@
           "x": "1200",
           "z": "-1000"
         }
-      }
-    ]
-  },
-  {
-    "id": "18335",
-    "name": "Spiketop",
-    "level": "9",
-    "discovery": [
-      {
-        "description": "Far From the Roots, Dropped from the Corrupted Egg at the end of the cave",
-        "screenshots": "https://imgur.com/p8B00gw, https://imgur.com/eevgJwS"
       }
     ]
   },
@@ -41163,18 +40822,19 @@
     ]
   },
   {
-    "id": "18353",
-    "name": "Corrupt Chain",
-    "level": "1",
+    "id": "18338",
+    "name": "Aspect of the Void",
+    "level": "100",
     "specialdrop": [
       {
-        "screenshots": "https://imgur.com/sACYaso, https://imgur.com/Tm0Ie64",
-        "name": "Corrupt Hex",
-        "location": "Ragni Plains",
+        "description": "Rare Mob",
+        "screenshots": "https://imgur.com/wwvBJrl",
+        "name": "Umbral Singularity",
+        "location": "The Void",
         "coords": {
-          "x": "-842",
-          "y": "64",
-          "z": "-1800"
+          "x": "13967",
+          "y": "129",
+          "z": "-3795"
         }
       }
     ]
@@ -41263,6 +40923,19 @@
           "y": "129",
           "z": "-3795"
         }
+      }
+    ]
+  },
+  {
+    "id": "18342",
+    "name": "Adaptive Tissue",
+    "level": "78",
+    "specialdrop": [
+      {
+        "description": "Rare Mob",
+        "screenshots": "https://imgur.com/xl6Ugv2",
+        "name": "Master Regenerator",
+        "location": "Realm of Light"
       }
     ]
   },
@@ -41449,6 +41122,23 @@
     ]
   },
   {
+    "id": "18353",
+    "name": "Corrupt Chain",
+    "level": "1",
+    "specialdrop": [
+      {
+        "screenshots": "https://imgur.com/sACYaso, https://imgur.com/Tm0Ie64",
+        "name": "Corrupt Hex",
+        "location": "Ragni Plains",
+        "coords": {
+          "x": "-842",
+          "y": "64",
+          "z": "-1800"
+        }
+      }
+    ]
+  },
+  {
     "id": "18354",
     "name": "Dark Energy",
     "level": "100",
@@ -41532,22 +41222,6 @@
         "screenshots": "https://imgur.com/sRoVFPv",
         "name": "Obelisk of Inversion",
         "location": "Kanderstone Mine"
-      }
-    ]
-  },
-  {
-    "id": "18420",
-    "name": "Flawless Granite Dagger",
-    "level": "54",
-    "merchant": [
-      {
-        "name": "Olux Weapon Merchant",
-        "price": [
-          {
-            "item": "Emeralds",
-            "quantity": "154"
-          }
-        ]
       }
     ]
   },
@@ -42846,6 +42520,22 @@
     ]
   },
   {
+    "id": "18420",
+    "name": "Flawless Granite Dagger",
+    "level": "54",
+    "merchant": [
+      {
+        "name": "Olux Weapon Merchant",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "154"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "18421",
     "name": "Flawless Granite Wand",
     "level": "54",
@@ -42856,6 +42546,28 @@
           {
             "item": "Emeralds",
             "quantity": "154"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "18422",
+    "name": "Dim Diamond Boots",
+    "level": "82",
+    "merchant": [
+      {
+        "name": "Corkus City Armour Merchant",
+        "location": "Corkus",
+        "coords": {
+          "x": "-1643",
+          "y": "68",
+          "z": "-2913"
+        },
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "397"
           }
         ]
       }
@@ -43091,6 +42803,17 @@
           "y": "57",
           "z": "-5567"
         }
+      }
+    ]
+  },
+  {
+    "id": "18434",
+    "name": "Blood Moon",
+    "level": "70",
+    "specialdrop": [
+      {
+        "name": "Werewolves",
+        "location": "East of Gelibord"
       }
     ]
   },
@@ -43678,6 +43401,38 @@
     "unobtainable": [
       {
         "description": "Available only in Hero Beta"
+      }
+    ]
+  },
+  {
+    "id": "18473",
+    "name": "Mask of the Spirits",
+    "level": "1",
+    "discontinued": [
+      {
+        "description": "Was obtainable during &#34;Drawing of the Spirits&#34; event"
+      }
+    ]
+  },
+  {
+    "id": "18474",
+    "name": "Organic Explosive",
+    "level": "77",
+    "specialdrop": [
+      {
+        "name": "Creepers",
+        "location": "Realm of Light"
+      }
+    ]
+  },
+  {
+    "id": "18475",
+    "name": "Ashstained Basalt",
+    "level": "94",
+    "specialdrop": [
+      {
+        "name": "Pyroclastic Hydra",
+        "location": "Upper Molten Heights"
       }
     ]
   },
