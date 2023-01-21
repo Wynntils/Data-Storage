@@ -32573,12 +32573,7 @@
     "id": "18313",
     "name": "Metamorphosis",
     "level": "80",
-    "raid": [
-      {
-        "name": "Nest of the Grootslang",
-        "location": "Olux Swamp"
-      }
-    ]
+    "raid": "Nest of the Grootslangs"
   },
   {
     "id": "18314",
@@ -32620,11 +32615,7 @@
     "id": "18318",
     "name": "Cacophony",
     "level": "80",
-    "raid": [
-      {
-        "name": "Orphion's Nexus of Light"
-      }
-    ]
+    "raid": "Orphion's Nexus of Light"
   },
   {
     "id": "18319",
@@ -32708,45 +32699,25 @@
     "id": "18327",
     "name": "Abrasion",
     "level": "100",
-    "raid": [
-      {
-        "name": "The Canyon Colossus",
-        "location": "near Kandon-Beda"
-      }
-    ]
+    "raid": "The Canyon Colossus"
   },
   {
     "id": "18328",
     "name": "Recalcitrance",
     "level": "100",
-    "raid": [
-      {
-        "name": "The Canyon Colossus",
-        "location": "near Kandon-Beda"
-      }
-    ]
+    "raid": "The Canyon Colossus"
   },
   {
     "id": "18329",
     "name": "Homeorhesis",
     "level": "60",
-    "raid": [
-      {
-        "name": "Nest of the Grootslangs",
-        "location": "Olux Swamp"
-      }
-    ]
+    "raid": "Nest of the Grootslangs"
   },
   {
     "id": "18330",
     "name": "Eyes on All",
     "level": "60",
-    "raid": [
-      {
-        "name": "Nest of the Grootslangs",
-        "location": "Olux Swamp"
-      }
-    ]
+    "raid": "Nest of the Grootslangs"
   },
   {
     "id": "18331",
