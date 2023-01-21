@@ -13122,91 +13122,55 @@
     "id": "16946",
     "name": "Builder's Boots",
     "level": "50",
-    "unobtainable": [
-      {
-        "description": "Event"
-      }
-    ]
+    "unobtainable": "Event"
   },
   {
     "id": "16947",
     "name": "Builder's Breastplate",
     "level": "50",
-    "unobtainable": [
-      {
-        "description": "Event"
-      }
-    ]
+    "unobtainable": "Event"
   },
   {
     "id": "16948",
     "name": "Builder's Helmet",
     "level": "50",
-    "unobtainable": [
-      {
-        "description": "Event"
-      }
-    ]
+    "unobtainable": "Event"
   },
   {
     "id": "16949",
     "name": "Builder's Trousers",
     "level": "50",
-    "unobtainable": [
-      {
-        "description": "Event"
-      }
-    ]
+    "unobtainable": "Event"
   },
   {
     "id": "16950",
     "name": "Cerid's Ingenuity",
     "level": "45",
-    "unobtainable": [
-      {
-        "description": "Unobtainable"
-      }
-    ]
+    "unobtainable": "Unobtainable"
   },
   {
     "id": "16951",
     "name": "default",
     "level": "1",
-    "unobtainable": [
-      {
-        "description": "Unobtainable"
-      }
-    ]
+    "unobtainable": "Unobtainable"
   },
   {
     "id": "16952",
     "name": "Diving Boots I",
     "level": "40",
-    "unobtainable": [
-      {
-        "description": "Unobtainable"
-      }
-    ]
+    "unobtainable": "Unobtainable"
   },
   {
     "id": "16953",
     "name": "Diving Boots II",
     "level": "55",
-    "unobtainable": [
-      {
-        "description": "Unobtainable"
-      }
-    ]
+    "unobtainable": "Unobtainable"
   },
   {
     "id": "16954",
     "name": "Diving Boots III",
     "level": "70",
-    "unobtainable": [
-      {
-        "description": "Unobtainable"
-      }
-    ]
+    "unobtainable": "Unobtainable"
   },
   {
     "id": "16955",
@@ -13231,51 +13195,31 @@
     "id": "16957",
     "name": "GM's Boots",
     "level": "50",
-    "unobtainable": [
-      {
-        "description": "Event"
-      }
-    ]
+    "unobtainable": "Event"
   },
   {
     "id": "16958",
     "name": "GM's Breastplate",
     "level": "50",
-    "unobtainable": [
-      {
-        "description": "Event"
-      }
-    ]
+    "unobtainable": "Event"
   },
   {
     "id": "16959",
     "name": "GM's Helmet",
     "level": "50",
-    "unobtainable": [
-      {
-        "description": "Event"
-      }
-    ]
+    "unobtainable": "Event"
   },
   {
     "id": "16960",
     "name": "GM's Trousers",
     "level": "50",
-    "unobtainable": [
-      {
-        "description": "Event"
-      }
-    ]
+    "unobtainable": "Event"
   },
   {
     "id": "16961",
     "name": "Ohms' Rage",
     "level": "52",
-    "unobtainable": [
-      {
-        "description": "Unobtainable"
-      }
-    ]
+    "unobtainable": "Unobtainable"
   },
   {
     "id": "16962",
@@ -13287,11 +13231,7 @@
     "id": "16963",
     "name": "Pirate Queen's Ring of Rubies",
     "level": "75",
-    "unobtainable": [
-      {
-        "description": "Unobtainable"
-      }
-    ]
+    "unobtainable": "Unobtainable"
   },
   {
     "id": "16964",
@@ -13379,21 +13319,13 @@
     "id": "16969",
     "name": "Rounding Test",
     "level": "1",
-    "unobtainable": [
-      {
-        "description": "Unobtainable"
-      }
-    ]
+    "unobtainable": "Unobtainable"
   },
   {
     "id": "16970",
     "name": "Rycar's Elation",
     "level": "59",
-    "unobtainable": [
-      {
-        "description": "Unobtainable"
-      }
-    ]
+    "unobtainable": "Unobtainable"
   },
   {
     "id": "16971",
@@ -13409,21 +13341,13 @@
     "id": "16972",
     "name": "Wynnter Fair 2017 Souvenir",
     "level": "1",
-    "unobtainable": [
-      {
-        "description": "Unobtainable"
-      }
-    ]
+    "unobtainable": "Unobtainable"
   },
   {
     "id": "16973",
     "name": "Gnomish Topper",
     "level": "75",
-    "unobtainable": [
-      {
-        "description": "Unobtainable"
-      }
-    ]
+    "unobtainable": "Unobtainable"
   },
   {
     "id": "16974",
@@ -17802,11 +17726,7 @@
     "id": "17508",
     "name": "Ocelot Hair",
     "level": "25",
-    "unobtainable": [
-      {
-        "description": "Unobtainable"
-      }
-    ]
+    "unobtainable": "Unobtainable"
   },
   {
     "id": "17509",
@@ -23781,21 +23701,13 @@
     "id": "17816",
     "name": "Unfading Pull",
     "level": "15",
-    "unobtainable": [
-      {
-        "description": "Unobtainable"
-      }
-    ]
+    "unobtainable": "Unobtainable"
   },
   {
     "id": "17817",
     "name": "Ice Silver",
     "level": "42",
-    "unobtainable": [
-      {
-        "description": "Unobtainable"
-      }
-    ]
+    "unobtainable": "Unobtainable"
   },
   {
     "id": "17818",
@@ -32434,21 +32346,13 @@
     "id": "18314",
     "name": "Saltest Spear",
     "level": "1",
-    "unobtainable": [
-      {
-        "description": "Unobtainable"
-      }
-    ]
+    "unobtainable": "Unobtainable"
   },
   {
     "id": "18315",
     "name": "Speedyboy",
     "level": "20",
-    "unobtainable": [
-      {
-        "description": "Unobtainable"
-      }
-    ]
+    "unobtainable": "Unobtainable"
   },
   {
     "id": "18316",
@@ -35153,11 +35057,7 @@
     "id": "18472",
     "name": "Inhibitor",
     "level": "100",
-    "unobtainable": [
-      {
-        "description": "Available only in Hero Beta"
-      }
-    ]
+    "unobtainable": "Available only in Hero Beta"
   },
   {
     "id": "18473",
