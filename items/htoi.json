@@ -275,21 +275,13 @@
     "id": "16121",
     "name": "Ba'al's Betrayal",
     "level": "30",
-    "discontinued": [
-      {
-        "description": "No longer obtainable - Replaced by Takan's Treachery"
-      }
-    ]
+    "discontinued": "No longer obtainable - Replaced by Takan's Treachery"
   },
   {
     "id": "16122",
     "name": "Contest Wynner Cap",
     "level": "1",
-    "discontinued": [
-      {
-        "description": "Event"
-      }
-    ]
+    "discontinued": "Event"
   },
   {
     "id": "16123",
@@ -383,32 +375,19 @@
     "id": "16131",
     "name": "Hallowynn Mask",
     "level": "22",
-    "discontinued": [
-      {
-        "description": "Event"
-      }
-    ]
+    "discontinued": "Event"
   },
   {
     "id": "16132",
     "name": "Impure Morph-Gold",
     "level": "25",
-    "discontinued": [
-      {
-        "description": "No longer obtainable - Replaced by Morph-Gold"
-      }
-    ]
+    "discontinued": "No longer obtainable - Replaced by Morph-Gold"
   },
   {
     "id": "16133",
     "name": "Pumpkin Helmet",
     "level": "20",
-    "discontinued": [
-      {
-        "description": "No longer obtainable",
-        "screenshots": "https://i.imgur.com/QajHeOi.png"
-      }
-    ]
+    "discontinued": "No longer obtainable"
   },
   {
     "id": "16134",
@@ -510,41 +489,25 @@
     "id": "16142",
     "name": "Santa Boots",
     "level": "33",
-    "discontinued": [
-      {
-        "description": "Event"
-      }
-    ]
+    "discontinued": "Event"
   },
   {
     "id": "16143",
     "name": "Santa Hat",
     "level": "30",
-    "discontinued": [
-      {
-        "description": "Event"
-      }
-    ]
+    "discontinued": "Event"
   },
   {
     "id": "16144",
     "name": "Santa's Pants",
     "level": "31",
-    "discontinued": [
-      {
-        "description": "Event"
-      }
-    ]
+    "discontinued": "Event"
   },
   {
     "id": "16145",
     "name": "Seekers Aid",
     "level": "1",
-    "discontinued": [
-      {
-        "description": "Event"
-      }
-    ]
+    "discontinued": "Event"
   },
   {
     "id": "16146",
@@ -594,21 +557,13 @@
     "id": "16150",
     "name": "Treat",
     "level": "50",
-    "discontinued": [
-      {
-        "description": "Event"
-      }
-    ]
+    "discontinued": "Event"
   },
   {
     "id": "16151",
     "name": "Trick",
     "level": "50",
-    "discontinued": [
-      {
-        "description": "Event"
-      }
-    ]
+    "discontinued": "Event"
   },
   {
     "id": "16152",
@@ -658,41 +613,25 @@
     "id": "16156",
     "name": "Wynnter Fair 2016 Souvenir",
     "level": "1",
-    "discontinued": [
-      {
-        "description": "Event"
-      }
-    ]
+    "discontinued": "Event"
   },
   {
     "id": "16157",
     "name": "Wynnterfest 2016 Souvenir",
     "level": "1",
-    "discontinued": [
-      {
-        "description": "Event"
-      }
-    ]
+    "discontinued": "Event"
   },
   {
     "id": "16158",
     "name": "Yellow Content Cap of Fame",
     "level": "1",
-    "discontinued": [
-      {
-        "description": "Event"
-      }
-    ]
+    "discontinued": "Event"
   },
   {
     "id": "16159",
     "name": "Bear Head",
     "level": "15",
-    "discontinued": [
-      {
-        "description": "Replaced by Bear Mask"
-      }
-    ]
+    "discontinued": "Replaced by Bear Mask"
   },
   {
     "id": "16160",
@@ -12090,11 +12029,7 @@
     "id": "16841",
     "name": "Factory Helmet",
     "level": "50",
-    "discontinued": [
-      {
-        "description": "This item was obtainable during \"An Iron Heart Part I\" quest. Since update 1.20 the quest has been reworked and you can't obtain the helmet anymore."
-      }
-    ]
+    "discontinued": "This item was obtainable during \"An Iron Heart Part I\" quest. Since update 1.20 the quest has been reworked and you can't obtain the helmet anymore."
   },
   {
     "id": "16842",
@@ -21632,201 +21567,121 @@
     "id": "17688",
     "name": "Average Golden Boots",
     "level": "23",
-    "discontinued": [
-      {
-        "description": "Discontinued cause out of normal progression."
-      }
-    ]
+    "discontinued": "Discontinued cause out of normal progression."
   },
   {
     "id": "17689",
     "name": "Average Golden Chestplate",
     "level": "27",
-    "discontinued": [
-      {
-        "description": "Discontinued cause out of normal progression."
-      }
-    ]
+    "discontinued": "Discontinued cause out of normal progression."
   },
   {
     "id": "17690",
     "name": "Average Golden Helmet",
     "level": "21",
-    "discontinued": [
-      {
-        "description": "Discontinued cause out of normal progression."
-      }
-    ]
+    "discontinued": "Discontinued cause out of normal progression."
   },
   {
     "id": "17691",
     "name": "Average Golden Leggings",
     "level": "25",
-    "discontinued": [
-      {
-        "description": "Discontinued cause out of normal progression."
-      }
-    ]
+    "discontinued": "Discontinued cause out of normal progression."
   },
   {
     "id": "17692",
     "name": "Flawed Golden Chestplate",
     "level": "17",
-    "discontinued": [
-      {
-        "description": "Discontinued cause out of normal progression."
-      }
-    ]
+    "discontinued": "Discontinued cause out of normal progression."
   },
   {
     "id": "17693",
     "name": "Flawed Golden Leggings",
     "level": "15",
-    "discontinued": [
-      {
-        "description": "Discontinued cause out of normal progression."
-      }
-    ]
+    "discontinued": "Discontinued cause out of normal progression."
   },
   {
     "id": "17694",
     "name": "Flawed Leather Boots",
     "level": "13",
-    "discontinued": [
-      {
-        "description": "Discontinued cause out of normal progression."
-      }
-    ]
+    "discontinued": "Discontinued cause out of normal progression."
   },
   {
     "id": "17695",
     "name": "Flawed Leather Cap",
     "level": "11",
-    "discontinued": [
-      {
-        "description": "Discontinued cause out of normal progression."
-      }
-    ]
+    "discontinued": "Discontinued cause out of normal progression."
   },
   {
     "id": "17696",
     "name": "Flawless Chain Boots",
     "level": "33",
-    "discontinued": [
-      {
-        "description": "Discontinued cause out of normal progression."
-      }
-    ]
+    "discontinued": "Discontinued cause out of normal progression."
   },
   {
     "id": "17697",
     "name": "Flawless Chain Chestplate",
     "level": "37",
-    "discontinued": [
-      {
-        "description": "Discontinued cause out of normal progression."
-      }
-    ]
+    "discontinued": "Discontinued cause out of normal progression."
   },
   {
     "id": "17698",
     "name": "Flawless Chain Helmet",
     "level": "31",
-    "discontinued": [
-      {
-        "description": "Discontinued cause out of normal progression."
-      }
-    ]
+    "discontinued": "Discontinued cause out of normal progression."
   },
   {
     "id": "17699",
     "name": "Flawless Chain Leggings",
     "level": "35",
-    "discontinued": [
-      {
-        "description": "Discontinued cause out of normal progression."
-      }
-    ]
+    "discontinued": "Discontinued cause out of normal progression."
   },
   {
     "id": "17700",
     "name": "Pure Diamond Chestplate",
     "level": "57",
-    "discontinued": [
-      {
-        "description": "Discontinued cause out of normal progression."
-      }
-    ]
+    "discontinued": "Discontinued cause out of normal progression."
   },
   {
     "id": "17701",
     "name": "Pure Iron Boots",
     "level": "53",
-    "discontinued": [
-      {
-        "description": "Discontinued cause out of normal progression."
-      }
-    ]
+    "discontinued": "Discontinued cause out of normal progression."
   },
   {
     "id": "17702",
     "name": "Pure Iron Helmet",
     "level": "51",
-    "discontinued": [
-      {
-        "description": "Discontinued cause out of normal progression."
-      }
-    ]
+    "discontinued": "Discontinued cause out of normal progression."
   },
   {
     "id": "17703",
     "name": "Pure Iron Leggings",
     "level": "55",
-    "discontinued": [
-      {
-        "description": "Discontinued cause out of normal progression."
-      }
-    ]
+    "discontinued": "Discontinued cause out of normal progression."
   },
   {
     "id": "17704",
     "name": "Refined Chainmail Helmet",
     "level": "41",
-    "discontinued": [
-      {
-        "description": "Discontinued cause out of normal progression."
-      }
-    ]
+    "discontinued": "Discontinued cause out of normal progression."
   },
   {
     "id": "17705",
     "name": "Refined Iron Boots",
     "level": "43",
-    "discontinued": [
-      {
-        "description": "Discontinued cause out of normal progression."
-      }
-    ]
+    "discontinued": "Discontinued cause out of normal progression."
   },
   {
     "id": "17706",
     "name": "Refined Iron Chainmail",
     "level": "47",
-    "discontinued": [
-      {
-        "description": "Discontinued cause out of normal progression."
-      }
-    ]
+    "discontinued": "Discontinued cause out of normal progression."
   },
   {
     "id": "17707",
     "name": "Refined Iron Leggings",
     "level": "45",
-    "discontinued": [
-      {
-        "description": "Discontinued cause out of normal progression."
-      }
-    ]
+    "discontinued": "Discontinued cause out of normal progression."
   },
   {
     "id": "17708",
@@ -35308,11 +35163,7 @@
     "id": "18473",
     "name": "Mask of the Spirits",
     "level": "1",
-    "discontinued": [
-      {
-        "description": "Was obtainable during \"Drawing of the Spirits\" event"
-      }
-    ]
+    "discontinued": "Was obtainable during \"Drawing of the Spirits\" event"
   },
   {
     "id": "18474",
