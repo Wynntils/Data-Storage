@@ -2069,9 +2069,7 @@
     "name": "Piranha",
     "level": "56",
     "dungeon": [
-      {
-        "name": "Undergrowth Ruins"
-      }
+      "Undergrowth Ruins"
     ]
   },
   {
@@ -13290,14 +13288,8 @@
     "name": "Gale's Sight",
     "level": "80",
     "dungeon": [
-      {
-        "description": "Rare drop after completing a dungeon, during the \"loot rain\".",
-        "name": "Corrupted Lost Sanctuary"
-      },
-      {
-        "description": "Rare drop after completing a dungeon, during the \"loot rain\".",
-        "name": "Corrupted Underworld Crypt"
-      }
+      "Corrupted Lost Sanctuary",
+      "Corrupted Underworld Crypt"
     ]
   },
   {
@@ -13629,9 +13621,7 @@
     "name": "Vertebra",
     "level": "8",
     "dungeon": [
-      {
-        "name": "Decrepit Sewers"
-      }
+      "Decrepit Sewers"
     ]
   },
   {
@@ -13639,9 +13629,7 @@
     "name": "Rat Skull",
     "level": "10",
     "dungeon": [
-      {
-        "name": "Unknown"
-      }
+      "Unknown"
     ]
   },
   {
@@ -13649,9 +13637,7 @@
     "name": "Witherhead's Bow",
     "level": "12",
     "dungeon": [
-      {
-        "name": "Decrepit Sewers"
-      }
+      "Decrepit Sewers"
     ]
   },
   {
@@ -13659,9 +13645,7 @@
     "name": "Silkwrap",
     "level": "17",
     "dungeon": [
-      {
-        "name": "Infested Pit"
-      }
+      "Infested Pit"
     ]
   },
   {
@@ -13669,9 +13653,7 @@
     "name": "Spiderweb String",
     "level": "17",
     "dungeon": [
-      {
-        "name": "Unknown"
-      }
+      "Unknown"
     ]
   },
   {
@@ -13679,9 +13661,7 @@
     "name": "Webstring",
     "level": "17",
     "dungeon": [
-      {
-        "name": "Infested Pit"
-      }
+      "Infested Pit"
     ]
   },
   {
@@ -13689,9 +13669,7 @@
     "name": "Spider Bracelet",
     "level": "19",
     "dungeon": [
-      {
-        "name": "Infested Pit"
-      }
+      "Infested Pit"
     ]
   },
   {
@@ -13699,12 +13677,8 @@
     "name": "Spider's Eye Pendant",
     "level": "20",
     "dungeon": [
-      {
-        "name": "Infested Pit"
-      },
-      {
-        "name": "Lost Sanctuary"
-      }
+      "Infested Pit",
+      "Lost Sanctuary"
     ]
   },
   {
@@ -13712,9 +13686,7 @@
     "name": "Arakadicus' Body",
     "level": "21",
     "dungeon": [
-      {
-        "name": "Infested Pit"
-      }
+      "Infested Pit"
     ]
   },
   {
@@ -13722,9 +13694,7 @@
     "name": "Ra",
     "level": "36",
     "dungeon": [
-      {
-        "name": "Sand-Swept Tomb"
-      }
+      "Sand-Swept Tomb"
     ]
   },
   {
@@ -13732,9 +13702,7 @@
     "name": "Scorpion Tail",
     "level": "36",
     "dungeon": [
-      {
-        "name": "Sand-Swept Tomb"
-      }
+      "Sand-Swept Tomb"
     ]
   },
   {
@@ -13742,9 +13710,7 @@
     "name": "Web Spitter",
     "level": "20",
     "dungeon": [
-      {
-        "name": "Infested Pit"
-      }
+      "Infested Pit"
     ],
     "dungeonmerchant": [
       {
