@@ -11539,293 +11539,235 @@
     "id": "16812",
     "name": "Abyssal Amulet",
     "level": "72",
-    "quest": [
-      {
-        "name": "Eye of the Storm"
-      }
-    ]
+    "quest": {
+      "name": "Eye of the Storm"
+    }
   },
   {
     "id": "16813",
     "name": "Abysso Galoshes",
     "level": "60",
-    "quest": [
-      {
-        "name": "Beneath the Depths"
-      }
-    ]
+    "quest": {
+      "name": "Beneath the Depths"
+    }
   },
   {
     "id": "16814",
     "name": "Aerolia Boots",
     "level": "14",
-    "quest": [
-      {
-        "name": "Suspended Flowers"
-      }
-    ]
+    "quest": {
+      "name": "Suspended Flowers"
+    }
   },
   {
     "id": "16815",
     "name": "Altum Spatium",
     "level": "80",
-    "quest": [
-      {
-        "name": "???"
-      }
-    ]
+    "quest": {
+      "name": "???"
+    }
   },
   {
     "id": "16816",
     "name": "Avalanche",
     "level": "43",
-    "quest": [
-      {
-        "name": "Fate of the Fallen"
-      }
-    ]
+    "quest": {
+      "name": "Fate of the Fallen"
+    }
   },
   {
     "id": "16817",
     "name": "Black Veil",
     "level": "51",
-    "quest": [
-      {
-        "name": "The Maiden Tower",
-        "information": "Olux Catacombs"
-      }
-    ]
+    "quest": {
+      "name": "The Maiden Tower",
+      "information": "Olux Catacombs"
+    }
   },
   {
     "id": "16818",
     "name": "Bob's Battle Chestplate",
     "level": "45",
-    "quest": [
-      {
-        "name": "Bob's Lost Soul"
-      }
-    ]
+    "quest": {
+      "name": "Bob's Lost Soul"
+    }
   },
   {
     "id": "16819",
     "name": "Breathing Helmet I",
     "level": "8",
-    "quest": [
-      {
-        "name": "Underwater"
-      }
-    ]
+    "quest": {
+      "name": "Underwater"
+    }
   },
   {
     "id": "16820",
     "name": "Champion Boots",
     "level": "75",
-    "quest": [
-      {
-        "name": "Tower of Ascension"
-      }
-    ]
+    "quest": {
+      "name": "Tower of Ascension"
+    }
   },
   {
     "id": "16821",
     "name": "Champion Chestplate",
     "level": "75",
-    "quest": [
-      {
-        "name": "Tower of Ascension"
-      }
-    ]
+    "quest": {
+      "name": "Tower of Ascension"
+    }
   },
   {
     "id": "16822",
     "name": "Champion Helmet",
     "level": "75",
-    "quest": [
-      {
-        "name": "Tower of Ascension"
-      }
-    ]
+    "quest": {
+      "name": "Tower of Ascension"
+    }
   },
   {
     "id": "16823",
     "name": "Champion Leggings",
     "level": "75",
-    "quest": [
-      {
-        "name": "Tower of Ascension"
-      }
-    ]
+    "quest": {
+      "name": "Tower of Ascension"
+    }
   },
   {
     "id": "16824",
     "name": "Changeling's Chestplate",
     "level": "80",
-    "quest": [
-      {
-        "name": "General's Orders"
-      }
-    ]
+    "quest": {
+      "name": "General's Orders"
+    }
   },
   {
     "id": "16825",
     "name": "Chef Hamsey's Apron",
     "level": "96",
-    "quest": [
-      {
-        "name": "Recipe for Disaster",
-        "information": "Brie's dish"
-      }
-    ]
+    "quest": {
+      "name": "Recipe for Disaster",
+      "information": "Brie's dish"
+    }
   },
   {
     "id": "16826",
     "name": "Clearsight Spectacles",
     "level": "71",
-    "quest": [
-      {
-        "name": "Finding the Light"
-      }
-    ]
+    "quest": {
+      "name": "Finding the Light"
+    }
   },
   {
     "id": "16827",
     "name": "Climbing Helmet",
     "level": "42",
-    "quest": [
-      {
-        "name": "Ice Nations"
-      }
-    ]
+    "quest": {
+      "name": "Ice Nations"
+    }
   },
   {
     "id": "16828",
     "name": "Cloak of Luminosity",
     "level": "75",
-    "quest": [
-      {
-        "name": "The Realm of Light"
-      }
-    ]
+    "quest": {
+      "name": "The Realm of Light"
+    }
   },
   {
     "id": "16829",
     "name": "Cosmic Vest",
     "level": "80",
-    "quest": [
-      {
-        "name": "???"
-      }
-    ]
+    "quest": {
+      "name": "???"
+    }
   },
   {
     "id": "16830",
     "name": "Cosmic Visor",
     "level": "80",
-    "quest": [
-      {
-        "name": "???"
-      }
-    ]
+    "quest": {
+      "name": "???"
+    }
   },
   {
     "id": "16831",
     "name": "Cosmic Walkers",
     "level": "80",
-    "quest": [
-      {
-        "name": "???"
-      }
-    ]
+    "quest": {
+      "name": "???"
+    }
   },
   {
     "id": "16832",
     "name": "Cosmic Ward",
     "level": "80",
-    "quest": [
-      {
-        "name": "???"
-      }
-    ]
+    "quest": {
+      "name": "???"
+    }
   },
   {
     "id": "16833",
     "name": "Dark Diadem",
     "level": "24",
-    "quest": [
-      {
-        "name": "The Dark Descent"
-      }
-    ]
+    "quest": {
+      "name": "The Dark Descent"
+    }
   },
   {
     "id": "16834",
     "name": "Detective's Ring",
     "level": "74",
-    "quest": [
-      {
-        "name": "Murder Mystery"
-      }
-    ]
+    "quest": {
+      "name": "Murder Mystery"
+    }
   },
   {
     "id": "16835",
     "name": "Dodegar's Ultimate Weapon",
     "level": "75",
-    "quest": [
-      {
-        "name": "The Ultimate Weapon"
-      }
-    ]
+    "quest": {
+      "name": "The Ultimate Weapon"
+    }
   },
   {
     "id": "16836",
     "name": "Dragon Hide Plate",
     "level": "82",
-    "quest": [
-      {
-        "name": "The Belly of the Beast"
-      }
-    ]
+    "quest": {
+      "name": "The Belly of the Beast"
+    }
   },
   {
     "id": "16837",
     "name": "Dull Ancient Helmet",
     "level": "77",
-    "quest": [
-      {
-        "name": "Purple and Blue"
-      }
-    ]
+    "quest": {
+      "name": "Purple and Blue"
+    }
   },
   {
     "id": "16838",
     "name": "Electro Mage's Boots",
     "level": "89",
-    "quest": [
-      {
-        "name": "The Envoy Part II"
-      }
-    ]
+    "quest": {
+      "name": "The Envoy Part II"
+    }
   },
   {
     "id": "16839",
     "name": "Empowered Ancient Helmet",
     "level": "77",
-    "quest": [
-      {
-        "name": "Purple and Blue"
-      }
-    ]
+    "quest": {
+      "name": "Purple and Blue"
+    }
   },
   {
     "id": "16840",
     "name": "Essren's Coat",
     "level": "15",
-    "quest": [
-      {
-        "name": "Potion Making"
-      }
-    ]
+    "quest": {
+      "name": "Potion Making"
+    }
   },
   {
     "id": "16841",
@@ -11837,478 +11779,384 @@
     "id": "16842",
     "name": "Fiery Bow",
     "level": "10",
-    "quest": [
-      {
-        "name": "Elemental Exercise"
-      }
-    ]
+    "quest": {
+      "name": "Elemental Exercise"
+    }
   },
   {
     "id": "16843",
     "name": "Fiery Dagger",
     "level": "10",
-    "quest": [
-      {
-        "name": "Elemental Exercise"
-      }
-    ]
+    "quest": {
+      "name": "Elemental Exercise"
+    }
   },
   {
     "id": "16844",
     "name": "Fiery Spear",
     "level": "10",
-    "quest": [
-      {
-        "name": "Elemental Exercise"
-      }
-    ]
+    "quest": {
+      "name": "Elemental Exercise"
+    }
   },
   {
     "id": "16845",
     "name": "Fiery Wand",
     "level": "10",
-    "quest": [
-      {
-        "name": "Elemental Exercise"
-      }
-    ]
+    "quest": {
+      "name": "Elemental Exercise"
+    }
   },
   {
     "id": "16846",
     "name": "Fire Wire",
     "level": "67",
-    "quest": [
-      {
-        "name": "From the Mountains"
-      }
-    ]
+    "quest": {
+      "name": "From the Mountains"
+    }
   },
   {
     "id": "16847",
     "name": "Generator Amulet",
     "level": "41",
-    "quest": [
-      {
-        "name": "Heart of Llevigar"
-      }
-    ]
+    "quest": {
+      "name": "Heart of Llevigar"
+    }
   },
   {
     "id": "16848",
     "name": "Gernald's Amulet",
     "level": "43",
-    "quest": [
-      {
-        "name": "Underice",
-        "information": "Gernald ending"
-      }
-    ]
+    "quest": {
+      "name": "Underice",
+      "information": "Gernald ending"
+    }
   },
   {
     "id": "16849",
     "name": "Gert Mask",
     "level": "75",
-    "quest": [
-      {
-        "name": "The Hunger of Gerts Part 1"
-      }
-    ]
+    "quest": {
+      "name": "The Hunger of Gerts Part 1"
+    }
   },
   {
     "id": "16850",
     "name": "Gerten Ritual Mask",
     "level": "78",
-    "quest": [
-      {
-        "name": "The Hunger of Gerts Part 2"
-      }
-    ]
+    "quest": {
+      "name": "The Hunger of Gerts Part 2"
+    }
   },
   {
     "id": "16851",
     "name": "Giant's Ring",
     "level": "76",
-    "quest": [
-      {
-        "name": "The Bigger Picture"
-      }
-    ]
+    "quest": {
+      "name": "The Bigger Picture"
+    }
   },
   {
     "id": "16852",
     "name": "Gnome's Ring",
     "level": "76",
-    "quest": [
-      {
-        "name": "The Bigger Picture"
-      }
-    ]
+    "quest": {
+      "name": "The Bigger Picture"
+    }
   },
   {
     "id": "16853",
     "name": "Greaves of Honor",
     "level": "58",
-    "quest": [
-      {
-        "name": "An Iron Heart Part II",
-        "information": "Hart ending"
-      }
-    ]
+    "quest": {
+      "name": "An Iron Heart Part II",
+      "information": "Hart ending"
+    }
   },
   {
     "id": "16854",
     "name": "Guard's Uniform",
     "level": "72",
-    "quest": [
-      {
-        "name": "Forbidden Prison",
-        "information": "Locker"
-      }
-    ]
+    "quest": {
+      "name": "Forbidden Prison",
+      "information": "Locker"
+    }
   },
   {
     "id": "16855",
     "name": "Helmet of Legends",
     "level": "68",
-    "quest": [
-      {
-        "name": "Temple of the Legends"
-      }
-    ]
+    "quest": {
+      "name": "Temple of the Legends"
+    }
   },
   {
     "id": "16856",
     "name": "Helmet of Shimmering Light",
     "level": "74",
-    "quest": [
-      {
-        "name": "The Realm of Light"
-      }
-    ]
+    "quest": {
+      "name": "The Realm of Light"
+    }
   },
   {
     "id": "16857",
     "name": "Hide of Gregg'r",
     "level": "44",
-    "quest": [
-      {
-        "name": "Green Skinned Trouble"
-      }
-    ]
+    "quest": {
+      "name": "Green Skinned Trouble"
+    }
   },
   {
     "id": "16858",
     "name": "Kaerynn's Body",
     "level": "79",
-    "quest": [
-      {
-        "name": "Aldorei's Secret Part II"
-      }
-    ]
+    "quest": {
+      "name": "Aldorei's Secret Part II"
+    }
   },
   {
     "id": "16859",
     "name": "Kaerynn's Mind",
     "level": "78",
-    "quest": [
-      {
-        "name": "Aldorei's Secret Part II"
-      }
-    ]
+    "quest": {
+      "name": "Aldorei's Secret Part II"
+    }
   },
   {
     "id": "16860",
     "name": "Lazarus' Brace",
     "level": "69",
-    "quest": [
-      {
-        "name": "Lazarus Pit"
-      }
-    ]
+    "quest": {
+      "name": "Lazarus Pit"
+    }
   },
   {
     "id": "16861",
     "name": "Mech Core",
     "level": "86",
-    "quest": [
-      {
-        "name": "Desperate Metal"
-      }
-    ]
+    "quest": {
+      "name": "Desperate Metal"
+    }
   },
   {
     "id": "16862",
     "name": "Mummy's Rag",
     "level": "38",
-    "quest": [
-      {
-        "name": "Wrath of the Mummy"
-      }
-    ]
+    "quest": {
+      "name": "Wrath of the Mummy"
+    }
   },
   {
     "id": "16863",
     "name": "Ominous Wind",
     "level": "95",
-    "quest": [
-      {
-        "name": "One Thousand Meters Under"
-      }
-    ]
+    "quest": {
+      "name": "One Thousand Meters Under"
+    }
   },
   {
     "id": "16864",
     "name": "Orc Mask",
     "level": "64",
-    "quest": [
-      {
-        "name": "A Fighting Species"
-      }
-    ]
+    "quest": {
+      "name": "A Fighting Species"
+    }
   },
   {
     "id": "16865",
     "name": "Pendant of Prosperity",
     "level": "90",
-    "quest": [
-      {
-        "name": "Fantastic Voyage"
-      }
-    ]
+    "quest": {
+      "name": "Fantastic Voyage"
+    }
   },
   {
     "id": "16866",
     "name": "Psychomend Vest",
     "level": "70",
-    "quest": [
-      {
-        "name": "Shattered Minds"
-      }
-    ]
+    "quest": {
+      "name": "Shattered Minds"
+    }
   },
   {
     "id": "16867",
     "name": "Purified Helmet of the Legends",
     "level": "68",
-    "quest": [
-      {
-        "name": "Temple of the Legends"
-      }
-    ]
+    "quest": {
+      "name": "Temple of the Legends"
+    }
   },
   {
     "id": "16868",
     "name": "Quartron's Eye",
     "level": "49",
-    "quest": [
-      {
-        "name": "Rise of the Quartron"
-      }
-    ]
+    "quest": {
+      "name": "Rise of the Quartron"
+    }
   },
   {
     "id": "16869",
     "name": "Raging Wind",
     "level": "87",
-    "quest": [
-      {
-        "name": "Beyond the Grave"
-      }
-    ]
+    "quest": {
+      "name": "Beyond the Grave"
+    }
   },
   {
     "id": "16870",
     "name": "Ragon's Bracelet",
     "level": "10",
-    "quest": [
-      {
-        "name": "Elemental Exercise"
-      }
-    ]
+    "quest": {
+      "name": "Elemental Exercise"
+    }
   },
   {
     "id": "16871",
     "name": "Restored Ancient Helmet",
     "level": "77",
-    "quest": [
-      {
-        "name": "Purple and Blue"
-      }
-    ]
+    "quest": {
+      "name": "Purple and Blue"
+    }
   },
   {
     "id": "16872",
     "name": "Ring of Generosity",
     "level": "69",
-    "quest": [
-      {
-        "name": "Memory Paranoia"
-      }
-    ]
+    "quest": {
+      "name": "Memory Paranoia"
+    }
   },
   {
     "id": "16873",
     "name": "Ring of Rubies",
     "level": "75",
-    "quest": [
-      {
-        "name": "Flight in Distress"
-      }
-    ]
+    "quest": {
+      "name": "Flight in Distress"
+    }
   },
   {
     "id": "16874",
     "name": "Shameful Greaves",
     "level": "58",
-    "quest": [
-      {
-        "name": "An Iron Heart Part II",
-        "information": "Urelix ending"
-      }
-    ]
+    "quest": {
+      "name": "An Iron Heart Part II",
+      "information": "Urelix ending"
+    }
   },
   {
     "id": "16875",
     "name": "Skeletal Legs",
     "level": "23",
-    "quest": [
-      {
-        "name": "Pit of the Dead"
-      }
-    ]
+    "quest": {
+      "name": "Pit of the Dead"
+    }
   },
   {
     "id": "16876",
     "name": "Sky Chef's Apron",
     "level": "96",
-    "quest": [
-      {
-        "name": "Recipe for Disaster",
-        "information": "Frank's dish"
-      }
-    ]
+    "quest": {
+      "name": "Recipe for Disaster",
+      "information": "Frank's dish"
+    }
   },
   {
     "id": "16877",
     "name": "Smoldering Apron",
     "level": "96",
-    "quest": [
-      {
-        "name": "Recipe for Disaster",
-        "information": "Kale's dish"
-      }
-    ]
+    "quest": {
+      "name": "Recipe for Disaster",
+      "information": "Kale's dish"
+    }
   },
   {
     "id": "16878",
     "name": "Sodeta Boots",
     "level": "66",
-    "quest": [
-      {
-        "name": "Lost Soles"
-      }
-    ]
+    "quest": {
+      "name": "Lost Soles"
+    }
   },
   {
     "id": "16879",
     "name": "Sound Proof Earmuff",
     "level": "73",
-    "quest": [
-      {
-        "name": "Hollow Sirene",
-        "information": "Scientist's grave"
-      }
-    ]
+    "quest": {
+      "name": "Hollow Sirene",
+      "information": "Scientist's grave"
+    }
   },
   {
     "id": "16880",
     "name": "Sunblight Boots",
     "level": "76",
-    "quest": [
-      {
-        "name": "Aldorei's Secret Part I"
-      }
-    ]
+    "quest": {
+      "name": "Aldorei's Secret Part I"
+    }
   },
   {
     "id": "16881",
     "name": "The Master's Gi",
     "level": "89",
-    "quest": [
-      {
-        "name": "Enter the Dojo"
-      }
-    ]
+    "quest": {
+      "name": "Enter the Dojo"
+    }
   },
   {
     "id": "16882",
     "name": "The Queen's Headpiece",
     "level": "98",
-    "quest": [
-      {
-        "name": "Royal Trials"
-      }
-    ]
+    "quest": {
+      "name": "Royal Trials"
+    }
   },
   {
     "id": "16883",
     "name": "Thoracic",
     "level": "9",
-    "quest": [
-      {
-        "name": "The Sewers of Ragni"
-      }
-    ]
+    "quest": {
+      "name": "The Sewers of Ragni"
+    }
   },
   {
     "id": "16884",
     "name": "Treasure Boots",
     "level": "7",
-    "quest": [
-      {
-        "name": "Underwater"
-      }
-    ]
+    "quest": {
+      "name": "Underwater"
+    }
   },
   {
     "id": "16885",
     "name": "Troms Kid Badge",
     "level": "63",
-    "quest": [
-      {
-        "name": "Out of my Mind"
-      }
-    ]
+    "quest": {
+      "name": "Out of my Mind"
+    }
   },
   {
     "id": "16886",
     "name": "Upgraded Orc Mask",
     "level": "64",
-    "quest": [
-      {
-        "name": "A Fighting Species"
-      }
-    ]
+    "quest": {
+      "name": "A Fighting Species"
+    }
   },
   {
     "id": "16887",
     "name": "Veekhat's Horns",
     "level": "89",
-    "quest": [
-      {
-        "name": "Cowfusion"
-      }
-    ]
+    "quest": {
+      "name": "Cowfusion"
+    }
   },
   {
     "id": "16888",
     "name": "Veekhat's Udders",
     "level": "89",
-    "quest": [
-      {
-        "name": "Cowfusion"
-      }
-    ]
+    "quest": {
+      "name": "Cowfusion"
+    }
   },
   {
     "id": "16889",
@@ -16113,13 +15961,11 @@
     "id": "17430",
     "name": "Royal Cake Slice",
     "level": "1",
-    "quest": [
-      {
-        "description": "Quest Reward",
-        "screenshots": "https://imgur.com/Ksv4eSW",
-        "name": "Cook Assistant"
-      }
-    ],
+    "quest": {
+      "description": "Quest Reward",
+      "screenshots": "https://imgur.com/Ksv4eSW",
+      "name": "Cook Assistant"
+    },
     "specialdrop": [
       {
         "description": "Rare drop",
@@ -16150,13 +15996,11 @@
     "id": "17432",
     "name": "Vibrant Augment",
     "level": "7",
-    "quest": [
-      {
-        "description": "Quest Reward",
-        "screenshots": "https://imgur.com/oHHHOxi",
-        "name": "Elemental Exercise"
-      }
-    ]
+    "quest": {
+      "description": "Quest Reward",
+      "screenshots": "https://imgur.com/oHHHOxi",
+      "name": "Elemental Exercise"
+    }
   },
   {
     "id": "17433",
@@ -16901,12 +16745,10 @@
     "id": "17476",
     "name": "Therck's Chain",
     "level": "1",
-    "quest": [
-      {
-        "name": "Enzan's Brother",
-        "information": "Quest reward"
-      }
-    ]
+    "quest": {
+      "name": "Enzan's Brother",
+      "information": "Quest reward"
+    }
   },
   {
     "id": "17477",
@@ -17199,37 +17041,31 @@
     "id": "17491",
     "name": "Cleaned Saccharum",
     "level": "3",
-    "quest": [
-      {
-        "description": "Quest Reward",
-        "screenshots": "https://imgur.com/eBcHih9",
-        "name": "Infested Plants"
-      }
-    ]
+    "quest": {
+      "description": "Quest Reward",
+      "screenshots": "https://imgur.com/eBcHih9",
+      "name": "Infested Plants"
+    }
   },
   {
     "id": "17492",
     "name": "Old Treasure",
     "level": "6",
-    "quest": [
-      {
-        "description": "Quest Reward",
-        "screenshots": "https://imgur.com/q0edFt2",
-        "name": "Underwater"
-      }
-    ]
+    "quest": {
+      "description": "Quest Reward",
+      "screenshots": "https://imgur.com/q0edFt2",
+      "name": "Underwater"
+    }
   },
   {
     "id": "17493",
     "name": "Weakening Catalyst",
     "level": "11",
-    "quest": [
-      {
-        "description": "Quest Reward",
-        "screenshots": "https://imgur.com/K8zn9jl",
-        "name": "Potion Making"
-      }
-    ]
+    "quest": {
+      "description": "Quest Reward",
+      "screenshots": "https://imgur.com/K8zn9jl",
+      "name": "Potion Making"
+    }
   },
   {
     "id": "17494",
@@ -19372,11 +19208,9 @@
     "id": "17591",
     "name": "Glaciate",
     "level": "48",
-    "quest": [
-      {
-        "name": "Frost Bite"
-      }
-    ]
+    "quest": {
+      "name": "Frost Bite"
+    }
   },
   {
     "id": "17592",
@@ -21230,13 +21064,11 @@
     "id": "17685",
     "name": "Familiar Essence",
     "level": "10",
-    "quest": [
-      {
-        "description": "Quest Reward",
-        "screenshots": "https://imgur.com/lE1Mgdn",
-        "name": "Deja Vu"
-      }
-    ]
+    "quest": {
+      "description": "Quest Reward",
+      "screenshots": "https://imgur.com/lE1Mgdn",
+      "name": "Deja Vu"
+    }
   },
   {
     "id": "17686",
@@ -23798,12 +23630,10 @@
         ]
       }
     ],
-    "quest": [
-      {
-        "description": "Quest reward",
-        "name": "From the Bottom"
-      }
-    ],
+    "quest": {
+      "description": "Quest reward",
+      "name": "From the Bottom"
+    },
     "specialdrop": [
       {
         "screenshots": "https://imgur.com/kcyooHb",
@@ -28278,23 +28108,19 @@
     "id": "18082",
     "name": "Dragon's Eye Bracelet",
     "level": "60",
-    "quest": [
-      {
-        "name": "Order Of The Grook",
-        "information": "Picking \"Dragon Bone Wand\""
-      }
-    ]
+    "quest": {
+      "name": "Order Of The Grook",
+      "information": "Picking \"Dragon Bone Wand\""
+    }
   },
   {
     "id": "18083",
     "name": "Draoi Fair",
     "level": "60",
-    "quest": [
-      {
-        "name": "Order Of The Grook",
-        "information": "Picking \"Avo Phoenix Wand\""
-      }
-    ]
+    "quest": {
+      "name": "Order Of The Grook",
+      "information": "Picking \"Avo Phoenix Wand\""
+    }
   },
   {
     "id": "18084",
@@ -28348,33 +28174,27 @@
     "id": "18086",
     "name": "Renda Langit",
     "level": "60",
-    "quest": [
-      {
-        "name": "Order Of The Grook",
-        "information": "Picking \"Sky Wood Rukh Wand\""
-      }
-    ]
+    "quest": {
+      "name": "Order Of The Grook",
+      "information": "Picking \"Sky Wood Rukh Wand\""
+    }
   },
   {
     "id": "18087",
     "name": "Vindicator",
     "level": "30",
-    "quest": [
-      {
-        "name": "The Mercenary",
-        "information": "Quest reward"
-      }
-    ]
+    "quest": {
+      "name": "The Mercenary",
+      "information": "Quest reward"
+    }
   },
   {
     "id": "18088",
     "name": "Fiery Relik",
     "level": "10",
-    "quest": [
-      {
-        "name": "Elemental Exercise"
-      }
-    ]
+    "quest": {
+      "name": "Elemental Exercise"
+    }
   },
   {
     "id": "18089",
@@ -28999,13 +28819,11 @@
     "id": "18135",
     "name": "Shattered Memory Shard",
     "level": "25",
-    "quest": [
-      {
-        "description": "Quest Reward",
-        "screenshots": "https://imgur.com/8YxebUf",
-        "name": "Recover the Past"
-      }
-    ]
+    "quest": {
+      "description": "Quest Reward",
+      "screenshots": "https://imgur.com/8YxebUf",
+      "name": "Recover the Past"
+    }
   },
   {
     "id": "18136",
@@ -32094,11 +31912,9 @@
     "id": "18312",
     "name": "First Steps",
     "level": "5",
-    "quest": [
-      {
-        "name": "Enzan's brother"
-      }
-    ]
+    "quest": {
+      "name": "Enzan's brother"
+    }
   },
   {
     "id": "18313",
@@ -32122,11 +31938,9 @@
     "id": "18316",
     "name": "Waist Apron",
     "level": "7",
-    "quest": [
-      {
-        "name": "Cook's assistant"
-      }
-    ]
+    "quest": {
+      "name": "Cook's assistant"
+    }
   },
   {
     "id": "18317",
@@ -32170,11 +31984,9 @@
     "id": "18322",
     "name": "Double Vision",
     "level": "79",
-    "quest": [
-      {
-        "name": "Realm of Light V"
-      }
-    ]
+    "quest": {
+      "name": "Realm of Light V"
+    }
   },
   {
     "id": "18323",
@@ -32195,12 +32007,10 @@
     "id": "18324",
     "name": "Inmate Outfit",
     "level": "72",
-    "quest": [
-      {
-        "name": "The Forbidden Prison",
-        "information": "Obtain during the quest"
-      }
-    ]
+    "quest": {
+      "name": "The Forbidden Prison",
+      "information": "Obtain during the quest"
+    }
   },
   {
     "id": "18325",
@@ -32212,11 +32022,9 @@
     "id": "18326",
     "name": "Photon",
     "level": "61",
-    "quest": [
-      {
-        "name": "Real of Light II"
-      }
-    ]
+    "quest": {
+      "name": "Real of Light II"
+    }
   },
   {
     "id": "18327",
@@ -34866,11 +34674,9 @@
     "id": "18477",
     "name": "Generator Chip",
     "level": "72",
-    "quest": [
-      {
-        "description": "Obtained during the quest by pouring water over the generator in the generator room.",
-        "name": "Forbidden Prison"
-      }
-    ]
+    "quest": {
+      "description": "Obtained during the quest by pouring water over the generator in the generator room.",
+      "name": "Forbidden Prison"
+    }
   }
 ]
