@@ -637,91 +637,73 @@
     "id": "16160",
     "name": "Clock Amulet",
     "level": "86",
-    "discovery": [
-      {
-        "description": "Clock mystery"
-      }
-    ]
+    "discovery": {
+      "description": "Clock mystery"
+    }
   },
   {
     "id": "16161",
     "name": "Clock Boots",
     "level": "74",
-    "discovery": [
-      {
-        "description": "Clock mystery"
-      }
-    ]
+    "discovery": {
+      "description": "Clock mystery"
+    }
   },
   {
     "id": "16162",
     "name": "Clock Helm",
     "level": "73",
-    "discovery": [
-      {
-        "description": "Clock mystery"
-      }
-    ]
+    "discovery": {
+      "description": "Clock mystery"
+    }
   },
   {
     "id": "16163",
     "name": "Clock Leggings",
     "level": "75",
-    "discovery": [
-      {
-        "description": "Clock mystery"
-      }
-    ]
+    "discovery": {
+      "description": "Clock mystery"
+    }
   },
   {
     "id": "16164",
     "name": "Clock Mail",
     "level": "76",
-    "discovery": [
-      {
-        "description": "Clock mystery"
-      }
-    ]
+    "discovery": {
+      "description": "Clock mystery"
+    }
   },
   {
     "id": "16165",
     "name": "Clockwork Ring",
     "level": "80",
-    "discovery": [
-      {
-        "description": "Clock mystery"
-      }
-    ]
+    "discovery": {
+      "description": "Clock mystery"
+    }
   },
   {
     "id": "16166",
     "name": "Necklace of a Thousand Storms",
     "level": "98",
-    "discovery": [
-      {
-        "description": "Necklace of a Thousand Storms puzzle"
-      }
-    ]
+    "discovery": {
+      "description": "Necklace of a Thousand Storms puzzle"
+    }
   },
   {
     "id": "16167",
     "name": "Time Ring",
     "level": "80",
-    "discovery": [
-      {
-        "description": "Clock mystery"
-      }
-    ]
+    "discovery": {
+      "description": "Clock mystery"
+    }
   },
   {
     "id": "16168",
     "name": "Watch Bracelet",
     "level": "86",
-    "discovery": [
-      {
-        "description": "Clock mystery"
-      }
-    ]
+    "discovery": {
+      "description": "Clock mystery"
+    }
   },
   {
     "id": "16169",
@@ -16821,13 +16803,11 @@
     "id": "17484",
     "name": "Brown Mushroom",
     "level": "1",
-    "gathering": [
-      {
-        "screenshots": "https://imgur.com/G6pU7dA",
-        "name": "Mushroom",
-        "location": "Nivla Forest"
-      }
-    ],
+    "gathering": {
+      "screenshots": "https://imgur.com/G6pU7dA",
+      "name": "Mushroom",
+      "location": "Nivla Forest"
+    },
     "merchant": [
       {
         "screenshots": "https://imgur.com/upnury1",
@@ -19758,13 +19738,11 @@
     "id": "17617",
     "name": "Red Mushroom",
     "level": "1",
-    "gathering": [
-      {
-        "screenshots": "https://imgur.com/G6pU7dA",
-        "name": "Mushroom",
-        "location": "Nivla Forest"
-      }
-    ],
+    "gathering": {
+      "screenshots": "https://imgur.com/G6pU7dA",
+      "name": "Mushroom",
+      "location": "Nivla Forest"
+    },
     "merchant": [
       {
         "screenshots": "https://imgur.com/upnury1",
@@ -28285,11 +28263,9 @@
     "id": "18095",
     "name": "Anya's Penumbra",
     "level": "100",
-    "discovery": [
-      {
-        "description": "The Fate of the Olm (Silent Expanse Discovery)"
-      }
-    ]
+    "discovery": {
+      "description": "The Fate of the Olm (Silent Expanse Discovery)"
+    }
   },
   {
     "id": "18096",
@@ -32122,12 +32098,10 @@
     "id": "18335",
     "name": "Spiketop",
     "level": "9",
-    "discovery": [
-      {
-        "description": "Far From the Roots, Dropped from the Corrupted Egg at the end of the cave",
-        "screenshots": "https://imgur.com/p8B00gw, https://imgur.com/eevgJwS"
-      }
-    ]
+    "discovery": {
+      "description": "Far From the Roots, Dropped from the Corrupted Egg at the end of the cave",
+      "screenshots": "https://imgur.com/p8B00gw, https://imgur.com/eevgJwS"
+    }
   },
   {
     "id": "18336",
