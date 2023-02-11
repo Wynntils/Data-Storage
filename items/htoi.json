@@ -2607,657 +2607,575 @@
     "id": "16287",
     "name": "Ambertoise Shell",
     "level": "88",
-    "hive": [
-      {
-        "name": "Hive Earth Division",
-        "price": [
-          {
-            "item": "Earth Voucher",
-            "quantity": "1"
-          }
-        ]
-      }
-    ]
+    "hive": {
+      "name": "Hive Earth Division",
+      "price": [
+        {
+          "item": "Earth Voucher",
+          "quantity": "1"
+        }
+      ]
+    }
   },
   {
     "id": "16288",
     "name": "Anima-Infused Helmet",
     "level": "100",
-    "hive": [
-      {
-        "name": "Hive Master Division",
-        "price": [
-          {
-            "item": "Master Voucher",
-            "quantity": "1"
-          }
-        ]
-      }
-    ]
+    "hive": {
+      "name": "Hive Master Division",
+      "price": [
+        {
+          "item": "Master Voucher",
+          "quantity": "1"
+        }
+      ]
+    }
   },
   {
     "id": "16289",
     "name": "Beetle Aegis",
     "level": "91",
-    "hive": [
-      {
-        "name": "Hive Earth Division",
-        "price": [
-          {
-            "item": "Earth Voucher",
-            "quantity": "1"
-          }
-        ]
-      }
-    ]
+    "hive": {
+      "name": "Hive Earth Division",
+      "price": [
+        {
+          "item": "Earth Voucher",
+          "quantity": "1"
+        }
+      ]
+    }
   },
   {
     "id": "16290",
     "name": "Boreal-Patterned Aegis",
     "level": "100",
-    "hive": [
-      {
-        "name": "Hive Master Division",
-        "price": [
-          {
-            "item": "Master Voucher",
-            "quantity": "1"
-          }
-        ]
-      }
-    ]
+    "hive": {
+      "name": "Hive Master Division",
+      "price": [
+        {
+          "item": "Master Voucher",
+          "quantity": "1"
+        }
+      ]
+    }
   },
   {
     "id": "16291",
     "name": "Bottled Thunderstorm",
     "level": "81",
-    "hive": [
-      {
-        "name": "Hive Thunder Division",
-        "price": [
-          {
-            "item": "Thunder Voucher",
-            "quantity": "1"
-          }
-        ]
-      }
-    ]
+    "hive": {
+      "name": "Hive Thunder Division",
+      "price": [
+        {
+          "item": "Thunder Voucher",
+          "quantity": "1"
+        }
+      ]
+    }
   },
   {
     "id": "16292",
     "name": "Breezehands",
     "level": "85",
-    "hive": [
-      {
-        "name": "Hive Air Division",
-        "price": [
-          {
-            "item": "Air Voucher",
-            "quantity": "1"
-          }
-        ]
-      }
-    ]
+    "hive": {
+      "name": "Hive Air Division",
+      "price": [
+        {
+          "item": "Air Voucher",
+          "quantity": "1"
+        }
+      ]
+    }
   },
   {
     "id": "16293",
     "name": "Cinderchain",
     "level": "98",
-    "hive": [
-      {
-        "name": "Hive Fire Division",
-        "price": [
-          {
-            "item": "Fire Voucher",
-            "quantity": "1"
-          }
-        ]
-      }
-    ]
+    "hive": {
+      "name": "Hive Fire Division",
+      "price": [
+        {
+          "item": "Fire Voucher",
+          "quantity": "1"
+        }
+      ]
+    }
   },
   {
     "id": "16294",
     "name": "Clockwork",
     "level": "97",
-    "hive": [
-      {
-        "name": "Hive Fire Division",
-        "price": [
-          {
-            "item": "Fire Voucher",
-            "quantity": "1"
-          }
-        ]
-      }
-    ]
+    "hive": {
+      "name": "Hive Fire Division",
+      "price": [
+        {
+          "item": "Fire Voucher",
+          "quantity": "1"
+        }
+      ]
+    }
   },
   {
     "id": "16295",
     "name": "Contrast",
     "level": "100",
-    "hive": [
-      {
-        "name": "Hive Master Division",
-        "price": [
-          {
-            "item": "Master Voucher",
-            "quantity": "1"
-          }
-        ]
-      }
-    ]
+    "hive": {
+      "name": "Hive Master Division",
+      "price": [
+        {
+          "item": "Master Voucher",
+          "quantity": "1"
+        }
+      ]
+    }
   },
   {
     "id": "16296",
     "name": "Coral Ring",
     "level": "93",
-    "hive": [
-      {
-        "name": "Hive Water Division",
-        "price": [
-          {
-            "item": "Water Voucher",
-            "quantity": "1"
-          }
-        ]
-      }
-    ]
+    "hive": {
+      "name": "Hive Water Division",
+      "price": [
+        {
+          "item": "Water Voucher",
+          "quantity": "1"
+        }
+      ]
+    }
   },
   {
     "id": "16297",
     "name": "Dupliblaze",
     "level": "98",
-    "hive": [
-      {
-        "name": "Hive Fire Division",
-        "price": [
-          {
-            "item": "Fire Voucher",
-            "quantity": "1"
-          }
-        ]
-      }
-    ]
+    "hive": {
+      "name": "Hive Fire Division",
+      "price": [
+        {
+          "item": "Fire Voucher",
+          "quantity": "1"
+        }
+      ]
+    }
   },
   {
     "id": "16298",
     "name": "Elder Oak Roots",
     "level": "90",
-    "hive": [
-      {
-        "name": "Hive Earth Division",
-        "price": [
-          {
-            "item": "Earth Voucher",
-            "quantity": "1"
-          }
-        ]
-      }
-    ]
+    "hive": {
+      "name": "Hive Earth Division",
+      "price": [
+        {
+          "item": "Earth Voucher",
+          "quantity": "1"
+        }
+      ]
+    }
   },
   {
     "id": "16299",
     "name": "Flashstep",
     "level": "85",
-    "hive": [
-      {
-        "name": "Hive Air Division",
-        "price": [
-          {
-            "item": "Air Voucher",
-            "quantity": "1"
-          }
-        ]
-      }
-    ]
+    "hive": {
+      "name": "Hive Air Division",
+      "price": [
+        {
+          "item": "Air Voucher",
+          "quantity": "1"
+        }
+      ]
+    }
   },
   {
     "id": "16300",
     "name": "Gaea-Hewn Boots",
     "level": "100",
-    "hive": [
-      {
-        "name": "Hive Master Division",
-        "price": [
-          {
-            "item": "Master Voucher",
-            "quantity": "1"
-          }
-        ]
-      }
-    ]
+    "hive": {
+      "name": "Hive Master Division",
+      "price": [
+        {
+          "item": "Master Voucher",
+          "quantity": "1"
+        }
+      ]
+    }
   },
   {
     "id": "16301",
     "name": "Gale's Freedom",
     "level": "87",
-    "hive": [
-      {
-        "name": "Hive Air Division",
-        "price": [
-          {
-            "item": "Air Voucher",
-            "quantity": "1"
-          }
-        ]
-      }
-    ]
+    "hive": {
+      "name": "Hive Air Division",
+      "price": [
+        {
+          "item": "Air Voucher",
+          "quantity": "1"
+        }
+      ]
+    }
   },
   {
     "id": "16302",
     "name": "Golemlus Core",
     "level": "90",
-    "hive": [
-      {
-        "name": "Hive Earth Division",
-        "price": [
-          {
-            "item": "Earth Voucher",
-            "quantity": "1"
-          }
-        ]
-      }
-    ]
+    "hive": {
+      "name": "Hive Earth Division",
+      "price": [
+        {
+          "item": "Earth Voucher",
+          "quantity": "1"
+        }
+      ]
+    }
   },
   {
     "id": "16303",
     "name": "Hephaestus-Forged Greaves",
     "level": "100",
-    "hive": [
-      {
-        "name": "Hive Master Division",
-        "price": [
-          {
-            "item": "Master Voucher",
-            "quantity": "1"
-          }
-        ]
-      }
-    ]
+    "hive": {
+      "name": "Hive Master Division",
+      "price": [
+        {
+          "item": "Master Voucher",
+          "quantity": "1"
+        }
+      ]
+    }
   },
   {
     "id": "16304",
     "name": "Humbark Moccasins",
     "level": "89",
-    "hive": [
-      {
-        "name": "Hive Earth Division",
-        "price": [
-          {
-            "item": "Earth Voucher",
-            "quantity": "1"
-          }
-        ]
-      }
-    ]
+    "hive": {
+      "name": "Hive Earth Division",
+      "price": [
+        {
+          "item": "Earth Voucher",
+          "quantity": "1"
+        }
+      ]
+    }
   },
   {
     "id": "16305",
     "name": "Infused Hive Bow",
     "level": "100",
-    "hive": [
-      {
-        "name": "Hive Master Division",
-        "price": [
-          {
-            "item": "Master Voucher",
-            "quantity": "1"
-          }
-        ]
-      }
-    ]
+    "hive": {
+      "name": "Hive Master Division",
+      "price": [
+        {
+          "item": "Master Voucher",
+          "quantity": "1"
+        }
+      ]
+    }
   },
   {
     "id": "16306",
     "name": "Infused Hive Dagger",
     "level": "100",
-    "hive": [
-      {
-        "name": "Hive Master Division",
-        "price": [
-          {
-            "item": "Master Voucher",
-            "quantity": "1"
-          }
-        ]
-      }
-    ]
+    "hive": {
+      "name": "Hive Master Division",
+      "price": [
+        {
+          "item": "Master Voucher",
+          "quantity": "1"
+        }
+      ]
+    }
   },
   {
     "id": "16307",
     "name": "Infused Hive Spear",
     "level": "100",
-    "hive": [
-      {
-        "name": "Hive Master Division",
-        "price": [
-          {
-            "item": "Master Voucher",
-            "quantity": "1"
-          }
-        ]
-      }
-    ]
+    "hive": {
+      "name": "Hive Master Division",
+      "price": [
+        {
+          "item": "Master Voucher",
+          "quantity": "1"
+        }
+      ]
+    }
   },
   {
     "id": "16308",
     "name": "Infused Hive Wand",
     "level": "100",
-    "hive": [
-      {
-        "name": "Hive Master Division",
-        "price": [
-          {
-            "item": "Master Voucher",
-            "quantity": "1"
-          }
-        ]
-      }
-    ]
+    "hive": {
+      "name": "Hive Master Division",
+      "price": [
+        {
+          "item": "Master Voucher",
+          "quantity": "1"
+        }
+      ]
+    }
   },
   {
     "id": "16309",
     "name": "Insulated Plate Mail",
     "level": "83",
-    "hive": [
-      {
-        "name": "Hive Thunder Division",
-        "price": [
-          {
-            "item": "Thunder Voucher",
-            "quantity": "1"
-          }
-        ]
-      }
-    ]
+    "hive": {
+      "name": "Hive Thunder Division",
+      "price": [
+        {
+          "item": "Thunder Voucher",
+          "quantity": "1"
+        }
+      ]
+    }
   },
   {
     "id": "16310",
     "name": "Intensity",
     "level": "100",
-    "hive": [
-      {
-        "name": "Hive Master Division",
-        "price": [
-          {
-            "item": "Master Voucher",
-            "quantity": "1"
-          }
-        ]
-      }
-    ]
+    "hive": {
+      "name": "Hive Master Division",
+      "price": [
+        {
+          "item": "Master Voucher",
+          "quantity": "1"
+        }
+      ]
+    }
   },
   {
     "id": "16311",
     "name": "Lightning Flash",
     "level": "82",
-    "hive": [
-      {
-        "name": "Hive Thunder Division",
-        "price": [
-          {
-            "item": "Thunder Voucher",
-            "quantity": "1"
-          }
-        ]
-      }
-    ]
+    "hive": {
+      "name": "Hive Thunder Division",
+      "price": [
+        {
+          "item": "Thunder Voucher",
+          "quantity": "1"
+        }
+      ]
+    }
   },
   {
     "id": "16312",
     "name": "Mantlewalkers",
     "level": "97",
-    "hive": [
-      {
-        "name": "Hive Fire Division",
-        "price": [
-          {
-            "item": "Fire Voucher",
-            "quantity": "1"
-          }
-        ]
-      }
-    ]
+    "hive": {
+      "name": "Hive Fire Division",
+      "price": [
+        {
+          "item": "Fire Voucher",
+          "quantity": "1"
+        }
+      ]
+    }
   },
   {
     "id": "16313",
     "name": "Moon Pool Circlet",
     "level": "94",
-    "hive": [
-      {
-        "name": "Hive Water Division",
-        "price": [
-          {
-            "item": "Water Voucher",
-            "quantity": "1"
-          }
-        ]
-      }
-    ]
+    "hive": {
+      "name": "Hive Water Division",
+      "price": [
+        {
+          "item": "Water Voucher",
+          "quantity": "1"
+        }
+      ]
+    }
   },
   {
     "id": "16314",
     "name": "Pride of the Aerie",
     "level": "84",
-    "hive": [
-      {
-        "name": "Hive Air Division",
-        "price": [
-          {
-            "item": "Air Voucher",
-            "quantity": "1"
-          }
-        ]
-      }
-    ]
+    "hive": {
+      "name": "Hive Air Division",
+      "price": [
+        {
+          "item": "Air Voucher",
+          "quantity": "1"
+        }
+      ]
+    }
   },
   {
     "id": "16315",
     "name": "Prowess",
     "level": "100",
-    "hive": [
-      {
-        "name": "Hive Master Division",
-        "price": [
-          {
-            "item": "Master Voucher",
-            "quantity": "1"
-          }
-        ]
-      }
-    ]
+    "hive": {
+      "name": "Hive Master Division",
+      "price": [
+        {
+          "item": "Master Voucher",
+          "quantity": "1"
+        }
+      ]
+    }
   },
   {
     "id": "16316",
     "name": "Silt of the Seafloor",
     "level": "93",
-    "hive": [
-      {
-        "name": "Hive Water Division",
-        "price": [
-          {
-            "item": "Water Voucher",
-            "quantity": "1"
-          }
-        ]
-      }
-    ]
+    "hive": {
+      "name": "Hive Water Division",
+      "price": [
+        {
+          "item": "Water Voucher",
+          "quantity": "1"
+        }
+      ]
+    }
   },
   {
     "id": "16317",
     "name": "Soulflare",
     "level": "99",
-    "hive": [
-      {
-        "name": "Hive Fire Division",
-        "price": [
-          {
-            "item": "Fire Voucher",
-            "quantity": "1"
-          }
-        ]
-      }
-    ]
+    "hive": {
+      "name": "Hive Fire Division",
+      "price": [
+        {
+          "item": "Fire Voucher",
+          "quantity": "1"
+        }
+      ]
+    }
   },
   {
     "id": "16318",
     "name": "Sparkling Visor",
     "level": "80",
-    "hive": [
-      {
-        "name": "Hive Thunder Division",
-        "price": [
-          {
-            "item": "Thunder Voucher",
-            "quantity": "1"
-          }
-        ]
-      }
-    ]
+    "hive": {
+      "name": "Hive Thunder Division",
+      "price": [
+        {
+          "item": "Thunder Voucher",
+          "quantity": "1"
+        }
+      ]
+    }
   },
   {
     "id": "16319",
     "name": "Sparkweaver",
     "level": "96",
-    "hive": [
-      {
-        "name": "Hive Fire Division",
-        "price": [
-          {
-            "item": "Fire Voucher",
-            "quantity": "1"
-          }
-        ]
-      }
-    ]
+    "hive": {
+      "name": "Hive Fire Division",
+      "price": [
+        {
+          "item": "Fire Voucher",
+          "quantity": "1"
+        }
+      ]
+    }
   },
   {
     "id": "16320",
     "name": "Static-Charged Leggings",
     "level": "82",
-    "hive": [
-      {
-        "name": "Hive Thunder Division",
-        "price": [
-          {
-            "item": "Thunder Voucher",
-            "quantity": "1"
-          }
-        ]
-      }
-    ]
+    "hive": {
+      "name": "Hive Thunder Division",
+      "price": [
+        {
+          "item": "Thunder Voucher",
+          "quantity": "1"
+        }
+      ]
+    }
   },
   {
     "id": "16322",
     "name": "Stillwater Blue",
     "level": "95",
-    "hive": [
-      {
-        "name": "Hive Water Division",
-        "price": [
-          {
-            "item": "Water Voucher",
-            "quantity": "1"
-          }
-        ]
-      }
-    ]
+    "hive": {
+      "name": "Hive Water Division",
+      "price": [
+        {
+          "item": "Water Voucher",
+          "quantity": "1"
+        }
+      ]
+    }
   },
   {
     "id": "16323",
     "name": "Subur Clip",
     "level": "89",
-    "hive": [
-      {
-        "name": "Hive Earth Division",
-        "price": [
-          {
-            "item": "Earth Voucher",
-            "quantity": "1"
-          }
-        ]
-      }
-    ]
+    "hive": {
+      "name": "Hive Earth Division",
+      "price": [
+        {
+          "item": "Earth Voucher",
+          "quantity": "1"
+        }
+      ]
+    }
   },
   {
     "id": "16324",
     "name": "Thunderous Step",
     "level": "81",
-    "hive": [
-      {
-        "name": "Hive Thunder Division",
-        "price": [
-          {
-            "item": "Thunder Voucher",
-            "quantity": "1"
-          }
-        ]
-      }
-    ]
+    "hive": {
+      "name": "Hive Thunder Division",
+      "price": [
+        {
+          "item": "Thunder Voucher",
+          "quantity": "1"
+        }
+      ]
+    }
   },
   {
     "id": "16325",
     "name": "Trench Scourer",
     "level": "94",
-    "hive": [
-      {
-        "name": "Hive Water Division",
-        "price": [
-          {
-            "item": "Water Voucher",
-            "quantity": "1"
-          }
-        ]
-      }
-    ]
+    "hive": {
+      "name": "Hive Water Division",
+      "price": [
+        {
+          "item": "Water Voucher",
+          "quantity": "1"
+        }
+      ]
+    }
   },
   {
     "id": "16326",
     "name": "Turbine Greaves",
     "level": "86",
-    "hive": [
-      {
-        "name": "Hive Air Division",
-        "price": [
-          {
-            "item": "Air Voucher",
-            "quantity": "1"
-          }
-        ]
-      }
-    ]
+    "hive": {
+      "name": "Hive Air Division",
+      "price": [
+        {
+          "item": "Air Voucher",
+          "quantity": "1"
+        }
+      ]
+    }
   },
   {
     "id": "16327",
     "name": "Vortex Bracer",
     "level": "86",
-    "hive": [
-      {
-        "name": "Hive Air Division",
-        "price": [
-          {
-            "item": "Air Voucher",
-            "quantity": "1"
-          }
-        ]
-      }
-    ]
+    "hive": {
+      "name": "Hive Air Division",
+      "price": [
+        {
+          "item": "Air Voucher",
+          "quantity": "1"
+        }
+      ]
+    }
   },
   {
     "id": "16328",
     "name": "Whitecap Crown",
     "level": "92",
-    "hive": [
-      {
-        "name": "Hive Water Division",
-        "price": [
-          {
-            "item": "Water Voucher",
-            "quantity": "1"
-          }
-        ]
-      }
-    ]
+    "hive": {
+      "name": "Hive Water Division",
+      "price": [
+        {
+          "item": "Water Voucher",
+          "quantity": "1"
+        }
+      ]
+    }
   },
   {
     "id": "16329",
@@ -26933,97 +26851,85 @@
     "id": "17994",
     "name": "Abyss-Imbued Leggings",
     "level": "100",
-    "hive": [
-      {
-        "name": "Hive Master Division",
-        "price": [
-          {
-            "item": "Master Voucher",
-            "quantity": "1"
-          }
-        ]
-      }
-    ]
+    "hive": {
+      "name": "Hive Master Division",
+      "price": [
+        {
+          "item": "Master Voucher",
+          "quantity": "1"
+        }
+      ]
+    }
   },
   {
     "id": "17995",
     "name": "Chaos-Woven Greaves",
     "level": "100",
-    "hive": [
-      {
-        "name": "Hive Master Division",
-        "price": [
-          {
-            "item": "Master Voucher",
-            "quantity": "1"
-          }
-        ]
-      }
-    ]
+    "hive": {
+      "name": "Hive Master Division",
+      "price": [
+        {
+          "item": "Master Voucher",
+          "quantity": "1"
+        }
+      ]
+    }
   },
   {
     "id": "17996",
     "name": "Eden-Blessed Guards",
     "level": "100",
-    "hive": [
-      {
-        "name": "Hive Master Division",
-        "price": [
-          {
-            "item": "Master Voucher",
-            "quantity": "1"
-          }
-        ]
-      }
-    ]
+    "hive": {
+      "name": "Hive Master Division",
+      "price": [
+        {
+          "item": "Master Voucher",
+          "quantity": "1"
+        }
+      ]
+    }
   },
   {
     "id": "17997",
     "name": "Elysium-Engraved Aegis",
     "level": "100",
-    "hive": [
-      {
-        "name": "Hive Master Division",
-        "price": [
-          {
-            "item": "Master Voucher",
-            "quantity": "1"
-          }
-        ]
-      }
-    ]
+    "hive": {
+      "name": "Hive Master Division",
+      "price": [
+        {
+          "item": "Master Voucher",
+          "quantity": "1"
+        }
+      ]
+    }
   },
   {
     "id": "17998",
     "name": "Obsidian-Framed Helmet",
     "level": "100",
-    "hive": [
-      {
-        "name": "Hive Master Division",
-        "price": [
-          {
-            "item": "Master Voucher",
-            "quantity": "1"
-          }
-        ]
-      }
-    ]
+    "hive": {
+      "name": "Hive Master Division",
+      "price": [
+        {
+          "item": "Master Voucher",
+          "quantity": "1"
+        }
+      ]
+    }
   },
   {
     "id": "17999",
     "name": "Twilight-Gilded Cloak",
     "level": "100",
-    "hive": [
-      {
-        "name": "Hive Master Division",
-        "price": [
-          {
-            "item": "Master Voucher",
-            "quantity": "1"
-          }
-        ]
-      }
-    ]
+    "hive": {
+      "name": "Hive Master Division",
+      "price": [
+        {
+          "item": "Master Voucher",
+          "quantity": "1"
+        }
+      ]
+    }
   },
   {
     "id": "18000",
@@ -27045,49 +26951,43 @@
     "id": "18001",
     "name": "Boreal-Patterned Crown",
     "level": "100",
-    "hive": [
-      {
-        "name": "Hive Master Division",
-        "price": [
-          {
-            "item": "Master Voucher",
-            "quantity": "1"
-          }
-        ]
-      }
-    ]
+    "hive": {
+      "name": "Hive Master Division",
+      "price": [
+        {
+          "item": "Master Voucher",
+          "quantity": "1"
+        }
+      ]
+    }
   },
   {
     "id": "18002",
     "name": "Anima-Infused Cuirass",
     "level": "100",
-    "hive": [
-      {
-        "name": "Hive Master Division",
-        "price": [
-          {
-            "item": "Master Voucher",
-            "quantity": "1"
-          }
-        ]
-      }
-    ]
+    "hive": {
+      "name": "Hive Master Division",
+      "price": [
+        {
+          "item": "Master Voucher",
+          "quantity": "1"
+        }
+      ]
+    }
   },
   {
     "id": "18003",
     "name": "Hephaestus-Forged Sabatons",
     "level": "100",
-    "hive": [
-      {
-        "name": "Hive Master Division",
-        "price": [
-          {
-            "item": "Master Voucher",
-            "quantity": "1"
-          }
-        ]
-      }
-    ]
+    "hive": {
+      "name": "Hive Master Division",
+      "price": [
+        {
+          "item": "Master Voucher",
+          "quantity": "1"
+        }
+      ]
+    }
   },
   {
     "id": "18004",
@@ -28535,17 +28435,15 @@
     "id": "18093",
     "name": "Infused Hive Relik",
     "level": "100",
-    "hive": [
-      {
-        "name": "Hive Master Division",
-        "price": [
-          {
-            "item": "Master Voucher",
-            "quantity": "1"
-          }
-        ]
-      }
-    ]
+    "hive": {
+      "name": "Hive Master Division",
+      "price": [
+        {
+          "item": "Master Voucher",
+          "quantity": "1"
+        }
+      ]
+    }
   },
   {
     "id": "18094",
