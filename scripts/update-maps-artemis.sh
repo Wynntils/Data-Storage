@@ -140,7 +140,8 @@ echo "[" > $JSON_METADATA_FILE
 # do_map "Kingdom of Sand 4" "kingdom-of-sand-4" 11 11 -5 -4
 # do_map "Kingdom of Sand 5" "kingdom-of-sand-5" 15 16 -4 -4
 # do_map "Talespun Citadel" "talespun-citadel" -3 -3 19 20
-do_map "Ozoth's Nest" "ozoths-nest" -32 -32 2 3
+# do_map "Ozoth's Nest" "ozoths-nest" -32 -32 2 3
+do_map "Death's Realm" "deaths-realm" 0 1 -16 -15
 
 
 # Remove the trailing comma
