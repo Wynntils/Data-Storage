@@ -139,6 +139,8 @@ do_map "Kingdom of Sand 2" "kingdom-of-sand-2" 4 5 1 1
 do_map "Kingdom of Sand 3" "kingdom-of-sand-3" 6 6 -3 -3
 do_map "Kingdom of Sand 4" "kingdom-of-sand-4" 11 11 -5 -4
 do_map "Kingdom of Sand 5" "kingdom-of-sand-5" 15 16 -4 -4
+do_map "Talespun Citadel" "talespun-citadel" -3 -3 19 20
+
 
 # Remove the trailing comma
 $HEAD -n -1 $JSON_METADATA_FILE > $JSON_METADATA_FILE.tmp
