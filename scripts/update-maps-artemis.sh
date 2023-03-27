@@ -119,7 +119,7 @@ echo "[" > $JSON_METADATA_FILE
 #### Create all maps
 # syntax: do_map "Nice name" "short-name" x1 x2 z1 z2, where x1 <= x2 and z1 <= z2
 
-# do_map "Main" "main" -5 3 -12 -1
+do_map "Main" "main" -5 3 -12 -1
 do_map "Ceralus Farm 1" "ceralus-1" -10 -7 -3 -3
 do_map "Ceralus Farm 2" "ceralus-2" -17 -16 -3 -3
 do_map "Deja Vu" "deja-vu" -9 -8 2 2
