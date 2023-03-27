@@ -120,32 +120,32 @@ echo "[" > $JSON_METADATA_FILE
 # syntax: do_map "Nice name" "short-name" x1 x2 z1 z2, where x1 <= x2 and z1 <= z2
 
 # do_map "Main" "main" -5 3 -12 -1
-# do_map "Ceralus Farm 1" "ceralus-1" -10 -7 -3 -3
-# do_map "Ceralus Farm 2" "ceralus-2" -17 -16 -3 -3
-# do_map "Deja Vu" "deja-vu" -9 -8 2 2
-# do_map "King's Recruit" "kings-recruit" -21 -21 -5 -4
-# do_map "Misadventure on the Sea" "misadventure-on-the-sea" -7 -5 30 32
-# do_map "Realm of Light" "realm-of-light" -3 -2 -13 -12
-# do_map "Seaskipper" "seaskipper" 31 32 30 30
-# do_map "Sunset Valley" "sunset-valley" -4 -3 19 19
-# do_map "The Void" "void" 26 27 -10 -7
-# do_map "Wynnter Fair" "wynnter-fair" -3 -2 31 32
-# do_map "Wynnter Fair Parkour" "wynnter-fair-parkour" -4 -4 35 36
-# do_map "A Sandy Scandal 1" "sandy-scandal-1" -28 -27 40 41
-# do_map "A Sandy Scandal 2" "sandy-scandal-2" -30 -29 40 40
-# do_map "A Sandy Scandal 3" "sandy-scandal-3" -34 -33 41 42
-# do_map "Kingdom of Sand 1" "kingdom-of-sand-1" 3 4 -4 -4
-# do_map "Kingdom of Sand 2" "kingdom-of-sand-2" 4 5 1 1
-# do_map "Kingdom of Sand 3" "kingdom-of-sand-3" 6 6 -3 -3
-# do_map "Kingdom of Sand 4" "kingdom-of-sand-4" 11 11 -5 -4
-# do_map "Kingdom of Sand 5" "kingdom-of-sand-5" 15 16 -4 -4
-# do_map "Talespun Citadel" "talespun-citadel" -3 -3 19 20
-# do_map "Ozoth's Nest" "ozoths-nest" -32 -32 2 3
-# do_map "Death's Realm" "deaths-realm" 0 1 -16 -15
-# do_map "Little Wing Navigation" "little-wing-navigation" 6 6 -10 -9
-# do_map "On Board Little Wing" "on-board-little-wing" 4 5 -9 -8
-# do_map "Gateway Island" "gateway-island" 38 39 -10 -9
-# do_map "Gateway Island Crash" "gateway-island-crash" 41 41 -9 -9
+do_map "Ceralus Farm 1" "ceralus-1" -10 -7 -3 -3
+do_map "Ceralus Farm 2" "ceralus-2" -17 -16 -3 -3
+do_map "Deja Vu" "deja-vu" -9 -8 2 2
+do_map "King's Recruit" "kings-recruit" -21 -21 -5 -4
+do_map "Misadventure on the Sea" "misadventure-on-the-sea" -7 -5 30 32
+do_map "Realm of Light" "realm-of-light" -3 -2 -13 -12
+do_map "Seaskipper" "seaskipper" 31 32 30 30
+do_map "Sunset Valley" "sunset-valley" -4 -3 19 19
+do_map "The Void" "void" 26 27 -10 -7
+do_map "Wynnter Fair" "wynnter-fair" -3 -2 31 32
+do_map "Wynnter Fair Parkour" "wynnter-fair-parkour" -4 -4 35 36
+do_map "A Sandy Scandal 1" "sandy-scandal-1" -28 -27 40 41
+do_map "A Sandy Scandal 2" "sandy-scandal-2" -30 -29 40 40
+do_map "A Sandy Scandal 3" "sandy-scandal-3" -34 -33 41 42
+do_map "Kingdom of Sand 1" "kingdom-of-sand-1" 3 4 -4 -4
+do_map "Kingdom of Sand 2" "kingdom-of-sand-2" 4 5 1 1
+do_map "Kingdom of Sand 3" "kingdom-of-sand-3" 6 6 -3 -3
+do_map "Kingdom of Sand 4" "kingdom-of-sand-4" 11 11 -5 -4
+do_map "Kingdom of Sand 5" "kingdom-of-sand-5" 15 16 -4 -4
+do_map "Talespun Citadel" "talespun-citadel" -3 -3 19 20
+do_map "Ozoth's Nest" "ozoths-nest" -32 -32 2 3
+do_map "Death's Realm" "deaths-realm" 0 1 -16 -15
+do_map "Little Wing Navigation" "little-wing-navigation" 6 6 -10 -9
+do_map "On Board Little Wing" "on-board-little-wing" 4 5 -9 -8
+do_map "Gateway Island" "gateway-island" 38 39 -10 -9
+do_map "Gateway Island Crash" "gateway-island-crash" 41 41 -9 -9
 do_map "The Feathers Fly Part II, Corkus City Plant" "feathers-fly-corkus-city-plant" -1 0 40 41
 
 # Remove the trailing comma
