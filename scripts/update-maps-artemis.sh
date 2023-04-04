@@ -147,28 +147,28 @@ echo "[" > $JSON_METADATA_FILE
 ## Name is "Main row-col"
 
 do_map "Main 1-1" "main-1-1" -5 -3 -12 -11 0 "main"
-do_map "Main 1-2" "main-1-2" -2 0 -12 -11 1 "main"
-do_map "Main 1-3" "main-1-3" 1 3 -12 -11 2 "main"
+do_map "Main 1-2" "main-1-2" -2 1 -12 -11 1 "main"
+do_map "Main 1-3" "main-1-3" 2 3 -12 -11 2 "main"
 
 do_map "Main 2-1" "main-2-1" -5 -3 -10 -9 3 "main"
-do_map "Main 2-2" "main-2-2" -2 0 -10 -9 4 "main"
-do_map "Main 2-3" "main-2-3" 1 3 -10 -9 5 "main"
+do_map "Main 2-2" "main-2-2" -2 1 -10 -9 4 "main"
+do_map "Main 2-3" "main-2-3" 2 3 -10 -9 5 "main"
 
 do_map "Main 3-1" "main-3-1" -5 -3 -8 -7 6 "main"
-do_map "Main 3-2" "main-3-2" -2 0 -8 -7 7 "main"
-do_map "Main 3-3" "main-3-3" 1 3 -8 -7 8 "main"
+do_map "Main 3-2" "main-3-2" -2 1 -8 -7 7 "main"
+do_map "Main 3-3" "main-3-3" 2 3 -8 -7 8 "main"
 
 do_map "Main 4-1" "main-4-1" -5 -3 -6 -5 9 "main"
-do_map "Main 4-2" "main-4-2" -2 0 -6 -5 10 "main"
-do_map "Main 4-3" "main-4-3" 1 3 -6 -5 11 "main"
+do_map "Main 4-2" "main-4-2" -2 1 -6 -5 10 "main"
+do_map "Main 4-3" "main-4-3" 2 3 -6 -5 11 "main"
 
 do_map "Main 5-1" "main-5-1" -5 -3 -4 -3 12 "main"
-do_map "Main 5-2" "main-5-2" -2 0 -4 -3 13 "main"
-do_map "Main 5-3" "main-5-3" 1 3 -4 -3 14 "main"
+do_map "Main 5-2" "main-5-2" -2 1 -4 -3 13 "main"
+do_map "Main 5-3" "main-5-3" 2 3 -4 -3 14 "main"
 
 do_map "Main 6-1" "main-6-1" -5 -3 -2 -1 15 "main"
-do_map "Main 6-2" "main-6-2" -2 0 -2 -1 16 "main"
-do_map "Main 6-3" "main-6-3" 1 3 -2 -1 17 "main"
+do_map "Main 6-2" "main-6-2" -2 1 -2 -1 16 "main"
+do_map "Main 6-3" "main-6-3" 2 3 -2 -1 17 "main"
 
 do_map "Ceralus Farm 1" "ceralus-1" -10 -7 -3 -3
 do_map "Ceralus Farm 2" "ceralus-2" -17 -16 -3 -3
