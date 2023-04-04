@@ -34,19 +34,33 @@ function do_map() {
   X2=$4
   Z1=$5
   Z2=$6
+  MASK_ID=$7
+  MASK_FILE_OVERRIDE=$8
 
   echo "===================="
   echo "Processing $NAME..."
+
+  mkdir -p $WYNNDATA_DIR/tmp
+
   OUTPUT_MAP=raw-map-$FILE.png
   SOURCE_TILES=""
   for ((x = $X1; x <= $X2; x++)); do
     for ((z = $Z1; z <= $Z2; z++)); do
       region="$x,$z"
-      echo "Including region: $region"
       region_file="$WYNNDATA_DIR/journeymap-data/DIM0/day/$region.png"
-      if [[ -e $region_file ]]; then
-        SOURCE_TILES="$SOURCE_TILES $region_file"
+
+      # If the region file does not exist, we need to create one so the chunk imagine is full
+      if [[ ! -e $region_file ]]; 
+        then
+          echo "Region was not found, using hack: $region"
+          # This is a hack to convince JourneyMapTools to create the correct image size, the map mask takes care of hiding this
+          cp "$WYNNDATA_DIR/journeymap-data/DIM0/day/0,0.png" $WYNNDATA_DIR/tmp/$region.png
+          SOURCE_TILES="$SOURCE_TILES $WYNNDATA_DIR/tmp/$region.png"
+        else
+          echo "Including region: $region"
+          SOURCE_TILES="$SOURCE_TILES $region_file"
       fi
+
     done
   done
 
@@ -65,10 +79,20 @@ function do_map() {
 
   MASK_FILE_NAME="$WYNNDATA_DIR/masks/map-mask-$FILE.png"
 
+  if [ "$#" -eq 8 ]
+    then
+      echo "Splitting mask for override"
+      MASK_WIDTH=$((($X2-$X1+1)*512))
+      MASK_HEIGHT=$((($Z2-$Z1+1)*512))
+
+      magick "$WYNNDATA_DIR/masks/map-mask-$MASK_FILE_OVERRIDE.png" -crop "$MASK_WIDTH x $MASK_HEIGHT" "$WYNNDATA_DIR/tmp/map-mask-$MASK_FILE_OVERRIDE-cropped.png"
+
+      MASK_FILE_NAME="$WYNNDATA_DIR/tmp/map-mask-$MASK_FILE_OVERRIDE-cropped-$MASK_ID.png"
+  fi
+
   OUTPUT_FILE_NAME="$WYNNDATA_DIR/out/map-$FILE.png"
   FULLCOLOR_FILE_NAME="$WYNNDATA_DIR/tmp/fullcolor-$FILE.png"
   INDEXED_FILE_NAME="$WYNNDATA_DIR/tmp/indexed-$FILE.png"
-  mkdir -p $WYNNDATA_DIR/tmp
 
   # If we have a mask: First start by procecting all areas covered by the mask,
   # and make all other areas black, and then reapply the mask as an alpha
@@ -119,7 +143,33 @@ echo "[" > $JSON_METADATA_FILE
 #### Create all maps
 # syntax: do_map "Nice name" "short-name" x1 x2 z1 z2, where x1 <= x2 and z1 <= z2
 
-do_map "Main" "main" -5 3 -12 -1
+## Split the main map into 3 columns and 6 rows
+## Name is "Main row-col"
+
+do_map "Main 1-1" "main-1-1" -5 -3 -12 -11 0 "main"
+do_map "Main 1-2" "main-1-2" -2 0 -12 -11 1 "main"
+do_map "Main 1-3" "main-1-3" 1 3 -12 -11 2 "main"
+
+do_map "Main 2-1" "main-2-1" -5 -3 -10 -9 3 "main"
+do_map "Main 2-2" "main-2-2" -2 0 -10 -9 4 "main"
+do_map "Main 2-3" "main-2-3" 1 3 -10 -9 5 "main"
+
+do_map "Main 3-1" "main-3-1" -5 -3 -8 -7 6 "main"
+do_map "Main 3-2" "main-3-2" -2 0 -8 -7 7 "main"
+do_map "Main 3-3" "main-3-3" 1 3 -8 -7 8 "main"
+
+do_map "Main 4-1" "main-4-1" -5 -3 -6 -5 9 "main"
+do_map "Main 4-2" "main-4-2" -2 0 -6 -5 10 "main"
+do_map "Main 4-3" "main-4-3" 1 3 -6 -5 11 "main"
+
+do_map "Main 5-1" "main-5-1" -5 -3 -4 -3 12 "main"
+do_map "Main 5-2" "main-5-2" -2 0 -4 -3 13 "main"
+do_map "Main 5-3" "main-5-3" 1 3 -4 -3 14 "main"
+
+do_map "Main 6-1" "main-6-1" -5 -3 -2 -1 15 "main"
+do_map "Main 6-2" "main-6-2" -2 0 -2 -1 16 "main"
+do_map "Main 6-3" "main-6-3" 1 3 -2 -1 17 "main"
+
 do_map "Ceralus Farm 1" "ceralus-1" -10 -7 -3 -3
 do_map "Ceralus Farm 2" "ceralus-2" -17 -16 -3 -3
 do_map "Deja Vu" "deja-vu" -9 -8 2 2
@@ -153,3 +203,5 @@ $HEAD -n -1 $JSON_METADATA_FILE > $JSON_METADATA_FILE.tmp
 mv $JSON_METADATA_FILE.tmp $JSON_METADATA_FILE
 echo "  }" >> $JSON_METADATA_FILE
 echo "]" >> $JSON_METADATA_FILE
+
+rm -rf $WYNNDATA_DIR/tmp
