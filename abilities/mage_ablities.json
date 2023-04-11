@@ -1,0 +1,2702 @@
+{
+  "nodes": [
+    {
+      "name": "Meteor",
+      "formattedName": "§a§lMeteor",
+      "description": [
+        "§6Click Combo: §d§lRIGHT§7-§d§lLEFT§7-§d§lLEFT",
+        "§7 ",
+        "§7Summons a slow but powerful meteor",
+        "§7from the sky, dealing massive",
+        "§7damage over a large area.",
+        "§7 ",
+        "§b✺ §7Mana Cost: §f50",
+        "§c⚔ §7Total Damage: §f400% §8(of your DPS)",
+        "§7  ÀÀÀÀ§8(§6✢ §8Damage: 300%)",
+        "§7  ÀÀÀÀ§8(§2✤ §8Earth: 100%)",
+        "§2➼ §7Range: §f18 Blocks",
+        "§3☀ §7Area of Effect: §f5 Blocks §7(Circle-Shaped)",
+        "§7 ",
+        "§a✔ §7Ability Points: §f1"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 71
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": null,
+      "location": {
+        "page": 1,
+        "row": 0,
+        "col": 4
+      },
+      "connections": [
+        "Wand Proficiency I"
+      ]
+    },
+    {
+      "name": "Wand Proficiency I",
+      "formattedName": "§f§lWand Proficiency I",
+      "description": [
+        "§7 ",
+        "§7Improve your §nMain Attack§r§7\u0027s damage",
+        "§7and range when using a wand.",
+        "§7 ",
+        "§c⚔ §7Main Attack Damage: §f+5%",
+        "§2➼ §7Main Attack Range: §f+2 Blocks",
+        "§7 ",
+        "§a✔ §7Ability Points: §f1"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": null,
+      "location": {
+        "page": 1,
+        "row": 2,
+        "col": 4
+      },
+      "connections": [
+        "Meteor",
+        "Cheaper Meteor",
+        "Shooting Star"
+      ]
+    },
+    {
+      "name": "Cheaper Meteor",
+      "formattedName": "§f§lCheaper Meteor",
+      "description": [
+        "§7 ",
+        "§7Reduce the mana cost of §nMeteor§r§7.",
+        "§7 ",
+        "§b✺ §7Mana Cost: §f-10",
+        "§7 ",
+        "§a✔ §7Ability Points: §f1"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": null,
+      "location": {
+        "page": 1,
+        "row": 2,
+        "col": 6
+      },
+      "connections": [
+        "Wand Proficiency I"
+      ]
+    },
+    {
+      "name": "Shooting Star",
+      "formattedName": "§6§lShooting Star",
+      "description": [
+        "§7 ",
+        "§7Drastically increase the",
+        "§7speed of your §nMeteor§r§7 ability.",
+        "§7 ",
+        "§a✔ §7Ability Points: §f1"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 49
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": null,
+      "location": {
+        "page": 1,
+        "row": 4,
+        "col": 4
+      },
+      "connections": [
+        "Wand Proficiency I",
+        "Teleport"
+      ]
+    },
+    {
+      "name": "Wand Proficiency II",
+      "formattedName": "§f§lWand Proficiency II",
+      "description": [
+        "§7 ",
+        "§7Improve your §nMain Attack§r§7\u0027s damage",
+        "§7and range when using a wand.",
+        "§7 ",
+        "§c⚔ §7Main Attack Damage: §f+5%",
+        "§2➼ §7Main Attack Range: §f+2 Blocks",
+        "§7 ",
+        "§cUnlocking will block:",
+        "§c- §7Wisdom",
+        "",
+        "§b§lRiftwalker Archetype",
+        "",
+        "§a✔ §7Ability Points: §f1"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [
+        "Wisdom"
+      ],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": "Riftwalker",
+      "location": {
+        "page": 2,
+        "row": 1,
+        "col": 2
+      },
+      "connections": [
+        "Teleport",
+        "Heal"
+      ]
+    },
+    {
+      "name": "Teleport",
+      "formattedName": "§a§lTeleport",
+      "description": [
+        "§6Click Combo: §d§lRIGHT§7-§d§lRIGHT§7-§d§lRIGHT",
+        "§7 ",
+        "§7Instantly teleport in the",
+        "§7direction you\u0027re facing.",
+        "§7 ",
+        "§b✺ §7Mana Cost: §f25",
+        "§2➼ §7Range: §f16 Blocks",
+        "§7 ",
+        "§a✔ §7Ability Points: §f1"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 70
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": null,
+      "location": {
+        "page": 2,
+        "row": 1,
+        "col": 4
+      },
+      "connections": [
+        "Shooting Star",
+        "Wand Proficiency II",
+        "Wisdom"
+      ]
+    },
+    {
+      "name": "Wisdom",
+      "formattedName": "§f§lWisdom",
+      "description": [
+        "§7 ",
+        "§7For every §f2%§7 or §f2 Raw §7Spell Damage you have",
+        "§7from items, gain §f+1/5s§7 Mana Regen (Max 5/5s)",
+        "§7 ",
+        "§cUnlocking will block:",
+        "§c- §7Wand Proficiency II",
+        "",
+        "§5§lArcanist Archetype",
+        "",
+        "§a✔ §7Ability Points: §f1"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [
+        "Wand Proficiency II"
+      ],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": "Arcanist",
+      "location": {
+        "page": 2,
+        "row": 1,
+        "col": 6
+      },
+      "connections": [
+        "Teleport",
+        "Ice Snake"
+      ]
+    },
+    {
+      "name": "Heal",
+      "formattedName": "§a§lHeal",
+      "description": [
+        "§6Click Combo: §d§lRIGHT§7-§d§lLEFT§7-§d§lRIGHT",
+        "§7 ",
+        "§7Heals you and nearby allies in ",
+        "§7a large area around you.",
+        "§8(When healing others, you can\u0027t heal",
+        "§8more than 30% of §ntheir§r§8 max health)",
+        "§7 ",
+        "§b✺ §7Mana Cost: §f35",
+        "§c❤ §7Total Heal: §f15% §8(of your max health)",
+        "§2➼ §7Range: §f5 Blocks",
+        "§7 ",
+        "§a✔ §7Ability Points: §f1"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 70
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": null,
+      "location": {
+        "page": 2,
+        "row": 3,
+        "col": 2
+      },
+      "connections": [
+        "Wand Proficiency II",
+        "Cheaper Teleport",
+        "Air Mastery",
+        "Thunder Mastery"
+      ]
+    },
+    {
+      "name": "Cheaper Teleport",
+      "formattedName": "§f§lCheaper Teleport",
+      "description": [
+        "§7 ",
+        "§7Reduce the mana cost of §nTeleport§r§7.",
+        "§7 ",
+        "§b✺ §7Mana Cost: §f-5",
+        "§7 ",
+        "§a✔ §7Ability Points: §f1"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": null,
+      "location": {
+        "page": 2,
+        "row": 3,
+        "col": 4
+      },
+      "connections": [
+        "Heal",
+        "Ice Snake",
+        "Water Mastery"
+      ]
+    },
+    {
+      "name": "Ice Snake",
+      "formattedName": "§a§lIce Snake",
+      "description": [
+        "§6Click Combo: §d§lRIGHT§7-§d§lRIGHT§7-§d§lLEFT",
+        "§7 ",
+        "§7Summons a fast-moving ice snake that",
+        "§7damages and slows enemies.",
+        "§7 ",
+        "§b✺ §7Mana Cost: §f30",
+        "§c⚔ §7Total Damage: §f100% §8(of your DPS)",
+        "§7  ÀÀÀÀ§8(§6✢ §8Damage: 70%)",
+        "§7  ÀÀÀÀ§8(§b❉ §8Water: 30%)",
+        "§2➼ §7Range: §f18 Blocks",
+        "§e🛡 §7Effect: §f40% §7Slowness (§c⬤§7) to Enemies",
+        "§d⌛À §7Duration: §f3s",
+        "§7 ",
+        "§a✔ §7Ability Points: §f1"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 70
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": null,
+      "location": {
+        "page": 2,
+        "row": 3,
+        "col": 6
+      },
+      "connections": [
+        "Wisdom",
+        "Cheaper Teleport",
+        "Earth Mastery",
+        "Fire Mastery"
+      ]
+    },
+    {
+      "name": "Air Mastery",
+      "formattedName": "§f§lAir Mastery",
+      "description": [
+        "§7 ",
+        "§7Increase your base damage",
+        "§7from all Air attacks.",
+        "§7 ",
+        "§f❋ §7Air Damage: §f+3-4",
+        "§f❋ §7Air Damage: §f+15%",
+        "§7 ",
+        "§b§lRiftwalker Archetype",
+        "",
+        "§a✔ §7Ability Points: §f1"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": "Riftwalker",
+      "location": {
+        "page": 3,
+        "row": 1,
+        "col": 0
+      },
+      "connections": [
+        "Heal",
+        "Wind Slash"
+      ]
+    },
+    {
+      "name": "Thunder Mastery",
+      "formattedName": "§f§lThunder Mastery",
+      "description": [
+        "§7 ",
+        "§7Increase your base damage",
+        "§7from all Thunder attacks.",
+        "§7 ",
+        "§e✦ §7Thunder Damage: §f+1-8",
+        "§e✦ §7Thunder Damage: §f+10%",
+        "§7 ",
+        "§b§lRiftwalker Archetype",
+        "",
+        "§a✔ §7Ability Points: §f1"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": "Riftwalker",
+      "location": {
+        "page": 3,
+        "row": 1,
+        "col": 2
+      },
+      "connections": [
+        "Heal",
+        "Water Mastery",
+        "Thunderstorm"
+      ]
+    },
+    {
+      "name": "Fire Mastery",
+      "formattedName": "§f§lFire Mastery",
+      "description": [
+        "§7 ",
+        "§7Increase your base damage",
+        "§7from all Fire attacks.",
+        "§7 ",
+        "§c✹ §7Fire Damage: §f+3-5",
+        "§c✹ §7Fire Damage: §f+15%",
+        "§7 ",
+        "§5§lArcanist Archetype",
+        "",
+        "§a✔ §7Ability Points: §f1"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": "Arcanist",
+      "location": {
+        "page": 3,
+        "row": 1,
+        "col": 6
+      },
+      "connections": [
+        "Ice Snake",
+        "Burning Sigil",
+        "Earth Mastery"
+      ]
+    },
+    {
+      "name": "Earth Mastery",
+      "formattedName": "§f§lEarth Mastery",
+      "description": [
+        "§7 ",
+        "§7Increase your base damage",
+        "§7from all Earth attacks.",
+        "§7 ",
+        "§2✤ §7Earth Damage: §f+2-4",
+        "§2✤ §7Earth Damage: §f+20%",
+        "§7 ",
+        "§5§lArcanist Archetype",
+        "",
+        "§a✔ §7Ability Points: §f1"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": "Arcanist",
+      "location": {
+        "page": 3,
+        "row": 1,
+        "col": 8
+      },
+      "connections": [
+        "Ice Snake",
+        "Fire Mastery",
+        "Burning Sigil"
+      ]
+    },
+    {
+      "name": "Water Mastery",
+      "formattedName": "§f§lWater Mastery",
+      "description": [
+        "§7 ",
+        "§7Increase your base damage",
+        "§7from all Water attacks.",
+        "§7 ",
+        "§b❉ §7Water Damage: §f+2-4",
+        "§b❉ §7Water Damage: §f+15%",
+        "§7 ",
+        "§f§lLight Bender Archetype",
+        "",
+        "§a✔ §7Ability Points: §f1"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": "Light Bender",
+      "location": {
+        "page": 3,
+        "row": 2,
+        "col": 4
+      },
+      "connections": [
+        "Cheaper Teleport",
+        "Thunder Mastery",
+        "Sunshower"
+      ]
+    },
+    {
+      "name": "Wind Slash",
+      "formattedName": "§6§lWind Slash",
+      "description": [
+        "§7 ",
+        "§7When using §nTeleport§r§7, slash through the",
+        "§7air and deal damage to enemies you pierce.",
+        "§7 ",
+        "§c⚔ §7Total Damage: §f100% §8(of your DPS)",
+        "§7  ÀÀÀÀ§8(§6✢ §8Damage: 50%)",
+        "§7  ÀÀÀÀ§8(§f❋ §8Air: 50%)",
+        "§7 ",
+        "§b§lRiftwalker Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Required Ability: §fTeleport"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 49
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": "Teleport",
+      "requiredArchetype": null,
+      "archetype": "Riftwalker",
+      "location": {
+        "page": 3,
+        "row": 3,
+        "col": 0
+      },
+      "connections": [
+        "Air Mastery",
+        "Thunderstorm",
+        "Windsweeper"
+      ]
+    },
+    {
+      "name": "Thunderstorm",
+      "formattedName": "§6§lThunderstorm",
+      "description": [
+        "§7 ",
+        "§7After casting §nMeteor§r§7, summon §f3§7 lightning",
+        "§7strikes and deal additional damage.",
+        "§7 ",
+        "§c⚔ §7Total Damage: §f+45% §8(of your DPS, per strike)",
+        "§7  ÀÀÀÀ§8(§6✢ §8Damage: +30%)",
+        "§7  ÀÀÀÀ§8(§e✦ §8Thunder: +15%)",
+        "§3☀ §7Area of Effect: §f2 Blocks §7(Circle-Shaped)",
+        "",
+        "§cUnlocking will block:",
+        "§c- §7Ophanim",
+        "",
+        "§c✖ §7Ability Points: §f2"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 49
+      },
+      "cost": 2,
+      "blocks": [
+        "Ophanim"
+      ],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": null,
+      "location": {
+        "page": 3,
+        "row": 3,
+        "col": 2
+      },
+      "connections": [
+        "Thunder Mastery",
+        "Wind Slash",
+        "Windsweeper"
+      ]
+    },
+    {
+      "name": "Burning Sigil",
+      "formattedName": "§6§lBurning Sigil",
+      "description": [
+        "§7 ",
+        "§7§nMeteor§r§7 will leave a sigil of fire on",
+        "§7the ground that damages enemies every §f0.4s§7.",
+        "§7 ",
+        "§c⚔ §7Total Damage: §f40% §8(of your DPS)",
+        "§7  ÀÀÀÀ§8(§6✢ §8Damage: 15%)",
+        "§7  ÀÀÀÀ§8(§c✹ §8Fire: 25%)",
+        "§3☀ §7Area of Effect: §f7 Blocks §7(Circle-Shaped)",
+        "§d⌛À §7Duration: §f5s",
+        "§7 ",
+        "§c✖ §7Ability Points: §f2"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 49
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": null,
+      "location": {
+        "page": 3,
+        "row": 3,
+        "col": 7
+      },
+      "connections": [
+        "Fire Mastery",
+        "Earth Mastery",
+        "Stronger Meteor",
+        "Arcane Transfer",
+        "Stronger Meteor"
+      ]
+    },
+    {
+      "name": "Sunshower",
+      "formattedName": "§6§lSunshower",
+      "description": [
+        "§7 ",
+        "§7§nHeal§r§7 emits a strong light,",
+        "§7damaging nearby enemies.",
+        "§7 ",
+        "§c⚔ §7Total Damage: §f100% §8(of your DPS)",
+        "§7  ÀÀÀÀ§8(§6✢ §8Damage: 70%)",
+        "§7  ÀÀÀÀ§8(§b❉ §8Water: 30%)",
+        "§7 ",
+        "§cUnlocking will block:",
+        "§c- §7Arcane Transfer",
+        "",
+        "§f§lLight Bender Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Required Ability: §fHeal"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 49
+      },
+      "cost": 2,
+      "blocks": [
+        "Arcane Transfer"
+      ],
+      "requiredAbility": "Heal",
+      "requiredArchetype": null,
+      "archetype": "Light Bender",
+      "location": {
+        "page": 3,
+        "row": 4,
+        "col": 4
+      },
+      "connections": [
+        "Water Mastery",
+        "Ophanim"
+      ]
+    },
+    {
+      "name": "Stronger Meteor",
+      "formattedName": "§f§lStronger Meteor",
+      "description": [
+        "§7 ",
+        "§7Increase the damage of §nMeteor§r§7.",
+        "§7 ",
+        "§c⚔ §7Total Damage: §f+120% §8(of your DPS)",
+        "§7  ÀÀÀÀ§8(§6✢ §8Damage: +30%)",
+        "§7  ÀÀÀÀ§8(§2✤ §8Earth: +90%)",
+        "§7 ",
+        "§5§lArcanist Archetype",
+        "",
+        "§a✔ §7Ability Points: §f1",
+        "§c✖ §7Required Ability: §fMeteor",
+        "§c✖ §7Min Arcanist Archetype: §c0§7/2"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": "Meteor",
+      "requiredArchetype": {
+        "name": "Arcanist",
+        "required": 2
+      },
+      "archetype": "Arcanist",
+      "location": {
+        "page": 3,
+        "row": 4,
+        "col": 8
+      },
+      "connections": [
+        "Burning Sigil",
+        "Arcane Transfer",
+        "Burning Sigil"
+      ]
+    },
+    {
+      "name": "Windsweeper",
+      "formattedName": "§c§lWindsweeper",
+      "description": [
+        "§7 ",
+        "§7Your §nMain Attack§r§7 will add §b+1 Winded ≈",
+        "§7to enemies you hit. (Max 10, 0.5s Cooldown)",
+        "§7 ",
+        "§7§nIce Snake§r§7 will deal additional damage to",
+        "§7enemies for every §bWinded ≈§7 they have.",
+        "§7 ",
+        "§c⚔ §7Total Damage: §f15% §8(of your DPS, per Winded)",
+        "§7  ÀÀÀÀ§8(§6✢ §8Damage: 10%)",
+        "§7  ÀÀÀÀ§8(§b❉ §8Water: 5%)",
+        "§7 ",
+        "§b§lRiftwalker Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Required Ability: §fIce Snake",
+        "§c✖ §7Min Riftwalker Archetype: §c0§7/3"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 57
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": "Ice Snake",
+      "requiredArchetype": {
+        "name": "Riftwalker",
+        "required": 3
+      },
+      "archetype": "Riftwalker",
+      "location": {
+        "page": 4,
+        "row": 1,
+        "col": 1
+      },
+      "connections": [
+        "Wind Slash",
+        "Thunderstorm",
+        "Cheaper Heal"
+      ]
+    },
+    {
+      "name": "Ophanim",
+      "formattedName": "§c§lOphanim",
+      "description": [
+        "§7 ",
+        "§7When casting §nMeteor§r§7, instead summon",
+        "§f2 §7orbs of light with §f200 §7Health that will",
+        "§7attack when you use your §nMain Attack§r§7.",
+        "",
+        "§7When they damage an enemy, they lose §f20%",
+        "§7of their Health. They can be healed back.",
+        "§7 ",
+        "§b✺ §7Mana Cost: §c+30",
+        "§c⚔ §7Total Damage: §f120% §8(of your DPS)",
+        "§7  ÀÀÀÀ§8(§6✢ §8Damage: 60%)",
+        "§7  ÀÀÀÀ§8(§b❉ §8Water: 30%)",
+        "§7  ÀÀÀÀ§8(§e✦ §8Thunder: 30%)",
+        "§2➼ §7Range: §f22 Blocks",
+        "§7 ",
+        "§cUnlocking will block:",
+        "§c- §7Psychokinesis",
+        "§c- §7Thunderstorm",
+        "",
+        "§f§lLight Bender Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Required Ability: §fMeteor",
+        "§c✖ §7Min Light Bender Archetype: §c0§7/2"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 57
+      },
+      "cost": 2,
+      "blocks": [
+        "Psychokinesis",
+        "Thunderstorm"
+      ],
+      "requiredAbility": "Meteor",
+      "requiredArchetype": {
+        "name": "Light Bender",
+        "required": 2
+      },
+      "archetype": "Light Bender",
+      "location": {
+        "page": 4,
+        "row": 1,
+        "col": 4
+      },
+      "connections": [
+        "Sunshower",
+        "Purification"
+      ]
+    },
+    {
+      "name": "Arcane Transfer",
+      "formattedName": "§c§lArcane Transfer",
+      "description": [
+        "§7 ",
+        "§7§nMeteor§r§7 and §nIce Snake§r§7 will add §f+5§7 Mana to a",
+        "§bMana Bank ✺§7 for every aggressive enemy you hit.",
+        "§7 ",
+        "§7§nHeal§r§7 will now transfer the contents of your",
+        "§bMana Bank ✺§7 into usable Mana instead of healing.",
+        "§7 ",
+        "§cUnlocking will block:",
+        "§c- §7Sunshower",
+        "§c- §7Larger Heal",
+        "§c- §7Orphion\u0027s Pulse",
+        "",
+        "§5§lArcanist Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Required Ability: §fHeal",
+        "§c✖ §7Min Arcanist Archetype: §c0§7/2"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 57
+      },
+      "cost": 2,
+      "blocks": [
+        "Sunshower",
+        "Larger Heal",
+        "Orphion\u0027s Pulse"
+      ],
+      "requiredAbility": "Heal",
+      "requiredArchetype": {
+        "name": "Arcanist",
+        "required": 2
+      },
+      "archetype": "Arcanist",
+      "location": {
+        "page": 4,
+        "row": 1,
+        "col": 7
+      },
+      "connections": [
+        "Burning Sigil",
+        "Stronger Meteor",
+        "Sentient Snake"
+      ]
+    },
+    {
+      "name": "Cheaper Heal",
+      "formattedName": "§f§lCheaper Heal",
+      "description": [
+        "§7 ",
+        "§7Reduce the mana cost of §nHeal§r§7.",
+        "§7 ",
+        "§b✺ §7Mana Cost: §f-5",
+        "§7 ",
+        "§a✔ §7Ability Points: §f1"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": null,
+      "location": {
+        "page": 4,
+        "row": 3,
+        "col": 1
+      },
+      "connections": [
+        "Windsweeper",
+        "Eye Piercer",
+        "Purification",
+        "Breathless"
+      ]
+    },
+    {
+      "name": "Purification",
+      "formattedName": "§d§lPurification",
+      "description": [
+        "§7 ",
+        "§7§nHeal§r§7 and §nArcane Transfer",
+        "§7will purify you of all negative",
+        "§7effects and fire. (3s Cooldown)",
+        "§7 ",
+        "§c✖ §7Ability Points: §f2"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 53
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": null,
+      "location": {
+        "page": 4,
+        "row": 3,
+        "col": 4
+      },
+      "connections": [
+        "Ophanim",
+        "Breathless",
+        "Cheaper Heal",
+        "Larger Heal",
+        "Sentient Snake",
+        "Larger Heal",
+        "Cheaper Teleport"
+      ]
+    },
+    {
+      "name": "Sentient Snake",
+      "formattedName": "§6§lSentient Snake",
+      "description": [
+        "§7 ",
+        "§7§nIce Snake§r§7 will follow the direction",
+        "§7you\u0027re facing, allowing you to control it.",
+        "§7 ",
+        "§c⚔ §7Total Damage: §f+30% §8(of your DPS)",
+        "§7  ÀÀÀÀ§8(§6✢ §8Damage: +20%)",
+        "§7  ÀÀÀÀ§8(§b❉ §8Water: +10%)",
+        "§7 ",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Required Ability: §fIce Snake"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 49
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": "Ice Snake",
+      "requiredArchetype": null,
+      "archetype": null,
+      "location": {
+        "page": 4,
+        "row": 3,
+        "col": 6
+      },
+      "connections": [
+        "Arcane Transfer",
+        "Larger Heal",
+        "Purification",
+        "Pyrokinesis",
+        "Larger Mana Bank"
+      ]
+    },
+    {
+      "name": "Eye Piercer",
+      "formattedName": "§6§lEye Piercer",
+      "description": [
+        "§7 ",
+        "§7§nTeleport§r§7 will blind enemies, confusing",
+        "§7them for a brief period of time.",
+        "",
+        "§e🛡 §7Effect: §fBlindness (§c⬣§f) to Enemies",
+        "§d⌛À §7Duration: §f1s",
+        "§7 ",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Required Ability: §fTeleport"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 49
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": "Teleport",
+      "requiredArchetype": null,
+      "archetype": null,
+      "location": {
+        "page": 4,
+        "row": 4,
+        "col": 0
+      },
+      "connections": [
+        "Cheaper Heal",
+        "Cheaper Ice Snake"
+      ]
+    },
+    {
+      "name": "Breathless",
+      "formattedName": "§6§lBreathless",
+      "description": [
+        "§7 ",
+        "§7§nMeteor§r§7 and §nOphanim§r§7 will deal additional damage",
+        "§7to enemies for every §bWinded ≈§7 they have.",
+        "§7 ",
+        "§c⚔ §7Total Damage: §f30% §8(of your DPS, per Winded)",
+        "§7  ÀÀÀÀ§8(§6✢ §8Damage: 21%)",
+        "§7  ÀÀÀÀ§8(§2✤ §8Earth: 9%)",
+        "§7 ",
+        "§c⚔ §7Total Damage: §f10% §8(of your DPS, with §nThunderstorm§r§8, per Winded)",
+        "§7  ÀÀÀÀ§8(§6✢ §8Damage: 7%)",
+        "§7  ÀÀÀÀ§8(§2✤ §8Earth: 3%)",
+        "§7 ",
+        "§c⚔ §7Total Damage: §f4% §8(of your DPS, with §nOphanim§r§8, per Winded)",
+        "§7  ÀÀÀÀ§8(§6✢ §8Damage: 3%)",
+        "§7  ÀÀÀÀ§8(§2✤ §8Earth: 1%)",
+        "§7 ",
+        "§b§lRiftwalker Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Required Ability: §fWindsweeper"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 49
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": "Windsweeper",
+      "requiredArchetype": null,
+      "archetype": "Riftwalker",
+      "location": {
+        "page": 4,
+        "row": 4,
+        "col": 2
+      },
+      "connections": [
+        "Purification",
+        "Cheaper Heal"
+      ]
+    },
+    {
+      "name": "Larger Heal",
+      "formattedName": "§f§lLarger Heal",
+      "description": [
+        "§7 ",
+        "§7Increase your §nHeal§r§7\u0027s range.",
+        "§7 ",
+        "§2➼ §7Range: §f+2 Blocks",
+        "§7 ",
+        "§cUnlocking will block:",
+        "§c- §7Arcane Transfer",
+        "",
+        "§f§lLight Bender Archetype",
+        "",
+        "§a✔ §7Ability Points: §f1",
+        "§c✖ §7Required Ability: §fHeal"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [
+        "Arcane Transfer"
+      ],
+      "requiredAbility": "Heal",
+      "requiredArchetype": null,
+      "archetype": "Light Bender",
+      "location": {
+        "page": 4,
+        "row": 4,
+        "col": 5
+      },
+      "connections": [
+        "Sentient Snake",
+        "Purification",
+        "Purification",
+        "Cheaper Teleport"
+      ]
+    },
+    {
+      "name": "Larger Mana Bank",
+      "formattedName": "§f§lLarger Mana Bank",
+      "description": [
+        "§7 ",
+        "§7Increase your maximum",
+        "§bMana Bank ✺§7 by §f+30§7.",
+        "§7 ",
+        "§5§lArcanist Archetype",
+        "",
+        "§a✔ §7Ability Points: §f1",
+        "§c✖ §7Required Ability: §fArcane Transfer"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": "Arcane Transfer",
+      "requiredArchetype": null,
+      "archetype": "Arcanist",
+      "location": {
+        "page": 4,
+        "row": 4,
+        "col": 8
+      },
+      "connections": [
+        "Pyrokinesis",
+        "Sentient Snake"
+      ]
+    },
+    {
+      "name": "Cheaper Ice Snake",
+      "formattedName": "§f§lCheaper Ice Snake",
+      "description": [
+        "§7 ",
+        "§7Reduce the mana cost of §nIce Snake§r§7.",
+        "§7 ",
+        "§b✺ §7Mana Cost: §f-5",
+        "§7 ",
+        "§a✔ §7Ability Points: §f1"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": null,
+      "location": {
+        "page": 5,
+        "row": 1,
+        "col": 0
+      },
+      "connections": [
+        "Eye Piercer",
+        "Fortitude",
+        "Blink",
+        "Transonic Warp",
+        "Blink"
+      ]
+    },
+    {
+      "name": "Fortitude",
+      "formattedName": "§d§lFortitude",
+      "description": [
+        "§7 ",
+        "§7Healing §f120% §7of your max health",
+        "§7within §f10s§7 will apply a damage bonus",
+        "§7to every player you\u0027ve healed. (15s Cooldown)",
+        "§7 ",
+        "§e🛡 §7Effect: §f60% §7Damage Bonus (§a⚔§7) to Allies",
+        "§d⌛À §7Duration: §f5s",
+        "§7 ",
+        "§f§lLight Bender Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Min Light Bender Archetype: §c0§7/2"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 53
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": {
+        "name": "Light Bender",
+        "required": 2
+      },
+      "archetype": "Light Bender",
+      "location": {
+        "page": 5,
+        "row": 1,
+        "col": 2
+      },
+      "connections": [
+        "Cheaper Ice Snake",
+        "Blink",
+        "Cheaper Teleport",
+        "Healthier Ophanim I"
+      ]
+    },
+    {
+      "name": "Cheaper Teleport",
+      "formattedName": "§f§lCheaper Teleport",
+      "description": [
+        "§7 ",
+        "§7Reduce the mana cost of §nTeleport§r§7.",
+        "§7 ",
+        "§b✺ §7Mana Cost: §f-5",
+        "§7 ",
+        "§a✔ §7Ability Points: §f1"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": null,
+      "location": {
+        "page": 5,
+        "row": 1,
+        "col": 4
+      },
+      "connections": [
+        "Purification",
+        "Larger Heal",
+        "Healthier Ophanim I",
+        "Fortitude",
+        "Snake Nest"
+      ]
+    },
+    {
+      "name": "Pyrokinesis",
+      "formattedName": "§d§lPyrokinesis",
+      "description": [
+        "§7 ",
+        "§7When your §bMana Bank ✺§7 reaches §f30§7,",
+        "§7your §nMain Attack§r§7 will explode",
+        "§7upon impact with enemies.",
+        "§8(Damage is dealt as §nMain Attack Damage§r§8)",
+        "§7 ",
+        "§c⚔ §7Total Damage: §f150%",
+        "§7  ÀÀÀÀ§8(§6✢ §8Damage: 150%)",
+        "§3☀ §7Area of Effect: §f4 Blocks §7(Circle-Shaped)",
+        "§7 ",
+        "§5§lArcanist Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Min Arcanist Archetype: §c0§7/4"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 53
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": {
+        "name": "Arcanist",
+        "required": 4
+      },
+      "archetype": "Arcanist",
+      "location": {
+        "page": 5,
+        "row": 1,
+        "col": 7
+      },
+      "connections": [
+        "Sentient Snake",
+        "Larger Mana Bank",
+        "Seance"
+      ]
+    },
+    {
+      "name": "Blink",
+      "formattedName": "§6§lBlink",
+      "description": [
+        "§7 ",
+        "§7§nTeleport§r§7 will trigger §f2 §7times",
+        "§7in quick succession.",
+        "§7 ",
+        "§2➼ §7Range: §c-4 Blocks",
+        "§7 ",
+        "§b§lRiftwalker Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Required Ability: §fTeleport"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 49
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": "Teleport",
+      "requiredArchetype": null,
+      "archetype": "Riftwalker",
+      "location": {
+        "page": 5,
+        "row": 2,
+        "col": 1
+      },
+      "connections": [
+        "Fortitude",
+        "Cheaper Ice Snake",
+        "Transonic Warp",
+        "Cheaper Ice Snake"
+      ]
+    },
+    {
+      "name": "Healthier Ophanim I",
+      "formattedName": "§f§lHealthier Ophanim I",
+      "description": [
+        "§7 ",
+        "§7Increases the health of §nOphanim§r§7\u0027s",
+        "§7orbs by §f+800§7 and reduces the",
+        "§7damage they take when attacking by §f-5%§7.",
+        "§7 ",
+        "§f§lLight Bender Archetype",
+        "",
+        "§a✔ §7Ability Points: §f1",
+        "§c✖ §7Required Ability: §fOphanim"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": "Ophanim",
+      "requiredArchetype": null,
+      "archetype": "Light Bender",
+      "location": {
+        "page": 5,
+        "row": 3,
+        "col": 3
+      },
+      "connections": [
+        "Cheaper Teleport",
+        "Fortitude",
+        "Fluid Healing",
+        "Orphion\u0027s Pulse",
+        "Snake Nest",
+        "Orphion\u0027s Pulse",
+        "Fluid Healing"
+      ]
+    },
+    {
+      "name": "Snake Nest",
+      "formattedName": "§6§lSnake Nest",
+      "description": [
+        "§7 ",
+        "§7§nIce Snake§r§7 will summon §f3§7 snakes.",
+        "§7 ",
+        "§c⚔ §7Total Damage: §f+50% §8(of your DPS)",
+        "§7  ÀÀÀÀ§8(§6✢ §8Damage: +35%)",
+        "§7  ÀÀÀÀ§8(§b❉ §8Water: +15%)",
+        "§7 ",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Required Ability: §fIce Snake"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 49
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": "Ice Snake",
+      "requiredArchetype": null,
+      "archetype": null,
+      "location": {
+        "page": 5,
+        "row": 3,
+        "col": 5
+      },
+      "connections": [
+        "Cheaper Teleport",
+        "Orphion\u0027s Pulse",
+        "Healthier Ophanim I",
+        "Arcane Restoration",
+        "Seance",
+        "Orphion\u0027s Pulse",
+        "Stronger Ophanim",
+        "Arcane Restoration"
+      ]
+    },
+    {
+      "name": "Seance",
+      "formattedName": "§f§lSeance",
+      "description": [
+        "§7 ",
+        "§7For every §f5/3s§7 Lifesteal you have",
+        "§7from items, gain §f+1%§7 Spell Damage (Max 50%)",
+        "§7 ",
+        "§a✔ §7Ability Points: §f1"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": null,
+      "location": {
+        "page": 5,
+        "row": 3,
+        "col": 7
+      },
+      "connections": [
+        "Pyrokinesis",
+        "Arcane Restoration",
+        "Snake Nest",
+        "Larger Mana Bank"
+      ]
+    },
+    {
+      "name": "Transonic Warp",
+      "formattedName": "§d§lTransonic Warp",
+      "description": [
+        "§7 ",
+        "§7§nTeleport§r§7 will deal additional damage to",
+        "§7enemies for every §bWinded ≈§7 they have.",
+        "§7 ",
+        "§c⚔ §7Total Damage: §f16% §8(of your DPS, per Winded)",
+        "§7  ÀÀÀÀ§8(§6✢ §8Damage: 10%)",
+        "§7  ÀÀÀÀ§8(§e✦ §8Thunder: 3%)",
+        "§7  ÀÀÀÀ§8(§f❋ §8Air: 3%)",
+        "§7 ",
+        "§b§lRiftwalker Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Required Ability: §fWindsweeper",
+        "§c✖ §7Min Riftwalker Archetype: §c0§7/5"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 53
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": "Windsweeper",
+      "requiredArchetype": {
+        "name": "Riftwalker",
+        "required": 5
+      },
+      "archetype": "Riftwalker",
+      "location": {
+        "page": 5,
+        "row": 4,
+        "col": 0
+      },
+      "connections": [
+        "Blink",
+        "Cheaper Ice Snake",
+        "Diffusion",
+        "Fluid Healing"
+      ]
+    },
+    {
+      "name": "Fluid Healing",
+      "formattedName": "§6§lFluid Healing",
+      "description": [
+        "§7 ",
+        "§7For every §f1% §b❉ §7Water Damage Bonus",
+        "§7you have from items, buff §nHeal§r§7\u0027s",
+        "§7healing power by §f+0.3%§7.",
+        "§7 ",
+        "§f§lLight Bender Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 49
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": "Light Bender",
+      "location": {
+        "page": 5,
+        "row": 4,
+        "col": 2
+      },
+      "connections": [
+        "Healthier Ophanim I",
+        "Healthier Ophanim I",
+        "Orphion\u0027s Pulse",
+        "Transonic Warp",
+        "Diffusion"
+      ]
+    },
+    {
+      "name": "Orphion\u0027s Pulse",
+      "formattedName": "§d§lOrphion\u0027s Pulse",
+      "description": [
+        "§7 ",
+        "§7§nHeal§r§7 will trigger §f2§7 more times,",
+        "§7increasing your overall healing.",
+        "§7 ",
+        "§c❤ §7Pulse Self Heal: §f20% §8(of your max health)",
+        "§7 ",
+        "§cUnlocking will block:",
+        "§c- §7Arcane Transfer",
+        "",
+        "§f§lLight Bender Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Required Ability: §fHeal",
+        "§c✖ §7Min Light Bender Archetype: §c0§7/5"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 53
+      },
+      "cost": 2,
+      "blocks": [
+        "Arcane Transfer"
+      ],
+      "requiredAbility": "Heal",
+      "requiredArchetype": {
+        "name": "Light Bender",
+        "required": 5
+      },
+      "archetype": "Light Bender",
+      "location": {
+        "page": 5,
+        "row": 4,
+        "col": 4
+      },
+      "connections": [
+        "Snake Nest",
+        "Healthier Ophanim I",
+        "Healthier Ophanim I",
+        "Fluid Healing",
+        "Snake Nest",
+        "Stronger Ophanim",
+        "Arcane Restoration",
+        "Lightweaver",
+        "Stronger Ophanim"
+      ]
+    },
+    {
+      "name": "Arcane Restoration",
+      "formattedName": "§6§lArcane Restoration",
+      "description": [
+        "§7 ",
+        "§7§nPyrokinesis§r§7 will add §f+1§7 Mana every",
+        "§f1s§7 to your §bMana Bank ✺§7 when",
+        "§7hitting an aggressive enemy.",
+        "§7 ",
+        "§d⌛À §7Duration: §f4s",
+        "§7 ",
+        "§5§lArcanist Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Required Ability: §fPyrokinesis"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 49
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": "Pyrokinesis",
+      "requiredArchetype": null,
+      "archetype": "Arcanist",
+      "location": {
+        "page": 5,
+        "row": 4,
+        "col": 6
+      },
+      "connections": [
+        "Seance",
+        "Snake Nest",
+        "Orphion\u0027s Pulse",
+        "Snake Nest",
+        "Stronger Ophanim"
+      ]
+    },
+    {
+      "name": "Stronger Ophanim",
+      "formattedName": "§f§lStronger Ophanim",
+      "description": [
+        "§7 ",
+        "§7Increase the damage of §nOphanim§r§7.",
+        "§7 ",
+        "§c⚔ §7Total Damage: §f+30% §8(of your DPS)",
+        "§7  ÀÀÀÀ§8(§6✢ §8Damage: +20%)",
+        "§7  ÀÀÀÀ§8(§f❋ §8Air: +10%)",
+        "§7 ",
+        "§a✔ §7Ability Points: §f1",
+        "§c✖ §7Required Ability: §fOphanim"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": "Ophanim",
+      "requiredArchetype": null,
+      "archetype": null,
+      "location": {
+        "page": 5,
+        "row": 5,
+        "col": 5
+      },
+      "connections": [
+        "Orphion\u0027s Pulse",
+        "Snake Nest",
+        "Arcane Restoration",
+        "Lightweaver",
+        "Orphion\u0027s Pulse"
+      ]
+    },
+    {
+      "name": "Diffusion",
+      "formattedName": "§c§lDiffusion",
+      "description": [
+        "§7 ",
+        "§7If you kill an enemy with §bWinded ≈",
+        "§7on them, the leftover §bWinded ≈§7 will",
+        "§7spread to other nearby foes. (Max 10)",
+        "§7 ",
+        "§2➼ §7Range: §f6 Blocks",
+        "§7 ",
+        "§b§lRiftwalker Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Min Riftwalker Archetype: §c0§7/6"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 57
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": {
+        "name": "Riftwalker",
+        "required": 6
+      },
+      "archetype": "Riftwalker",
+      "location": {
+        "page": 6,
+        "row": 1,
+        "col": 1
+      },
+      "connections": [
+        "Transonic Warp",
+        "Fluid Healing",
+        "More Winded",
+        "Cheaper Ice Snake",
+        "More Winded"
+      ]
+    },
+    {
+      "name": "Lightweaver",
+      "formattedName": "§c§lLightweaver",
+      "description": [
+        "§7 ",
+        "§7Healing §f50%§7 of your max health within",
+        "§f10s §7will summon a rotating orb that",
+        "§7damages enemies upon contact. (Max 3 orbs)",
+        "",
+        "§c⚔ §7Total Damage: §f200% §8(of your DPS)",
+        "§7  ÀÀÀÀ§8(§6✢ §8Damage: 150%)",
+        "§7  ÀÀÀÀ§8(§c✹ §8Fire: 50%)",
+        "§2➼ §7Range: §f7 Blocks",
+        "§3☀ §7Area of Effect: §f1 Block §7(Circle-Shaped)",
+        "§d⌛À §7Duration: §f20s",
+        "§7 ",
+        "§f§lLight Bender Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Min Light Bender Archetype: §c0§7/7"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 57
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": {
+        "name": "Light Bender",
+        "required": 7
+      },
+      "archetype": "Light Bender",
+      "location": {
+        "page": 6,
+        "row": 1,
+        "col": 4
+      },
+      "connections": [
+        "Orphion\u0027s Pulse",
+        "Stronger Ophanim",
+        "Arcane Speed",
+        "Cheaper Meteor"
+      ]
+    },
+    {
+      "name": "Arcane Speed",
+      "formattedName": "§6§lArcane Speed",
+      "description": [
+        "§7 ",
+        "§7You gain a §f+80% §7walk speed buff",
+        "§7for §f4s§7 after casting §nHeal§r§7 or",
+        "§7§nArcane Transfer§r§7. (8s Cooldown)",
+        "§7 ",
+        "§5§lArcanist Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Required Ability: §fHeal"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 49
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": "Heal",
+      "requiredArchetype": null,
+      "archetype": "Arcanist",
+      "location": {
+        "page": 6,
+        "row": 1,
+        "col": 6
+      },
+      "connections": [
+        "Cheaper Meteor",
+        "Lightweaver",
+        "Psychokinesis",
+        "Larger Mana Bank"
+      ]
+    },
+    {
+      "name": "Larger Mana Bank",
+      "formattedName": "§f§lLarger Mana Bank",
+      "description": [
+        "§7 ",
+        "§7Increase your maximum",
+        "§bMana Bank ✺§7 by §f+30§7.",
+        "§7 ",
+        "§5§lArcanist Archetype",
+        "",
+        "§a✔ §7Ability Points: §f1",
+        "§c✖ §7Required Ability: §fArcane Transfer"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": "Arcane Transfer",
+      "requiredArchetype": null,
+      "archetype": "Arcanist",
+      "location": {
+        "page": 6,
+        "row": 1,
+        "col": 8
+      },
+      "connections": [
+        "Seance",
+        "Psychokinesis",
+        "Arcane Speed",
+        "Chaos Explosion",
+        "Psychokinesis"
+      ]
+    },
+    {
+      "name": "More Winded",
+      "formattedName": "§f§lMore Winded",
+      "description": [
+        "§7 ",
+        "§7Increase your maximum §bWinded ≈§7 by §f+10§7.",
+        "§7 ",
+        "§b§lRiftwalker Archetype",
+        "",
+        "§a✔ §7Ability Points: §f1",
+        "§c✖ §7Required Ability: §fWindsweeper"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": "Windsweeper",
+      "requiredArchetype": null,
+      "archetype": "Riftwalker",
+      "location": {
+        "page": 6,
+        "row": 2,
+        "col": 0
+      },
+      "connections": [
+        "Diffusion",
+        "Cheaper Ice Snake",
+        "Diffusion",
+        "Time Dilation",
+        "Cheaper Ice Snake"
+      ]
+    },
+    {
+      "name": "Psychokinesis",
+      "formattedName": "§6§lPsychokinesis",
+      "description": [
+        "§7 ",
+        "§7Shoots §nMeteor§r§7 from you as a slow projectile",
+        "",
+        "§2➼ §7Range: §f+20 Blocks",
+        "§7 ",
+        "§cUnlocking will block:",
+        "§c- §7Ophanim",
+        "",
+        "§5§lArcanist Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Required Ability: §fMeteor",
+        "§c✖ §7Min Arcanist Archetype: §c0§7/5"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 49
+      },
+      "cost": 2,
+      "blocks": [
+        "Ophanim"
+      ],
+      "requiredAbility": "Meteor",
+      "requiredArchetype": {
+        "name": "Arcanist",
+        "required": 5
+      },
+      "archetype": "Arcanist",
+      "location": {
+        "page": 6,
+        "row": 2,
+        "col": 7
+      },
+      "connections": [
+        "Arcane Speed",
+        "Larger Mana Bank",
+        "Chaos Explosion",
+        "Larger Mana Bank",
+        "Arctic Snake",
+        "Chaos Explosion"
+      ]
+    },
+    {
+      "name": "Cheaper Ice Snake",
+      "formattedName": "§f§lCheaper Ice Snake",
+      "description": [
+        "§7 ",
+        "§7Reduce the mana cost of §nIce Snake§r§7.",
+        "§7 ",
+        "§b✺ §7Mana Cost: §f-5",
+        "§7 ",
+        "§a✔ §7Ability Points: §f1"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": null,
+      "location": {
+        "page": 6,
+        "row": 3,
+        "col": 1
+      },
+      "connections": [
+        "Diffusion",
+        "More Winded",
+        "More Winded",
+        "Time Dilation",
+        "Gust",
+        "Explosive Entrance"
+      ]
+    },
+    {
+      "name": "Explosive Entrance",
+      "formattedName": "§6§lExplosive Entrance",
+      "description": [
+        "§7 ",
+        "§7Deal damage in an area on the",
+        "§7location you §nTeleport§r§7 to.",
+        "§7 ",
+        "§c⚔ §7Total Damage: §f80% §8(of your DPS)",
+        "§7  ÀÀÀÀ§8(§6✢ §8Damage: 50%)",
+        "§7  ÀÀÀÀ§8(§c✹ §8Fire: 30%)",
+        "§3☀ §7Area of Effect: §f3 Blocks §7(Circle-Shaped)",
+        "§7 ",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Required Ability: §fTeleport"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 49
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": "Teleport",
+      "requiredArchetype": null,
+      "archetype": null,
+      "location": {
+        "page": 6,
+        "row": 3,
+        "col": 3
+      },
+      "connections": [
+        "Gust",
+        "Cheaper Ice Snake",
+        "Cheaper Meteor",
+        "Better Ophanim",
+        "Better Ophanim",
+        "Stronger Sunshower",
+        "Gust"
+      ]
+    },
+    {
+      "name": "Cheaper Meteor",
+      "formattedName": "§f§lCheaper Meteor",
+      "description": [
+        "§7 ",
+        "§7Reduce the mana cost of §nMeteor§r§7.",
+        "§7 ",
+        "§b✺ §7Mana Cost: §f-5",
+        "§7 ",
+        "§a✔ §7Ability Points: §f1"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": null,
+      "location": {
+        "page": 6,
+        "row": 3,
+        "col": 5
+      },
+      "connections": [
+        "Arcane Speed",
+        "Lightweaver",
+        "Explosive Entrance",
+        "Better Ophanim"
+      ]
+    },
+    {
+      "name": "Chaos Explosion",
+      "formattedName": "§c§lChaos Explosion",
+      "description": [
+        "§7 ",
+        "§7When your §bMana Bank ✺§7 reaches §f120§7,",
+        "§7casting §nArcane Transfer§r§7 will rapidly unleash",
+        "§7the last §f3 §7spells you\u0027ve cast in order.",
+        "§7 ",
+        "§5§lArcanist Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Min Arcanist Archetype: §c0§7/8"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 57
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": {
+        "name": "Arcanist",
+        "required": 8
+      },
+      "archetype": "Arcanist",
+      "location": {
+        "page": 6,
+        "row": 3,
+        "col": 8
+      },
+      "connections": [
+        "Larger Mana Bank",
+        "Psychokinesis",
+        "Arctic Snake",
+        "Psychokinesis"
+      ]
+    },
+    {
+      "name": "Time Dilation",
+      "formattedName": "§d§lTime Dilation",
+      "description": [
+        "§7 ",
+        "§7Creates an area of effect when sprinting",
+        "§7that increases the walk speed of all",
+        "§7allies the longer they run in it.",
+        "§8(Step out or stop running to cancel)",
+        "§7 ",
+        "§e🛡 §7Effect: §f+10% §7Speed Bonus (§3➡§7) to Allies §8(per 1s, +300% Max)",
+        "§3☀ §7Area of Effect: §f2 Blocks §7(Circle-Shaped)",
+        "",
+        "§b§lRiftwalker Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Min Riftwalker Archetype: §c0§7/5"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 53
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": {
+        "name": "Riftwalker",
+        "required": 5
+      },
+      "archetype": "Riftwalker",
+      "location": {
+        "page": 6,
+        "row": 4,
+        "col": 0
+      },
+      "connections": [
+        "More Winded",
+        "Cheaper Ice Snake",
+        "More Winded"
+      ]
+    },
+    {
+      "name": "Gust",
+      "formattedName": "§6§lGust",
+      "description": [
+        "§7 ",
+        "§7§nIce Snake§r§7 will add §b+1 Winded ≈",
+        "§7to enemies and deal more damage.",
+        "",
+        "§c⚔ §7Total Damage: §f+40% §8(of your DPS)",
+        "§7  ÀÀÀÀ§8(§6✢ §8Damage: +20%)",
+        "§7  ÀÀÀÀ§8(§f❋ §8Air: +20%)",
+        "§7 ",
+        "§b§lRiftwalker Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Required Ability: §fWindsweeper",
+        "§c✖ §7Min Riftwalker Archetype: §c0§7/7"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 49
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": "Windsweeper",
+      "requiredArchetype": {
+        "name": "Riftwalker",
+        "required": 7
+      },
+      "archetype": "Riftwalker",
+      "location": {
+        "page": 6,
+        "row": 4,
+        "col": 2
+      },
+      "connections": [
+        "Explosive Entrance",
+        "Cheaper Ice Snake",
+        "Better Ophanim",
+        "Explosive Entrance",
+        "Stronger Sunshower"
+      ]
+    },
+    {
+      "name": "Better Ophanim",
+      "formattedName": "§f§lBetter Ophanim",
+      "description": [
+        "§7 ",
+        "§7Increase your maximum orbs",
+        "§7from §nOphanim§r§7 by §f+1§7.",
+        "§7 ",
+        "§f§lLight Bender Archetype",
+        "",
+        "§a✔ §7Ability Points: §f1",
+        "§c✖ §7Required Ability: §fOphanim"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": "Ophanim",
+      "requiredArchetype": null,
+      "archetype": "Light Bender",
+      "location": {
+        "page": 6,
+        "row": 4,
+        "col": 4
+      },
+      "connections": [
+        "Explosive Entrance",
+        "Cheaper Meteor",
+        "Explosive Entrance",
+        "Stronger Sunshower",
+        "Gust",
+        "Stronger Sunshower",
+        "Healthier Ophanim II"
+      ]
+    },
+    {
+      "name": "Arctic Snake",
+      "formattedName": "§6§lArctic Snake",
+      "description": [
+        "§7 ",
+        "§7§nIce Snake§r§7 will freeze enemies for §f2s§7.",
+        "",
+        "§e🛡 §7Effect: §f100% §7Slowness (§c⬤§7) to Enemies",
+        "§d⌛À §7Duration: §f2s",
+        "§7 ",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Required Ability: §fIce Snake"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 49
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": "Ice Snake",
+      "requiredArchetype": null,
+      "archetype": null,
+      "location": {
+        "page": 6,
+        "row": 4,
+        "col": 7
+      },
+      "connections": [
+        "Chaos Explosion",
+        "Psychokinesis",
+        "Arcane Power",
+        "Larger Mana Bank",
+        "Arcane Power"
+      ]
+    },
+    {
+      "name": "Stronger Sunshower",
+      "formattedName": "§f§lStronger Sunshower",
+      "description": [
+        "§7 ",
+        "§7Increase the damage of §nSunshower§r§7.",
+        "§7 ",
+        "§c⚔ §7Total Damage: §f+80% §8(of your DPS)",
+        "§7  ÀÀÀÀ§8(§6✢ §8Damage: +50%)",
+        "§7  ÀÀÀÀ§8(§b❉ §8Water: +20%)",
+        "§7  ÀÀÀÀ§8(§c✹ §8Fire: +10%)",
+        "§7 ",
+        "§f§lLight Bender Archetype",
+        "",
+        "§a✔ §7Ability Points: §f1",
+        "§c✖ §7Required Ability: §fSunshower"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": "Sunshower",
+      "requiredArchetype": null,
+      "archetype": "Light Bender",
+      "location": {
+        "page": 6,
+        "row": 5,
+        "col": 3
+      },
+      "connections": [
+        "Better Ophanim",
+        "Explosive Entrance",
+        "Gust",
+        "Better Ophanim",
+        "Healthier Ophanim II"
+      ]
+    },
+    {
+      "name": "Arcane Power",
+      "formattedName": "§f§lArcane Power",
+      "description": [
+        "§7 ",
+        "§7§nMeteor§r§7 and §nIce Snake§r§7 will add §f+2§7 Mana to your",
+        "§bMana Bank ✺§7 for each aggressive mob you hit.",
+        "§7 ",
+        "§5§lArcanist Archetype",
+        "",
+        "§a✔ §7Ability Points: §f1",
+        "§c✖ §7Required Ability: §fArcane Transfer"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": "Arcane Transfer",
+      "requiredArchetype": null,
+      "archetype": "Arcanist",
+      "location": {
+        "page": 6,
+        "row": 5,
+        "col": 6
+      },
+      "connections": [
+        "Arctic Snake",
+        "Larger Mana Bank",
+        "Arctic Snake"
+      ]
+    },
+    {
+      "name": "More Winded",
+      "formattedName": "§f§lMore Winded",
+      "description": [
+        "§7 ",
+        "§7Increase your maximum §bWinded ≈§7 by §f+10§7.",
+        "§7 ",
+        "§b§lRiftwalker Archetype",
+        "",
+        "§a✔ §7Ability Points: §f1",
+        "§c✖ §7Required Ability: §fWindsweeper"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": "Windsweeper",
+      "requiredArchetype": null,
+      "archetype": "Riftwalker",
+      "location": {
+        "page": 7,
+        "row": 1,
+        "col": 0
+      },
+      "connections": [
+        "Time Dilation",
+        "Devitalize",
+        "Dynamic Faith",
+        "Timelock",
+        "Devitalize"
+      ]
+    },
+    {
+      "name": "Dynamic Faith",
+      "formattedName": "§f§lDynamic Faith",
+      "description": [
+        "§7 ",
+        "§7For every §f2%§7 Sprint you have from",
+        "§7items, gain §f+1% §e✦ §7Thunder Damage (Max 40%)",
+        "§7 ",
+        "§a✔ §7Ability Points: §f1"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": null,
+      "location": {
+        "page": 7,
+        "row": 1,
+        "col": 2
+      },
+      "connections": [
+        "Devitalize",
+        "More Winded",
+        "Divination",
+        "Healthier Ophanim II"
+      ]
+    },
+    {
+      "name": "Healthier Ophanim II",
+      "formattedName": "§f§lHealthier Ophanim II",
+      "description": [
+        "§7 ",
+        "§7Increase the health of your orbs",
+        "§7from §nOphanim§r§7 by §f+3000§7.",
+        "§7 ",
+        "§f§lLight Bender Archetype",
+        "",
+        "§a✔ §7Ability Points: §f1",
+        "§c✖ §7Required Ability: §fHealthier Ophanim I"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": "Healthier Ophanim I",
+      "requiredArchetype": null,
+      "archetype": "Light Bender",
+      "location": {
+        "page": 7,
+        "row": 1,
+        "col": 4
+      },
+      "connections": [
+        "Stronger Sunshower",
+        "Better Ophanim",
+        "Divination",
+        "Dynamic Faith",
+        "Sunflare",
+        "Better Lightweaver",
+        "Sunflare",
+        "Divination"
+      ]
+    },
+    {
+      "name": "Larger Mana Bank",
+      "formattedName": "§f§lLarger Mana Bank",
+      "description": [
+        "§7 ",
+        "§7Increase your maximum",
+        "§bMana Bank ✺§7 by §f+30§7.",
+        "§7 ",
+        "§5§lArcanist Archetype",
+        "",
+        "§a✔ §7Ability Points: §f1",
+        "§c✖ §7Required Ability: §fArcane Transfer"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": "Arcane Transfer",
+      "requiredArchetype": null,
+      "archetype": "Arcanist",
+      "location": {
+        "page": 7,
+        "row": 1,
+        "col": 7
+      },
+      "connections": [
+        "Arcane Power",
+        "Arctic Snake",
+        "Arcane Overflow"
+      ]
+    },
+    {
+      "name": "Devitalize",
+      "formattedName": "§6§lDevitalize",
+      "description": [
+        "§7 ",
+        "§7Enemies will deal §f-0.5%§7 damage",
+        "§7for every §bWinded ≈§7 they have.",
+        "§7 ",
+        "§b§lRiftwalker Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Min Riftwalker Archetype: §c0§7/5"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 49
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": {
+        "name": "Riftwalker",
+        "required": 5
+      },
+      "archetype": "Riftwalker",
+      "location": {
+        "page": 7,
+        "row": 2,
+        "col": 1
+      },
+      "connections": [
+        "More Winded",
+        "Dynamic Faith",
+        "Timelock",
+        "More Winded"
+      ]
+    },
+    {
+      "name": "Divination",
+      "formattedName": "§d§lDivination",
+      "description": [
+        "§7 ",
+        "§7Increases your maximum orbs",
+        "§7from §nOphanim§r§7 by §f+3§7 and",
+        "§7reduces their damage.",
+        "§7 ",
+        "§c⚔ §7Total Damage: §c-30% §8(of your DPS)",
+        "§7  ÀÀÀÀ§8(§6✢ §8Damage: -20%)",
+        "§7  ÀÀÀÀ§8(§b❉ §8Water: -5%)",
+        "§7  ÀÀÀÀ§8(§e✦ §8Thunder: -5%)",
+        "§7 ",
+        "§f§lLight Bender Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Required Ability: §fOphanim"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 53
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": "Ophanim",
+      "requiredArchetype": null,
+      "archetype": "Light Bender",
+      "location": {
+        "page": 7,
+        "row": 2,
+        "col": 3
+      },
+      "connections": [
+        "Dynamic Faith",
+        "Healthier Ophanim II",
+        "Better Lightweaver",
+        "Healthier Ophanim II",
+        "Sunflare"
+      ]
+    },
+    {
+      "name": "Sunflare",
+      "formattedName": "§c§lSunflare",
+      "description": [
+        "§7 ",
+        "§7Healing §f300%§7 of your max health within",
+        "§f10s§7 will make your next §nHeal§r§7 give every",
+        "§7nearby ally a temporary immunity buff. (20s Cooldown)",
+        "§7 ",
+        "§2➼ §7Range: §f12 Blocks",
+        "§e🛡 §7Effect: §f100% §7Resistance Bonus (§a❁§7) to Allies",
+        "§d⌛À §7Duration: §f5s",
+        "",
+        "§f§lLight Bender Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Min Light Bender Archetype: §c0§7/11"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 57
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": {
+        "name": "Light Bender",
+        "required": 11
+      },
+      "archetype": "Light Bender",
+      "location": {
+        "page": 7,
+        "row": 2,
+        "col": 5
+      },
+      "connections": [
+        "Healthier Ophanim II",
+        "Better Lightweaver",
+        "Healthier Ophanim II",
+        "Divination",
+        "Better Lightweaver",
+        "Arcane Overflow",
+        "Manastorm"
+      ]
+    },
+    {
+      "name": "Better Lightweaver",
+      "formattedName": "§f§lBetter Lightweaver",
+      "description": [
+        "§7 ",
+        "§7Increase your Max Orbs",
+        "§7from §nLightweaver§r§7 by §f+2§7.",
+        "§7 ",
+        "§f§lLight Bender Archetype",
+        "",
+        "§a✔ §7Ability Points: §f1",
+        "§c✖ §7Required Ability: §fLightweaver"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": "Lightweaver",
+      "requiredArchetype": null,
+      "archetype": "Light Bender",
+      "location": {
+        "page": 7,
+        "row": 3,
+        "col": 4
+      },
+      "connections": [
+        "Healthier Ophanim II",
+        "Sunflare",
+        "Divination",
+        "Arcane Overflow",
+        "Manastorm",
+        "Sunflare",
+        "Cheaper Heal",
+        "Manastorm"
+      ]
+    },
+    {
+      "name": "Arcane Overflow",
+      "formattedName": "§c§lArcane Overflow",
+      "description": [
+        "§7 ",
+        "§7§nArcane Transfer§r§7 will allow you to overflow",
+        "§7your mana over its maximum limits. (Max 400)",
+        "§7 ",
+        "§5§lArcanist Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Required Ability: §fArcane Transfer",
+        "§c✖ §7Min Arcanist Archetype: §c0§7/12"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 57
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": "Arcane Transfer",
+      "requiredArchetype": {
+        "name": "Arcanist",
+        "required": 12
+      },
+      "archetype": "Arcanist",
+      "location": {
+        "page": 7,
+        "row": 3,
+        "col": 7
+      },
+      "connections": [
+        "Larger Mana Bank",
+        "Better Lightweaver",
+        "Manastorm",
+        "Sunflare",
+        "Memory Recollection"
+      ]
+    },
+    {
+      "name": "Timelock",
+      "formattedName": "§c§lTimelock",
+      "description": [
+        "§7 ",
+        "§7Holding shift and casting §nHeal§r§7 will absorb all §bWinded ≈",
+        "§7on nearby enemies and make you §bTimelocked §3⌚§7.",
+        "",
+        "§7While §bTimelocked §3⌚§7, your mana will not be",
+        "§7depleted and you become immovable from",
+        "§7external forces. All enemies will receive",
+        "§7damage as if they had the amount of §bWinded ≈",
+        "§7you absorbed. (Max 60)",
+        "§7 ",
+        "§2➼ §7Range: §f12 Blocks",
+        "§d⌛À §7Duration: §f+1s §8(per 5 Winded absorbed, Max 6s)",
+        "",
+        "§b§lRiftwalker Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Min Riftwalker Archetype: §c0§7/12"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 57
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": {
+        "name": "Riftwalker",
+        "required": 12
+      },
+      "archetype": "Riftwalker",
+      "location": {
+        "page": 7,
+        "row": 4,
+        "col": 0
+      },
+      "connections": [
+        "More Winded",
+        "Devitalize",
+        "Cheaper Heal"
+      ]
+    },
+    {
+      "name": "Cheaper Heal",
+      "formattedName": "§f§lCheaper Heal",
+      "description": [
+        "§7 ",
+        "§7Reduce the mana cost of §nHeal§r§7.",
+        "§7 ",
+        "§b✺ §7Mana Cost: §f-5",
+        "§7 ",
+        "§a✔ §7Ability Points: §f1"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": null,
+      "location": {
+        "page": 7,
+        "row": 4,
+        "col": 2
+      },
+      "connections": [
+        "Timelock",
+        "Better Lightweaver",
+        "Manastorm"
+      ]
+    },
+    {
+      "name": "Manastorm",
+      "formattedName": "§6§lManastorm",
+      "description": [
+        "§7 ",
+        "§7If you have more than §f100",
+        "§7Mana, casting a spell will give",
+        "§7you §f+10 §7Mana over §f5s§7.",
+        "§7 ",
+        "§5§lArcanist Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Min Arcanist Archetype: §c0§7/4"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 49
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": {
+        "name": "Arcanist",
+        "required": 4
+      },
+      "archetype": "Arcanist",
+      "location": {
+        "page": 7,
+        "row": 4,
+        "col": 5
+      },
+      "connections": [
+        "Better Lightweaver",
+        "Arcane Overflow",
+        "Sunflare",
+        "Cheaper Heal",
+        "Better Lightweaver"
+      ]
+    },
+    {
+      "name": "Memory Recollection",
+      "formattedName": "§f§lMemory Recollection",
+      "description": [
+        "§7 ",
+        "§7§nChaos Explosion§r§7 will cast §f+2 §7spells.",
+        "§7 ",
+        "§a✔ §7Ability Points: §f1",
+        "§c✖ §7Required Ability: §fChaos Explosion"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": "Chaos Explosion",
+      "requiredArchetype": null,
+      "archetype": null,
+      "location": {
+        "page": 7,
+        "row": 4,
+        "col": 8
+      },
+      "connections": [
+        "Arcane Overflow"
+      ]
+    }
+  ]
+}

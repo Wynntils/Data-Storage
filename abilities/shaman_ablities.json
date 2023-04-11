@@ -1,0 +1,2592 @@
+{
+  "nodes": [
+    {
+      "name": "Totem",
+      "formattedName": "§a§lTotem",
+      "description": [
+        "§6Click Combo: §d§lRIGHT-LEFT-RIGHT",
+        "§7 ",
+        "§7Summon a Totem that damages",
+        "§7enemies around it every §f0.4s§7.",
+        "",
+        "§b✺ §7Mana Cost: §f30",
+        "§c⚔ §7Total Damage: §f12% §8(of your DPS)",
+        "§7  ÀÀÀÀ§8(§6✢ §8Damage: 6%)",
+        "§7  ÀÀÀÀ§8(§f❋ §8Air: 6%)",
+        "§d⌛À §7Duration: §f30s",
+        "§3☀ §7Area of Effect: §f8 Blocks §7(Circle-Shaped)",
+        "§7 ",
+        "§a✔ §7Ability Points: §f1"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 74
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": null,
+      "location": {
+        "page": 1,
+        "row": 0,
+        "col": 4
+      },
+      "connections": [
+        "Relik Proficiency I"
+      ]
+    },
+    {
+      "name": "Relik Proficiency I",
+      "formattedName": "§f§lRelik Proficiency I",
+      "description": [
+        "§7 ",
+        "§fDouble§7 your §nMain Attack§r§7\u0027s beam speed and",
+        "§7increase your damage when using a relik.",
+        "§7 ",
+        "§c⚔ §7Main Attack Damage: §f+5%",
+        "§7 ",
+        "§a✔ §7Ability Points: §f1"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": null,
+      "location": {
+        "page": 1,
+        "row": 2,
+        "col": 4
+      },
+      "connections": [
+        "Totem",
+        "Cheaper Totem",
+        "Totemic Smash"
+      ]
+    },
+    {
+      "name": "Cheaper Totem",
+      "formattedName": "§f§lCheaper Totem",
+      "description": [
+        "",
+        "§7Reduce the mana cost of §nTotem§r§7.",
+        "§7 ",
+        "§b✺ §7Mana Cost: §f-10",
+        "§7 ",
+        "§a✔ §7Ability Points: §f1",
+        "§c✖ §7Required Ability: §fTotem"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": "Totem",
+      "requiredArchetype": null,
+      "archetype": null,
+      "location": {
+        "page": 1,
+        "row": 2,
+        "col": 6
+      },
+      "connections": [
+        "Relik Proficiency I"
+      ]
+    },
+    {
+      "name": "Totemic Smash",
+      "formattedName": "§6§lTotemic Smash",
+      "description": [
+        "§7 ",
+        "§7Your §nTotem§r§7 will deal damage where it lands.",
+        "",
+        "§c⚔ §7Total Damage: §f130% §8(of your DPS)",
+        "§7  ÀÀÀÀ§8(§6✢ §8Damage: 100%)",
+        "§7  ÀÀÀÀ§8(§c✹ §8Fire: 30%)",
+        "§3☀ §7Area of Effect: §f3.5 Blocks §7(Circle-Shaped)",
+        "",
+        "§a✔ §7Ability Points: §f1"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 49
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": null,
+      "location": {
+        "page": 1,
+        "row": 4,
+        "col": 4
+      },
+      "connections": [
+        "Relik Proficiency I",
+        "Haul"
+      ]
+    },
+    {
+      "name": "Distant Grasp",
+      "formattedName": "§f§lDistant Grasp",
+      "description": [
+        "§7 ",
+        "§7Reduce your §nMain Attack§r§7\u0027s spread,",
+        "§7and increase its beam speed by §f+33%§7.",
+        "§7 ",
+        "§cUnlocking will block:",
+        "§c- §7Hand of the Shaman",
+        "",
+        "§6§lSummoner Archetype",
+        "",
+        "§a✔ §7Ability Points: §f1"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [
+        "Hand of the Shaman"
+      ],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": "Summoner",
+      "location": {
+        "page": 2,
+        "row": 1,
+        "col": 2
+      },
+      "connections": [
+        "Haul",
+        "Uproot"
+      ]
+    },
+    {
+      "name": "Haul",
+      "formattedName": "§a§lHaul",
+      "description": [
+        "§6Click Combo: §d§lRIGHT-RIGHT-RIGHT",
+        "§7 ",
+        "§7Leap towards your §bTotem§7.",
+        "",
+        "§b✺ §7Mana Cost: §f15",
+        "§7 ",
+        "§a✔ §7Ability Points: §f1"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 73
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": null,
+      "location": {
+        "page": 2,
+        "row": 1,
+        "col": 4
+      },
+      "connections": [
+        "Totemic Smash",
+        "Distant Grasp",
+        "Hand of the Shaman"
+      ]
+    },
+    {
+      "name": "Hand of the Shaman",
+      "formattedName": "§f§lHand of the Shaman",
+      "description": [
+        "§7 ",
+        "§7Your §nMain Attack§r§7 will emit §f+2 §7extra beams.",
+        "§8(Increases your overall damage by +66%)",
+        "§7 ",
+        "§cUnlocking will block:",
+        "§c- §7Distant Grasp",
+        "",
+        "§c§lAcolyte Archetype",
+        "",
+        "§a✔ §7Ability Points: §f1"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [
+        "Distant Grasp"
+      ],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": "Acolyte",
+      "location": {
+        "page": 2,
+        "row": 1,
+        "col": 6
+      },
+      "connections": [
+        "Haul",
+        "Aura"
+      ]
+    },
+    {
+      "name": "Uproot",
+      "formattedName": "§a§lUproot",
+      "description": [
+        "§6Click Combo: §d§lRIGHT-RIGHT-LEFT",
+        "§7 ",
+        "§7Emits a rapid projectile that will",
+        "§7explode and knock enemies away.",
+        "§8(Hold shift to pull instead)",
+        "",
+        "§b✺ §7Mana Cost: §f30",
+        "§c⚔ §7Total Damage: §f130% §8(of your DPS)",
+        "§7  ÀÀÀÀ§8(§6✢ §8Damage: 80%)",
+        "§7  ÀÀÀÀ§8(§2✤ §8Earth: 30%)",
+        "§7  ÀÀÀÀ§8(§e✦ §8Thunder: 20%)",
+        "§2➼ §7Range: §f18 Blocks",
+        "§3☀ §7Area of Effect: §f5 Blocks §7(Circle-Shaped)",
+        "§7 ",
+        "§a✔ §7Ability Points: §f1"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 73
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": null,
+      "location": {
+        "page": 2,
+        "row": 3,
+        "col": 2
+      },
+      "connections": [
+        "Distant Grasp",
+        "Cheaper Haul",
+        "Earth Mastery",
+        "Air Mastery"
+      ]
+    },
+    {
+      "name": "Cheaper Haul",
+      "formattedName": "§f§lCheaper Haul",
+      "description": [
+        "",
+        "§7Reduce the mana cost of §nHaul§r§7.",
+        "§7 ",
+        "§b✺ §7Mana Cost: §f-5",
+        "§7 ",
+        "§a✔ §7Ability Points: §f1",
+        "§c✖ §7Required Ability: §fHaul"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": "Haul",
+      "requiredArchetype": null,
+      "archetype": null,
+      "location": {
+        "page": 2,
+        "row": 3,
+        "col": 4
+      },
+      "connections": [
+        "Uproot",
+        "Aura",
+        "Water Mastery",
+        "Thunder Mastery"
+      ]
+    },
+    {
+      "name": "Aura",
+      "formattedName": "§a§lAura",
+      "description": [
+        "§6Click Combo: §d§lRIGHT-LEFT-LEFT",
+        "§7 ",
+        "§7Radiates an aura from your §nTotem",
+        "§7that damages enemies.",
+        "",
+        "§b✺ §7Mana Cost: §f40",
+        "§c⚔ §7Total Damage: §f180% §8(of your DPS)",
+        "§7  ÀÀÀÀ§8(§6✢ §8Damage: 150%)",
+        "§7  ÀÀÀÀ§8(§b❉ §8Water: 30%)",
+        "§2➼ §7Range: §f16 Blocks",
+        "§7 ",
+        "§a✔ §7Ability Points: §f1"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 73
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": null,
+      "location": {
+        "page": 2,
+        "row": 3,
+        "col": 6
+      },
+      "connections": [
+        "Hand of the Shaman",
+        "Cheaper Haul",
+        "Fire Mastery",
+        "Thunder Mastery"
+      ]
+    },
+    {
+      "name": "Earth Mastery",
+      "formattedName": "§f§lEarth Mastery",
+      "description": [
+        "§7 ",
+        "§7Increase your base damage",
+        "§7from all Earth attacks.",
+        "§7 ",
+        "§2✤ §7Earth Damage: §f+2-4",
+        "§2✤ §7Earth Damage: §f+20%",
+        "§7 ",
+        "§6§lSummoner Archetype",
+        "",
+        "§a✔ §7Ability Points: §f1"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": "Summoner",
+      "location": {
+        "page": 3,
+        "row": 1,
+        "col": 0
+      },
+      "connections": [
+        "Uproot",
+        "Air Mastery",
+        "Nature\u0027s Jolt"
+      ]
+    },
+    {
+      "name": "Air Mastery",
+      "formattedName": "§f§lAir Mastery",
+      "description": [
+        "§7 ",
+        "§7Increase your base damage",
+        "§7from all Air attacks.",
+        "§7 ",
+        "§f❋ §7Air Damage: §f+3-4",
+        "§f❋ §7Air Damage: §f+15%",
+        "§7 ",
+        "§6§lSummoner Archetype",
+        "",
+        "§a✔ §7Ability Points: §f1"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": "Summoner",
+      "location": {
+        "page": 3,
+        "row": 1,
+        "col": 2
+      },
+      "connections": [
+        "Uproot",
+        "Earth Mastery",
+        "Nature\u0027s Jolt",
+        "Thunder Mastery",
+        "Water Mastery"
+      ]
+    },
+    {
+      "name": "Thunder Mastery",
+      "formattedName": "§f§lThunder Mastery",
+      "description": [
+        "§7 ",
+        "§7Increase your base damage",
+        "§7from all Thunder attacks.",
+        "§7 ",
+        "§e✦ §7Thunder Damage: §f+1-8",
+        "§e✦ §7Thunder Damage: §f+10%",
+        "§7 ",
+        "§c§lAcolyte Archetype",
+        "",
+        "§a✔ §7Ability Points: §f1"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": "Acolyte",
+      "location": {
+        "page": 3,
+        "row": 1,
+        "col": 6
+      },
+      "connections": [
+        "Water Mastery",
+        "Cheaper Haul",
+        "Aura",
+        "Air Mastery",
+        "Water Mastery",
+        "Shocking Aura"
+      ]
+    },
+    {
+      "name": "Fire Mastery",
+      "formattedName": "§f§lFire Mastery",
+      "description": [
+        "§7 ",
+        "§7Increase your base damage",
+        "§7from all Fire attacks.",
+        "§7 ",
+        "§c✹ §7Fire Damage: §f+3-5",
+        "§c✹ §7Fire Damage: §f+15%",
+        "§7 ",
+        "§c§lAcolyte Archetype",
+        "",
+        "§a✔ §7Ability Points: §f1"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": "Acolyte",
+      "location": {
+        "page": 3,
+        "row": 1,
+        "col": 8
+      },
+      "connections": [
+        "Aura",
+        "Flaming Tongue"
+      ]
+    },
+    {
+      "name": "Nature\u0027s Jolt",
+      "formattedName": "§6§lNature\u0027s Jolt",
+      "description": [
+        "",
+        "§7Hitting the ground after using §nHaul",
+        "§7will deal damage around you.",
+        "",
+        "§c⚔ §7Total Damage: §f120% §8(of your DPS)",
+        "§7  ÀÀÀÀ§8(§6✢ §8Damage: 90%)",
+        "§7  ÀÀÀÀ§8(§2✤ §8Earth: 30%)",
+        "§3☀ §7Area of Effect: §f3.5 Blocks §7(Circle-Shaped)",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Required Ability: §fHaul"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 49
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": "Haul",
+      "requiredArchetype": null,
+      "archetype": null,
+      "location": {
+        "page": 3,
+        "row": 2,
+        "col": 1
+      },
+      "connections": [
+        "Earth Mastery",
+        "Air Mastery",
+        "Overseer"
+      ]
+    },
+    {
+      "name": "Water Mastery",
+      "formattedName": "§f§lWater Mastery",
+      "description": [
+        "§7 ",
+        "§7Increase your damage",
+        "§7from all Water attacks.",
+        "§7 ",
+        "§b❉ §7Water Damage: §f+2-4",
+        "§b❉ §7Water Damage: §f+15%",
+        "§7 ",
+        "§a§lRitualist Archetype",
+        "",
+        "§a✔ §7Ability Points: §f1"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": "Ritualist",
+      "location": {
+        "page": 3,
+        "row": 2,
+        "col": 4
+      },
+      "connections": [
+        "Cheaper Haul",
+        "Thunder Mastery",
+        "Thunder Mastery",
+        "Air Mastery",
+        "Rain Dance"
+      ]
+    },
+    {
+      "name": "Shocking Aura",
+      "formattedName": "§6§lShocking Aura",
+      "description": [
+        "",
+        "§7§nAura§r§7 will travel faster and",
+        "§7deal additional damage.",
+        "",
+        "§c⚔ §7Total Damage: §f+20% §8(of your DPS)",
+        "§7  ÀÀÀÀ§8(§e✦ §8Thunder: +20%)",
+        "",
+        "§c§lAcolyte Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Required Ability: §fAura"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 49
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": "Aura",
+      "requiredArchetype": null,
+      "archetype": "Acolyte",
+      "location": {
+        "page": 3,
+        "row": 3,
+        "col": 6
+      },
+      "connections": [
+        "Thunder Mastery",
+        "Sacrificial Shrine",
+        "Flaming Tongue"
+      ]
+    },
+    {
+      "name": "Flaming Tongue",
+      "formattedName": "§6§lFlaming Tongue",
+      "description": [
+        "",
+        "§7§nUproot§r§7 becomes lashing flames,",
+        "§7which hit §f3 §7times but will not",
+        "§7explode or knockback enemies.",
+        "",
+        "§c⚔ §7Total Damage: §c-50% §8(of your DPS, per hit)",
+        "§7  ÀÀÀÀ§8(§6✢ §8Damage: -15%)",
+        "§7  ÀÀÀÀ§8(§2✤ §8Earth: -30%)",
+        "§7  ÀÀÀÀ§8(§e✦ §8Thunder: -15%)",
+        "§7  ÀÀÀÀ§8(§c✹ §8Fire: +10%)",
+        "",
+        "§c§lAcolyte Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Required Ability: §fUproot"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 49
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": "Uproot",
+      "requiredArchetype": null,
+      "archetype": "Acolyte",
+      "location": {
+        "page": 3,
+        "row": 3,
+        "col": 8
+      },
+      "connections": [
+        "Fire Mastery",
+        "Sacrificial Shrine",
+        "Shocking Aura"
+      ]
+    },
+    {
+      "name": "Overseer",
+      "formattedName": "§6§lOverseer",
+      "description": [
+        "",
+        "§7Increases §nUproot§r§7\u0027s range and",
+        "§7hitting your §nTotem§r§7 with §nUproot",
+        "§7will reset its duration.",
+        "",
+        "§2➼ §7Range: §f+6 Blocks",
+        "",
+        "§6§lSummoner Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Required Ability: §fUproot"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 49
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": "Uproot",
+      "requiredArchetype": null,
+      "archetype": "Summoner",
+      "location": {
+        "page": 3,
+        "row": 4,
+        "col": 1
+      },
+      "connections": [
+        "Nature\u0027s Jolt",
+        "Puppet Master"
+      ]
+    },
+    {
+      "name": "Rain Dance",
+      "formattedName": "§6§lRain Dance",
+      "description": [
+        "§7 ",
+        "§7While mid-air, your §nTotem§r§7 will",
+        "§7leave a streak of rain that damages",
+        "§7enemies under it every §f0.4s§7.",
+        "",
+        "§c⚔ §7Total Damage: §f60% §8(of your DPS)",
+        "§7  ÀÀÀÀ§8(§6✢ §8Damage: 30%)",
+        "§7  ÀÀÀÀ§8(§b❉ §8Water: 30%)",
+        "§d⌛À §7Duration: §f6s",
+        "§3☀ §7Area of Effect: §f3.5 Blocks §7(Line-Shaped)",
+        "",
+        "§a§lRitualist Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 49
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": "Ritualist",
+      "location": {
+        "page": 3,
+        "row": 4,
+        "col": 4
+      },
+      "connections": [
+        "Water Mastery",
+        "Mask of the Lunatic"
+      ]
+    },
+    {
+      "name": "Puppet Master",
+      "formattedName": "§c§lPuppet Master",
+      "description": [
+        "§7 ",
+        "§7Your §nTotem§r§7 will summon §b1 Puppet",
+        "§7every §f3s§7. (Max 3) They throw knives",
+        "§7at nearby enemies every §f0.5s§7.",
+        "",
+        "§c⚔ §7Total Damage: §f18% §8(of your DPS)",
+        "§7  ÀÀÀÀ§8(§6✢ §8Damage: 12%)",
+        "§7  ÀÀÀÀ§8(§f❋ §8Air: 3%)",
+        "§7  ÀÀÀÀ§8(§2✤ §8Earth: 3%)",
+        "§d⌛À §7Duration: §f30s",
+        "§2➼ §7Range: §f16 Blocks",
+        "§7 ",
+        "§6§lSummoner Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Required Ability: §fTotem",
+        "§c✖ §7Min Summoner Archetype: §c0§7/3"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 57
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": "Totem",
+      "requiredArchetype": {
+        "name": "Summoner",
+        "required": 3
+      },
+      "archetype": "Summoner",
+      "location": {
+        "page": 4,
+        "row": 1,
+        "col": 1
+      },
+      "connections": [
+        "Overseer",
+        "More Puppets"
+      ]
+    },
+    {
+      "name": "Mask of the Lunatic",
+      "formattedName": "§c§lMask of the Lunatic",
+      "description": [
+        "",
+        "§7When casting §nUproot§r§7, instead",
+        "§7wear the §bMask of the Lunatic§7.",
+        "§8(Shift + Uproot to remove it)",
+        "",
+        "§7While wearing this mask, Aura cost is ",
+        "§7decreased and you gain a damage bonus",
+        "§7at the cost of reduced walk speed.",
+        "",
+        "§b✺ §7Mana Cost: §f-30%",
+        "§e🛡 §7Effects: §f+35% §7Damage Bonus to Self",
+        "§7  ÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀ §c-35%§7 Walk Speed to Self",
+        "",
+        "§cUnlocking will block:",
+        "§c- §7Blood Sorrow",
+        "",
+        "§a§lRitualist Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Required Ability: §fUproot",
+        "§c✖ §7Min Ritualist Archetype: §c0§7/2"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 57
+      },
+      "cost": 2,
+      "blocks": [
+        "Blood Sorrow"
+      ],
+      "requiredAbility": "Uproot",
+      "requiredArchetype": {
+        "name": "Ritualist",
+        "required": 2
+      },
+      "archetype": "Ritualist",
+      "location": {
+        "page": 4,
+        "row": 1,
+        "col": 4
+      },
+      "connections": [
+        "Rain Dance",
+        "Cheaper Uproot"
+      ]
+    },
+    {
+      "name": "Sacrificial Shrine",
+      "formattedName": "§c§lSacrificial Shrine",
+      "description": [
+        "",
+        "§7Your §nTotem§r§7 will siphon §f2%§7 of your health",
+        "§7every §f0.4s§7 and transfer it into a §bBlood Pool §4§l⚕§7.",
+        "",
+        "§7§nAura§r§7 will spend §f15§7 points of §bBlood Pool §4§l⚕",
+        "§7to deal §f+35%§7 damage and heal all allies.",
+        "",
+        "§c❤ §7Total Heal: §f15% §8(of your max health)",
+        "",
+        "§cUnlocking will block:",
+        "§c- §7Regeneration",
+        "",
+        "§c§lAcolyte Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Required Ability: §fTotem",
+        "§c✖ §7Min Acolyte Archetype: §c0§7/3"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 57
+      },
+      "cost": 2,
+      "blocks": [
+        "Regeneration"
+      ],
+      "requiredAbility": "Totem",
+      "requiredArchetype": {
+        "name": "Acolyte",
+        "required": 3
+      },
+      "archetype": "Acolyte",
+      "location": {
+        "page": 4,
+        "row": 1,
+        "col": 7
+      },
+      "connections": [
+        "Shocking Aura",
+        "Flaming Tongue",
+        "Rebound"
+      ]
+    },
+    {
+      "name": "More Puppets",
+      "formattedName": "§f§lMore Puppets",
+      "description": [
+        "§7 ",
+        "§7Increase your Max §bPuppets§7 by §f+1§7.",
+        "§7 ",
+        "§6§lSummoner Archetype",
+        "",
+        "§a✔ §7Ability Points: §f1",
+        "§c✖ §7Required Ability: §fPuppet Master"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": "Puppet Master",
+      "requiredArchetype": null,
+      "archetype": "Summoner",
+      "location": {
+        "page": 4,
+        "row": 2,
+        "col": 0
+      },
+      "connections": [
+        "Puppet Master",
+        "Stagnation"
+      ]
+    },
+    {
+      "name": "Cheaper Uproot",
+      "formattedName": "§f§lCheaper Uproot",
+      "description": [
+        "",
+        "§7Reduce the mana cost of §nUproot§r§7.",
+        "§7 ",
+        "§b✺ §7Mana Cost: §f-5",
+        "§7 ",
+        "§a✔ §7Ability Points: §f1",
+        "§c✖ §7Required Ability: §fUproot"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": "Uproot",
+      "requiredArchetype": null,
+      "archetype": null,
+      "location": {
+        "page": 4,
+        "row": 3,
+        "col": 4
+      },
+      "connections": [
+        "Mask of the Lunatic",
+        "Cheaper Aura",
+        "Rebound",
+        "Better Totem",
+        "Hymn of Hate",
+        "Better Totem"
+      ]
+    },
+    {
+      "name": "Rebound",
+      "formattedName": "§d§lRebound",
+      "description": [
+        "",
+        "§7Once §nAura§r§7 reaches its maximum",
+        "§7range, it will bounce back and",
+        "§7deal its effects a second time.",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Required Ability: §fAura"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 53
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": "Aura",
+      "requiredArchetype": null,
+      "archetype": null,
+      "location": {
+        "page": 4,
+        "row": 3,
+        "col": 7
+      },
+      "connections": [
+        "Sacrificial Shrine",
+        "Cheaper Uproot",
+        "Better Totem",
+        "Blood Connection",
+        "Blood Connection",
+        "Larger Blood Pool"
+      ]
+    },
+    {
+      "name": "Stagnation",
+      "formattedName": "§6§lStagnation",
+      "description": [
+        "§7 ",
+        "§7Enemies hit by §nNature\u0027s Jolt",
+        "§7will be slowed down.",
+        "",
+        "§e🛡 §7Effect: §f30% §7Slowness (§c⬤§7) to Enemies",
+        "§d⌛À §7Duration: §f3s",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Required Ability: §fNature\u0027s Jolt"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 49
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": "Nature\u0027s Jolt",
+      "requiredArchetype": null,
+      "archetype": null,
+      "location": {
+        "page": 4,
+        "row": 4,
+        "col": 0
+      },
+      "connections": [
+        "More Puppets",
+        "Exploding Puppets",
+        "Cheaper Aura"
+      ]
+    },
+    {
+      "name": "Cheaper Aura",
+      "formattedName": "§f§lCheaper Aura",
+      "description": [
+        "",
+        "§7Reduce the mana cost of §nAura§r§7.",
+        "§7 ",
+        "§b✺ §7Mana Cost: §f-5",
+        "§7 ",
+        "§a✔ §7Ability Points: §f1",
+        "§c✖ §7Required Ability: §fAura"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": "Aura",
+      "requiredArchetype": null,
+      "archetype": null,
+      "location": {
+        "page": 4,
+        "row": 4,
+        "col": 2
+      },
+      "connections": [
+        "Cheaper Uproot",
+        "Exploding Puppets",
+        "Stagnation"
+      ]
+    },
+    {
+      "name": "Better Totem",
+      "formattedName": "§f§lBetter Totem",
+      "description": [
+        "§7 ",
+        "§7Increase your §nTotem§r§7\u0027s area of effect.",
+        "",
+        "§3☀ §7Area of Effect: §f+4 Blocks §7(Circle-Shaped)",
+        "§7 ",
+        "§a✔ §7Ability Points: §f1",
+        "§c✖ §7Required Ability: §fTotem"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": "Totem",
+      "requiredArchetype": null,
+      "archetype": null,
+      "location": {
+        "page": 4,
+        "row": 4,
+        "col": 5
+      },
+      "connections": [
+        "Cheaper Uproot",
+        "Rebound",
+        "Hymn of Hate",
+        "Cheaper Uproot"
+      ]
+    },
+    {
+      "name": "Blood Connection",
+      "formattedName": "§6§lBlood Connection",
+      "description": [
+        "§7 ",
+        "§7If you are outside of your §nTotem§r§7\u0027s",
+        "§7range, §nHaul§r§7 will teleport you to it.",
+        "",
+        "§c§lAcolyte Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Required Ability: §fHaul"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 49
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": "Haul",
+      "requiredArchetype": null,
+      "archetype": "Acolyte",
+      "location": {
+        "page": 4,
+        "row": 4,
+        "col": 8
+      },
+      "connections": [
+        "Rebound",
+        "Rebound",
+        "Larger Blood Pool"
+      ]
+    },
+    {
+      "name": "Exploding Puppets",
+      "formattedName": "§6§lExploding Puppets",
+      "description": [
+        "",
+        "§7When your §bPuppets§7 have §f3s§7 left,",
+        "§7they will charge towards enemies",
+        "§7at high speed and explode.",
+        "",
+        "§c⚔ §7Total Damage: §f200% §8(of your DPS)",
+        "§7  ÀÀÀÀ§8(§6✢ §8Damage: 100%)",
+        "§7  ÀÀÀÀ§8(§c✹ §8Fire: 100%)",
+        "§3☀ §7Area of Effect: §f3 Blocks §7(Circle-Shaped)",
+        "",
+        "§6§lSummoner Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Required Ability: §fPuppet Master"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 49
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": "Puppet Master",
+      "requiredArchetype": null,
+      "archetype": "Summoner",
+      "location": {
+        "page": 5,
+        "row": 1,
+        "col": 1
+      },
+      "connections": [
+        "Cheaper Aura",
+        "Stagnation",
+        "Bullwhip",
+        "More Puppets"
+      ]
+    },
+    {
+      "name": "Hymn of Hate",
+      "formattedName": "§d§lHymn of Hate",
+      "description": [
+        "",
+        "§7When wearing the §bMask of the Lunatic§7, killing",
+        "§7an enemy with §nAura§r§7 will cast a new §nAura",
+        "§7at its location, dealing §f-50%§7 of its damage.",
+        "",
+        "§a§lRitualist Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Required Ability: §fMask of the Lunatic"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 53
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": "Mask of the Lunatic",
+      "requiredArchetype": null,
+      "archetype": "Ritualist",
+      "location": {
+        "page": 5,
+        "row": 1,
+        "col": 4
+      },
+      "connections": [
+        "Cheaper Uproot",
+        "Better Totem",
+        "Vengeful Spirit",
+        "Mask of the Fanatic",
+        "Larger Blood Pool",
+        "Mask of the Fanatic",
+        "Masquerade"
+      ]
+    },
+    {
+      "name": "Larger Blood Pool",
+      "formattedName": "§f§lLarger Blood Pool",
+      "description": [
+        "§7 ",
+        "§7Increase your maximum §bBlood Pool §4§l⚕ §7by §f+30§7 points.",
+        "§7 ",
+        "§c§lAcolyte Archetype",
+        "",
+        "§a✔ §7Ability Points: §f1",
+        "§c✖ §7Required Ability: §fSacrificial Shrine"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": "Sacrificial Shrine",
+      "requiredArchetype": null,
+      "archetype": "Acolyte",
+      "location": {
+        "page": 5,
+        "row": 1,
+        "col": 7
+      },
+      "connections": [
+        "Blood Connection",
+        "Rebound",
+        "Vengeful Spirit",
+        "Mask of the Fanatic",
+        "Hymn of Hate",
+        "Vengeful Spirit"
+      ]
+    },
+    {
+      "name": "Bullwhip",
+      "formattedName": "§d§lBullwhip",
+      "description": [
+        "",
+        "§7Hitting enemies with §nUproot§r§7 will",
+        "§7inflict them with §bWhipped §6§l⇶§7. Your",
+        "§bSummons §7will focus §bWhipped §6§l⇶ §7enemies",
+        "§7and deal additional damage to them.",
+        "",
+        "§e🛡 §7Effect: §f+20% §7Damage Bonus to Summons",
+        "§d⌛À §7Duration: §f10s",
+        "",
+        "§6§lSummoner Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Required Ability: §fUproot"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 53
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": "Uproot",
+      "requiredArchetype": null,
+      "archetype": "Summoner",
+      "location": {
+        "page": 5,
+        "row": 2,
+        "col": 0
+      },
+      "connections": [
+        "Exploding Puppets",
+        "Double Totem"
+      ]
+    },
+    {
+      "name": "More Puppets",
+      "formattedName": "§f§lMore Puppets",
+      "description": [
+        "§7 ",
+        "§7Increase your Max §bPuppets§7 by §f+2§7.",
+        "§7 ",
+        "§6§lSummoner Archetype",
+        "",
+        "§a✔ §7Ability Points: §f1",
+        "§c✖ §7Required Ability: §fMore Puppets"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": "More Puppets",
+      "requiredArchetype": null,
+      "archetype": "Summoner",
+      "location": {
+        "page": 5,
+        "row": 2,
+        "col": 2
+      },
+      "connections": [
+        "Exploding Puppets",
+        "Cheaper Totem"
+      ]
+    },
+    {
+      "name": "Mask of the Fanatic",
+      "formattedName": "§d§lMask of the Fanatic",
+      "description": [
+        "",
+        "§7When casting §nUproot§r§7, instead",
+        "§7wear the §bMask of the Fanatic§7.",
+        "§8(Shift + Uproot to remove it)",
+        "",
+        "§7While wearing this mask, the mana cost of",
+        "§7§nTotem§r§7 is decreased and you gain resistance",
+        "§7at the cost of reduced damage.",
+        "",
+        "§b✺ §7Mana Cost: §f-65%",
+        "§e🛡 §7Effects: §f+35% §7Resistance to Self",
+        "§7  ÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀ §c-20%§f §7Damage Bonus to Self",
+        "",
+        "§cUnlocking will block:",
+        "§c- §7Blood Sorrow",
+        "",
+        "§a§lRitualist Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Min Ritualist Archetype: §c0§7/3"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 53
+      },
+      "cost": 2,
+      "blocks": [
+        "Blood Sorrow"
+      ],
+      "requiredAbility": null,
+      "requiredArchetype": {
+        "name": "Ritualist",
+        "required": 3
+      },
+      "archetype": "Ritualist",
+      "location": {
+        "page": 5,
+        "row": 2,
+        "col": 5
+      },
+      "connections": [
+        "Vengeful Spirit",
+        "Hymn of Hate",
+        "Larger Blood Pool",
+        "Hymn of Hate",
+        "Masquerade",
+        "Storm Dance",
+        "Masquerade"
+      ]
+    },
+    {
+      "name": "Vengeful Spirit",
+      "formattedName": "§6§lVengeful Spirit",
+      "description": [
+        "§7 ",
+        "§7Your §nTotem§r§7 will give all players",
+        "§7in its range a damage bonus.",
+        "",
+        "§e🛡 §7Effect: §f+20% §7Damage Bonus (§a⚔§7) to Allies",
+        "",
+        "§c§lAcolyte Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 49
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": "Acolyte",
+      "location": {
+        "page": 5,
+        "row": 2,
+        "col": 8
+      },
+      "connections": [
+        "Mask of the Fanatic",
+        "Hymn of Hate",
+        "Larger Blood Pool",
+        "Larger Blood Pool",
+        "Blood Moon"
+      ]
+    },
+    {
+      "name": "Masquerade",
+      "formattedName": "§6§lMasquerade",
+      "description": [
+        "§7 ",
+        "§7Switching between §bMasks §f2§7 times",
+        "§7will give you §f30 §7Mana.",
+        "§7 ",
+        "§a§lRitualist Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Required Ability: §fMask of the Lunatic"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 49
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": "Mask of the Lunatic",
+      "requiredArchetype": null,
+      "archetype": "Ritualist",
+      "location": {
+        "page": 5,
+        "row": 3,
+        "col": 4
+      },
+      "connections": [
+        "Mask of the Fanatic",
+        "Hymn of Hate",
+        "Storm Dance",
+        "Mask of the Fanatic",
+        "Storm Dance",
+        "Seeking Totem",
+        "Cheaper Totem",
+        "Regeneration"
+      ]
+    },
+    {
+      "name": "Double Totem",
+      "formattedName": "§6§lDouble Totem",
+      "description": [
+        "§7 ",
+        "§7Increase your maximum §nTotems§r§7 by §f+1§7.",
+        "§7§nTotem§r§7 and §nAura§r§7 will do §c40% §7less damage.",
+        "§7 ",
+        "§7§nRegeneration§r§7 and §nSacrificial Shrine",
+        "§7will heal §c40% §7less health.",
+        "",
+        "§6§lSummoner Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Required Ability: §fAura",
+        "§c✖ §7Min Summoner Archetype: §c0§7/2"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 49
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": "Aura",
+      "requiredArchetype": {
+        "name": "Summoner",
+        "required": 2
+      },
+      "archetype": "Summoner",
+      "location": {
+        "page": 5,
+        "row": 4,
+        "col": 0
+      },
+      "connections": [
+        "Bullwhip",
+        "Cheaper Totem",
+        "Cheaper Aura"
+      ]
+    },
+    {
+      "name": "Cheaper Totem",
+      "formattedName": "§f§lCheaper Totem",
+      "description": [
+        "",
+        "§7Reduce the mana cost of §nTotem§r§7.",
+        "§7 ",
+        "§b✺ §7Mana Cost: §f-5",
+        "§7 ",
+        "§a✔ §7Ability Points: §f1",
+        "§c✖ §7Required Ability: §fTotem"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": "Totem",
+      "requiredArchetype": null,
+      "archetype": null,
+      "location": {
+        "page": 5,
+        "row": 4,
+        "col": 2
+      },
+      "connections": [
+        "More Puppets",
+        "Cheaper Aura",
+        "Double Totem",
+        "Masquerade",
+        "Storm Dance",
+        "Seeking Totem",
+        "Regeneration"
+      ]
+    },
+    {
+      "name": "Storm Dance",
+      "formattedName": "§6§lStorm Dance",
+      "description": [
+        "§7 ",
+        "§7Enemies hit by §nAura§r§7 will be",
+        "§7pulled towards your totem.",
+        "",
+        "§c⚔ §7Total Damage: §f+30% §8(of your DPS)",
+        "§7  ÀÀÀÀ§8(§f❋ §8Air: +30%)",
+        "",
+        "§a§lRitualist Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Required Ability: §fAura"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 49
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": "Aura",
+      "requiredArchetype": null,
+      "archetype": "Ritualist",
+      "location": {
+        "page": 5,
+        "row": 4,
+        "col": 5
+      },
+      "connections": [
+        "Mask of the Fanatic",
+        "Masquerade",
+        "Masquerade",
+        "Seeking Totem",
+        "Cheaper Totem",
+        "Regeneration",
+        "Blood Moon",
+        "Twisted Tether",
+        "Cheaper Haul"
+      ]
+    },
+    {
+      "name": "Blood Moon",
+      "formattedName": "§f§lBlood Moon",
+      "description": [
+        "§7 ",
+        "§7For every §f1%§7 Soul Point Regen you have",
+        "§7from items, gain §f+5/3s§7 Lifesteal. (Max 1000/3s)",
+        "§7 ",
+        "§a✔ §7Ability Points: §f1"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": null,
+      "location": {
+        "page": 5,
+        "row": 4,
+        "col": 8
+      },
+      "connections": [
+        "Vengeful Spirit",
+        "Twisted Tether",
+        "Cheaper Haul",
+        "Storm Dance"
+      ]
+    },
+    {
+      "name": "Regeneration",
+      "formattedName": "§6§lRegeneration",
+      "description": [
+        "",
+        "§7Every §f0.4s§7, your §nTotem§r§7 will heal",
+        "§7every player within its range.",
+        "§7 ",
+        "§c❤ §7Total Heal: §f1% §8(of your max health)",
+        "",
+        "§cUnlocking will block:",
+        "§c- §7Sacrificial Shrine",
+        "",
+        "§c✖ §7Ability Points: §f2"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 49
+      },
+      "cost": 2,
+      "blocks": [
+        "Sacrificial Shrine"
+      ],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": null,
+      "location": {
+        "page": 5,
+        "row": 5,
+        "col": 3
+      },
+      "connections": [
+        "Masquerade",
+        "Storm Dance",
+        "Seeking Totem",
+        "Cheaper Totem"
+      ]
+    },
+    {
+      "name": "Cheaper Haul",
+      "formattedName": "§f§lCheaper Haul",
+      "description": [
+        "",
+        "§7Reduce the mana cost of §nHaul§r§7.",
+        "§7 ",
+        "§b✺ §7Mana Cost: §f-5",
+        "§7 ",
+        "§a✔ §7Ability Points: §f1",
+        "§c✖ §7Required Ability: §fHaul"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": "Haul",
+      "requiredArchetype": null,
+      "archetype": null,
+      "location": {
+        "page": 5,
+        "row": 5,
+        "col": 6
+      },
+      "connections": [
+        "Blood Moon",
+        "Twisted Tether",
+        "Storm Dance"
+      ]
+    },
+    {
+      "name": "Cheaper Aura",
+      "formattedName": "§f§lCheaper Aura",
+      "description": [
+        "",
+        "§7Reduce the mana cost of §nAura§r§7.",
+        "§7 ",
+        "§b✺ §7Mana Cost: §f-5",
+        "§7 ",
+        "§a✔ §7Ability Points: §f1",
+        "§c✖ §7Required Ability: §fAura"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": "Aura",
+      "requiredArchetype": null,
+      "archetype": null,
+      "location": {
+        "page": 6,
+        "row": 1,
+        "col": 1
+      },
+      "connections": [
+        "Cheaper Totem",
+        "Double Totem",
+        "Seeking Totem",
+        "Stronger Totem",
+        "Crimson Effigy",
+        "Stronger Totem"
+      ]
+    },
+    {
+      "name": "Seeking Totem",
+      "formattedName": "§6§lSeeking Totem",
+      "description": [
+        "§7 ",
+        "§7While wearing the §bMask of the Fanatic§7,",
+        "§7your §nTotem§r§7 will move towards the",
+        "§7nearest enemy outside of its range.",
+        "§7 ",
+        "§a§lRitualist Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Required Ability: §fMask of the Fanatic"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 49
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": "Mask of the Fanatic",
+      "requiredArchetype": null,
+      "archetype": "Ritualist",
+      "location": {
+        "page": 6,
+        "row": 1,
+        "col": 4
+      },
+      "connections": [
+        "Masquerade",
+        "Storm Dance",
+        "Cheaper Totem",
+        "Regeneration",
+        "Cheaper Aura",
+        "Stronger Totem",
+        "Fluid Healing",
+        "Depersonalization",
+        "Twisted Tether",
+        "Depersonalization",
+        "Mask of the Coward"
+      ]
+    },
+    {
+      "name": "Twisted Tether",
+      "formattedName": "§c§lTwisted Tether",
+      "description": [
+        "§7 ",
+        "§7When hitting an enemy with your",
+        "§7§nMain Attack§r§7, spend §f1§7 point of",
+        "§bBlood Pool §4§l⚕ §7to add §bTethered§c ۞§7 to them.",
+        "",
+        "§bTethered§c ۞§7 enemies will take damage for",
+        "§7every §f2%§7 Health you lose. (Max 20%)",
+        "§7 ",
+        "§c⚔ §7Total Damage: §f35% §8(of your DPS, per 2% health)",
+        "§7  ÀÀÀÀ§8(§6✢ §8Damage: 25%)",
+        "§7  ÀÀÀÀ§8(§f❋ §8Air: 10%)",
+        "§2➼ §7Range: §f24 Blocks",
+        "§d⌛À §7Duration: §f5s",
+        "",
+        "§c§lAcolyte Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Min Acolyte Archetype: §c0§7/7"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 57
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": {
+        "name": "Acolyte",
+        "required": 7
+      },
+      "archetype": "Acolyte",
+      "location": {
+        "page": 6,
+        "row": 1,
+        "col": 7
+      },
+      "connections": [
+        "Blood Moon",
+        "Cheaper Haul",
+        "Storm Dance",
+        "Fluid Healing",
+        "Seeking Totem",
+        "Depersonalization",
+        "Larger Blood Pool"
+      ]
+    },
+    {
+      "name": "Stronger Totem",
+      "formattedName": "§f§lStronger Totem",
+      "description": [
+        "§7 ",
+        "§7Increase §nTotem§r§7\u0027s damage.",
+        "",
+        "§c⚔ §7Total Damage: §f+4% §8(of your DPS)",
+        "§7  ÀÀÀÀ§8(§6✢ §8Damage: +4%)",
+        "§7 ",
+        "§a✔ §7Ability Points: §f1",
+        "§c✖ §7Required Ability: §fTotem"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": "Totem",
+      "requiredArchetype": null,
+      "archetype": null,
+      "location": {
+        "page": 6,
+        "row": 2,
+        "col": 2
+      },
+      "connections": [
+        "Seeking Totem",
+        "Cheaper Aura",
+        "Crimson Effigy",
+        "Cheaper Aura",
+        "Mask of the Coward",
+        "Crimson Effigy"
+      ]
+    },
+    {
+      "name": "Depersonalization",
+      "formattedName": "§f§lDepersonalization",
+      "description": [
+        "",
+        "§7§nMasquerade§r§7 will trigger after §f-1",
+        "§7less §bMask§7 switch. Reduces mana ",
+        "§7bonus by §f-10§7.",
+        "§7 ",
+        "§a§lRitualist Archetype",
+        "",
+        "§a✔ §7Ability Points: §f1",
+        "§c✖ §7Required Ability: §fMasquerade",
+        "§c✖ §7Min Ritualist Archetype: §c0§7/6"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": "Masquerade",
+      "requiredArchetype": {
+        "name": "Ritualist",
+        "required": 6
+      },
+      "archetype": "Ritualist",
+      "location": {
+        "page": 6,
+        "row": 2,
+        "col": 5
+      },
+      "connections": [
+        "Fluid Healing",
+        "Seeking Totem",
+        "Twisted Tether",
+        "Seeking Totem",
+        "Mask of the Coward",
+        "Fluid Healing",
+        "Chant of the Coward",
+        "Mask of the Coward"
+      ]
+    },
+    {
+      "name": "Crimson Effigy",
+      "formattedName": "§c§lCrimson Effigy",
+      "description": [
+        "",
+        "§7Hitting your §nTotem§r§7 with §nUproot§r§7 will",
+        "§7summon an §bEffigy§7 that will attack",
+        "§7enemies and push them towards your §nTotem§r§7.",
+        "",
+        "§c⚔ §7Total Damage: §f85% §8(of your DPS)",
+        "§7  ÀÀÀÀ§8(§6✢ §8Damage: 55%)",
+        "§7  ÀÀÀÀ§8(§b❉ §8Water: 30%)",
+        "§d⌛À §7Duration: §f60s",
+        "",
+        "§6§lSummoner Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Required Ability: §fUproot",
+        "§c✖ §7Min Summoner Archetype: §c0§7/8"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 57
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": "Uproot",
+      "requiredArchetype": {
+        "name": "Summoner",
+        "required": 8
+      },
+      "archetype": "Summoner",
+      "location": {
+        "page": 6,
+        "row": 3,
+        "col": 1
+      },
+      "connections": [
+        "Stronger Totem",
+        "Cheaper Aura",
+        "Maddening Roots",
+        "Mask of the Coward",
+        "Stronger Totem",
+        "Maddening Roots",
+        "More Effigies"
+      ]
+    },
+    {
+      "name": "Mask of the Coward",
+      "formattedName": "§d§lMask of the Coward",
+      "description": [
+        "",
+        "§7When casting §nUproot§r§7, instead",
+        "§7wear the §bMask of the Coward§7.",
+        "§8(Shift + Uproot to remove it)",
+        "",
+        "§7While wearing this mask, the mana cost",
+        "§7of §nHaul§r§7 is reduced and you gain walk",
+        "§7speed at the cost of reduced resistance.",
+        "",
+        "§b✺ §7Mana Cost: §f-50%",
+        "§e🛡 §7Effects: §f+80% §7Walk Speed to Self",
+        "§7  ÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀ §c-20%§f §7Resistance Bonus to Self",
+        "",
+        "§cUnlocking will block:",
+        "§c- §7Blood Sorrow",
+        "",
+        "§a§lRitualist Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Min Ritualist Archetype: §c0§7/7"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 53
+      },
+      "cost": 2,
+      "blocks": [
+        "Blood Sorrow"
+      ],
+      "requiredAbility": null,
+      "requiredArchetype": {
+        "name": "Ritualist",
+        "required": 7
+      },
+      "archetype": "Ritualist",
+      "location": {
+        "page": 6,
+        "row": 3,
+        "col": 4
+      },
+      "connections": [
+        "Seeking Totem",
+        "Depersonalization",
+        "Crimson Effigy",
+        "Stronger Totem",
+        "Depersonalization",
+        "Fluid Healing",
+        "Chant of the Coward"
+      ]
+    },
+    {
+      "name": "Fluid Healing",
+      "formattedName": "§6§lFluid Healing",
+      "description": [
+        "§7 ",
+        "§7Increases §nAura§r§7\u0027s healing by §f+0.3%§7 for",
+        "§7every §f1% §b❉ §7Water Damage Bonus you",
+        "§7have from items.",
+        "§7 ",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Required Ability: §fSacrificial Shrine"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 49
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": "Sacrificial Shrine",
+      "requiredArchetype": null,
+      "archetype": null,
+      "location": {
+        "page": 6,
+        "row": 3,
+        "col": 6
+      },
+      "connections": [
+        "Seeking Totem",
+        "Depersonalization",
+        "Twisted Tether",
+        "Depersonalization",
+        "Chant of the Coward",
+        "Mask of the Coward",
+        "Blood Rite",
+        "Larger Blood Pool"
+      ]
+    },
+    {
+      "name": "Larger Blood Pool",
+      "formattedName": "§f§lLarger Blood Pool",
+      "description": [
+        "§7 ",
+        "§7Increase your maximum §bBlood Pool §4§l⚕ §7by §f+30§7 points.",
+        "§7 ",
+        "§c§lAcolyte Archetype",
+        "",
+        "§a✔ §7Ability Points: §f1",
+        "§c✖ §7Required Ability: §fSacrificial Shrine"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": "Sacrificial Shrine",
+      "requiredArchetype": null,
+      "archetype": "Acolyte",
+      "location": {
+        "page": 6,
+        "row": 3,
+        "col": 8
+      },
+      "connections": [
+        "Twisted Tether",
+        "Blood Rite",
+        "Fluid Healing"
+      ]
+    },
+    {
+      "name": "Maddening Roots",
+      "formattedName": "§6§lMaddening Roots",
+      "description": [
+        "",
+        "§7§nUproot§r§7 will slow down enemies.",
+        "",
+        "§e🛡 §7Effect: §f40% §7Slowness (§c⬤§7) to Enemies",
+        "§d⌛À §7Duration: §f3s",
+        "",
+        "§6§lSummoner Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Required Ability: §fUproot"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 49
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": "Uproot",
+      "requiredArchetype": null,
+      "archetype": "Summoner",
+      "location": {
+        "page": 6,
+        "row": 4,
+        "col": 0
+      },
+      "connections": [
+        "Crimson Effigy",
+        "Crimson Effigy",
+        "More Effigies"
+      ]
+    },
+    {
+      "name": "Chant of the Coward",
+      "formattedName": "§6§lChant of the Coward",
+      "description": [
+        "",
+        "§7When switching to the §bMask of the Coward§7,",
+        "§7damage and knock nearby enemies away.",
+        "",
+        "§c⚔ §7Total Damage: §f200% §8(of your DPS)",
+        "§7  ÀÀÀÀ§8(§6✢ §8Damage: 200%)",
+        "§3☀ §7Area of Effect: §f8 Blocks §7(Circle-Shaped)",
+        "",
+        "§a§lRitualist Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Required Ability: §fMask of the Coward",
+        "§c✖ §7Min Ritualist Archetype: §c0§7/7"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 49
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": "Mask of the Coward",
+      "requiredArchetype": {
+        "name": "Ritualist",
+        "required": 7
+      },
+      "archetype": "Ritualist",
+      "location": {
+        "page": 6,
+        "row": 4,
+        "col": 5
+      },
+      "connections": [
+        "Depersonalization",
+        "Fluid Healing",
+        "Mask of the Coward",
+        "Chant of the Fanatic"
+      ]
+    },
+    {
+      "name": "Blood Rite",
+      "formattedName": "§d§lBlood Rite",
+      "description": [
+        "§7 ",
+        "§7When any player takes damage within",
+        "§7your §nTotem§r§7\u0027s range, §f35% §7of the damage",
+        "§7taken proportional to your maximum",
+        "§7health is added to your §bBlood Pool §4§l⚕§7.",
+        "§8(Max 10 points per hit)",
+        "§7 ",
+        "§c§lAcolyte Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Required Ability: §fSacrificial Shrine",
+        "§c✖ §7Min Acolyte Archetype: §c0§7/9"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 53
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": "Sacrificial Shrine",
+      "requiredArchetype": {
+        "name": "Acolyte",
+        "required": 9
+      },
+      "archetype": "Acolyte",
+      "location": {
+        "page": 6,
+        "row": 4,
+        "col": 7
+      },
+      "connections": [
+        "Fluid Healing",
+        "Larger Blood Pool",
+        "Stronger Tether"
+      ]
+    },
+    {
+      "name": "More Effigies",
+      "formattedName": "§f§lMore Effigies",
+      "description": [
+        "",
+        "§7Increase your Max §bEffigies§7 by §f+1§7.",
+        "",
+        "§c⚔ §7Total Damage: §c-20% §8(of your DPS)",
+        "§7  ÀÀÀÀ§8(§6✢ §8Damage: -10%)",
+        "§7  ÀÀÀÀ§8(§b❉ §8Water: -10%)",
+        "",
+        "§6§lSummoner Archetype",
+        "",
+        "§a✔ §7Ability Points: §f1",
+        "§c✖ §7Required Ability: §fCrimson Effigy",
+        "§c✖ §7Min Summoner Archetype: §c0§7/8"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": "Crimson Effigy",
+      "requiredArchetype": {
+        "name": "Summoner",
+        "required": 8
+      },
+      "archetype": "Summoner",
+      "location": {
+        "page": 7,
+        "row": 1,
+        "col": 1
+      },
+      "connections": [
+        "Maddening Roots",
+        "Crimson Effigy",
+        "Triple Totem",
+        "Invigorating Wave",
+        "Shepherd",
+        "Invigorating Wave",
+        "Triple Totem"
+      ]
+    },
+    {
+      "name": "Chant of the Fanatic",
+      "formattedName": "§d§lChant of the Fanatic",
+      "description": [
+        "",
+        "§7When switching to the §bMask of the Fanatic§7,",
+        "§7you and your allies are given a temporary",
+        "§7resistance buff. (8s Cooldown)",
+        "",
+        "§e🛡 §7Effect: §f70% §7Resistance Bonus to Allies",
+        "§d⌛À §7Duration: §f3s",
+        "§3☀ §7Area of Effect: §f8 Blocks §7(Circle-Shaped)",
+        "",
+        "§a§lRitualist Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Required Ability: §fMask of the Fanatic",
+        "§c✖ §7Min Ritualist Archetype: §c0§7/10"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 53
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": "Mask of the Fanatic",
+      "requiredArchetype": {
+        "name": "Ritualist",
+        "required": 10
+      },
+      "archetype": "Ritualist",
+      "location": {
+        "page": 7,
+        "row": 1,
+        "col": 5
+      },
+      "connections": [
+        "Chant of the Coward",
+        "Mengdu",
+        "Stronger Tether",
+        "Frog Dance",
+        "Mengdu"
+      ]
+    },
+    {
+      "name": "Stronger Tether",
+      "formattedName": "§f§lStronger Tether",
+      "description": [
+        "§7 ",
+        "§7Increase §nTwisted Tether§r§7\u0027s damage.",
+        "§7 ",
+        "§c⚔ §7Total Damage: §f+10% §8(of your DPS)",
+        "§7  ÀÀÀÀ§8(§6✢ §8Damage: +10%)",
+        "",
+        "§c§lAcolyte Archetype",
+        "",
+        "§a✔ §7Ability Points: §f1",
+        "§c✖ §7Required Ability: §fTwisted Tether"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": "Twisted Tether",
+      "requiredArchetype": null,
+      "archetype": "Acolyte",
+      "location": {
+        "page": 7,
+        "row": 1,
+        "col": 7
+      },
+      "connections": [
+        "Blood Rite",
+        "Chant of the Fanatic",
+        "Larger Blood Pool"
+      ]
+    },
+    {
+      "name": "Triple Totem",
+      "formattedName": "§6§lTriple Totem",
+      "description": [
+        "§7 ",
+        "§7Increase your maximum §nTotems§r§7 by §f+1§7.",
+        "§7§nTotem§r§7 and §nAura§r§7 will do §c50% §7less damage.",
+        "§7 ",
+        "§7§nRegeneration§r§7 and §nSacrificial Shrine",
+        "§7will heal §c50% §7less health.",
+        "",
+        "§6§lSummoner Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Required Ability: §fDouble Totem"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 49
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": "Double Totem",
+      "requiredArchetype": null,
+      "archetype": "Summoner",
+      "location": {
+        "page": 7,
+        "row": 2,
+        "col": 0
+      },
+      "connections": [
+        "More Effigies",
+        "Shepherd",
+        "Invigorating Wave",
+        "More Effigies"
+      ]
+    },
+    {
+      "name": "Invigorating Wave",
+      "formattedName": "§d§lInvigorating Wave",
+      "description": [
+        "",
+        "§7§nAura§r§7 will temporarily increase",
+        "§7your §bSummons§7\u0027 attack speed.",
+        "§7Players hit will gain §f+5§7 mana.",
+        "",
+        "§e🛡 §7Effect: §f+30% §7Attack Speed to Summons",
+        "§d⌛À §7Duration: §f2.5s",
+        "",
+        "§6§lSummoner Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Required Ability: §fAura",
+        "§c✖ §7Min Summoner Archetype: §c0§7/3"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 53
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": "Aura",
+      "requiredArchetype": {
+        "name": "Summoner",
+        "required": 3
+      },
+      "archetype": "Summoner",
+      "location": {
+        "page": 7,
+        "row": 2,
+        "col": 2
+      },
+      "connections": [
+        "More Effigies",
+        "Shepherd",
+        "More Effigies",
+        "Triple Totem",
+        "Mengdu"
+      ]
+    },
+    {
+      "name": "Mengdu",
+      "formattedName": "§f§lMengdu",
+      "description": [
+        "§7 ",
+        "§7For every §f1% §7Thorns you have from",
+        "§7items, gain §f+1% §b❉ §7Water Damage. (Max 40%)",
+        "§7 ",
+        "§a§lRitualist Archetype",
+        "",
+        "§a✔ §7Ability Points: §f1"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": "Ritualist",
+      "location": {
+        "page": 7,
+        "row": 2,
+        "col": 4
+      },
+      "connections": [
+        "Chant of the Fanatic",
+        "Invigorating Wave",
+        "Chant of the Fanatic",
+        "Frog Dance"
+      ]
+    },
+    {
+      "name": "Frog Dance",
+      "formattedName": "§6§lFrog Dance",
+      "description": [
+        "",
+        "§7When wearing the §bMask of the Coward§7,",
+        "§7§nHaul§r§7 will bounce you off the ground",
+        "§f3§7 times at an increasing speed and",
+        "§7will deal damage to nearby enemies.",
+        "",
+        "§c⚔ §7Total Damage: §f120% §8(of your DPS)",
+        "§7  ÀÀÀÀ§8(§6✢ §8Damage: 90%)",
+        "§7  ÀÀÀÀ§8(§b❉ §8Water: 30%)",
+        "§3☀ §7Area of Effect: §f3 Blocks §7(Circle-Shaped)",
+        "",
+        "§a§lRitualist Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Required Ability: §fMask of the Coward"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 49
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": "Mask of the Coward",
+      "requiredArchetype": null,
+      "archetype": "Ritualist",
+      "location": {
+        "page": 7,
+        "row": 3,
+        "col": 5
+      },
+      "connections": [
+        "Chant of the Fanatic",
+        "Mengdu",
+        "Mask of the Awakened"
+      ]
+    },
+    {
+      "name": "Larger Blood Pool",
+      "formattedName": "§f§lLarger Blood Pool",
+      "description": [
+        "§7 ",
+        "§7Increase your maximum §bBlood Pool §4§l⚕ §7by §f+30§7 points.",
+        "§7 ",
+        "§c§lAcolyte Archetype",
+        "",
+        "§a✔ §7Ability Points: §f1",
+        "§c✖ §7Required Ability: §fSacrificial Shrine"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": "Sacrificial Shrine",
+      "requiredArchetype": null,
+      "archetype": "Acolyte",
+      "location": {
+        "page": 7,
+        "row": 3,
+        "col": 8
+      },
+      "connections": [
+        "Stronger Tether",
+        "Blood Sorrow"
+      ]
+    },
+    {
+      "name": "Shepherd",
+      "formattedName": "§c§lShepherd",
+      "description": [
+        "",
+        "§7When you or your §bSummons§7 kill an enemy,",
+        "§7gain §f+1 §bMax Puppets §6⚘ §7for §f15s§7. (Max +8)",
+        "",
+        "§6§lSummoner Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Required Ability: §fPuppet Master",
+        "§c✖ §7Min Summoner Archetype: §c0§7/12"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 57
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": "Puppet Master",
+      "requiredArchetype": {
+        "name": "Summoner",
+        "required": 12
+      },
+      "archetype": "Summoner",
+      "location": {
+        "page": 7,
+        "row": 4,
+        "col": 1
+      },
+      "connections": [
+        "Invigorating Wave",
+        "More Effigies",
+        "Triple Totem",
+        "Cheaper Uproot"
+      ]
+    },
+    {
+      "name": "Blood Sorrow",
+      "formattedName": "§c§lBlood Sorrow",
+      "description": [
+        "§7 ",
+        "§7§nUproot§r§7 will spend §f70§7 points of §bBlood Pool §4§l⚕",
+        "§7to cast a destructive beam that",
+        "§7chains between enemies and allies,",
+        "§7and damages enemies every §f0.2s§7.",
+        "§8(You cannot use your §nMain Attack§r§8,",
+        "§8§nAura§r§8, or §nUproot§r§8 while in this state)",
+        "",
+        "§7You and any allies within the beam will",
+        "§7receive §f+2%§7 §bOverhealth §6❤ §7per hit.",
+        "§7Bonus health decays over §f10s§7.",
+        "",
+        "§c⚔ §7Total Damage: §f120% §8(of your DPS)",
+        "§7  ÀÀÀÀ§8(§6✢ §8Damage: 100%)",
+        "§7  ÀÀÀÀ§8(§b❉ §8Water: 20%)",
+        "§d⌛À §7Duration: §f4s",
+        "§2➼ §7Range: §f24 Blocks",
+        "",
+        "§cUnlocking will block:",
+        "§c- §7Mask of the Awakened",
+        "§c- §7Mask of the Lunatic",
+        "§c- §7Mask of the Fanatic",
+        "§c- §7Mask of the Coward",
+        "",
+        "§c§lAcolyte Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Required Ability: §fUproot",
+        "§c✖ §7Min Acolyte Archetype: §c0§7/12"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 57
+      },
+      "cost": 2,
+      "blocks": [
+        "Mask of the Awakened",
+        "Mask of the Lunatic",
+        "Mask of the Fanatic",
+        "Mask of the Coward"
+      ],
+      "requiredAbility": "Uproot",
+      "requiredArchetype": {
+        "name": "Acolyte",
+        "required": 12
+      },
+      "archetype": "Acolyte",
+      "location": {
+        "page": 7,
+        "row": 4,
+        "col": 7
+      },
+      "connections": [
+        "Larger Blood Pool"
+      ]
+    },
+    {
+      "name": "Cheaper Uproot",
+      "formattedName": "§f§lCheaper Uproot",
+      "description": [
+        "",
+        "§7Reduce the mana cost of §nUproot§r§7.",
+        "§7 ",
+        "§b✺ §7Mana Cost: §f-5",
+        "§7 ",
+        "§a✔ §7Ability Points: §f1",
+        "§c✖ §7Required Ability: §fUproot"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": "Uproot",
+      "requiredArchetype": null,
+      "archetype": null,
+      "location": {
+        "page": 7,
+        "row": 5,
+        "col": 3
+      },
+      "connections": [
+        "Shepherd",
+        "Mask of the Awakened"
+      ]
+    },
+    {
+      "name": "Mask of the Awakened",
+      "formattedName": "§c§lMask of the Awakened",
+      "description": [
+        "",
+        "§7After saving §f200§7 mana from your Masks\u0027",
+        "§7mana reductions, casting §nUproot§r§7 will",
+        "§7equip the §bMask of the Awakened §f♚",
+        "§7for §f20s§7, giving you the power of all",
+        "§bMasks§7 at once with no downsides.",
+        "",
+        "§cUnlocking will block:",
+        "§c- §7Blood Sorrow",
+        "",
+        "§a§lRitualist Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Required Ability: §fUproot",
+        "§c✖ §7Min Ritualist Archetype: §c0§7/12"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 57
+      },
+      "cost": 2,
+      "blocks": [
+        "Blood Sorrow"
+      ],
+      "requiredAbility": "Uproot",
+      "requiredArchetype": {
+        "name": "Ritualist",
+        "required": 12
+      },
+      "archetype": "Ritualist",
+      "location": {
+        "page": 7,
+        "row": 5,
+        "col": 5
+      },
+      "connections": [
+        "Frog Dance",
+        "Cheaper Uproot"
+      ]
+    }
+  ]
+}

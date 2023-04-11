@@ -1,0 +1,2640 @@
+{
+  "nodes": [
+    {
+      "name": "Bash",
+      "formattedName": "§a§lBash",
+      "description": [
+        "§6Click Combo: §d§lRIGHT§7-§d§lLEFT§7-§d§lRIGHT",
+        "§7 ",
+        "§7Violently bash the ground, dealing",
+        "§7high damage in a large area.",
+        "§7 ",
+        "§b✺ §7Mana Cost: §f40",
+        "§c⚔ §7Total Damage: §f150% §8(of your DPS)",
+        "§7  ÀÀÀÀ§8(§6✢ §8Damage: 130%)",
+        "§7  ÀÀÀÀ§8(§2✤ §8Earth: 20%)",
+        "§3☀ §7Area of Effect: §f4 Blocks §7(Circle-Shaped)",
+        "§2➼ §7Range: §f3 Blocks",
+        "§7 ",
+        "§a✔ §7Ability Points: §f1"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 62
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": null,
+      "location": {
+        "page": 1,
+        "row": 0,
+        "col": 4
+      },
+      "connections": [
+        "Spear Proficiency I"
+      ]
+    },
+    {
+      "name": "Cheaper Bash",
+      "formattedName": "§f§lCheaper Bash",
+      "description": [
+        "§7 ",
+        "§7Reduce the Mana cost of §nBash§r§7.",
+        "§7 ",
+        "§b✺ §7Mana Cost: §f-10",
+        "§7 ",
+        "§a✔ §7Ability Points: §f1"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": null,
+      "location": {
+        "page": 1,
+        "row": 2,
+        "col": 2
+      },
+      "connections": [
+        "Spear Proficiency I"
+      ]
+    },
+    {
+      "name": "Spear Proficiency I",
+      "formattedName": "§f§lSpear Proficiency I",
+      "description": [
+        "§7 ",
+        "§7Improve your §nMain Attack§r§7\u0027s damage",
+        "§7and range when using a spear.",
+        "§7 ",
+        "§c⚔ §7Main Attack Damage: §f+5%",
+        "§2➼ §7Main Attack Range: §f+1 Block",
+        "§7 ",
+        "§a✔ §7Ability Points: §f1"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": null,
+      "location": {
+        "page": 1,
+        "row": 2,
+        "col": 4
+      },
+      "connections": [
+        "Bash",
+        "Cheaper Bash",
+        "Double Bash"
+      ]
+    },
+    {
+      "name": "Double Bash",
+      "formattedName": "§6§lDouble Bash",
+      "description": [
+        "§7 ",
+        "§7§nBash§r§7 will hit a second",
+        "§7time at a farther range.",
+        "§7 ",
+        "§c⚔ §7Total Damage: §c-50% §8(of your DPS, per bash)",
+        "§7  ÀÀÀÀ§8(§6✢ §8Damage: -50%)",
+        "§2➼ §7Range: §f+3 Blocks",
+        "§7 ",
+        "§a✔ §7Ability Points: §f1"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 49
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": null,
+      "location": {
+        "page": 1,
+        "row": 4,
+        "col": 4
+      },
+      "connections": [
+        "Spear Proficiency I",
+        "Charge"
+      ]
+    },
+    {
+      "name": "Vehement",
+      "formattedName": "§f§lVehement",
+      "description": [
+        "§7 ",
+        "§7For every §f1%§7 or §f1 Raw§7 Main",
+        "§7Attack Damage you have from items,",
+        "§7gain §f+2%§7 Walk Speed (Max 20%)",
+        "",
+        "§c⚔ §7Damage Bonus: §f+5 §7(Raw)",
+        "§7 ",
+        "§cUnlocking will block:",
+        "§c- §7Tougher Skin",
+        "",
+        "§c§lFallen Archetype",
+        "",
+        "§a✔ §7Ability Points: §f1"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [
+        "Tougher Skin"
+      ],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": "Fallen",
+      "location": {
+        "page": 2,
+        "row": 1,
+        "col": 2
+      },
+      "connections": [
+        "Charge",
+        "Uppercut"
+      ]
+    },
+    {
+      "name": "Charge",
+      "formattedName": "§a§lCharge",
+      "description": [
+        "§6Click Combo: §d§lRIGHT§7-§d§lRIGHT§7-§d§lRIGHT",
+        "§7 ",
+        "§7Charge forward at a high speed.",
+        "§8(Hold shift while charging to cancel)",
+        "§7 ",
+        "§b✺ §7Mana Cost: §f25",
+        "§7 ",
+        "§a✔ §7Ability Points: §f1"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 61
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": null,
+      "location": {
+        "page": 2,
+        "row": 1,
+        "col": 4
+      },
+      "connections": [
+        "Double Bash",
+        "Vehement",
+        "Tougher Skin"
+      ]
+    },
+    {
+      "name": "Tougher Skin",
+      "formattedName": "§f§lTougher Skin",
+      "description": [
+        "§7 ",
+        "§7Harden your skin and gain",
+        "§f+5% §7Base Defence.",
+        "§7 ",
+        "§7For every §f1%§7 or §f1 Raw§7 Health Regen you have",
+        "§7from items, gain §f+10§7 Health (Max 100)",
+        "§7 ",
+        "§cUnlocking will block:",
+        "§c- §7Vehement",
+        "",
+        "§b§lPaladin Archetype",
+        "",
+        "§a✔ §7Ability Points: §f1"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [
+        "Vehement"
+      ],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": "Paladin",
+      "location": {
+        "page": 2,
+        "row": 1,
+        "col": 6
+      },
+      "connections": [
+        "Charge",
+        "War Scream"
+      ]
+    },
+    {
+      "name": "Uppercut",
+      "formattedName": "§a§lUppercut",
+      "description": [
+        "§6Click Combo: §d§lRIGHT§7-§d§lLEFT§7-§d§lLEFT",
+        "§7 ",
+        "§7Hurls enemies upwards and",
+        "§7deal massive damage.",
+        "§7 ",
+        "§b✺ §7Mana Cost: §f40",
+        "§c⚔ §7Total Damage: §f280% §8(of your DPS)",
+        "§7  ÀÀÀÀ§8(§6✢ §8Damage: 200%)",
+        "§7  ÀÀÀÀ§8(§2✤ §8Earth: 40%)",
+        "§7  ÀÀÀÀ§8(§e✦ §8Thunder: 40%)",
+        "§3☀ §7Area of Effect: §f1-3 Blocks §7(Cone-Shaped)",
+        "§2➼ §7Range: §f5 Blocks",
+        "§7 ",
+        "§a✔ §7Ability Points: §f1"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 61
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": null,
+      "location": {
+        "page": 2,
+        "row": 3,
+        "col": 2
+      },
+      "connections": [
+        "Vehement",
+        "Cheaper Charge",
+        "Heavy Impact",
+        "Earth Mastery",
+        "Heavy Impact",
+        "Thunder Mastery"
+      ]
+    },
+    {
+      "name": "Cheaper Charge",
+      "formattedName": "§f§lCheaper Charge",
+      "description": [
+        "§7 ",
+        "§7Reduce the Mana cost of §nCharge§r§7.",
+        "§7 ",
+        "§b✺ §7Mana Cost: §f-5",
+        "§7 ",
+        "§a✔ §7Ability Points: §f1"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": null,
+      "location": {
+        "page": 2,
+        "row": 3,
+        "col": 4
+      },
+      "connections": [
+        "Uppercut",
+        "War Scream",
+        "Water Mastery",
+        "Air Mastery"
+      ]
+    },
+    {
+      "name": "War Scream",
+      "formattedName": "§a§lWar Scream",
+      "description": [
+        "§6Click Combo: §d§lRIGHT§7-§d§lRIGHT§7-§d§lLEFT",
+        "§7 ",
+        "§7Emits a roar that deals damage, pulls",
+        "§7nearby enemies and gives you and",
+        "§7nearby players resistance.",
+        "§7 ",
+        "§b✺ §7Mana Cost: §f30",
+        "§c⚔ §7Total Damage: §f100% §8(of your DPS)",
+        "§7  ÀÀÀÀ§8(§6✢ §8Damage: 50%)",
+        "§7  ÀÀÀÀ§8(§c✹ §8Fire: 50%)",
+        "§e🛡 §7Effect: §f20% §7Resistance Bonus (§a❁§7) to Allies",
+        "§d⌛À §7Duration: §f30s",
+        "§3☀ §7Area of Effect: §f12 Blocks §7(Circle-Shaped)",
+        "§7 ",
+        "§a✔ §7Ability Points: §f1"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 61
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": null,
+      "location": {
+        "page": 2,
+        "row": 3,
+        "col": 6
+      },
+      "connections": [
+        "Tougher Skin",
+        "Cheaper Charge",
+        "Fire Mastery",
+        "Air Mastery"
+      ]
+    },
+    {
+      "name": "Heavy Impact",
+      "formattedName": "§6§lHeavy Impact",
+      "description": [
+        "§7 ",
+        "§7After using §nCharge§r§7, violently crash",
+        "§7down unto the ground and deal damage.",
+        "§7 ",
+        "§c⚔ §7Total Damage: §f120% §8(of your DPS)",
+        "§7  ÀÀÀÀ§8(§6✢ §8Damage: 120%)",
+        "§3☀ §7Area of Effect: §f4 Blocks",
+        "§7 ",
+        "§a✔ §7Ability Points: §f1"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 49
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": null,
+      "location": {
+        "page": 2,
+        "row": 4,
+        "col": 1
+      },
+      "connections": [
+        "Uppercut",
+        "Earth Mastery",
+        "Thunder Mastery",
+        "Uppercut"
+      ]
+    },
+    {
+      "name": "Earth Mastery",
+      "formattedName": "§f§lEarth Mastery",
+      "description": [
+        "§7 ",
+        "§7Increase your base damage",
+        "§7from all Earth attacks.",
+        "§7 ",
+        "§2✤ §7Earth Damage: §f+2-4",
+        "§2✤ §7Earth Damage: §f+20%",
+        "§7 ",
+        "§c§lFallen Archetype",
+        "",
+        "§a✔ §7Ability Points: §f1"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": "Fallen",
+      "location": {
+        "page": 3,
+        "row": 1,
+        "col": 0
+      },
+      "connections": [
+        "Uppercut",
+        "Heavy Impact",
+        "Quadruple Bash"
+      ]
+    },
+    {
+      "name": "Thunder Mastery",
+      "formattedName": "§f§lThunder Mastery",
+      "description": [
+        "§7 ",
+        "§7Increase your base damage",
+        "§7from all Thunder attacks.",
+        "§7 ",
+        "§e✦ §7Thunder Damage: §f+1-8",
+        "§e✦ §7Thunder Damage: §f+10%",
+        "§7 ",
+        "§c§lFallen Archetype",
+        "",
+        "§a✔ §7Ability Points: §f1"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": "Fallen",
+      "location": {
+        "page": 3,
+        "row": 1,
+        "col": 2
+      },
+      "connections": [
+        "Heavy Impact",
+        "Uppercut",
+        "Air Mastery",
+        "Water Mastery",
+        "Fireworks"
+      ]
+    },
+    {
+      "name": "Air Mastery",
+      "formattedName": "§f§lAir Mastery",
+      "description": [
+        "§7 ",
+        "§7Increase your base damage",
+        "§7from all Air attacks.",
+        "§7 ",
+        "§f❋ §7Air Damage: §f+3-4",
+        "§f❋ §7Air Damage: §f+15%",
+        "§7 ",
+        "§e§lBattle Monk Archetype",
+        "",
+        "§a✔ §7Ability Points: §f1"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": "Battle Monk",
+      "location": {
+        "page": 3,
+        "row": 1,
+        "col": 6
+      },
+      "connections": [
+        "Water Mastery",
+        "Cheaper Charge",
+        "War Scream",
+        "Thunder Mastery",
+        "Water Mastery",
+        "Flyby Jab"
+      ]
+    },
+    {
+      "name": "Fire Mastery",
+      "formattedName": "§f§lFire Mastery",
+      "description": [
+        "§7 ",
+        "§7Increase your base damage",
+        "§7from all Fire attacks.",
+        "§7 ",
+        "§c✹ §7Fire Damage: §f+3-5",
+        "§c✹ §7Fire Damage: §f+15%",
+        "§7 ",
+        "§b§lPaladin Archetype",
+        "",
+        "§a✔ §7Ability Points: §f1"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": "Paladin",
+      "location": {
+        "page": 3,
+        "row": 1,
+        "col": 8
+      },
+      "connections": [
+        "War Scream",
+        "Flaming Uppercut"
+      ]
+    },
+    {
+      "name": "Water Mastery",
+      "formattedName": "§f§lWater Mastery",
+      "description": [
+        "§7 ",
+        "§7Increase your damage",
+        "§7from all Water attacks.",
+        "§7 ",
+        "§b❉ §7Water Damage: §f+2-4",
+        "§b❉ §7Water Damage: §f+15%",
+        "§7 ",
+        "§e§lBattle Monk Archetype",
+        "",
+        "§a✔ §7Ability Points: §f1"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": "Battle Monk",
+      "location": {
+        "page": 3,
+        "row": 2,
+        "col": 4
+      },
+      "connections": [
+        "Air Mastery",
+        "Cheaper Charge",
+        "Thunder Mastery",
+        "Air Mastery",
+        "Half-Moon Swipe"
+      ]
+    },
+    {
+      "name": "Quadruple Bash",
+      "formattedName": "§6§lQuadruple Bash",
+      "description": [
+        "§7 ",
+        "§7§nBash§r§7 will cast 4 times consecutively",
+        "§7at double the speed.",
+        "§7 ",
+        "§c⚔ §7Total Damage: §c-20% §8(of your DPS, per bash)",
+        "§7  ÀÀÀÀ§8(§6✢ §8Damage: -20%)",
+        "§2➼ §7Range: §f+6 Blocks",
+        "§7 ",
+        "§c§lFallen Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Required Ability: §fBash"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 49
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": "Bash",
+      "requiredArchetype": null,
+      "archetype": "Fallen",
+      "location": {
+        "page": 3,
+        "row": 3,
+        "col": 0
+      },
+      "connections": [
+        "Earth Mastery",
+        "Fireworks",
+        "Bak\u0027al\u0027s Grasp",
+        "Generalist"
+      ]
+    },
+    {
+      "name": "Fireworks",
+      "formattedName": "§6§lFireworks",
+      "description": [
+        "§7 ",
+        "§7Mobs hit by §nUppercut§r§7 will explode",
+        "§7mid-air and receive additional damage.",
+        "§7 ",
+        "§c⚔ §7Total Damage: §f+100% §8(of your DPS)",
+        "§7  ÀÀÀÀ§8(§6✢ §8Damage: +80%)",
+        "§7  ÀÀÀÀ§8(§e✦ §8Thunder: +20%)",
+        "§7 ",
+        "§c§lFallen Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 49
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": "Fallen",
+      "location": {
+        "page": 3,
+        "row": 3,
+        "col": 2
+      },
+      "connections": [
+        "Thunder Mastery",
+        "Bak\u0027al\u0027s Grasp",
+        "Quadruple Bash",
+        "Generalist"
+      ]
+    },
+    {
+      "name": "Flyby Jab",
+      "formattedName": "§6§lFlyby Jab",
+      "description": [
+        "§7 ",
+        "§7Damages enemies in your",
+        "§7way when using §nCharge§r§7.",
+        "§7 ",
+        "§c⚔ §7Total Damage: §f120%",
+        "§7  ÀÀÀÀ§8(§6✢ §8Damage: 100%)",
+        "§7  ÀÀÀÀ§8(§f❋ §8Air: 20%)",
+        "§3☀ §7Area of Effect: §f2 Blocks",
+        "§7 ",
+        "§c✖ §7Ability Points: §f2"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 49
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": null,
+      "location": {
+        "page": 3,
+        "row": 3,
+        "col": 6
+      },
+      "connections": [
+        "Air Mastery",
+        "Flaming Uppercut",
+        "Iron Lungs"
+      ]
+    },
+    {
+      "name": "Flaming Uppercut",
+      "formattedName": "§6§lFlaming Uppercut",
+      "description": [
+        "§7 ",
+        "§7§nUppercut§r§7 will light mobs on fire,",
+        "§7dealing damage every §f0.6§7 seconds.",
+        "§7 ",
+        "§c⚔ §7Total Damage: §f50% §8(of your DPS)",
+        "§7  ÀÀÀÀ§8(§c✹ §8Fire: 50%)",
+        "§d⌛À §7Duration: §f3s",
+        "§7 ",
+        "§b§lPaladin Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Required Ability: §fUppercut"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 49
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": "Uppercut",
+      "requiredArchetype": null,
+      "archetype": "Paladin",
+      "location": {
+        "page": 3,
+        "row": 3,
+        "col": 8
+      },
+      "connections": [
+        "Fire Mastery",
+        "Flyby Jab",
+        "Iron Lungs"
+      ]
+    },
+    {
+      "name": "Half-Moon Swipe",
+      "formattedName": "§6§lHalf-Moon Swipe",
+      "description": [
+        "§7 ",
+        "§7§nUppercut§r§7 will deal a footsweep",
+        "§7attack at a longer and wider angle.",
+        "§7 ",
+        "§b✺ §7Mana Cost: §f-5",
+        "§c⚔ §7Total Damage: §c-40% §8(of your DPS)",
+        "§7  ÀÀÀÀ§8(§6✢ §8Damage: -70%)",
+        "§7  ÀÀÀÀ§8(§b❉ §8Water: +30%)",
+        "§2➼ §7Range: §f+1.5 Blocks",
+        "§7 ",
+        "§e§lBattle Monk Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Min Battle Monk Archetype: §c0§7/1",
+        "§c✖ §7Required Ability: §fUppercut"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 49
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": "Uppercut",
+      "requiredArchetype": {
+        "name": "Battle Monk",
+        "required": 1
+      },
+      "archetype": "Battle Monk",
+      "location": {
+        "page": 3,
+        "row": 4,
+        "col": 4
+      },
+      "connections": [
+        "Water Mastery",
+        "Air Shout"
+      ]
+    },
+    {
+      "name": "Iron Lungs",
+      "formattedName": "§f§lIron Lungs",
+      "description": [
+        "§7 ",
+        "§7§nWar Scream§r§7 and §nAir Shout§r§7 will deal more damage.",
+        "§7 ",
+        "§c⚔ §7Total Damage: §f+60% §8(of your DPS, for §nWar Scream§r§8)",
+        "§7  ÀÀÀÀ§8(§6✢ §8Damage: +30%)",
+        "§7  ÀÀÀÀ§8(§f❋ §8Air: +30%)",
+        "§7 ",
+        "§c⚔ §7Total Damage: §f+30% §8(of your DPS, for §nAir Shout§r§8)",
+        "§7  ÀÀÀÀ§8(§6✢ §8Damage: +15%)",
+        "§7  ÀÀÀÀ§8(§f❋ §8Air: +15%)",
+        "§7 ",
+        "§b§lPaladin Archetype",
+        "",
+        "§a✔ §7Ability Points: §f1",
+        "§c✖ §7Required Ability: §fWar Scream"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": "War Scream",
+      "requiredArchetype": null,
+      "archetype": "Paladin",
+      "location": {
+        "page": 3,
+        "row": 4,
+        "col": 7
+      },
+      "connections": [
+        "Flyby Jab",
+        "Flaming Uppercut",
+        "Mantle of the Bovemists"
+      ]
+    },
+    {
+      "name": "Generalist",
+      "formattedName": "§c§lGeneralist",
+      "description": [
+        "§7 ",
+        "§7After casting §f3§7 different spells",
+        "§7in a row, your next spell will cost §f1 §7Mana.",
+        "§7 ",
+        "§e§lBattle Monk Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Min Battle Monk Archetype: §c0§7/3"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 57
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": {
+        "name": "Battle Monk",
+        "required": 3
+      },
+      "archetype": "Battle Monk",
+      "location": {
+        "page": 4,
+        "row": 1,
+        "col": 2
+      },
+      "connections": [
+        "Fireworks",
+        "Bak\u0027al\u0027s Grasp",
+        "Quadruple Bash",
+        "Cheaper Uppercut",
+        "Air Shout"
+      ]
+    },
+    {
+      "name": "Air Shout",
+      "formattedName": "§6§lAir Shout",
+      "description": [
+        "§7 ",
+        "§7§nWar Scream§r§7 will fire a projectile that can",
+        "§7go through walls and deal damage multiple times.",
+        "§7 ",
+        "§c⚔ §7Total Damage: §f50%",
+        "§7  ÀÀÀÀ§8(§6✢ §8Damage: 40%)",
+        "§7  ÀÀÀÀ§8(§f❋ §8Air: 10%)",
+        "§3☀ §7Area of Effect: §f2 Blocks §7(Circle-Shaped)",
+        "§2➼ §7Range: §f32 Blocks",
+        "§7 ",
+        "§e§lBattle Monk Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Required Ability: §fWar Scream"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 49
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": "War Scream",
+      "requiredArchetype": null,
+      "archetype": "Battle Monk",
+      "location": {
+        "page": 4,
+        "row": 1,
+        "col": 4
+      },
+      "connections": [
+        "Half-Moon Swipe",
+        "Cheaper Uppercut",
+        "Generalist"
+      ]
+    },
+    {
+      "name": "Mantle of the Bovemists",
+      "formattedName": "§c§lMantle of the Bovemists",
+      "description": [
+        "§7 ",
+        "§7When casting §nWar Scream§r§7, create a holy",
+        "§7shield around you that reduces all incoming",
+        "§7damage by §f-70%§7 for §f3§7 hits. (25s Cooldown)",
+        "§7 ",
+        "§b§lPaladin Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Required Ability: §fWar Scream",
+        "§c✖ §7Min Paladin Archetype: §c0§7/3"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 57
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": "War Scream",
+      "requiredArchetype": {
+        "name": "Paladin",
+        "required": 3
+      },
+      "archetype": "Paladin",
+      "location": {
+        "page": 4,
+        "row": 1,
+        "col": 7
+      },
+      "connections": [
+        "Iron Lungs",
+        "Provoke"
+      ]
+    },
+    {
+      "name": "Bak\u0027al\u0027s Grasp",
+      "formattedName": "§c§lBak\u0027al\u0027s Grasp",
+      "description": [
+        "§7 ",
+        "§7Casting War Scream will make you",
+        "§bCorrupted §4☠§7. (15s Cooldown)",
+        "§8(Shift + War Scream to cancel)",
+        "§7 ",
+        "§7While §bCorrupted §4☠§7, you lose the ability ",
+        "§7to §fheal, §7and every §f2% §7health you lose will",
+        "§7grant you §f+4§7 Raw Damage (Max 120)",
+        "§7 ",
+        "§c§lFallen Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Min Fallen Archetype: §c0§7/2",
+        "§c✖ §7Required Ability: §fWar Scream"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 57
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": "War Scream",
+      "requiredArchetype": {
+        "name": "Fallen",
+        "required": 2
+      },
+      "archetype": "Fallen",
+      "location": {
+        "page": 4,
+        "row": 2,
+        "col": 1
+      },
+      "connections": [
+        "Fireworks",
+        "Quadruple Bash",
+        "Generalist",
+        "Spear Proficiency II",
+        "Spear Proficiency II",
+        "Precise Strikes",
+        "Cheaper Uppercut"
+      ]
+    },
+    {
+      "name": "Spear Proficiency II",
+      "formattedName": "§f§lSpear Proficiency II",
+      "description": [
+        "§7 ",
+        "§7Improve your §nMain Attack§r§7\u0027s damage",
+        "§7and range when using a spear.",
+        "§7 ",
+        "§c⚔ §7Main Attack Damage: §f+5%",
+        "§2➼ §7Range: §f+1 Block",
+        "§7 ",
+        "§a✔ §7Ability Points: §f1"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": null,
+      "location": {
+        "page": 4,
+        "row": 3,
+        "col": 0
+      },
+      "connections": [
+        "Bak\u0027al\u0027s Grasp",
+        "Bak\u0027al\u0027s Grasp",
+        "Precise Strikes",
+        "Cheaper Uppercut",
+        "Enraged Blow",
+        "Precise Strikes"
+      ]
+    },
+    {
+      "name": "Cheaper Uppercut",
+      "formattedName": "§f§lCheaper Uppercut",
+      "description": [
+        "§7 ",
+        "§7Reduce the Mana cost of §nUppercut§r§7.",
+        "§7 ",
+        "§b✺ §7Mana Cost: §f-5",
+        "§7 ",
+        "§a✔ §7Ability Points: §f1"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": null,
+      "location": {
+        "page": 4,
+        "row": 3,
+        "col": 3
+      },
+      "connections": [
+        "Air Shout",
+        "Generalist",
+        "Spear Proficiency II",
+        "Bak\u0027al\u0027s Grasp",
+        "Precise Strikes",
+        "Counter",
+        "Aerodynamics",
+        "Flying Kick",
+        "Counter"
+      ]
+    },
+    {
+      "name": "Aerodynamics",
+      "formattedName": "§6§lAerodynamics",
+      "description": [
+        "§7 ",
+        "§7During §nCharge§r§7, you can",
+        "§7steer and change direction.",
+        "§7 ",
+        "§e§lBattle Monk Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 49
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": "Battle Monk",
+      "location": {
+        "page": 4,
+        "row": 3,
+        "col": 5
+      },
+      "connections": [
+        "Counter",
+        "Cheaper Uppercut",
+        "Provoke"
+      ]
+    },
+    {
+      "name": "Provoke",
+      "formattedName": "§6§lProvoke",
+      "description": [
+        "§7 ",
+        "§7Mobs damaged by §nWar Scream§r§7 will target",
+        "§7only you for at least §f8s§7. (10s Cooldown)",
+        "§7 ",
+        "§7Reduce the Mana cost of §nWar Scream§r§7.",
+        "§7 ",
+        "§b✺ §7Mana Cost: §f-5",
+        "§7 ",
+        "§c✖ §7Ability Points: §f2"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 49
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": null,
+      "location": {
+        "page": 4,
+        "row": 3,
+        "col": 7
+      },
+      "connections": [
+        "Mantle of the Bovemists",
+        "Aerodynamics",
+        "Manachism"
+      ]
+    },
+    {
+      "name": "Precise Strikes",
+      "formattedName": "§f§lPrecise Strikes",
+      "description": [
+        "§7 ",
+        "§f+15% §7Critical Hit Damage",
+        "§7 ",
+        "§a✔ §7Ability Points: §f1"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": null,
+      "location": {
+        "page": 4,
+        "row": 4,
+        "col": 1
+      },
+      "connections": [
+        "Spear Proficiency II",
+        "Bak\u0027al\u0027s Grasp",
+        "Cheaper Uppercut",
+        "Enraged Blow",
+        "Spear Proficiency II"
+      ]
+    },
+    {
+      "name": "Counter",
+      "formattedName": "§6§lCounter",
+      "description": [
+        "§7 ",
+        "§7Gain a §f30%§7 chance to take no",
+        "§7damage and instantly attack back when",
+        "§7dodging an enemy attack with Agility.",
+        "§7 ",
+        "§c⚔ §7Total Damage: §f100% §8(of your DPS)",
+        "§7  ÀÀÀÀ§8(§6✢ §8Damage: 60%)",
+        "§7  ÀÀÀÀ§8(§f❋ §8Air: 20%)",
+        "§7  ÀÀÀÀ§8(§e✦ §8Thunder: 20%)",
+        "§7 ",
+        "§e§lBattle Monk Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 49
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": "Battle Monk",
+      "location": {
+        "page": 4,
+        "row": 4,
+        "col": 4
+      },
+      "connections": [
+        "Cheaper Uppercut",
+        "Aerodynamics",
+        "Flying Kick",
+        "Cheaper Uppercut"
+      ]
+    },
+    {
+      "name": "Enraged Blow",
+      "formattedName": "§d§lEnraged Blow",
+      "description": [
+        "§7 ",
+        "§7While §bCorrupted §4☠§7, every §f1%§7 of",
+        "§7Health you lose will increase your",
+        "§7damage by §f+1.5%§7. (Max 80%)",
+        "§7 ",
+        "§c§lFallen Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Required Ability: §fBak\u0027al\u0027s Grasp"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 53
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": "Bak\u0027al\u0027s Grasp",
+      "requiredArchetype": null,
+      "archetype": "Fallen",
+      "location": {
+        "page": 5,
+        "row": 1,
+        "col": 0
+      },
+      "connections": [
+        "Spear Proficiency II",
+        "Precise Strikes",
+        "Boiling Blood"
+      ]
+    },
+    {
+      "name": "Flying Kick",
+      "formattedName": "§6§lFlying Kick",
+      "description": [
+        "§7 ",
+        "§7Hitting mobs with §nCharge§r§7 will halt your",
+        "§7momentum and knock them away.",
+        "§7 ",
+        "§c⚔ §7Total Damage: §f200% §8(of your DPS)",
+        "§7  ÀÀÀÀ§8(§6✢ §8Damage: 150%)",
+        "§7  ÀÀÀÀ§8(§f❋ §8Air: 30%)",
+        "§7  ÀÀÀÀ§8(§b❉ §8Water: 20%)",
+        "§7 ",
+        "§e§lBattle Monk Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Min Battle Monk Archetype: §c0§7/1"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 49
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": {
+        "name": "Battle Monk",
+        "required": 1
+      },
+      "archetype": "Battle Monk",
+      "location": {
+        "page": 5,
+        "row": 1,
+        "col": 3
+      },
+      "connections": [
+        "Counter",
+        "Cheaper Uppercut",
+        "Ragnarokkr",
+        "Cheaper War Scream",
+        "Stronger Mantle",
+        "Ambidextrous"
+      ]
+    },
+    {
+      "name": "Stronger Mantle",
+      "formattedName": "§f§lStronger Mantle",
+      "description": [
+        "§7 ",
+        "§7Add §f+2§7 additional charges",
+        "§7to §nMantle of the Bovemists",
+        "§7and reduce its cooldown by -5s.",
+        "§7 ",
+        "§b§lPaladin Archetype",
+        "",
+        "§a✔ §7Ability Points: §f1",
+        "§c✖ §7Required Ability: §fMantle of the Bovemists"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": "Mantle of the Bovemists",
+      "requiredArchetype": null,
+      "archetype": "Paladin",
+      "location": {
+        "page": 5,
+        "row": 1,
+        "col": 6
+      },
+      "connections": [
+        "Flying Kick",
+        "Cheaper War Scream",
+        "Ambidextrous",
+        "Manachism"
+      ]
+    },
+    {
+      "name": "Manachism",
+      "formattedName": "§d§lManachism",
+      "description": [
+        "§7 ",
+        "§7If you receive a hit that\u0027s less than §f5%",
+        "§7of your max HP, gain §f10§7 Mana. (1s Cooldown)",
+        "§7 ",
+        "§b§lPaladin Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Min Paladin Archetype: §c0§7/3"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 53
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": {
+        "name": "Paladin",
+        "required": 3
+      },
+      "archetype": "Paladin",
+      "location": {
+        "page": 5,
+        "row": 1,
+        "col": 8
+      },
+      "connections": [
+        "Provoke",
+        "Stronger Mantle",
+        "Stronger Bash"
+      ]
+    },
+    {
+      "name": "Ambidextrous",
+      "formattedName": "§f§lAmbidextrous",
+      "description": [
+        "§7 ",
+        "§7Increase your chance to attack",
+        "§7with §nCounter§r§7 by §f+30%§7.",
+        "§7 ",
+        "§a✔ §7Ability Points: §f1",
+        "§c✖ §7Required Ability: §fCounter"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": "Counter",
+      "requiredArchetype": null,
+      "archetype": null,
+      "location": {
+        "page": 5,
+        "row": 2,
+        "col": 5
+      },
+      "connections": [
+        "Flying Kick",
+        "Cheaper War Scream",
+        "Stronger Mantle",
+        "Cheaper War Scream",
+        "Burning Heart",
+        "Collide"
+      ]
+    },
+    {
+      "name": "Boiling Blood",
+      "formattedName": "§6§lBoiling Blood",
+      "description": [
+        "§7 ",
+        "§7§nBash§r§7 will leave a puddle of boiling blood",
+        "§7after its first explosion, slowing down and",
+        "§7damaging enemies on it every §f0.4 §7seconds.",
+        "§7 ",
+        "§c⚔ §7Total Damage: §f30% §8(of your DPS)",
+        "§7  ÀÀÀÀ§8(§6✢ §8Damage: 25%)",
+        "§7  ÀÀÀÀ§8(§c✹ §8Fire: 5%)",
+        "§e🛡 §7Effect: §f20% §7Slowness (§c⬤§7) to Enemies",
+        "§d⌛À §7Duration: §f3s",
+        "§7 ",
+        "§c✖ §7Ability Points: §f2"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 49
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": null,
+      "location": {
+        "page": 5,
+        "row": 3,
+        "col": 0
+      },
+      "connections": [
+        "Enraged Blow",
+        "Ragnarokkr",
+        "Intoxicating Blood",
+        "Uncontainable Corruption",
+        "Intoxicating Blood"
+      ]
+    },
+    {
+      "name": "Ragnarokkr",
+      "formattedName": "§d§lRagnarokkr",
+      "description": [
+        "§7 ",
+        "§7§nWar Scream§r§7 becomes deafening, increasing its",
+        "§7duration and granting players a damage bonus.",
+        "§7 ",
+        "§b✺ §7Mana Cost: §c+10",
+        "§e🛡 §7Effect: §f20% §7Damage Bonus (§a⚔§7) to Players",
+        "§d⌛À §7Duration: §f+15s",
+        "§7 ",
+        "§c§lFallen Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Required Ability: §fWar Scream"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 53
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": "War Scream",
+      "requiredArchetype": null,
+      "archetype": "Fallen",
+      "location": {
+        "page": 5,
+        "row": 3,
+        "col": 2
+      },
+      "connections": [
+        "Flying Kick",
+        "Intoxicating Blood",
+        "Boiling Blood",
+        "Intoxicating Blood",
+        "Comet"
+      ]
+    },
+    {
+      "name": "Cheaper War Scream",
+      "formattedName": "§f§lCheaper War Scream",
+      "description": [
+        "§7 ",
+        "§7Reduce the Mana cost of §nWar Scream§r§7.",
+        "§7 ",
+        "§b✺ §7Mana Cost: §f-5",
+        "§7 ",
+        "§a✔ §7Ability Points: §f1"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": null,
+      "location": {
+        "page": 5,
+        "row": 3,
+        "col": 4
+      },
+      "connections": [
+        "Flying Kick",
+        "Stronger Mantle",
+        "Ambidextrous",
+        "Ambidextrous",
+        "Burning Heart",
+        "Collide",
+        "Collide",
+        "Whirlwind Strike"
+      ]
+    },
+    {
+      "name": "Burning Heart",
+      "formattedName": "§f§lBurning Heart",
+      "description": [
+        "§7 ",
+        "§7For every §f100 §7Health Bonus you have from",
+        "§7items, gain §f+2% §c✹ §7Fire Damage. (Max 100%)",
+        "§7 ",
+        "§b§lPaladin Archetype",
+        "",
+        "§a✔ §7Ability Points: §f1"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": "Paladin",
+      "location": {
+        "page": 5,
+        "row": 3,
+        "col": 6
+      },
+      "connections": [
+        "Ambidextrous",
+        "Cheaper War Scream",
+        "Collide",
+        "Stronger Bash",
+        "Rejuvenating Skin"
+      ]
+    },
+    {
+      "name": "Stronger Bash",
+      "formattedName": "§f§lStronger Bash",
+      "description": [
+        "§7 ",
+        "§7Increase the damage of §nBash§r§7.",
+        "§7 ",
+        "§c⚔ §7Total Damage: §f+30% §8(of your DPS)",
+        "§7  ÀÀÀÀ§8(§6✢ §8Damage: +30%)",
+        "§7 ",
+        "§a✔ §7Ability Points: §f1"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": null,
+      "location": {
+        "page": 5,
+        "row": 3,
+        "col": 8
+      },
+      "connections": [
+        "Manachism",
+        "Burning Heart",
+        "Rejuvenating Skin"
+      ]
+    },
+    {
+      "name": "Intoxicating Blood",
+      "formattedName": "§6§lIntoxicating Blood",
+      "description": [
+        "§7 ",
+        "§7After leaving §bCorrupted §4☠§7, gain §f5%",
+        "§7of the health lost back for each",
+        "§7enemy killed while §bCorrupted §4☠§7.",
+        "§7 ",
+        "§c§lFallen Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Required Ability: §fBak\u0027al\u0027s Grasp",
+        "§c✖ §7Min Fallen Archetype: §c0§7/5"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 49
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": "Bak\u0027al\u0027s Grasp",
+      "requiredArchetype": {
+        "name": "Fallen",
+        "required": 5
+      },
+      "archetype": "Fallen",
+      "location": {
+        "page": 5,
+        "row": 4,
+        "col": 1
+      },
+      "connections": [
+        "Ragnarokkr",
+        "Boiling Blood",
+        "Ragnarokkr",
+        "Comet",
+        "Boiling Blood",
+        "Uncontainable Corruption"
+      ]
+    },
+    {
+      "name": "Collide",
+      "formattedName": "§6§lCollide",
+      "description": [
+        "§7 ",
+        "§7Enemies thrown into walls from §nFlying Kick",
+        "§7will explode and receive additional damage.",
+        "§7 ",
+        "§c⚔ §7Total Damage: §f200% §8(of your DPS)",
+        "§7  ÀÀÀÀ§8(§6✢ §8Damage: 150%)",
+        "§7  ÀÀÀÀ§8(§c✹ §8Fire: 50%)",
+        "§3☀ §7Area of Effect: §f4 Blocks",
+        "§7 ",
+        "§e§lBattle Monk Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Required Ability: §fFlying Kick",
+        "§c✖ §7Min Battle Monk Archetype: §c0§7/4"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 49
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": "Flying Kick",
+      "requiredArchetype": {
+        "name": "Battle Monk",
+        "required": 4
+      },
+      "archetype": "Battle Monk",
+      "location": {
+        "page": 5,
+        "row": 4,
+        "col": 5
+      },
+      "connections": [
+        "Ambidextrous",
+        "Cheaper War Scream",
+        "Burning Heart",
+        "Cheaper War Scream",
+        "Whirlwind Strike"
+      ]
+    },
+    {
+      "name": "Rejuvenating Skin",
+      "formattedName": "§c§lRejuvenating Skin",
+      "description": [
+        "§7 ",
+        "§7Regain back §f30% §7of the damage",
+        "§7you take as healing over §f30s§7.",
+        "§7 ",
+        "§b§lPaladin Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Min Paladin Archetype: §c0§7/5"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 57
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": {
+        "name": "Paladin",
+        "required": 5
+      },
+      "archetype": "Paladin",
+      "location": {
+        "page": 5,
+        "row": 4,
+        "col": 7
+      },
+      "connections": [
+        "Burning Heart",
+        "Stronger Bash",
+        "Mythril Skin"
+      ]
+    },
+    {
+      "name": "Comet",
+      "formattedName": "§6§lComet",
+      "description": [
+        "§7 ",
+        "§7After being hit by §nFireworks§r§7, enemies will crash",
+        "§7unto the ground and receive more damage.",
+        "§7 ",
+        "§c⚔ §7Total Damage: §f+100% §8(of your DPS)",
+        "§7  ÀÀÀÀ§8(§6✢ §8Damage: +80%)",
+        "§7  ÀÀÀÀ§8(§2✤ §8Earth: +20%)",
+        "§7 ",
+        "§c§lFallen Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Required Ability: §fFireworks"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 49
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": "Fireworks",
+      "requiredArchetype": null,
+      "archetype": "Fallen",
+      "location": {
+        "page": 5,
+        "row": 5,
+        "col": 2
+      },
+      "connections": [
+        "Intoxicating Blood",
+        "Ragnarokkr"
+      ]
+    },
+    {
+      "name": "Uncontainable Corruption",
+      "formattedName": "§f§lUncontainable Corruption",
+      "description": [
+        "§7 ",
+        "§7Reduces the cooldown of §nBak\u0027al\u0027s Grasp",
+        "§7by §f-5s§7, and increases the raw damage",
+        "§7gained for every §f2% §7of health lost by §f+1§7.",
+        "§7 ",
+        "§a✔ §7Ability Points: §f1",
+        "§c✖ §7Required Ability: §fBak\u0027al\u0027s Grasp"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": "Bak\u0027al\u0027s Grasp",
+      "requiredArchetype": null,
+      "archetype": null,
+      "location": {
+        "page": 6,
+        "row": 1,
+        "col": 0
+      },
+      "connections": [
+        "Boiling Blood",
+        "Intoxicating Blood",
+        "Armour Breaker",
+        "Radiant Devotee",
+        "Armour Breaker",
+        "Massive Bash"
+      ]
+    },
+    {
+      "name": "Radiant Devotee",
+      "formattedName": "§f§lRadiant Devotee",
+      "description": [
+        "§7 ",
+        "§7For every §f4%§7 Reflection you have from",
+        "§7items, gain §f+1/5s§7 Mana Regen (Max 10/5s)",
+        "§7 ",
+        "§e§lBattle Monk Archetype",
+        "",
+        "§a✔ §7Ability Points: §f1",
+        "§c✖ §7Min Battle Monk Archetype: §c0§7/1"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": {
+        "name": "Battle Monk",
+        "required": 1
+      },
+      "archetype": "Battle Monk",
+      "location": {
+        "page": 6,
+        "row": 1,
+        "col": 2
+      },
+      "connections": [
+        "Armour Breaker",
+        "Uncontainable Corruption",
+        "Whirlwind Strike"
+      ]
+    },
+    {
+      "name": "Whirlwind Strike",
+      "formattedName": "§c§lWhirlwind Strike",
+      "description": [
+        "§7 ",
+        "§7§nUppercut§r§7 will create a strong gust of air,",
+        "§7launching you upward with enemies.",
+        "§8(Hold shift to stay grounded)",
+        "§7 ",
+        "§c⚔ §7Total Damage: §f+10% §8(of your DPS)",
+        "§7  ÀÀÀÀ§8(§6✢ §8Damage: -20%)",
+        "§7  ÀÀÀÀ§8(§f❋ §8Air: +30%)",
+        "§3☀ §7Area of Effect: §fCircle-Shaped",
+        "§2➼ §7Range: §f+1 Blocks",
+        "§7 ",
+        "§e§lBattle Monk Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Required Ability: §fUppercut",
+        "§c✖ §7Min Battle Monk Archetype: §c0§7/6"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 57
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": "Uppercut",
+      "requiredArchetype": {
+        "name": "Battle Monk",
+        "required": 6
+      },
+      "archetype": "Battle Monk",
+      "location": {
+        "page": 6,
+        "row": 1,
+        "col": 4
+      },
+      "connections": [
+        "Collide",
+        "Cheaper War Scream",
+        "Radiant Devotee",
+        "Spirit of the Rabbit"
+      ]
+    },
+    {
+      "name": "Mythril Skin",
+      "formattedName": "§6§lMythril Skin",
+      "description": [
+        "§7 ",
+        "§7Gain §f+5% §7Base Resistance and",
+        "§7become immune to knockback.",
+        "§7 ",
+        "§b§lPaladin Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Min Paladin Archetype: §c0§7/6"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 49
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": {
+        "name": "Paladin",
+        "required": 6
+      },
+      "archetype": "Paladin",
+      "location": {
+        "page": 6,
+        "row": 1,
+        "col": 7
+      },
+      "connections": [
+        "Rejuvenating Skin",
+        "Shield Strike",
+        "Sparkling Hope",
+        "Cheaper Bash",
+        "Shield Strike",
+        "Sparkling Hope"
+      ]
+    },
+    {
+      "name": "Armour Breaker",
+      "formattedName": "§d§lArmour Breaker",
+      "description": [
+        "§7 ",
+        "§7While §bCorrupted §4☠§7, losing §f30%§7 Health will make",
+        "§7your next §nUppercut§r§7 reduce the enemies\u0027",
+        "§7defense stats.",
+        "§7 ",
+        "§e🛡 §7Effect: §f-30% §7Resistance Bonus (§c✃§7) to Enemies",
+        "§d⌛À §7Duration: §f8s",
+        "§7 ",
+        "§c§lFallen Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Required Ability: §fBak\u0027al\u0027s Grasp"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 53
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": "Bak\u0027al\u0027s Grasp",
+      "requiredArchetype": null,
+      "archetype": "Fallen",
+      "location": {
+        "page": 6,
+        "row": 2,
+        "col": 1
+      },
+      "connections": [
+        "Radiant Devotee",
+        "Uncontainable Corruption",
+        "Uncontainable Corruption",
+        "Massive Bash",
+        "Massive Bash",
+        "Massacre",
+        "Tempest"
+      ]
+    },
+    {
+      "name": "Shield Strike",
+      "formattedName": "§6§lShield Strike",
+      "description": [
+        "§7 ",
+        "§7Deals damage around you for each mantle lost",
+        "§7when §nMantle of the Bovemist§r§7 loses all charges.",
+        "§7 ",
+        "§c⚔ §7Total Damage: §f100% §8(of your DPS, per mantle lost)",
+        "§7  ÀÀÀÀ§8(§6✢ §8Damage: 70%)",
+        "§7  ÀÀÀÀ§8(§e✦ §8Thunder: 30%)",
+        "§3☀ §7Area of Effect: §f5 Blocks §7(Circle-Shaped)",
+        "",
+        "§b§lPaladin Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Required Ability: §fMantle of the Bovemists"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 49
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": "Mantle of the Bovemists",
+      "requiredArchetype": null,
+      "archetype": "Paladin",
+      "location": {
+        "page": 6,
+        "row": 2,
+        "col": 6
+      },
+      "connections": [
+        "Mythril Skin",
+        "Cheaper Bash",
+        "Mythril Skin",
+        "Sparkling Hope"
+      ]
+    },
+    {
+      "name": "Sparkling Hope",
+      "formattedName": "§d§lSparkling Hope",
+      "description": [
+        "§7 ",
+        "§7Deals damage to all nearby enemies every",
+        "§7time you heal §f5% §7of your max health.",
+        "§7 ",
+        "§c⚔ §7Total Damage: §f60% §8(of your DPS)",
+        "§7  ÀÀÀÀ§8(§6✢ §8Damage: 40%)",
+        "§7  ÀÀÀÀ§8(§e✦ §8Thunder: 20%)",
+        "§3☀ §7Area of Effect: §f6 Blocks §7(Circle-Shaped)",
+        "§7 ",
+        "§b§lPaladin Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 53
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": "Paladin",
+      "location": {
+        "page": 6,
+        "row": 2,
+        "col": 8
+      },
+      "connections": [
+        "Mythril Skin",
+        "Cheaper Bash",
+        "Mythril Skin",
+        "Shield Strike"
+      ]
+    },
+    {
+      "name": "Massive Bash",
+      "formattedName": "§d§lMassive Bash",
+      "description": [
+        "§7 ",
+        "§7While §bCorrupted §4☠§7, every §f3%§7 Health you",
+        "§7lose will increase §nBash§r§7\u0027s area of effect",
+        "§7radius by §f+1§7. (Max 10)",
+        "§7 ",
+        "§c§lFallen Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Min Fallen Archetype: §c0§7/7"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 53
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": {
+        "name": "Fallen",
+        "required": 7
+      },
+      "archetype": "Fallen",
+      "location": {
+        "page": 6,
+        "row": 3,
+        "col": 0
+      },
+      "connections": [
+        "Uncontainable Corruption",
+        "Armour Breaker",
+        "Massacre",
+        "Armour Breaker",
+        "Tempest",
+        "Cheaper War Scream",
+        "Massacre"
+      ]
+    },
+    {
+      "name": "Tempest",
+      "formattedName": "§6§lTempest",
+      "description": [
+        "§7 ",
+        "§7§nWar Scream§r§7 will ripple the ground and",
+        "§7deal damage to enemies §f3 §7times",
+        "§7over a large area.",
+        "",
+        "§c⚔ §7Total Damage: §f50% §8(of your DPS, per ripple)",
+        "§7  ÀÀÀÀ§8(§6✢ §8Damage: 30%)",
+        "§7  ÀÀÀÀ§8(§2✤ §8Earth: 10%)",
+        "§7  ÀÀÀÀ§8(§f❋ §8Air: 10%)",
+        "§3☀ §7Area of Effect: §f12 Blocks §7(Circle-Shaped)",
+        "§7 ",
+        "§e§lBattle Monk Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 49
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": "Battle Monk",
+      "location": {
+        "page": 6,
+        "row": 3,
+        "col": 2
+      },
+      "connections": [
+        "Massive Bash",
+        "Massacre",
+        "Armour Breaker",
+        "Spirit of the Rabbit",
+        "Axe Kick"
+      ]
+    },
+    {
+      "name": "Spirit of the Rabbit",
+      "formattedName": "§f§lSpirit of the Rabbit",
+      "description": [
+        "§7 ",
+        "§7Reduce the Mana cost of §nCharge",
+        "§7and increase your Walk Speed by §f+20%§7.",
+        "§7 ",
+        "§b✺ §7Mana Cost: §f-5",
+        "§7 ",
+        "§e§lBattle Monk Archetype",
+        "",
+        "§a✔ §7Ability Points: §f1",
+        "§c✖ §7Min Battle Monk Archetype: §c0§7/5"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": {
+        "name": "Battle Monk",
+        "required": 5
+      },
+      "archetype": "Battle Monk",
+      "location": {
+        "page": 6,
+        "row": 3,
+        "col": 4
+      },
+      "connections": [
+        "Whirlwind Strike",
+        "Tempest",
+        "Axe Kick",
+        "Radiance",
+        "Cyclone",
+        "Axe Kick",
+        "Radiance"
+      ]
+    },
+    {
+      "name": "Massacre",
+      "formattedName": "§6§lMassacre",
+      "description": [
+        "§7 ",
+        "§7While §bCorrupted §4☠§7, if your attack speed (affected by IDs)",
+        "§7is Slow or lower, hitting an enemy with your",
+        "§7Main Attack will add §f+4%§7 §bCorruption §4☠ §7to",
+        "§7your §bCorrupted §4☠ §7bar. (2s Cooldown)",
+        "§7 ",
+        "§c§lFallen Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Min Fallen Archetype: §c0§7/5"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 49
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": {
+        "name": "Fallen",
+        "required": 5
+      },
+      "archetype": "Fallen",
+      "location": {
+        "page": 6,
+        "row": 4,
+        "col": 1
+      },
+      "connections": [
+        "Massive Bash",
+        "Armour Breaker",
+        "Tempest",
+        "Massive Bash",
+        "Cheaper War Scream"
+      ]
+    },
+    {
+      "name": "Axe Kick",
+      "formattedName": "§f§lAxe Kick",
+      "description": [
+        "§7 ",
+        "§7Increases the damage and mana cost",
+        "§7of §nUppercut§r§7.",
+        "§7 ",
+        "§b✺ §7Mana Cost: §c+15",
+        "§c⚔ §7Total Damage: §f+150% §8(of your DPS)",
+        "§7  ÀÀÀÀ§8(§6✢ §8Damage: +150%)",
+        "§7 ",
+        "§a✔ §7Ability Points: §f1"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": null,
+      "location": {
+        "page": 6,
+        "row": 4,
+        "col": 3
+      },
+      "connections": [
+        "Spirit of the Rabbit",
+        "Tempest",
+        "Cyclone",
+        "Spirit of the Rabbit",
+        "Radiance"
+      ]
+    },
+    {
+      "name": "Radiance",
+      "formattedName": "§d§lRadiance",
+      "description": [
+        "§7 ",
+        "§7§nBash§r§7 will buff positive IDs of",
+        "§7yourself and allies. (15s Cooldown)",
+        "§8(Tomes are excluded, as well as",
+        "§8XP Bonus, Loot Bonus, Loot Quality,",
+        "§8Gather XP Bonus, and Gather Speed Bonus)",
+        "§7 ",
+        "§e🛡 §7Effect: §f+20% §7ID Effectiveness (§6❈§7) to Allies",
+        "§d⌛À §7Duration: §f8s",
+        "§7 ",
+        "§b§lPaladin Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Min Paladin Archetype: §c0§7/3"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 53
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": {
+        "name": "Paladin",
+        "required": 3
+      },
+      "archetype": "Paladin",
+      "location": {
+        "page": 6,
+        "row": 4,
+        "col": 5
+      },
+      "connections": [
+        "Spirit of the Rabbit",
+        "Cheaper Bash",
+        "Cyclone",
+        "Spirit of the Rabbit",
+        "Axe Kick"
+      ]
+    },
+    {
+      "name": "Cheaper Bash",
+      "formattedName": "§f§lCheaper Bash",
+      "description": [
+        "§7 ",
+        "§7Reduce the Mana cost of §nBash§r§7.",
+        "§7 ",
+        "§b✺ §7Mana Cost: §f-5",
+        "§7 ",
+        "§a✔ §7Ability Points: §f1"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": null,
+      "location": {
+        "page": 6,
+        "row": 4,
+        "col": 7
+      },
+      "connections": [
+        "Mythril Skin",
+        "Shield Strike",
+        "Sparkling Hope",
+        "Radiance",
+        "Second Chance"
+      ]
+    },
+    {
+      "name": "Cheaper War Scream",
+      "formattedName": "§f§lCheaper War Scream",
+      "description": [
+        "§7 ",
+        "§7Reduce the Mana cost of §nWar Scream§r§7.",
+        "§7 ",
+        "§b✺ §7Mana Cost: §f-5",
+        "§7 ",
+        "§a✔ §7Ability Points: §f1"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": null,
+      "location": {
+        "page": 7,
+        "row": 1,
+        "col": 0
+      },
+      "connections": [
+        "Massive Bash",
+        "Massacre",
+        "Better Enraged Blow",
+        "Discombobulate",
+        "Better Enraged Blow",
+        "Blood Pact"
+      ]
+    },
+    {
+      "name": "Discombobulate",
+      "formattedName": "§c§lDiscombobulate",
+      "description": [
+        "§7 ",
+        "§7Damaging enemies will inflict them",
+        "§7with §b+5 Discombobulated §e⚙§7. (Max 100)",
+        "§7 ",
+        "§7You will deal §f+1 §7neutral and elemental damage to",
+        "§7enemies for every §bDiscombobulated §e⚙ §7they have.",
+        "§f-5 §7of the bonus decays every second.",
+        "§7 ",
+        "§e§lBattle Monk Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Min Battle Monk Archetype: §c0§7/11"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 57
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": {
+        "name": "Battle Monk",
+        "required": 11
+      },
+      "archetype": "Battle Monk",
+      "location": {
+        "page": 7,
+        "row": 1,
+        "col": 2
+      },
+      "connections": [
+        "Better Enraged Blow",
+        "Cheaper War Scream",
+        "Cyclone"
+      ]
+    },
+    {
+      "name": "Cyclone",
+      "formattedName": "§6§lCyclone",
+      "description": [
+        "§7 ",
+        "§7After casting §nWar Scream§r§7, envelop yourself with",
+        "§7a vortex that damages nearby enemies every §f0.5s§7. ",
+        "§7 ",
+        "§c⚔ §7Total Damage: §f25% §8(of your DPS)",
+        "§7  ÀÀÀÀ§8(§6✢ §8Damage: 10%)",
+        "§7  ÀÀÀÀ§8(§f❋ §8Air: 10%)",
+        "§7  ÀÀÀÀ§8(§c✹ §8Fire: 5%)",
+        "§d⌛À §7Duration: §f20s",
+        "§3☀ §7Area of Effect: §f4 Blocks §7(Circle-Shaped)",
+        "",
+        "§e§lBattle Monk Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 49
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": "Battle Monk",
+      "location": {
+        "page": 7,
+        "row": 1,
+        "col": 4
+      },
+      "connections": [
+        "Spirit of the Rabbit",
+        "Axe Kick",
+        "Radiance",
+        "Discombobulate",
+        "Thunderclap"
+      ]
+    },
+    {
+      "name": "Better Enraged Blow",
+      "formattedName": "§f§lBetter Enraged Blow",
+      "description": [
+        "§7 ",
+        "§7Increases the cap of §nEnraged Blow§r§7 by §f+60%§7.",
+        "§7 ",
+        "§a✔ §7Ability Points: §f1",
+        "§c✖ §7Required Ability: §fEnraged Blow"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": "Enraged Blow",
+      "requiredArchetype": null,
+      "archetype": null,
+      "location": {
+        "page": 7,
+        "row": 2,
+        "col": 1
+      },
+      "connections": [
+        "Cheaper War Scream",
+        "Discombobulate",
+        "Blood Pact",
+        "Cheaper War Scream",
+        "Haemorrhage",
+        "Brink of Madness",
+        "Blood Pact"
+      ]
+    },
+    {
+      "name": "Thunderclap",
+      "formattedName": "§6§lThunderclap",
+      "description": [
+        "§7 ",
+        "§7§nBash§r§7 will cast at the player\u0027s position at",
+        "§7double the speed and with an increased area of effect.",
+        "§7 ",
+        "§c⚔ §7Total Damage: §f+25% §8(of your DPS, per bash)",
+        "§7  ÀÀÀÀ§8(§e✦ §8Thunder: +25%)",
+        "§3☀ §7Area of Effect: §f+3 Blocks §7(Circle-Shaped)",
+        "§7 ",
+        "§e§lBattle Monk Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Required Ability: §fBash",
+        "§c✖ §7Min Battle Monk Archetype: §c0§7/8"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 49
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": "Bash",
+      "requiredArchetype": {
+        "name": "Battle Monk",
+        "required": 8
+      },
+      "archetype": "Battle Monk",
+      "location": {
+        "page": 7,
+        "row": 2,
+        "col": 5
+      },
+      "connections": [
+        "Cyclone",
+        "Cheaper Uppercut",
+        "Second Chance"
+      ]
+    },
+    {
+      "name": "Second Chance",
+      "formattedName": "§c§lSecond Chance",
+      "description": [
+        "§7 ",
+        "§7Keeps you alive with §f30%§7 of your health remaining",
+        "§7after receiving a fatal blow. (10m Cooldown)",
+        "§7 ",
+        "§b§lPaladin Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Min Paladin Archetype: §c0§7/12"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 57
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": {
+        "name": "Paladin",
+        "required": 12
+      },
+      "archetype": "Paladin",
+      "location": {
+        "page": 7,
+        "row": 2,
+        "col": 7
+      },
+      "connections": [
+        "Cheaper Bash",
+        "Cheaper Uppercut",
+        "Thunderclap",
+        "Martyr"
+      ]
+    },
+    {
+      "name": "Blood Pact",
+      "formattedName": "§c§lBlood Pact",
+      "description": [
+        "§7 ",
+        "§7If you do not have enough mana to",
+        "§7cast a spell, spend health instead.",
+        "§7(§f0.4% §7health per mana)",
+        "§7 ",
+        "§c§lFallen Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2",
+        "§c✖ §7Min Fallen Archetype: §c0§7/10"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 57
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": {
+        "name": "Fallen",
+        "required": 10
+      },
+      "archetype": "Fallen",
+      "location": {
+        "page": 7,
+        "row": 3,
+        "col": 0
+      },
+      "connections": [
+        "Better Enraged Blow",
+        "Cheaper War Scream",
+        "Better Enraged Blow",
+        "Haemorrhage",
+        "Brink of Madness"
+      ]
+    },
+    {
+      "name": "Haemorrhage",
+      "formattedName": "§f§lHaemorrhage",
+      "description": [
+        "§7 ",
+        "§7Reduce §nBlood Pact§r§7\u0027s health cost.",
+        "§7(§f0.25% §7health per mana)",
+        "§7 ",
+        "§c§lFallen Archetype",
+        "",
+        "§a✔ §7Ability Points: §f1",
+        "§c✖ §7Required Ability: §fBlood Pact"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": "Blood Pact",
+      "requiredArchetype": null,
+      "archetype": "Fallen",
+      "location": {
+        "page": 7,
+        "row": 4,
+        "col": 2
+      },
+      "connections": [
+        "Better Enraged Blow",
+        "Brink of Madness",
+        "Blood Pact"
+      ]
+    },
+    {
+      "name": "Brink of Madness",
+      "formattedName": "§d§lBrink of Madness",
+      "description": [
+        "§7 ",
+        "§7You gain a §f+40%§7 Resistance buff",
+        "§7if your health is at §f25%§7 or less.",
+        "§7 ",
+        "§c✖ §7Ability Points: §f2"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 53
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": null,
+      "location": {
+        "page": 7,
+        "row": 4,
+        "col": 4
+      },
+      "connections": [
+        "Better Enraged Blow",
+        "Haemorrhage",
+        "Blood Pact",
+        "Cheaper Uppercut"
+      ]
+    },
+    {
+      "name": "Cheaper Uppercut",
+      "formattedName": "§f§lCheaper Uppercut",
+      "description": [
+        "§7 ",
+        "§7Reduce the Mana cost of §nUppercut§r§7.",
+        "§7 ",
+        "§b✺ §7Mana Cost: §f-5",
+        "§7 ",
+        "§a✔ §7Ability Points: §f1"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 45
+      },
+      "cost": 1,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": null,
+      "location": {
+        "page": 7,
+        "row": 4,
+        "col": 6
+      },
+      "connections": [
+        "Second Chance",
+        "Thunderclap",
+        "Brink of Madness"
+      ]
+    },
+    {
+      "name": "Martyr",
+      "formattedName": "§6§lMartyr",
+      "description": [
+        "§7 ",
+        "§7When you receive a fatal blow, all",
+        "§7nearby allies become invincible.",
+        "§7 ",
+        "§e🛡 §7Effect: §fInvincibility (§b☗§f) to Allies",
+        "§d⌛À §7Duration: §f3s",
+        "§3☀ §7Area of Effect: §f12 Blocks §7(Circle-Shaped)",
+        "",
+        "§b§lPaladin Archetype",
+        "",
+        "§c✖ §7Ability Points: §f2"
+      ],
+      "itemInformation": {
+        "itemId": 760,
+        "damage": 49
+      },
+      "cost": 2,
+      "blocks": [],
+      "requiredAbility": null,
+      "requiredArchetype": null,
+      "archetype": "Paladin",
+      "location": {
+        "page": 7,
+        "row": 4,
+        "col": 8
+      },
+      "connections": [
+        "Second Chance"
+      ]
+    }
+  ]
+}
