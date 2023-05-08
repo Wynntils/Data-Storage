@@ -694,9 +694,7 @@
         "row": 1,
         "col": 1
       },
-      "connections": [
-        24
-      ]
+      "connections": []
     },
     {
       "id": 22,
@@ -810,9 +808,7 @@
         "row": 2,
         "col": 0
       },
-      "connections": [
-        27
-      ]
+      "connections": []
     },
     {
       "id": 25,
@@ -871,8 +867,7 @@
       "connections": [
         29,
         25,
-        33,
-        30
+        33
       ]
     },
     {
@@ -902,7 +897,6 @@
         "col": 0
       },
       "connections": [
-        28,
         31
       ]
     },
@@ -931,6 +925,7 @@
         "col": 2
       },
       "connections": [
+        27,
         31
       ]
     },
@@ -958,9 +953,7 @@
         "row": 4,
         "col": 5
       },
-      "connections": [
-        32
-      ]
+      "connections": []
     },
     {
       "id": 30,
@@ -987,9 +980,7 @@
         "row": 4,
         "col": 8
       },
-      "connections": [
-        33
-      ]
+      "connections": []
     },
     {
       "id": 31,
@@ -1022,10 +1013,7 @@
         "row": 1,
         "col": 1
       },
-      "connections": [
-        34,
-        35
-      ]
+      "connections": []
     },
     {
       "id": 32,
@@ -1085,10 +1073,7 @@
       },
       "connections": [
         36,
-        32,
-        37,
-        36,
-        37
+        32
       ]
     },
     {
@@ -1121,9 +1106,7 @@
         "row": 2,
         "col": 0
       },
-      "connections": [
-        39
-      ]
+      "connections": []
     },
     {
       "id": 35,
@@ -1149,9 +1132,7 @@
         "row": 2,
         "col": 2
       },
-      "connections": [
-        40
-      ]
+      "connections": []
     },
     {
       "id": 36,
@@ -1196,7 +1177,6 @@
         "col": 5
       },
       "connections": [
-        38,
         41,
         37
       ]
@@ -1261,8 +1241,7 @@
         41,
         43,
         40,
-        46,
-        41
+        46
       ]
     },
     {
@@ -1426,9 +1405,7 @@
         "row": 5,
         "col": 3
       },
-      "connections": [
-        46
-      ]
+      "connections": []
     },
     {
       "id": 44,
@@ -1454,9 +1431,7 @@
         "row": 5,
         "col": 6
       },
-      "connections": [
-        47
-      ]
+      "connections": []
     },
     {
       "id": 45,
@@ -1516,8 +1491,7 @@
       "connections": [
         48,
         45,
-        51,
-        49
+        51
       ]
     },
     {
@@ -1558,10 +1532,7 @@
         "row": 1,
         "col": 7
       },
-      "connections": [
-        52,
-        53
-      ]
+      "connections": []
     },
     {
       "id": 48,
@@ -1588,11 +1559,7 @@
         "row": 2,
         "col": 2
       },
-      "connections": [
-        50,
-        50,
-        51
-      ]
+      "connections": []
     },
     {
       "id": 49,
@@ -1623,13 +1590,7 @@
         "row": 2,
         "col": 5
       },
-      "connections": [
-        51,
-        52,
-        55,
-        51,
-        52
-      ]
+      "connections": []
     },
     {
       "id": 50,
@@ -1666,7 +1627,6 @@
         "col": 1
       },
       "connections": [
-        54,
         54,
         57
       ]
@@ -1804,9 +1764,7 @@
         "row": 4,
         "col": 0
       },
-      "connections": [
-        57
-      ]
+      "connections": []
     },
     {
       "id": 55,
@@ -1911,11 +1869,9 @@
         "col": 1
       },
       "connections": [
-        60,
         61,
         60,
-        65,
-        61
+        65
       ]
     },
     {
@@ -1952,7 +1908,6 @@
         "col": 5
       },
       "connections": [
-        62,
         63,
         59
       ]
@@ -1984,9 +1939,7 @@
         "row": 1,
         "col": 7
       },
-      "connections": [
-        64
-      ]
+      "connections": []
     },
     {
       "id": 60,
@@ -2017,7 +1970,6 @@
         "col": 0
       },
       "connections": [
-        61,
         65
       ]
     },
@@ -2054,6 +2006,7 @@
         "col": 2
       },
       "connections": [
+        60,
         65,
         62
       ]
@@ -2083,9 +2036,7 @@
         "row": 2,
         "col": 4
       },
-      "connections": [
-        63
-      ]
+      "connections": []
     },
     {
       "id": 63,
@@ -2147,9 +2098,7 @@
         "row": 3,
         "col": 8
       },
-      "connections": [
-        66
-      ]
+      "connections": []
     },
     {
       "id": 65,
