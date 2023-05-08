@@ -15,9 +15,7 @@
         "§7  ÀÀÀÀ§8(§6✢ §8Damage: 6%)",
         "§7  ÀÀÀÀ§8(§f❋ §8Air: 6%)",
         "§d⌛À §7Duration: §f30s",
-        "§3☀ §7Area of Effect: §f8 Blocks §7(Circle-Shaped)",
-        "§7 ",
-        "§a✔ §7Ability Points: §f1"
+        "§3☀ §7Area of Effect: §f8 Blocks §7(Circle-Shaped)"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -46,9 +44,7 @@
         "§fDouble§7 your §nMain Attack§r§7\u0027s beam speed and",
         "§7increase your damage when using a relik.",
         "§7 ",
-        "§c⚔ §7Main Attack Damage: §f+5%",
-        "§7 ",
-        "§a✔ §7Ability Points: §f1"
+        "§c⚔ §7Main Attack Damage: §f+5%"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -78,10 +74,7 @@
         "",
         "§7Reduce the mana cost of §nTotem§r§7.",
         "§7 ",
-        "§b✺ §7Mana Cost: §f-10",
-        "§7 ",
-        "§a✔ §7Ability Points: §f1",
-        "§c✖ §7Required Ability: §fTotem"
+        "§b✺ §7Mana Cost: §f-10"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -112,9 +105,7 @@
         "§c⚔ §7Total Damage: §f130% §8(of your DPS)",
         "§7  ÀÀÀÀ§8(§6✢ §8Damage: 100%)",
         "§7  ÀÀÀÀ§8(§c✹ §8Fire: 30%)",
-        "§3☀ §7Area of Effect: §f3.5 Blocks §7(Circle-Shaped)",
-        "",
-        "§a✔ §7Ability Points: §f1"
+        "§3☀ §7Area of Effect: §f3.5 Blocks §7(Circle-Shaped)"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -147,9 +138,7 @@
         "§cUnlocking will block:",
         "§c- §7Hand of the Shaman",
         "",
-        "§6§lSummoner Archetype",
-        "",
-        "§a✔ §7Ability Points: §f1"
+        "§6§lSummoner Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -181,9 +170,7 @@
         "§7 ",
         "§7Leap towards your §bTotem§7.",
         "",
-        "§b✺ §7Mana Cost: §f15",
-        "§7 ",
-        "§a✔ §7Ability Points: §f1"
+        "§b✺ §7Mana Cost: §f15"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -217,9 +204,7 @@
         "§cUnlocking will block:",
         "§c- §7Distant Grasp",
         "",
-        "§c§lAcolyte Archetype",
-        "",
-        "§a✔ §7Ability Points: §f1"
+        "§c§lAcolyte Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -259,9 +244,7 @@
         "§7  ÀÀÀÀ§8(§2✤ §8Earth: 30%)",
         "§7  ÀÀÀÀ§8(§e✦ §8Thunder: 20%)",
         "§2➼ §7Range: §f18 Blocks",
-        "§3☀ §7Area of Effect: §f5 Blocks §7(Circle-Shaped)",
-        "§7 ",
-        "§a✔ §7Ability Points: §f1"
+        "§3☀ §7Area of Effect: §f5 Blocks §7(Circle-Shaped)"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -292,10 +275,7 @@
         "",
         "§7Reduce the mana cost of §nHaul§r§7.",
         "§7 ",
-        "§b✺ §7Mana Cost: §f-5",
-        "§7 ",
-        "§a✔ §7Ability Points: §f1",
-        "§c✖ §7Required Ability: §fHaul"
+        "§b✺ §7Mana Cost: §f-5"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -332,9 +312,7 @@
         "§c⚔ §7Total Damage: §f180% §8(of your DPS)",
         "§7  ÀÀÀÀ§8(§6✢ §8Damage: 150%)",
         "§7  ÀÀÀÀ§8(§b❉ §8Water: 30%)",
-        "§2➼ §7Range: §f16 Blocks",
-        "§7 ",
-        "§a✔ §7Ability Points: §f1"
+        "§2➼ §7Range: §f16 Blocks"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -369,9 +347,7 @@
         "§2✤ §7Earth Damage: §f+2-4",
         "§2✤ §7Earth Damage: §f+20%",
         "§7 ",
-        "§6§lSummoner Archetype",
-        "",
-        "§a✔ §7Ability Points: §f1"
+        "§6§lSummoner Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -405,9 +381,7 @@
         "§f❋ §7Air Damage: §f+3-4",
         "§f❋ §7Air Damage: §f+15%",
         "§7 ",
-        "§6§lSummoner Archetype",
-        "",
-        "§a✔ §7Ability Points: §f1"
+        "§6§lSummoner Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -443,9 +417,7 @@
         "§e✦ §7Thunder Damage: §f+1-8",
         "§e✦ §7Thunder Damage: §f+10%",
         "§7 ",
-        "§c§lAcolyte Archetype",
-        "",
-        "§a✔ §7Ability Points: §f1"
+        "§c§lAcolyte Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -482,9 +454,7 @@
         "§c✹ §7Fire Damage: §f+3-5",
         "§c✹ §7Fire Damage: §f+15%",
         "§7 ",
-        "§c§lAcolyte Archetype",
-        "",
-        "§a✔ §7Ability Points: §f1"
+        "§c§lAcolyte Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -517,10 +487,7 @@
         "§c⚔ §7Total Damage: §f120% §8(of your DPS)",
         "§7  ÀÀÀÀ§8(§6✢ §8Damage: 90%)",
         "§7  ÀÀÀÀ§8(§2✤ §8Earth: 30%)",
-        "§3☀ §7Area of Effect: §f3.5 Blocks §7(Circle-Shaped)",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Required Ability: §fHaul"
+        "§3☀ §7Area of Effect: §f3.5 Blocks §7(Circle-Shaped)"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -554,9 +521,7 @@
         "§b❉ §7Water Damage: §f+2-4",
         "§b❉ §7Water Damage: §f+15%",
         "§7 ",
-        "§a§lRitualist Archetype",
-        "",
-        "§a✔ §7Ability Points: §f1"
+        "§a§lRitualist Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -592,10 +557,7 @@
         "§c⚔ §7Total Damage: §f+20% §8(of your DPS)",
         "§7  ÀÀÀÀ§8(§e✦ §8Thunder: +20%)",
         "",
-        "§c§lAcolyte Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Required Ability: §fAura"
+        "§c§lAcolyte Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -633,10 +595,7 @@
         "§7  ÀÀÀÀ§8(§e✦ §8Thunder: -15%)",
         "§7  ÀÀÀÀ§8(§c✹ §8Fire: +10%)",
         "",
-        "§c§lAcolyte Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Required Ability: §fUproot"
+        "§c§lAcolyte Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -670,10 +629,7 @@
         "",
         "§2➼ §7Range: §f+6 Blocks",
         "",
-        "§6§lSummoner Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Required Ability: §fUproot"
+        "§6§lSummoner Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -710,9 +666,7 @@
         "§d⌛À §7Duration: §f6s",
         "§3☀ §7Area of Effect: §f3.5 Blocks §7(Line-Shaped)",
         "",
-        "§a§lRitualist Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2"
+        "§a§lRitualist Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -750,11 +704,7 @@
         "§d⌛À §7Duration: §f30s",
         "§2➼ §7Range: §f16 Blocks",
         "§7 ",
-        "§6§lSummoner Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Required Ability: §fTotem",
-        "§c✖ §7Min Summoner Archetype: §c0§7/3"
+        "§6§lSummoner Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -799,11 +749,7 @@
         "§cUnlocking will block:",
         "§c- §7Blood Sorrow",
         "",
-        "§a§lRitualist Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Required Ability: §fUproot",
-        "§c✖ §7Min Ritualist Archetype: §c0§7/2"
+        "§a§lRitualist Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -846,11 +792,7 @@
         "§cUnlocking will block:",
         "§c- §7Regeneration",
         "",
-        "§c§lAcolyte Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Required Ability: §fTotem",
-        "§c✖ §7Min Acolyte Archetype: §c0§7/3"
+        "§c§lAcolyte Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -885,10 +827,7 @@
         "§7 ",
         "§7Increase your Max §bPuppets§7 by §f+1§7.",
         "§7 ",
-        "§6§lSummoner Archetype",
-        "",
-        "§a✔ §7Ability Points: §f1",
-        "§c✖ §7Required Ability: §fPuppet Master"
+        "§6§lSummoner Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -917,10 +856,7 @@
         "",
         "§7Reduce the mana cost of §nUproot§r§7.",
         "§7 ",
-        "§b✺ §7Mana Cost: §f-5",
-        "§7 ",
-        "§a✔ §7Ability Points: §f1",
-        "§c✖ §7Required Ability: §fUproot"
+        "§b✺ §7Mana Cost: §f-5"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -941,7 +877,6 @@
         28,
         29,
         26,
-        29,
         32
       ]
     },
@@ -953,10 +888,7 @@
         "",
         "§7Once §nAura§r§7 reaches its maximum",
         "§7range, it will bounce back and",
-        "§7deal its effects a second time.",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Required Ability: §fAura"
+        "§7deal its effects a second time."
       ],
       "itemInformation": {
         "itemId": 781,
@@ -977,7 +909,6 @@
         29,
         25,
         30,
-        30,
         33
       ]
     },
@@ -991,10 +922,7 @@
         "§7will be slowed down.",
         "",
         "§e🛡 §7Effect: §f30% §7Slowness (§c⬤§7) to Enemies",
-        "§d⌛À §7Duration: §f3s",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Required Ability: §fNature\u0027s Jolt"
+        "§d⌛À §7Duration: §f3s"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1024,10 +952,7 @@
         "",
         "§7Reduce the mana cost of §nAura§r§7.",
         "§7 ",
-        "§b✺ §7Mana Cost: §f-5",
-        "§7 ",
-        "§a✔ §7Ability Points: §f1",
-        "§c✖ §7Required Ability: §fAura"
+        "§b✺ §7Mana Cost: §f-5"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1057,10 +982,7 @@
         "§7 ",
         "§7Increase your §nTotem§r§7\u0027s area of effect.",
         "",
-        "§3☀ §7Area of Effect: §f+4 Blocks §7(Circle-Shaped)",
-        "§7 ",
-        "§a✔ §7Ability Points: §f1",
-        "§c✖ §7Required Ability: §fTotem"
+        "§3☀ §7Area of Effect: §f+4 Blocks §7(Circle-Shaped)"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1078,9 +1000,7 @@
       },
       "connections": [
         26,
-        25,
-        25,
-        32
+        25
       ]
     },
     {
@@ -1092,10 +1012,7 @@
         "§7If you are outside of your §nTotem§r§7\u0027s",
         "§7range, §nHaul§r§7 will teleport you to it.",
         "",
-        "§c§lAcolyte Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Required Ability: §fHaul"
+        "§c§lAcolyte Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1112,9 +1029,7 @@
         "col": 8
       },
       "connections": [
-        26,
-        26,
-        33
+        26
       ]
     },
     {
@@ -1132,10 +1047,7 @@
         "§7  ÀÀÀÀ§8(§c✹ §8Fire: 100%)",
         "§3☀ §7Area of Effect: §f3 Blocks §7(Circle-Shaped)",
         "",
-        "§6§lSummoner Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Required Ability: §fPuppet Master"
+        "§6§lSummoner Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1168,10 +1080,7 @@
         "§7an enemy with §nAura§r§7 will cast a new §nAura",
         "§7at its location, dealing §f-50%§7 of its damage.",
         "",
-        "§a§lRitualist Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Required Ability: §fMask of the Lunatic"
+        "§a§lRitualist Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1188,13 +1097,9 @@
         "col": 4
       },
       "connections": [
-        29,
         25,
         33,
-        37,
-        36,
-        36,
-        38
+        36
       ]
     },
     {
@@ -1205,10 +1110,7 @@
         "§7 ",
         "§7Increase your maximum §bBlood Pool §4§l⚕ §7by §f+30§7 points.",
         "§7 ",
-        "§c§lAcolyte Archetype",
-        "",
-        "§a✔ §7Ability Points: §f1",
-        "§c✖ §7Required Ability: §fSacrificial Shrine"
+        "§c§lAcolyte Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1226,8 +1128,6 @@
       },
       "connections": [
         26,
-        30,
-        37,
         36,
         32,
         37
@@ -1247,10 +1147,7 @@
         "§e🛡 §7Effect: §f+20% §7Damage Bonus to Summons",
         "§d⌛À §7Duration: §f10s",
         "",
-        "§6§lSummoner Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Required Ability: §fUproot"
+        "§6§lSummoner Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1279,10 +1176,7 @@
         "§7 ",
         "§7Increase your Max §bPuppets§7 by §f+2§7.",
         "§7 ",
-        "§6§lSummoner Archetype",
-        "",
-        "§a✔ §7Ability Points: §f1",
-        "§c✖ §7Required Ability: §fMore Puppets"
+        "§6§lSummoner Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1324,10 +1218,7 @@
         "§cUnlocking will block:",
         "§c- §7Blood Sorrow",
         "",
-        "§a§lRitualist Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Min Ritualist Archetype: §c0§7/3"
+        "§a§lRitualist Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1350,12 +1241,10 @@
       },
       "connections": [
         33,
-        37,
         32,
         38,
-        32,
-        41,
-        38
+        37,
+        41
       ]
     },
     {
@@ -1369,9 +1258,7 @@
         "",
         "§e🛡 §7Effect: §f+20% §7Damage Bonus (§a⚔§7) to Allies",
         "",
-        "§c§lAcolyte Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2"
+        "§c§lAcolyte Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1390,8 +1277,6 @@
       "connections": [
         33,
         36,
-        32,
-        33,
         42
       ]
     },
@@ -1404,10 +1289,7 @@
         "§7Switching between §bMasks §f2§7 times",
         "§7will give you §f30 §7Mana.",
         "§7 ",
-        "§a§lRitualist Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Required Ability: §fMask of the Lunatic"
+        "§a§lRitualist Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1424,14 +1306,7 @@
         "col": 4
       },
       "connections": [
-        36,
-        32,
-        41,
-        36,
-        40,
-        41,
-        43,
-        46
+        36
       ]
     },
     {
@@ -1446,11 +1321,7 @@
         "§7§nRegeneration§r§7 and §nSacrificial Shrine",
         "§7will heal §c40% §7less health.",
         "",
-        "§6§lSummoner Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Required Ability: §fAura",
-        "§c✖ §7Min Summoner Archetype: §c0§7/2"
+        "§6§lSummoner Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1483,10 +1354,7 @@
         "",
         "§7Reduce the mana cost of §nTotem§r§7.",
         "§7 ",
-        "§b✺ §7Mana Cost: §f-5",
-        "§7 ",
-        "§a✔ §7Ability Points: §f1",
-        "§c✖ §7Required Ability: §fTotem"
+        "§b✺ §7Mana Cost: §f-5"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1508,7 +1376,6 @@
         45,
         41,
         43,
-        38,
         46
       ]
     },
@@ -1524,10 +1391,7 @@
         "§c⚔ §7Total Damage: §f+30% §8(of your DPS)",
         "§7  ÀÀÀÀ§8(§f❋ §8Air: +30%)",
         "",
-        "§a§lRitualist Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Required Ability: §fAura"
+        "§a§lRitualist Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1545,10 +1409,8 @@
       },
       "connections": [
         36,
-        38,
         40,
         43,
-        38,
         46,
         47,
         42,
@@ -1562,9 +1424,7 @@
       "description": [
         "§7 ",
         "§7For every §f1%§7 Soul Point Regen you have",
-        "§7from items, gain §f+5/3s§7 Lifesteal. (Max 1000/3s)",
-        "§7 ",
-        "§a✔ §7Ability Points: §f1"
+        "§7from items, gain §f+5/3s§7 Lifesteal. (Max 1000/3s)"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1599,9 +1459,7 @@
         "§c❤ §7Total Heal: §f1% §8(of your max health)",
         "",
         "§cUnlocking will block:",
-        "§c- §7Sacrificial Shrine",
-        "",
-        "§c✖ §7Ability Points: §f2"
+        "§c- §7Sacrificial Shrine"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1622,7 +1480,6 @@
       "connections": [
         40,
         41,
-        38,
         46
       ]
     },
@@ -1634,10 +1491,7 @@
         "",
         "§7Reduce the mana cost of §nHaul§r§7.",
         "§7 ",
-        "§b✺ §7Mana Cost: §f-5",
-        "§7 ",
-        "§a✔ §7Ability Points: §f1",
-        "§c✖ §7Required Ability: §fHaul"
+        "§b✺ §7Mana Cost: §f-5"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1667,10 +1521,7 @@
         "",
         "§7Reduce the mana cost of §nAura§r§7.",
         "§7 ",
-        "§b✺ §7Mana Cost: §f-5",
-        "§7 ",
-        "§a✔ §7Ability Points: §f1",
-        "§c✖ §7Required Ability: §fAura"
+        "§b✺ §7Mana Cost: §f-5"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1691,7 +1542,6 @@
         39,
         48,
         46,
-        48,
         50
       ]
     },
@@ -1705,10 +1555,7 @@
         "§7your §nTotem§r§7 will move towards the",
         "§7nearest enemy outside of its range.",
         "§7 ",
-        "§a§lRitualist Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Required Ability: §fMask of the Fanatic"
+        "§a§lRitualist Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1728,12 +1575,8 @@
         40,
         41,
         43,
-        38,
         48,
         45,
-        47,
-        49,
-        52,
         49,
         51
       ]
@@ -1757,10 +1600,7 @@
         "§2➼ §7Range: §f24 Blocks",
         "§d⌛À §7Duration: §f5s",
         "",
-        "§c§lAcolyte Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Min Acolyte Archetype: §c0§7/7"
+        "§c§lAcolyte Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1783,9 +1623,7 @@
         41,
         42,
         44,
-        49,
         52,
-        46,
         53
       ]
     },
@@ -1798,10 +1636,7 @@
         "§7Increase §nTotem§r§7\u0027s damage.",
         "",
         "§c⚔ §7Total Damage: §f+4% §8(of your DPS)",
-        "§7  ÀÀÀÀ§8(§6✢ §8Damage: +4%)",
-        "§7 ",
-        "§a✔ §7Ability Points: §f1",
-        "§c✖ §7Required Ability: §fTotem"
+        "§7  ÀÀÀÀ§8(§6✢ §8Damage: +4%)"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1819,11 +1654,7 @@
       },
       "connections": [
         45,
-        46,
-        50,
-        45,
-        50,
-        51
+        46
       ]
     },
     {
@@ -1836,11 +1667,7 @@
         "§7less §bMask§7 switch. Reduces mana ",
         "§7bonus by §f-10§7.",
         "§7 ",
-        "§a§lRitualist Archetype",
-        "",
-        "§a✔ §7Ability Points: §f1",
-        "§c✖ §7Required Ability: §fMasquerade",
-        "§c✖ §7Min Ritualist Archetype: §c0§7/6"
+        "§a§lRitualist Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1860,14 +1687,7 @@
         "col": 5
       },
       "connections": [
-        47,
-        52,
-        46,
-        51,
-        46,
-        55,
-        51,
-        52
+        46
       ]
     },
     {
@@ -1885,11 +1705,7 @@
         "§7  ÀÀÀÀ§8(§b❉ §8Water: 30%)",
         "§d⌛À §7Duration: §f60s",
         "",
-        "§6§lSummoner Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Required Ability: §fUproot",
-        "§c✖ §7Min Summoner Archetype: §c0§7/8"
+        "§6§lSummoner Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1909,13 +1725,9 @@
         "col": 1
       },
       "connections": [
-        48,
         45,
         54,
-        48,
-        51,
-        54,
-        57
+        51
       ]
     },
     {
@@ -1939,10 +1751,7 @@
         "§cUnlocking will block:",
         "§c- §7Blood Sorrow",
         "",
-        "§a§lRitualist Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Min Ritualist Archetype: §c0§7/7"
+        "§a§lRitualist Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1964,12 +1773,9 @@
         "col": 4
       },
       "connections": [
-        49,
         46,
-        48,
         50,
         55,
-        49,
         52
       ]
     },
@@ -1981,10 +1787,7 @@
         "§7 ",
         "§7Increases §nAura§r§7\u0027s healing by §f+0.3%§7 for",
         "§7every §f1% §b❉ §7Water Damage Bonus you",
-        "§7have from items.",
-        "§7 ",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Required Ability: §fSacrificial Shrine"
+        "§7have from items."
       ],
       "itemInformation": {
         "itemId": 781,
@@ -2002,10 +1805,7 @@
       },
       "connections": [
         47,
-        49,
-        46,
         55,
-        49,
         51,
         53,
         56
@@ -2019,10 +1819,7 @@
         "§7 ",
         "§7Increase your maximum §bBlood Pool §4§l⚕ §7by §f+30§7 points.",
         "§7 ",
-        "§c§lAcolyte Archetype",
-        "",
-        "§a✔ §7Ability Points: §f1",
-        "§c✖ §7Required Ability: §fSacrificial Shrine"
+        "§c§lAcolyte Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -2055,10 +1852,7 @@
         "§e🛡 §7Effect: §f40% §7Slowness (§c⬤§7) to Enemies",
         "§d⌛À §7Duration: §f3s",
         "",
-        "§6§lSummoner Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Required Ability: §fUproot"
+        "§6§lSummoner Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -2076,7 +1870,6 @@
       },
       "connections": [
         50,
-        50,
         57
       ]
     },
@@ -2093,11 +1886,7 @@
         "§7  ÀÀÀÀ§8(§6✢ §8Damage: 200%)",
         "§3☀ §7Area of Effect: §f8 Blocks §7(Circle-Shaped)",
         "",
-        "§a§lRitualist Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Required Ability: §fMask of the Coward",
-        "§c✖ §7Min Ritualist Archetype: §c0§7/7"
+        "§a§lRitualist Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -2117,7 +1906,6 @@
         "col": 5
       },
       "connections": [
-        49,
         51,
         52,
         58
@@ -2135,11 +1923,7 @@
         "§7health is added to your §bBlood Pool §4§l⚕§7.",
         "§8(Max 10 points per hit)",
         "§7 ",
-        "§c§lAcolyte Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Required Ability: §fSacrificial Shrine",
-        "§c✖ §7Min Acolyte Archetype: §c0§7/9"
+        "§c§lAcolyte Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -2176,11 +1960,7 @@
         "§7  ÀÀÀÀ§8(§6✢ §8Damage: -10%)",
         "§7  ÀÀÀÀ§8(§b❉ §8Water: -10%)",
         "",
-        "§6§lSummoner Archetype",
-        "",
-        "§a✔ §7Ability Points: §f1",
-        "§c✖ §7Required Ability: §fCrimson Effigy",
-        "§c✖ §7Min Summoner Archetype: §c0§7/8"
+        "§6§lSummoner Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -2201,12 +1981,8 @@
       },
       "connections": [
         54,
-        50,
         60,
-        61,
-        61,
-        65,
-        60
+        61
       ]
     },
     {
@@ -2223,11 +1999,7 @@
         "§d⌛À §7Duration: §f3s",
         "§3☀ §7Area of Effect: §f8 Blocks §7(Circle-Shaped)",
         "",
-        "§a§lRitualist Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Required Ability: §fMask of the Fanatic",
-        "§c✖ §7Min Ritualist Archetype: §c0§7/10"
+        "§a§lRitualist Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -2250,7 +2022,6 @@
         55,
         62,
         59,
-        62,
         63
       ]
     },
@@ -2265,10 +2036,7 @@
         "§c⚔ §7Total Damage: §f+10% §8(of your DPS)",
         "§7  ÀÀÀÀ§8(§6✢ §8Damage: +10%)",
         "",
-        "§c§lAcolyte Archetype",
-        "",
-        "§a✔ §7Ability Points: §f1",
-        "§c✖ §7Required Ability: §fTwisted Tether"
+        "§c§lAcolyte Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -2302,10 +2070,7 @@
         "§7§nRegeneration§r§7 and §nSacrificial Shrine",
         "§7will heal §c50% §7less health.",
         "",
-        "§6§lSummoner Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Required Ability: §fDouble Totem"
+        "§6§lSummoner Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -2324,8 +2089,7 @@
       "connections": [
         57,
         61,
-        65,
-        57
+        65
       ]
     },
     {
@@ -2341,11 +2105,7 @@
         "§e🛡 §7Effect: §f+30% §7Attack Speed to Summons",
         "§d⌛À §7Duration: §f2.5s",
         "",
-        "§6§lSummoner Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Required Ability: §fAura",
-        "§c✖ §7Min Summoner Archetype: §c0§7/3"
+        "§6§lSummoner Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -2367,7 +2127,6 @@
       "connections": [
         57,
         65,
-        57,
         60,
         62
       ]
@@ -2381,9 +2140,7 @@
         "§7For every §f1% §7Thorns you have from",
         "§7items, gain §f+1% §b❉ §7Water Damage. (Max 40%)",
         "§7 ",
-        "§a§lRitualist Archetype",
-        "",
-        "§a✔ §7Ability Points: §f1"
+        "§a§lRitualist Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -2401,9 +2158,7 @@
       },
       "connections": [
         58,
-        61,
-        63,
-        58
+        61
       ]
     },
     {
@@ -2422,10 +2177,7 @@
         "§7  ÀÀÀÀ§8(§b❉ §8Water: 30%)",
         "§3☀ §7Area of Effect: §f3 Blocks §7(Circle-Shaped)",
         "",
-        "§a§lRitualist Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Required Ability: §fMask of the Coward"
+        "§a§lRitualist Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -2442,7 +2194,6 @@
         "col": 5
       },
       "connections": [
-        62,
         58,
         68
       ]
@@ -2455,10 +2206,7 @@
         "§7 ",
         "§7Increase your maximum §bBlood Pool §4§l⚕ §7by §f+30§7 points.",
         "§7 ",
-        "§c§lAcolyte Archetype",
-        "",
-        "§a✔ §7Ability Points: §f1",
-        "§c✖ §7Required Ability: §fSacrificial Shrine"
+        "§c§lAcolyte Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -2488,11 +2236,7 @@
         "§7When you or your §bSummons§7 kill an enemy,",
         "§7gain §f+1 §bMax Puppets §6⚘ §7for §f15s§7. (Max +8)",
         "",
-        "§6§lSummoner Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Required Ability: §fPuppet Master",
-        "§c✖ §7Min Summoner Archetype: §c0§7/12"
+        "§6§lSummoner Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -2513,7 +2257,6 @@
       },
       "connections": [
         61,
-        57,
         60,
         67
       ]
@@ -2547,11 +2290,7 @@
         "§c- §7Mask of the Fanatic",
         "§c- §7Mask of the Coward",
         "",
-        "§c§lAcolyte Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Required Ability: §fUproot",
-        "§c✖ §7Min Acolyte Archetype: §c0§7/12"
+        "§c§lAcolyte Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -2587,10 +2326,7 @@
         "",
         "§7Reduce the mana cost of §nUproot§r§7.",
         "§7 ",
-        "§b✺ §7Mana Cost: §f-5",
-        "§7 ",
-        "§a✔ §7Ability Points: §f1",
-        "§c✖ §7Required Ability: §fUproot"
+        "§b✺ §7Mana Cost: §f-5"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -2626,11 +2362,7 @@
         "§cUnlocking will block:",
         "§c- §7Blood Sorrow",
         "",
-        "§a§lRitualist Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Required Ability: §fUproot",
-        "§c✖ §7Min Ritualist Archetype: §c0§7/12"
+        "§a§lRitualist Archetype"
       ],
       "itemInformation": {
         "itemId": 781,

@@ -16,9 +16,7 @@
         "§7  ÀÀÀÀ§8(§6✢ §8Damage: 160%)",
         "§7  ÀÀÀÀ§8(§c✹ §8Fire: 20%)",
         "§2➼ §7Range: §f±26 Blocks",
-        "§3☀ §7Area of Effect: §f4.5 Blocks §7(Circle-Shaped)",
-        "§7 ",
-        "§a✔ §7Ability Points: §f1"
+        "§3☀ §7Area of Effect: §f4.5 Blocks §7(Circle-Shaped)"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -48,9 +46,7 @@
         "§7and range when using a bow.",
         "§7 ",
         "§c⚔ §7Main Attack Damage: §f+5%",
-        "§2➼ §7Main Attack Range: §f+6 Blocks",
-        "§7 ",
-        "§a✔ §7Ability Points: §f1"
+        "§2➼ §7Main Attack Range: §f+6 Blocks"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -80,9 +76,7 @@
         "§7 ",
         "§7Reduce the Mana cost of §nArrow Bomb§r§7.",
         "§7 ",
-        "§b✺ §7Mana Cost: §f-10",
-        "§7 ",
-        "§a✔ §7Ability Points: §f1"
+        "§b✺ §7Mana Cost: §f-10"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -112,9 +106,7 @@
         "§7will shatter its heart and deal additional damage.",
         "§7 ",
         "§c⚔ §7Total Damage: §f+100% §8(of your DPS)",
-        "§7  ÀÀÀÀ§8(§6✢ §8Damage: +100%)",
-        "§7 ",
-        "§a✔ §7Ability Points: §f1"
+        "§7  ÀÀÀÀ§8(§6✢ §8Damage: +100%)"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -150,9 +142,7 @@
         "§cUnlocking will block:",
         "§c- §7Power Shots",
         "",
-        "§e§lBoltslinger Archetype",
-        "",
-        "§a✔ §7Ability Points: §f1"
+        "§e§lBoltslinger Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -185,9 +175,7 @@
         "§7Throw yourself backward to avoid danger.",
         "§8(Hold shift while escaping to cancel)",
         "§7 ",
-        "§b✺ §7Mana Cost: §f20",
-        "§7 ",
-        "§a✔ §7Ability Points: §f1"
+        "§b✺ §7Mana Cost: §f20"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -221,9 +209,7 @@
         "§cUnlocking will block:",
         "§c- §7Double Shots",
         "",
-        "§d§lSharpshooter Archetype",
-        "",
-        "§a✔ §7Ability Points: §f1"
+        "§d§lSharpshooter Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -261,9 +247,7 @@
         "§c⚔ §7Total Damage: §f40% §8(of your DPS, per arrow)",
         "§7  ÀÀÀÀ§8(§6✢ §8Damage: 30%)",
         "§7  ÀÀÀÀ§8(§e✦ §8Thunder: 10%)",
-        "§2➼ §7Range: §f±16 Blocks",
-        "§7 ",
-        "§a✔ §7Ability Points: §f1"
+        "§2➼ §7Range: §f±16 Blocks"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -284,8 +268,7 @@
         9,
         12,
         11,
-        13,
-        11
+        13
       ]
     },
     {
@@ -296,9 +279,7 @@
         "§7 ",
         "§7Reduce the Mana cost of §nEscape§r§7.",
         "§7 ",
-        "§b✺ §7Mana Cost: §f-5",
-        "§7 ",
-        "§a✔ §7Ability Points: §f1"
+        "§b✺ §7Mana Cost: §f-5"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -336,9 +317,7 @@
         "§7  ÀÀÀÀ§8(§6✢ §8Damage: 90%)",
         "§7  ÀÀÀÀ§8(§f❋ §8Air: 10%)",
         "§3☀ §7Area of Effect: §f2.3 Blocks §7(Circle-Shaped)",
-        "§d⌛À §7Duration: §f60s",
-        "§7 ",
-        "§a✔ §7Ability Points: §f1"
+        "§d⌛À §7Duration: §f60s"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -372,9 +351,7 @@
         "§7 ",
         "§e🛡 §7Effect: §f+20% §7Walk Speed to Allies",
         "§d⌛À §7Duration: §f120s",
-        "§3☀ §7Area of Effect: §f8 Blocks §7(Circle-Shaped)",
-        "§7 ",
-        "§a✔ §7Ability Points: §f1"
+        "§3☀ §7Area of Effect: §f8 Blocks §7(Circle-Shaped)"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -392,8 +369,6 @@
       },
       "connections": [
         12,
-        8,
-        13,
         8
       ]
     },
@@ -409,9 +384,7 @@
         "§f❋ §7Air Damage: §f+3-4",
         "§f❋ §7Air Damage: §f+15%",
         "§7 ",
-        "§e§lBoltslinger Archetype",
-        "",
-        "§a✔ §7Ability Points: §f1"
+        "§e§lBoltslinger Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -445,9 +418,7 @@
         "§e✦ §7Thunder Damage: §f+1-8",
         "§e✦ §7Thunder Damage: §f+10%",
         "§7 ",
-        "§e§lBoltslinger Archetype",
-        "",
-        "§a✔ §7Ability Points: §f1"
+        "§e§lBoltslinger Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -464,7 +435,6 @@
         "col": 2
       },
       "connections": [
-        11,
         8,
         14,
         16,
@@ -483,9 +453,7 @@
         "§c✹ §7Fire Damage: §f+3-5",
         "§c✹ §7Fire Damage: §f+15%",
         "§7 ",
-        "§d§lSharpshooter Archetype",
-        "",
-        "§a✔ §7Ability Points: §f1"
+        "§d§lSharpshooter Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -522,9 +490,7 @@
         "§2✤ §7Earth Damage: §f+2-4",
         "§2✤ §7Earth Damage: §f+20%",
         "§7 ",
-        "§2§lTrapper Archetype",
-        "",
-        "§a✔ §7Ability Points: §f1"
+        "§2§lTrapper Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -557,9 +523,7 @@
         "§b❉ §7Water Damage: §f+2-4",
         "§b❉ §7Water Damage: §f+15%",
         "§7 ",
-        "§d§lSharpshooter Archetype",
-        "",
-        "§a✔ §7Ability Points: §f1"
+        "§d§lSharpshooter Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -594,10 +558,7 @@
         "§7 ",
         "§c⚔ §7Total Damage: §f250% §8(of your DPS, per arrow)",
         "§7  ÀÀÀÀ§8(§6✢ §8Damage: 150%)",
-        "§7  ÀÀÀÀ§8(§f❋ §8Air: 100%)",
-        "§7 ",
-        "§a✔ §7Ability Points: §f2",
-        "§c✖ §7Required Ability: §fArrow Shield"
+        "§7  ÀÀÀÀ§8(§f❋ §8Air: 100%)"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -632,10 +593,7 @@
         "§7  ÀÀÀÀ§8(§6✢ §8Damage: -10%)",
         "§7 ",
         "§cUnlocking will block:",
-        "§c- §7Phantom Ray",
-        "",
-        "§a✔ §7Ability Points: §f2",
-        "§c✖ §7Required Ability: §fArrow Storm"
+        "§c- §7Phantom Ray"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -678,10 +636,7 @@
         "§cUnlocking will block:",
         "§c- §7Windstorm",
         "§c- §7Nimble String",
-        "§c- §7Arrow Hurricane",
-        "",
-        "§a✔ §7Ability Points: §f2",
-        "§c✖ §7Required Ability: §fArrow Storm"
+        "§c- §7Arrow Hurricane"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -720,9 +675,7 @@
         "§c⚔ §7Total Damage: §f50% §8(of your DPS)",
         "§7  ÀÀÀÀ§8(§6✢ §8Damage: 30%)",
         "§7  ÀÀÀÀ§8(§c✹ §8Fire: 20%)",
-        "§d⌛À §7Duration: §f6s",
-        "§7 ",
-        "§a✔ §7Ability Points: §f2"
+        "§d⌛À §7Duration: §f6s"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -761,11 +714,7 @@
         "§d⌛À §7Duration: §f5s",
         "§3☀ §7Area of Effect: §f2 Blocks §7(Circle-Shaped)",
         "§7 ",
-        "§2§lTrapper Archetype",
-        "",
-        "§a✔ §7Ability Points: §f2",
-        "§c✖ §7Required Ability: §fArrow Storm",
-        "§c✖ §7Min Trapper Archetype: §c0§7/1"
+        "§2§lTrapper Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -801,10 +750,7 @@
         "",
         "§c⚔ §7Main Attack Damage: §c-20%",
         "§7 ",
-        "§e§lBoltslinger Archetype",
-        "",
-        "§a✔ §7Ability Points: §f1",
-        "§c✖ §7Required Ability: §fDouble Shots"
+        "§e§lBoltslinger Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -836,9 +782,7 @@
         "§7of §f+5% §7Walk Speed. (Max +120%) §f-20%§7 of",
         "§7the bonus decays every second.",
         "§7 ",
-        "§e§lBoltslinger Archetype",
-        "",
-        "§a✔ §7Ability Points: §f2"
+        "§e§lBoltslinger Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -876,11 +820,7 @@
         "§2➼ §7Range: §f6 Blocks",
         "§d⌛À §7Duration: §f60s",
         "§7 ",
-        "§e§lBoltslinger Archetype",
-        "",
-        "§a✔ §7Ability Points: §f2",
-        "§c✖ §7Required Ability: §fArrow Shield",
-        "§c✖ §7Min Boltslinger Archetype: §c0§7/3"
+        "§e§lBoltslinger Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -917,10 +857,7 @@
         "§7 ",
         "§c⚔ §7Damage Bonus: §f+15% §8(per focus)",
         "§7 ",
-        "§d§lSharpshooter Archetype",
-        "",
-        "§a✔ §7Ability Points: §f2",
-        "§c✖ §7Min Sharpshooter Archetype: §c0§7/2"
+        "§d§lSharpshooter Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -961,10 +898,7 @@
         "§2➼ §7Range: §f2 Blocks §7(Circle-Shaped)",
         "§3☀ §7Area of Effect: §f7 Blocks §7(Circle-Shaped)",
         "§7 ",
-        "§2§lTrapper Archetype",
-        "",
-        "§a✔ §7Ability Points: §f2",
-        "§c✖ §7Min Trapper Archetype: §c0§7/2"
+        "§2§lTrapper Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1003,10 +937,7 @@
         "§7  ÀÀÀÀ§8(§f❋ §8Air: +2%)",
         "§7 ",
         "§cUnlocking will block:",
-        "§c- §7Phantom Ray",
-        "",
-        "§a✔ §7Ability Points: §f2",
-        "§c✖ §7Required Ability: §fArrow Storm"
+        "§c- §7Phantom Ray"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1027,8 +958,8 @@
       "connections": [
         24,
         28,
-        35,
-        34
+        34,
+        35
       ]
     },
     {
@@ -1039,9 +970,7 @@
         "§7 ",
         "§7Reduce the Mana cost of §nArrow Storm§r§7.",
         "§7 ",
-        "§b✺ §7Mana Cost: §f-5",
-        "§7 ",
-        "§a✔ §7Ability Points: §f1"
+        "§b✺ §7Mana Cost: §f-5"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1080,9 +1009,7 @@
         "§cUnlocking will block:",
         "§c- §7Escape Artist",
         "",
-        "§2§lTrapper Archetype",
-        "",
-        "§a✔ §7Ability Points: §f2"
+        "§2§lTrapper Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1118,10 +1045,7 @@
         "§7Reduces §nGuardian Angels§r§7\u0027 damage.",
         "§7 ",
         "§c⚔ §7Total Damage: §c-18% §8(of your DPS, for §nGuardian Angels§r§8, per arrow)",
-        "§7  ÀÀÀÀ§8(§6✢ §8Damage: -18%)",
-        "§7 ",
-        "§a✔ §7Ability Points: §f1",
-        "§c✖ §7Required Ability: §fArrow Shield"
+        "§7  ÀÀÀÀ§8(§6✢ §8Damage: -18%)"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1142,8 +1066,6 @@
         29,
         32,
         33,
-        33,
-        32,
         38
       ]
     },
@@ -1155,10 +1077,7 @@
         "§7 ",
         "§7Increase your maximum §bFocus §e➽ §7by §f+2§7.",
         "§7 ",
-        "§d§lSharpshooter Archetype",
-        "",
-        "§a✔ §7Ability Points: §f1",
-        "§c✖ §7Required Ability: §fFocus"
+        "§d§lSharpshooter Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1194,9 +1113,7 @@
         "§c⚔ §7Total Damage: §f+40% §8(of your DPS)",
         "§7  ÀÀÀÀ§8(§6✢ §8Damage: +40%)",
         "§7 ",
-        "§2§lTrapper Archetype",
-        "",
-        "§a✔ §7Ability Points: §f2"
+        "§2§lTrapper Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1214,10 +1131,7 @@
       },
       "connections": [
         30,
-        29,
-        33,
-        30,
-        38
+        29
       ]
     },
     {
@@ -1229,10 +1143,7 @@
         "§7Your §bTraps§7 will deal §f+20%§7 more damage",
         "§7for every second it\u0027s active. (Max +100%)",
         "§7 ",
-        "§2§lTrapper Archetype",
-        "",
-        "§a✔ §7Ability Points: §f2",
-        "§c✖ §7Required Ability: §fBasaltic Trap"
+        "§2§lTrapper Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1249,10 +1160,7 @@
         "col": 8
       },
       "connections": [
-        30,
-        30,
-        32,
-        38
+        30
       ]
     },
     {
@@ -1267,10 +1175,7 @@
         "§e🛡 §7Effect: §f+20% §7Walk Speed to Allies",
         "§d⌛À §7Duration: §f+60s",
         "§7 ",
-        "§e§lBoltslinger Archetype",
-        "",
-        "§a✔ §7Ability Points: §f1",
-        "§c✖ §7Required Ability: §fWindy Feet"
+        "§e§lBoltslinger Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1287,7 +1192,6 @@
         "col": 1
       },
       "connections": [
-        35,
         27
       ]
     },
@@ -1300,9 +1204,7 @@
         "§7Increase the damage of §nArrow Bomb§r§7.",
         "§7 ",
         "§c⚔ §7Total Damage: §f+50% §8(of your DPS)",
-        "§7  ÀÀÀÀ§8(§6✢ §8Damage: +50%)",
-        "§7 ",
-        "§a✔ §7Ability Points: §f1"
+        "§7  ÀÀÀÀ§8(§6✢ §8Damage: +50%)"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1320,9 +1222,7 @@
       },
       "connections": [
         27,
-        34,
         36,
-        39,
         39,
         42
       ]
@@ -1335,9 +1235,7 @@
         "§7 ",
         "§7For every §f1%§7 Walk Speed",
         "§7you have from items, gain",
-        "§f+1 Raw§7 Spell Damage (Max 100)",
-        "§7 ",
-        "§a✔ §7Ability Points: §f1"
+        "§f+1 Raw§7 Spell Damage (Max 100)"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1374,11 +1272,7 @@
         "§7  ÀÀÀÀ§8(§6✢ §8Damage: 220%)",
         "§2➼ §7Range: §f64 Blocks",
         "§7 ",
-        "§d§lSharpshooter Archetype",
-        "",
-        "§a✔ §7Ability Points: §f2",
-        "§c✖ §7Min Sharpshooter Archetype: §c0§7/4",
-        "§c✖ §7Required Ability: §fFocus"
+        "§d§lSharpshooter Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1403,7 +1297,6 @@
         40,
         45,
         38,
-        40,
         44
       ]
     },
@@ -1414,10 +1307,7 @@
       "description": [
         "§7 ",
         "§7§nArrow Bomb§r§7 will bounce once",
-        "§7when hitting a block or enemy.",
-        "§7 ",
-        "§a✔ §7Ability Points: §f2",
-        "§c✖ §7Min Trapper Archetype: §c0§7/3"
+        "§7when hitting a block or enemy."
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1437,9 +1327,7 @@
         "col": 7
       },
       "connections": [
-        33,
         30,
-        32,
         37,
         40,
         45,
@@ -1459,9 +1347,7 @@
         "§7  ÀÀÀÀ§8(§6✢ §8Damage: 120%)",
         "§3☀ §7Area of Effect: §f4 Blocks §7(Circle-Shaped)",
         "§7 ",
-        "§e§lBoltslinger Archetype",
-        "",
-        "§a✔ §7Ability Points: §f2"
+        "§e§lBoltslinger Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1479,9 +1365,7 @@
       },
       "connections": [
         35,
-        36,
-        35,
-        42
+        36
       ]
     },
     {
@@ -1497,10 +1381,7 @@
         "§7  ÀÀÀÀ§8(§c✹ §8Fire: +5%)",
         "§d⌛À §7Duration: §f+2s",
         "§7 ",
-        "§d§lSharpshooter Archetype",
-        "",
-        "§a✔ §7Ability Points: §f1",
-        "§c✖ §7Required Ability: §fFire Creep"
+        "§d§lSharpshooter Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1519,9 +1400,7 @@
       "connections": [
         37,
         45,
-        38,
-        37,
-        44
+        38
       ]
     },
     {
@@ -1533,10 +1412,7 @@
         "§7Increase the maximum amount of",
         "§7active §bTraps§7 you can have by §f+2§7.",
         "§7 ",
-        "§2§lTrapper Archetype",
-        "",
-        "§a✔ §7Ability Points: §f1",
-        "§c✖ §7Required Ability: §fBasaltic Trap"
+        "§2§lTrapper Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1566,10 +1442,7 @@
         "§7Leap forward when you double jump.",
         "§7(2s Cooldown)",
         "§7 ",
-        "§e§lBoltslinger Archetype",
-        "",
-        "§a✔ §7Ability Points: §f2",
-        "§c✖ §7Min Boltslinger Archetype: §c0§7/5"
+        "§e§lBoltslinger Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1590,9 +1463,7 @@
       },
       "connections": [
         35,
-        39,
         43,
-        47,
         47,
         48
       ]
@@ -1606,10 +1477,7 @@
         "§7Your §nMain Attack§r§7 arrows will follow nearby",
         "§7enemies and will be unaffected by gravity.",
         "§7 ",
-        "§d§lSharpshooter Archetype",
-        "",
-        "§a✔ §7Ability Points: §f2",
-        "§c✖ §7Min Sharpshooter Archetype: §c0§7/2"
+        "§d§lSharpshooter Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1632,8 +1500,7 @@
         47,
         42,
         44,
-        49,
-        47
+        49
       ]
     },
     {
@@ -1648,11 +1515,7 @@
         "§c⚔ §7Total Damage: §f+40% §8(of your DPS)",
         "§7  ÀÀÀÀ§8(§e✦ §8Thunder: +40%)",
         "§7 ",
-        "§d§lSharpshooter Archetype",
-        "",
-        "§a✔ §7Ability Points: §f2",
-        "§c✖ §7Min Sharpshooter Archetype: §c0§7/5",
-        "§c✖ §7Required Ability: §fArrow Bomb"
+        "§d§lSharpshooter Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1673,7 +1536,6 @@
       },
       "connections": [
         37,
-        40,
         43,
         50,
         45
@@ -1694,10 +1556,7 @@
         "§3☀ §7Area of Effect: §f+1 Blocks §7(Circle-Shaped)",
         "§7 ",
         "§c⚔ §7Total Damage: §f+3% §8(of your DPS, for §nGuardian Angels§r§8, per arrow)",
-        "§7  ÀÀÀÀ§8(§6✢ §8Damage: +3%)",
-        "§7 ",
-        "§a✔ §7Ability Points: §f1",
-        "§c✖ §7Required Ability: §fArrow Shield"
+        "§7  ÀÀÀÀ§8(§6✢ §8Damage: +3%)"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1735,10 +1594,7 @@
         "§b✺ §7Mana Cost: §c+10",
         "§2➼ §7Range: §f16 Blocks",
         "§7 ",
-        "§2§lTrapper Archetype",
-        "",
-        "§a✔ §7Ability Points: §f2",
-        "§c✖ §7Min Trapper Archetype: §c0§7/5"
+        "§2§lTrapper Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1771,10 +1627,7 @@
         "§7 ",
         "§7Reduce §nLeap§r§7\u0027s cooldown by §f-1s§7.",
         "§7 ",
-        "§e§lBoltslinger Archetype",
-        "",
-        "§a✔ §7Ability Points: §f1",
-        "§c✖ §7Required Ability: §fLeap"
+        "§e§lBoltslinger Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1792,11 +1645,7 @@
       },
       "connections": [
         43,
-        42,
-        48,
-        42,
-        43,
-        49
+        42
       ]
     },
     {
@@ -1810,10 +1659,7 @@
         "§7 ",
         "§2➼ §7Range: §f+2 Blocks",
         "§7 ",
-        "§e§lBoltslinger Archetype",
-        "",
-        "§a✔ §7Ability Points: §f1",
-        "§c✖ §7Required Ability: §fGuardian Angels"
+        "§e§lBoltslinger Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1830,7 +1676,6 @@
         "col": 0
       },
       "connections": [
-        47,
         42,
         49,
         53
@@ -1850,9 +1695,7 @@
         "§7  ÀÀÀÀ§8(§e✦ §8Thunder: 50%)",
         "§7 ",
         "§cUnlocking will block:",
-        "§c- §7Grappling Hook",
-        "",
-        "§a✔ §7Ability Points: §f2"
+        "§c- §7Grappling Hook"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1872,7 +1715,6 @@
       },
       "connections": [
         43,
-        47,
         48,
         54
       ]
@@ -1887,11 +1729,7 @@
         "§f4s§7 or more, your next successful hit",
         "§7will deal §f+60%§7 damage and add §b+1 Focus §e➽§7.",
         "§7 ",
-        "§d§lSharpshooter Archetype",
-        "",
-        "§a✔ §7Ability Points: §f2",
-        "§c✖ §7Required Ability: §fFocus",
-        "§c✖ §7Min Sharpshooter Archetype: §c0§7/5"
+        "§d§lSharpshooter Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1927,9 +1765,7 @@
         "§7 ",
         "§7Reduce the Mana cost of §nArrow Storm§r§7.",
         "§7 ",
-        "§b✺ §7Mana Cost: §f-5",
-        "§7 ",
-        "§a✔ §7Ability Points: §f1"
+        "§b✺ §7Mana Cost: §f-5"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1964,10 +1800,7 @@
         "§c⚔ §7Total Damage: §f40% §8(of your DPS)",
         "§7  ÀÀÀÀ§8(§6✢ §8Damage: 40%)",
         "§7 ",
-        "§2§lTrapper Archetype",
-        "",
-        "§a✔ §7Ability Points: §f2",
-        "§c✖ §7Required Ability: §fArrow Shield"
+        "§2§lTrapper Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1987,8 +1820,7 @@
         50,
         51,
         56,
-        59,
-        56
+        59
       ]
     },
     {
@@ -2007,10 +1839,7 @@
         "§cUnlocking will block:",
         "§c- §7Phantom Ray",
         "",
-        "§e§lBoltslinger Archetype",
-        "",
-        "§a✔ §7Ability Points: §f2",
-        "§c✖ §7Min Boltslinger Archetype: §c0§7/8"
+        "§e§lBoltslinger Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -2045,9 +1874,7 @@
         "§7 ",
         "§f+15% §7Critical Hit Damage",
         "§7 ",
-        "§d§lSharpshooter Archetype",
-        "",
-        "§a✔ §7Ability Points: §f1"
+        "§d§lSharpshooter Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -2078,9 +1905,7 @@
         "§7 ",
         "§7Reduce the Mana cost of §nArrow Shield§r§7.",
         "§7 ",
-        "§b✺ §7Mana Cost: §f-5",
-        "§7 ",
-        "§a✔ §7Ability Points: §f1"
+        "§b✺ §7Mana Cost: §f-5"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -2100,8 +1925,6 @@
         50,
         54,
         58,
-        56,
-        58,
         62
       ]
     },
@@ -2112,10 +1935,7 @@
       "description": [
         "§7 ",
         "§7§nArrow Bomb§r§7\u0027s self-damage will",
-        "§7knock you further away.",
-        "§7 ",
-        "§a✔ §7Ability Points: §f1",
-        "§c✖ §7Required Ability: §fArrow Bomb"
+        "§7knock you further away."
       ],
       "itemInformation": {
         "itemId": 781,
@@ -2134,13 +1954,7 @@
       "connections": [
         50,
         51,
-        52,
-        58,
-        55,
-        52,
-        59,
-        58,
-        59
+        52
       ]
     },
     {
@@ -2156,10 +1970,7 @@
         "§7  ÀÀÀÀ§8(§6✢ §8Damage: 40%)",
         "§7  ÀÀÀÀ§8(§c✹ §8Fire: 20%)",
         "§7 ",
-        "§e§lBoltslinger Archetype",
-        "",
-        "§a✔ §7Ability Points: §f2",
-        "§c✖ §7Min Boltslinger Archetype: §c0§7/8"
+        "§e§lBoltslinger Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -2193,10 +2004,7 @@
         "§7§nPhantom Ray§r§7 will increase its damage by §f10%",
         "§7everytime you do not miss with it. (Max 70%)",
         "§7 ",
-        "§d§lSharpshooter Archetype",
-        "",
-        "§a✔ §7Ability Points: §f2",
-        "§c✖ §7Required Ability: §fPhantom Ray"
+        "§d§lSharpshooter Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -2214,11 +2022,7 @@
       },
       "connections": [
         55,
-        56,
-        59,
-        56,
-        55,
-        62
+        59
       ]
     },
     {
@@ -2229,9 +2033,7 @@
         "§7 ",
         "§7Reduce the Mana cost of §nEscape§r§7.",
         "§7 ",
-        "§b✺ §7Mana Cost: §f-5",
-        "§7 ",
-        "§a✔ §7Ability Points: §f1"
+        "§b✺ §7Mana Cost: §f-5"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -2249,10 +2051,7 @@
       },
       "connections": [
         52,
-        56,
         58,
-        56,
-        60,
         60,
         63
       ]
@@ -2268,11 +2067,7 @@
         "§7 ",
         "§2➼ §7Range: §f+8 Blocks",
         "§7 ",
-        "§2§lTrapper Archetype",
-        "",
-        "§a✔ §7Ability Points: §f1",
-        "§c✖ §7Required Ability: §fGrappling Hook",
-        "§c✖ §7Min Trapper Archetype: §c0§7/5"
+        "§2§lTrapper Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -2292,9 +2087,7 @@
         "col": 8
       },
       "connections": [
-        59,
-        59,
-        63
+        59
       ]
     },
     {
@@ -2309,10 +2102,7 @@
         "§c⚔ §7Total Damage: §f+80% §8(of your DPS)",
         "§7  ÀÀÀÀ§8(§6✢ §8Damage: +50%)",
         "§7  ÀÀÀÀ§8(§b❉ §8Water: +30%)",
-        "§3☀ §7Area of Effect: §f+1 Blocks §7(Circle-Shaped)",
-        "§7 ",
-        "§a✔ §7Ability Points: §f2",
-        "§c✖ §7Required Ability: §fFierce Stomp"
+        "§3☀ §7Area of Effect: §f+1 Blocks §7(Circle-Shaped)"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -2353,11 +2143,7 @@
         "§7  ÀÀÀÀ§8(§6✢ §8Damage: 30%)",
         "§7  ÀÀÀÀ§8(§b❉ §8Water: 10%)",
         "§7 ",
-        "§d§lSharpshooter Archetype",
-        "",
-        "§a✔ §7Ability Points: §f2",
-        "§c✖ §7Required Ability: §fArrow Storm",
-        "§c✖ §7Min Sharpshooter Archetype: §c0§7/10"
+        "§d§lSharpshooter Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -2377,7 +2163,6 @@
         "col": 4
       },
       "connections": [
-        58,
         55,
         67
       ]
@@ -2395,10 +2180,7 @@
         "§7  ÀÀÀÀ§8(§6✢ §8Damage: 20%)",
         "§7  ÀÀÀÀ§8(§f❋ §8Air: 20%)",
         "§7 ",
-        "§2§lTrapper Archetype",
-        "",
-        "§a✔ §7Ability Points: §f2",
-        "§c✖ §7Required Ability: §fBasaltic Trap"
+        "§2§lTrapper Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -2415,9 +2197,7 @@
         "col": 7
       },
       "connections": [
-        60,
         59,
-        65,
         65,
         68
       ]
@@ -2433,9 +2213,7 @@
         "§7loses its recoil.",
         "§8(Agility dodging counts as not getting hit)",
         "§7 ",
-        "§e§lBoltslinger Archetype",
-        "",
-        "§a✔ §7Ability Points: §f2"
+        "§e§lBoltslinger Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -2464,10 +2242,7 @@
         "§7§nPatient Hunter§r§7 will increase its damage by §f+10%",
         "§7per second, and increase its Max Damage by §f+100%§7.",
         "§7 ",
-        "§2§lTrapper Archetype",
-        "",
-        "§a✔ §7Ability Points: §f1",
-        "§c✖ §7Required Ability: §fPatient Hunter"
+        "§2§lTrapper Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -2484,12 +2259,7 @@
         "col": 6
       },
       "connections": [
-        63,
-        68,
-        63,
-        70,
-        68,
-        67
+        63
       ]
     },
     {
@@ -2501,9 +2271,7 @@
         "§7Enemies near you will be slowed down.",
         "§7 ",
         "§e🛡 §7Effect: §f30% §7Slowness (§c⬤§7) to Enemies",
-        "§2➼ §7Range: §f2.5 Blocks",
-        "§7 ",
-        "§a✔ §7Ability Points: §f2"
+        "§2➼ §7Range: §f2.5 Blocks"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -2533,9 +2301,7 @@
         "§7 ",
         "§7Reduce the Mana cost of §nArrow Bomb§r§7.",
         "§7 ",
-        "§b✺ §7Mana Cost: §f-5",
-        "§7 ",
-        "§a✔ §7Ability Points: §f1"
+        "§b✺ §7Mana Cost: §f-5"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -2555,7 +2321,6 @@
         62,
         66,
         70,
-        65,
         68
       ]
     },
@@ -2572,11 +2337,7 @@
         "§7  ÀÀÀÀ§8(§6✢ §8Damage: -50%)",
         "§3☀ §7Area of Effect: §c-1 Blocks §7(Circle-Shaped)",
         "§7 ",
-        "§2§lTrapper Archetype",
-        "",
-        "§a✔ §7Ability Points: §f2",
-        "§c✖ §7Min Trapper Archetype: §c0§7/10",
-        "§c✖ §7Required Ability: §fBasaltic Trap"
+        "§2§lTrapper Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -2596,10 +2357,8 @@
         "col": 7
       },
       "connections": [
-        65,
         63,
         70,
-        65,
         67,
         71
       ]
@@ -2619,11 +2378,7 @@
         "§7  ÀÀÀÀ§8(§c✹ §8Fire: +5%)",
         "§2➼ §7Range: §f+4 Blocks",
         "§7 ",
-        "§e§lBoltslinger Archetype",
-        "",
-        "§a✔ §7Ability Points: §f2",
-        "§c✖ §7Required Ability: §fGuardian Angels",
-        "§c✖ §7Min Boltslinger Archetype: §c0§7/11"
+        "§e§lBoltslinger Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -2654,10 +2409,7 @@
         "§7 ",
         "§7Increase your maximum §bFocus §e➽ §7by §f+2§7.",
         "§7 ",
-        "§d§lSharpshooter Archetype",
-        "",
-        "§a✔ §7Ability Points: §f1",
-        "§c✖ §7Required Ability: §fFocus"
+        "§d§lSharpshooter Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -2674,7 +2426,6 @@
         "col": 5
       },
       "connections": [
-        65,
         68,
         67,
         71
@@ -2692,9 +2443,7 @@
         "§c⚔ §7Total Damage: §f80% §8(of your DPS)",
         "§7  ÀÀÀÀ§8(§6✢ §8Damage: 60%)",
         "§7  ÀÀÀÀ§8(§c✹ §8Fire: 20%)",
-        "§3☀ §7Area of Effect: §f2 Blocks §7(Circle-Shaped)",
-        "§7 ",
-        "§a✔ §7Ability Points: §f2"
+        "§3☀ §7Area of Effect: §f2 Blocks §7(Circle-Shaped)"
       ],
       "itemInformation": {
         "itemId": 781,

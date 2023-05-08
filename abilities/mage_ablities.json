@@ -16,9 +16,7 @@
         "§7  ÀÀÀÀ§8(§6✢ §8Damage: 300%)",
         "§7  ÀÀÀÀ§8(§2✤ §8Earth: 100%)",
         "§2➼ §7Range: §f18 Blocks",
-        "§3☀ §7Area of Effect: §f5 Blocks §7(Circle-Shaped)",
-        "§7 ",
-        "§a✔ §7Ability Points: §f1"
+        "§3☀ §7Area of Effect: §f5 Blocks §7(Circle-Shaped)"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -48,9 +46,7 @@
         "§7and range when using a wand.",
         "§7 ",
         "§c⚔ §7Main Attack Damage: §f+5%",
-        "§2➼ §7Main Attack Range: §f+2 Blocks",
-        "§7 ",
-        "§a✔ §7Ability Points: §f1"
+        "§2➼ §7Main Attack Range: §f+2 Blocks"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -80,9 +76,7 @@
         "§7 ",
         "§7Reduce the mana cost of §nMeteor§r§7.",
         "§7 ",
-        "§b✺ §7Mana Cost: §f-10",
-        "§7 ",
-        "§a✔ §7Ability Points: §f1"
+        "§b✺ §7Mana Cost: §f-10"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -109,9 +103,7 @@
       "description": [
         "§7 ",
         "§7Drastically increase the",
-        "§7speed of your §nMeteor§r§7 ability.",
-        "§7 ",
-        "§a✔ §7Ability Points: §f1"
+        "§7speed of your §nMeteor§r§7 ability."
       ],
       "itemInformation": {
         "itemId": 781,
@@ -147,9 +139,7 @@
         "§cUnlocking will block:",
         "§c- §7Wisdom",
         "",
-        "§b§lRiftwalker Archetype",
-        "",
-        "§a✔ §7Ability Points: §f1"
+        "§b§lRiftwalker Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -183,9 +173,7 @@
         "§7direction you\u0027re facing.",
         "§7 ",
         "§b✺ §7Mana Cost: §f25",
-        "§2➼ §7Range: §f16 Blocks",
-        "§7 ",
-        "§a✔ §7Ability Points: §f1"
+        "§2➼ §7Range: §f16 Blocks"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -219,9 +207,7 @@
         "§cUnlocking will block:",
         "§c- §7Wand Proficiency II",
         "",
-        "§5§lArcanist Archetype",
-        "",
-        "§a✔ §7Ability Points: §f1"
+        "§5§lArcanist Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -258,9 +244,7 @@
         "§7 ",
         "§b✺ §7Mana Cost: §f35",
         "§c❤ §7Total Heal: §f15% §8(of your max health)",
-        "§2➼ §7Range: §f5 Blocks",
-        "§7 ",
-        "§a✔ §7Ability Points: §f1"
+        "§2➼ §7Range: §f5 Blocks"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -291,9 +275,7 @@
         "§7 ",
         "§7Reduce the mana cost of §nTeleport§r§7.",
         "§7 ",
-        "§b✺ §7Mana Cost: §f-5",
-        "§7 ",
-        "§a✔ §7Ability Points: §f1"
+        "§b✺ §7Mana Cost: §f-5"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -331,9 +313,7 @@
         "§7  ÀÀÀÀ§8(§b❉ §8Water: 30%)",
         "§2➼ §7Range: §f18 Blocks",
         "§e🛡 §7Effect: §f40% §7Slowness (§c⬤§7) to Enemies",
-        "§d⌛À §7Duration: §f3s",
-        "§7 ",
-        "§a✔ §7Ability Points: §f1"
+        "§d⌛À §7Duration: §f3s"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -368,9 +348,7 @@
         "§f❋ §7Air Damage: §f+3-4",
         "§f❋ §7Air Damage: §f+15%",
         "§7 ",
-        "§b§lRiftwalker Archetype",
-        "",
-        "§a✔ §7Ability Points: §f1"
+        "§b§lRiftwalker Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -403,9 +381,7 @@
         "§e✦ §7Thunder Damage: §f+1-8",
         "§e✦ §7Thunder Damage: §f+10%",
         "§7 ",
-        "§b§lRiftwalker Archetype",
-        "",
-        "§a✔ §7Ability Points: §f1"
+        "§b§lRiftwalker Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -439,9 +415,7 @@
         "§c✹ §7Fire Damage: §f+3-5",
         "§c✹ §7Fire Damage: §f+15%",
         "§7 ",
-        "§5§lArcanist Archetype",
-        "",
-        "§a✔ §7Ability Points: §f1"
+        "§5§lArcanist Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -475,9 +449,7 @@
         "§2✤ §7Earth Damage: §f+2-4",
         "§2✤ §7Earth Damage: §f+20%",
         "§7 ",
-        "§5§lArcanist Archetype",
-        "",
-        "§a✔ §7Ability Points: §f1"
+        "§5§lArcanist Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -511,9 +483,7 @@
         "§b❉ §7Water Damage: §f+2-4",
         "§b❉ §7Water Damage: §f+15%",
         "§7 ",
-        "§f§lLight Bender Archetype",
-        "",
-        "§a✔ §7Ability Points: §f1"
+        "§f§lLight Bender Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -548,10 +518,7 @@
         "§7  ÀÀÀÀ§8(§6✢ §8Damage: 50%)",
         "§7  ÀÀÀÀ§8(§f❋ §8Air: 50%)",
         "§7 ",
-        "§b§lRiftwalker Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Required Ability: §fTeleport"
+        "§b§lRiftwalker Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -588,9 +555,7 @@
         "§3☀ §7Area of Effect: §f2 Blocks §7(Circle-Shaped)",
         "",
         "§cUnlocking will block:",
-        "§c- §7Ophanim",
-        "",
-        "§c✖ §7Ability Points: §f2"
+        "§c- §7Ophanim"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -627,9 +592,7 @@
         "§7  ÀÀÀÀ§8(§6✢ §8Damage: 15%)",
         "§7  ÀÀÀÀ§8(§c✹ §8Fire: 25%)",
         "§3☀ §7Area of Effect: §f7 Blocks §7(Circle-Shaped)",
-        "§d⌛À §7Duration: §f5s",
-        "§7 ",
-        "§c✖ §7Ability Points: §f2"
+        "§d⌛À §7Duration: §f5s"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -649,8 +612,7 @@
         14,
         13,
         20,
-        23,
-        20
+        23
       ]
     },
     {
@@ -669,10 +631,7 @@
         "§cUnlocking will block:",
         "§c- §7Arcane Transfer",
         "",
-        "§f§lLight Bender Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Required Ability: §fHeal"
+        "§f§lLight Bender Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -707,11 +666,7 @@
         "§7  ÀÀÀÀ§8(§6✢ §8Damage: +30%)",
         "§7  ÀÀÀÀ§8(§2✤ §8Earth: +90%)",
         "§7 ",
-        "§5§lArcanist Archetype",
-        "",
-        "§a✔ §7Ability Points: §f1",
-        "§c✖ §7Required Ability: §fMeteor",
-        "§c✖ §7Min Arcanist Archetype: §c0§7/2"
+        "§5§lArcanist Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -731,9 +686,7 @@
         "col": 8
       },
       "connections": [
-        18,
-        18,
-        23
+        18
       ]
     },
     {
@@ -752,11 +705,7 @@
         "§7  ÀÀÀÀ§8(§6✢ §8Damage: 10%)",
         "§7  ÀÀÀÀ§8(§b❉ §8Water: 5%)",
         "§7 ",
-        "§b§lRiftwalker Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Required Ability: §fIce Snake",
-        "§c✖ §7Min Riftwalker Archetype: §c0§7/3"
+        "§b§lRiftwalker Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -805,11 +754,7 @@
         "§c- §7Psychokinesis",
         "§c- §7Thunderstorm",
         "",
-        "§f§lLight Bender Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Required Ability: §fMeteor",
-        "§c✖ §7Min Light Bender Archetype: §c0§7/2"
+        "§f§lLight Bender Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -853,11 +798,7 @@
         "§c- §7Larger Heal",
         "§c- §7Orphion\u0027s Pulse",
         "",
-        "§5§lArcanist Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Required Ability: §fHeal",
-        "§c✖ §7Min Arcanist Archetype: §c0§7/2"
+        "§5§lArcanist Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -882,7 +823,6 @@
       },
       "connections": [
         18,
-        20,
         26
       ]
     },
@@ -894,9 +834,7 @@
         "§7 ",
         "§7Reduce the mana cost of §nHeal§r§7.",
         "§7 ",
-        "§b✺ §7Mana Cost: §f-5",
-        "§7 ",
-        "§a✔ §7Ability Points: §f1"
+        "§b✺ §7Mana Cost: §f-5"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -927,9 +865,7 @@
         "§7 ",
         "§7§nHeal§r§7 and §nArcane Transfer",
         "§7will purify you of all negative",
-        "§7effects and fire. (3s Cooldown)",
-        "§7 ",
-        "§c✖ §7Ability Points: §f2"
+        "§7effects and fire. (3s Cooldown)"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -951,7 +887,6 @@
         24,
         29,
         26,
-        29,
         33
       ]
     },
@@ -966,10 +901,7 @@
         "§7 ",
         "§c⚔ §7Total Damage: §f+30% §8(of your DPS)",
         "§7  ÀÀÀÀ§8(§6✢ §8Damage: +20%)",
-        "§7  ÀÀÀÀ§8(§b❉ §8Water: +10%)",
-        "§7 ",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Required Ability: §fIce Snake"
+        "§7  ÀÀÀÀ§8(§b❉ §8Water: +10%)"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1003,10 +935,7 @@
         "§7them for a brief period of time.",
         "",
         "§e🛡 §7Effect: §fBlindness (§c⬣§f) to Enemies",
-        "§d⌛À §7Duration: §f1s",
-        "§7 ",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Required Ability: §fTeleport"
+        "§d⌛À §7Duration: §f1s"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1048,10 +977,7 @@
         "§7  ÀÀÀÀ§8(§6✢ §8Damage: 3%)",
         "§7  ÀÀÀÀ§8(§2✤ §8Earth: 1%)",
         "§7 ",
-        "§b§lRiftwalker Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Required Ability: §fWindsweeper"
+        "§b§lRiftwalker Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1085,10 +1011,7 @@
         "§cUnlocking will block:",
         "§c- §7Arcane Transfer",
         "",
-        "§f§lLight Bender Archetype",
-        "",
-        "§a✔ §7Ability Points: §f1",
-        "§c✖ §7Required Ability: §fHeal"
+        "§f§lLight Bender Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1108,9 +1031,7 @@
       },
       "connections": [
         25,
-        26,
-        33,
-        25
+        26
       ]
     },
     {
@@ -1122,10 +1043,7 @@
         "§7Increase your maximum",
         "§bMana Bank ✺§7 by §f+30§7.",
         "§7 ",
-        "§5§lArcanist Archetype",
-        "",
-        "§a✔ §7Ability Points: §f1",
-        "§c✖ §7Required Ability: §fArcane Transfer"
+        "§5§lArcanist Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1154,9 +1072,7 @@
         "§7 ",
         "§7Reduce the mana cost of §nIce Snake§r§7.",
         "§7 ",
-        "§b✺ §7Mana Cost: §f-5",
-        "§7 ",
-        "§a✔ §7Ability Points: §f1"
+        "§b✺ §7Mana Cost: §f-5"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1176,7 +1092,6 @@
         27,
         35,
         32,
-        35,
         39
       ]
     },
@@ -1193,10 +1108,7 @@
         "§e🛡 §7Effect: §f60% §7Damage Bonus (§a⚔§7) to Allies",
         "§d⌛À §7Duration: §f5s",
         "§7 ",
-        "§f§lLight Bender Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Min Light Bender Archetype: §c0§7/2"
+        "§f§lLight Bender Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1230,9 +1142,7 @@
         "§7 ",
         "§7Reduce the mana cost of §nTeleport§r§7.",
         "§7 ",
-        "§b✺ §7Mana Cost: §f-5",
-        "§7 ",
-        "§a✔ §7Ability Points: §f1"
+        "§b✺ §7Mana Cost: §f-5"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1249,7 +1159,6 @@
         "col": 4
       },
       "connections": [
-        29,
         25,
         32,
         36,
@@ -1271,10 +1180,7 @@
         "§7  ÀÀÀÀ§8(§6✢ §8Damage: 150%)",
         "§3☀ §7Area of Effect: §f4 Blocks §7(Circle-Shaped)",
         "§7 ",
-        "§5§lArcanist Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Min Arcanist Archetype: §c0§7/4"
+        "§5§lArcanist Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1310,10 +1216,7 @@
         "§7 ",
         "§2➼ §7Range: §c-4 Blocks",
         "§7 ",
-        "§b§lRiftwalker Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Required Ability: §fTeleport"
+        "§b§lRiftwalker Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1331,8 +1234,6 @@
       },
       "connections": [
         32,
-        31,
-        39,
         31
       ]
     },
@@ -1346,10 +1247,7 @@
         "§7orbs by §f+800§7 and reduces the",
         "§7damage they take when attacking by §f-5%§7.",
         "§7 ",
-        "§f§lLight Bender Archetype",
-        "",
-        "§a✔ §7Ability Points: §f1",
-        "§c✖ §7Required Ability: §fOphanim"
+        "§f§lLight Bender Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1370,9 +1268,7 @@
         33,
         40,
         41,
-        37,
-        41,
-        40
+        37
       ]
     },
     {
@@ -1385,10 +1281,7 @@
         "§7 ",
         "§c⚔ §7Total Damage: §f+50% §8(of your DPS)",
         "§7  ÀÀÀÀ§8(§6✢ §8Damage: +35%)",
-        "§7  ÀÀÀÀ§8(§b❉ §8Water: +15%)",
-        "§7 ",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Required Ability: §fIce Snake"
+        "§7  ÀÀÀÀ§8(§b❉ §8Water: +15%)"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1409,10 +1302,7 @@
         41,
         36,
         38,
-        42,
-        41,
-        42,
-        43
+        42
       ]
     },
     {
@@ -1422,9 +1312,7 @@
       "description": [
         "§7 ",
         "§7For every §f5/3s§7 Lifesteal you have",
-        "§7from items, gain §f+1%§7 Spell Damage (Max 50%)",
-        "§7 ",
-        "§a✔ §7Ability Points: §f1"
+        "§7from items, gain §f+1%§7 Spell Damage (Max 50%)"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1461,11 +1349,7 @@
         "§7  ÀÀÀÀ§8(§e✦ §8Thunder: 3%)",
         "§7  ÀÀÀÀ§8(§f❋ §8Air: 3%)",
         "§7 ",
-        "§b§lRiftwalker Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Required Ability: §fWindsweeper",
-        "§c✖ §7Min Riftwalker Archetype: §c0§7/5"
+        "§b§lRiftwalker Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1485,7 +1369,6 @@
         "col": 0
       },
       "connections": [
-        35,
         31,
         44,
         40
@@ -1501,9 +1384,7 @@
         "§7you have from items, buff §nHeal§r§7\u0027s",
         "§7healing power by §f+0.3%§7.",
         "§7 ",
-        "§f§lLight Bender Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2"
+        "§f§lLight Bender Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1522,7 +1403,6 @@
       "connections": [
         36,
         41,
-        36,
         44,
         39
       ]
@@ -1541,11 +1421,7 @@
         "§cUnlocking will block:",
         "§c- §7Arcane Transfer",
         "",
-        "§f§lLight Bender Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Required Ability: §fHeal",
-        "§c✖ §7Min Light Bender Archetype: §c0§7/5"
+        "§f§lLight Bender Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1570,10 +1446,6 @@
         36,
         37,
         40,
-        36,
-        37,
-        42,
-        43,
         43,
         45
       ]
@@ -1590,10 +1462,7 @@
         "§7 ",
         "§d⌛À §7Duration: §f4s",
         "§7 ",
-        "§5§lArcanist Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Required Ability: §fPyrokinesis"
+        "§5§lArcanist Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1611,10 +1480,7 @@
       },
       "connections": [
         38,
-        37,
-        41,
-        37,
-        43
+        37
       ]
     },
     {
@@ -1627,10 +1493,7 @@
         "§7 ",
         "§c⚔ §7Total Damage: §f+30% §8(of your DPS)",
         "§7  ÀÀÀÀ§8(§6✢ §8Damage: +20%)",
-        "§7  ÀÀÀÀ§8(§f❋ §8Air: +10%)",
-        "§7 ",
-        "§a✔ §7Ability Points: §f1",
-        "§c✖ §7Required Ability: §fOphanim"
+        "§7  ÀÀÀÀ§8(§f❋ §8Air: +10%)"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1647,11 +1510,7 @@
         "col": 5
       },
       "connections": [
-        41,
-        37,
-        42,
-        41,
-        45
+        41
       ]
     },
     {
@@ -1666,10 +1525,7 @@
         "§7 ",
         "§2➼ §7Range: §f6 Blocks",
         "§7 ",
-        "§b§lRiftwalker Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Min Riftwalker Archetype: §c0§7/6"
+        "§b§lRiftwalker Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1692,8 +1548,7 @@
         40,
         39,
         48,
-        50,
-        48
+        50
       ]
     },
     {
@@ -1713,10 +1568,7 @@
         "§3☀ §7Area of Effect: §f1 Block §7(Circle-Shaped)",
         "§d⌛À §7Duration: §f20s",
         "§7 ",
-        "§f§lLight Bender Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Min Light Bender Archetype: §c0§7/7"
+        "§f§lLight Bender Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1737,7 +1589,6 @@
       },
       "connections": [
         41,
-        43,
         46,
         52
       ]
@@ -1752,10 +1603,7 @@
         "§7for §f4s§7 after casting §nHeal§r§7 or",
         "§7§nArcane Transfer§r§7. (8s Cooldown)",
         "§7 ",
-        "§5§lArcanist Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Required Ability: §fHeal"
+        "§5§lArcanist Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1787,10 +1635,7 @@
         "§7Increase your maximum",
         "§bMana Bank ✺§7 by §f+30§7.",
         "§7 ",
-        "§5§lArcanist Archetype",
-        "",
-        "§a✔ §7Ability Points: §f1",
-        "§c✖ §7Required Ability: §fArcane Transfer"
+        "§5§lArcanist Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1810,8 +1655,7 @@
         38,
         46,
         49,
-        53,
-        49
+        53
       ]
     },
     {
@@ -1822,10 +1666,7 @@
         "§7 ",
         "§7Increase your maximum §bWinded ≈§7 by §f+10§7.",
         "§7 ",
-        "§b§lRiftwalker Archetype",
-        "",
-        "§a✔ §7Ability Points: §f1",
-        "§c✖ §7Required Ability: §fWindsweeper"
+        "§b§lRiftwalker Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1842,11 +1683,7 @@
         "col": 0
       },
       "connections": [
-        44,
-        44,
-        50,
-        50,
-        54
+        44
       ]
     },
     {
@@ -1862,11 +1699,7 @@
         "§cUnlocking will block:",
         "§c- §7Ophanim",
         "",
-        "§5§lArcanist Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Required Ability: §fMeteor",
-        "§c✖ §7Min Arcanist Archetype: §c0§7/5"
+        "§5§lArcanist Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1889,11 +1722,7 @@
       },
       "connections": [
         47,
-        46,
-        47,
-        53,
-        57,
-        53
+        46
       ]
     },
     {
@@ -1904,9 +1733,7 @@
         "§7 ",
         "§7Reduce the mana cost of §nIce Snake§r§7.",
         "§7 ",
-        "§b✺ §7Mana Cost: §f-5",
-        "§7 ",
-        "§a✔ §7Ability Points: §f1"
+        "§b✺ §7Mana Cost: §f-5"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1924,8 +1751,6 @@
       },
       "connections": [
         44,
-        48,
-        48,
         54,
         55,
         51
@@ -1943,10 +1768,7 @@
         "§c⚔ §7Total Damage: §f80% §8(of your DPS)",
         "§7  ÀÀÀÀ§8(§6✢ §8Damage: 50%)",
         "§7  ÀÀÀÀ§8(§c✹ §8Fire: 30%)",
-        "§3☀ §7Area of Effect: §f3 Blocks §7(Circle-Shaped)",
-        "§7 ",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Required Ability: §fTeleport"
+        "§3☀ §7Area of Effect: §f3 Blocks §7(Circle-Shaped)"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1966,10 +1788,7 @@
         55,
         50,
         56,
-        52,
-        56,
-        58,
-        55
+        52
       ]
     },
     {
@@ -1980,9 +1799,7 @@
         "§7 ",
         "§7Reduce the mana cost of §nMeteor§r§7.",
         "§7 ",
-        "§b✺ §7Mana Cost: §f-5",
-        "§7 ",
-        "§a✔ §7Ability Points: §f1"
+        "§b✺ §7Mana Cost: §f-5"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -2015,10 +1832,7 @@
         "§7casting §nArcane Transfer§r§7 will rapidly unleash",
         "§7the last §f3 §7spells you\u0027ve cast in order.",
         "§7 ",
-        "§5§lArcanist Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Min Arcanist Archetype: §c0§7/8"
+        "§5§lArcanist Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -2039,9 +1853,7 @@
       },
       "connections": [
         47,
-        49,
-        57,
-        49
+        57
       ]
     },
     {
@@ -2058,10 +1870,7 @@
         "§e🛡 §7Effect: §f+10% §7Speed Bonus (§3➡§7) to Allies §8(per 1s, +300% Max)",
         "§3☀ §7Area of Effect: §f2 Blocks §7(Circle-Shaped)",
         "",
-        "§b§lRiftwalker Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Min Riftwalker Archetype: §c0§7/5"
+        "§b§lRiftwalker Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -2082,7 +1891,6 @@
       },
       "connections": [
         50,
-        48,
         60
       ]
     },
@@ -2099,11 +1907,7 @@
         "§7  ÀÀÀÀ§8(§6✢ §8Damage: +20%)",
         "§7  ÀÀÀÀ§8(§f❋ §8Air: +20%)",
         "§7 ",
-        "§b§lRiftwalker Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Required Ability: §fWindsweeper",
-        "§c✖ §7Min Riftwalker Archetype: §c0§7/7"
+        "§b§lRiftwalker Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -2126,8 +1930,7 @@
         50,
         51,
         56,
-        58,
-        51
+        58
       ]
     },
     {
@@ -2139,10 +1942,7 @@
         "§7Increase your maximum orbs",
         "§7from §nOphanim§r§7 by §f+1§7.",
         "§7 ",
-        "§f§lLight Bender Archetype",
-        "",
-        "§a✔ §7Ability Points: §f1",
-        "§c✖ §7Required Ability: §fOphanim"
+        "§f§lLight Bender Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -2163,8 +1963,6 @@
         51,
         58,
         55,
-        51,
-        58,
         62
       ]
     },
@@ -2177,10 +1975,7 @@
         "§7§nIce Snake§r§7 will freeze enemies for §f2s§7.",
         "",
         "§e🛡 §7Effect: §f100% §7Slowness (§c⬤§7) to Enemies",
-        "§d⌛À §7Duration: §f2s",
-        "§7 ",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Required Ability: §fIce Snake"
+        "§d⌛À §7Duration: §f2s"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -2198,8 +1993,6 @@
       },
       "connections": [
         53,
-        49,
-        59,
         59,
         63
       ]
@@ -2217,10 +2010,7 @@
         "§7  ÀÀÀÀ§8(§b❉ §8Water: +20%)",
         "§7  ÀÀÀÀ§8(§c✹ §8Fire: +10%)",
         "§7 ",
-        "§f§lLight Bender Archetype",
-        "",
-        "§a✔ §7Ability Points: §f1",
-        "§c✖ §7Required Ability: §fSunshower"
+        "§f§lLight Bender Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -2238,10 +2028,7 @@
       },
       "connections": [
         56,
-        55,
-        51,
-        56,
-        62
+        55
       ]
     },
     {
@@ -2253,10 +2040,7 @@
         "§7§nMeteor§r§7 and §nIce Snake§r§7 will add §f+2§7 Mana to your",
         "§bMana Bank ✺§7 for each aggressive mob you hit.",
         "§7 ",
-        "§5§lArcanist Archetype",
-        "",
-        "§a✔ §7Ability Points: §f1",
-        "§c✖ §7Required Ability: §fArcane Transfer"
+        "§5§lArcanist Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -2273,9 +2057,7 @@
         "col": 6
       },
       "connections": [
-        57,
-        57,
-        63
+        57
       ]
     },
     {
@@ -2286,10 +2068,7 @@
         "§7 ",
         "§7Increase your maximum §bWinded ≈§7 by §f+10§7.",
         "§7 ",
-        "§b§lRiftwalker Archetype",
-        "",
-        "§a✔ §7Ability Points: §f1",
-        "§c✖ §7Required Ability: §fWindsweeper"
+        "§b§lRiftwalker Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -2309,8 +2088,7 @@
         54,
         64,
         61,
-        69,
-        64
+        69
       ]
     },
     {
@@ -2320,9 +2098,7 @@
       "description": [
         "§7 ",
         "§7For every §f2%§7 Sprint you have from",
-        "§7items, gain §f+1% §e✦ §7Thunder Damage (Max 40%)",
-        "§7 ",
-        "§a✔ §7Ability Points: §f1"
+        "§7items, gain §f+1% §e✦ §7Thunder Damage (Max 40%)"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -2354,10 +2130,7 @@
         "§7Increase the health of your orbs",
         "§7from §nOphanim§r§7 by §f+3000§7.",
         "§7 ",
-        "§f§lLight Bender Archetype",
-        "",
-        "§a✔ §7Ability Points: §f1",
-        "§c✖ §7Required Ability: §fHealthier Ophanim I"
+        "§f§lLight Bender Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -2375,12 +2148,8 @@
       },
       "connections": [
         56,
-        58,
         65,
         61,
-        66,
-        67,
-        65,
         66
       ]
     },
@@ -2393,10 +2162,7 @@
         "§7Increase your maximum",
         "§bMana Bank ✺§7 by §f+30§7.",
         "§7 ",
-        "§5§lArcanist Archetype",
-        "",
-        "§a✔ §7Ability Points: §f1",
-        "§c✖ §7Required Ability: §fArcane Transfer"
+        "§5§lArcanist Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -2414,7 +2180,6 @@
       },
       "connections": [
         57,
-        59,
         68
       ]
     },
@@ -2427,10 +2192,7 @@
         "§7Enemies will deal §f-0.5%§7 damage",
         "§7for every §bWinded ≈§7 they have.",
         "§7 ",
-        "§b§lRiftwalker Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Min Riftwalker Archetype: §c0§7/5"
+        "§b§lRiftwalker Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -2451,9 +2213,7 @@
       },
       "connections": [
         60,
-        61,
-        60,
-        69
+        61
       ]
     },
     {
@@ -2471,10 +2231,7 @@
         "§7  ÀÀÀÀ§8(§b❉ §8Water: -5%)",
         "§7  ÀÀÀÀ§8(§e✦ §8Thunder: -5%)",
         "§7 ",
-        "§f§lLight Bender Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Required Ability: §fOphanim"
+        "§f§lLight Bender Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -2492,10 +2249,7 @@
       },
       "connections": [
         62,
-        61,
-        67,
-        62,
-        66
+        61
       ]
     },
     {
@@ -2512,10 +2266,7 @@
         "§e🛡 §7Effect: §f100% §7Resistance Bonus (§a❁§7) to Allies",
         "§d⌛À §7Duration: §f5s",
         "",
-        "§f§lLight Bender Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Min Light Bender Archetype: §c0§7/11"
+        "§f§lLight Bender Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -2537,9 +2288,6 @@
       "connections": [
         62,
         67,
-        65,
-        62,
-        67,
         71,
         68
       ]
@@ -2553,10 +2301,7 @@
         "§7Increase your Max Orbs",
         "§7from §nLightweaver§r§7 by §f+2§7.",
         "§7 ",
-        "§f§lLight Bender Archetype",
-        "",
-        "§a✔ §7Ability Points: §f1",
-        "§c✖ §7Required Ability: §fLightweaver"
+        "§f§lLight Bender Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -2573,14 +2318,7 @@
         "col": 4
       },
       "connections": [
-        65,
-        62,
-        66,
-        71,
-        66,
-        68,
-        71,
-        70
+        66
       ]
     },
     {
@@ -2592,11 +2330,7 @@
         "§7§nArcane Transfer§r§7 will allow you to overflow",
         "§7your mana over its maximum limits. (Max 400)",
         "§7 ",
-        "§5§lArcanist Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Required Ability: §fArcane Transfer",
-        "§c✖ §7Min Arcanist Archetype: §c0§7/12"
+        "§5§lArcanist Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -2617,7 +2351,6 @@
       },
       "connections": [
         63,
-        67,
         71,
         66,
         72
@@ -2641,10 +2374,7 @@
         "§2➼ §7Range: §f12 Blocks",
         "§d⌛À §7Duration: §f+1s §8(per 5 Winded absorbed, Max 6s)",
         "",
-        "§b§lRiftwalker Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Min Riftwalker Archetype: §c0§7/12"
+        "§b§lRiftwalker Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -2665,7 +2395,6 @@
       },
       "connections": [
         60,
-        64,
         70
       ]
     },
@@ -2677,9 +2406,7 @@
         "§7 ",
         "§7Reduce the mana cost of §nHeal§r§7.",
         "§7 ",
-        "§b✺ §7Mana Cost: §f-5",
-        "§7 ",
-        "§a✔ §7Ability Points: §f1"
+        "§b✺ §7Mana Cost: §f-5"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -2697,7 +2424,6 @@
       },
       "connections": [
         69,
-        67,
         71
       ]
     },
@@ -2711,10 +2437,7 @@
         "§7Mana, casting a spell will give",
         "§7you §f+10 §7Mana over §f5s§7.",
         "§7 ",
-        "§5§lArcanist Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Min Arcanist Archetype: §c0§7/4"
+        "§5§lArcanist Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -2734,10 +2457,8 @@
         "col": 5
       },
       "connections": [
-        67,
         66,
         68,
-        67,
         70
       ]
     },
@@ -2747,10 +2468,7 @@
       "formattedName": "§f§lMemory Recollection",
       "description": [
         "§7 ",
-        "§7§nChaos Explosion§r§7 will cast §f+2 §7spells.",
-        "§7 ",
-        "§a✔ §7Ability Points: §f1",
-        "§c✖ §7Required Ability: §fChaos Explosion"
+        "§7§nChaos Explosion§r§7 will cast §f+2 §7spells."
       ],
       "itemInformation": {
         "itemId": 781,

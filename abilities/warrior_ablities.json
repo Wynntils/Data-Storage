@@ -15,9 +15,7 @@
         "§7  ÀÀÀÀ§8(§6✢ §8Damage: 130%)",
         "§7  ÀÀÀÀ§8(§2✤ §8Earth: 20%)",
         "§3☀ §7Area of Effect: §f4 Blocks §7(Circle-Shaped)",
-        "§2➼ §7Range: §f3 Blocks",
-        "§7 ",
-        "§a✔ §7Ability Points: §f1"
+        "§2➼ §7Range: §f3 Blocks"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -45,9 +43,7 @@
         "§7 ",
         "§7Reduce the Mana cost of §nBash§r§7.",
         "§7 ",
-        "§b✺ §7Mana Cost: §f-10",
-        "§7 ",
-        "§a✔ §7Ability Points: §f1"
+        "§b✺ §7Mana Cost: §f-10"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -77,9 +73,7 @@
         "§7and range when using a spear.",
         "§7 ",
         "§c⚔ §7Main Attack Damage: §f+5%",
-        "§2➼ §7Main Attack Range: §f+1 Block",
-        "§7 ",
-        "§a✔ §7Ability Points: §f1"
+        "§2➼ §7Main Attack Range: §f+1 Block"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -112,9 +106,7 @@
         "§7 ",
         "§c⚔ §7Total Damage: §c-50% §8(of your DPS, per bash)",
         "§7  ÀÀÀÀ§8(§6✢ §8Damage: -50%)",
-        "§2➼ §7Range: §f+3 Blocks",
-        "§7 ",
-        "§a✔ §7Ability Points: §f1"
+        "§2➼ §7Range: §f+3 Blocks"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -150,9 +142,7 @@
         "§cUnlocking will block:",
         "§c- §7Tougher Skin",
         "",
-        "§c§lFallen Archetype",
-        "",
-        "§a✔ §7Ability Points: §f1"
+        "§c§lFallen Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -185,9 +175,7 @@
         "§7Charge forward at a high speed.",
         "§8(Hold shift while charging to cancel)",
         "§7 ",
-        "§b✺ §7Mana Cost: §f25",
-        "§7 ",
-        "§a✔ §7Ability Points: §f1"
+        "§b✺ §7Mana Cost: §f25"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -224,9 +212,7 @@
         "§cUnlocking will block:",
         "§c- §7Vehement",
         "",
-        "§b§lPaladin Archetype",
-        "",
-        "§a✔ §7Ability Points: §f1"
+        "§b§lPaladin Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -265,9 +251,7 @@
         "§7  ÀÀÀÀ§8(§2✤ §8Earth: 40%)",
         "§7  ÀÀÀÀ§8(§e✦ §8Thunder: 40%)",
         "§3☀ §7Area of Effect: §f1-3 Blocks §7(Cone-Shaped)",
-        "§2➼ §7Range: §f5 Blocks",
-        "§7 ",
-        "§a✔ §7Ability Points: §f1"
+        "§2➼ §7Range: §f5 Blocks"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -288,8 +272,7 @@
         9,
         11,
         12,
-        13,
-        11
+        13
       ]
     },
     {
@@ -300,9 +283,7 @@
         "§7 ",
         "§7Reduce the Mana cost of §nCharge§r§7.",
         "§7 ",
-        "§b✺ §7Mana Cost: §f-5",
-        "§7 ",
-        "§a✔ §7Ability Points: §f1"
+        "§b✺ §7Mana Cost: §f-5"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -342,9 +323,7 @@
         "§7  ÀÀÀÀ§8(§c✹ §8Fire: 50%)",
         "§e🛡 §7Effect: §f20% §7Resistance Bonus (§a❁§7) to Allies",
         "§d⌛À §7Duration: §f30s",
-        "§3☀ §7Area of Effect: §f12 Blocks §7(Circle-Shaped)",
-        "§7 ",
-        "§a✔ §7Ability Points: §f1"
+        "§3☀ §7Area of Effect: §f12 Blocks §7(Circle-Shaped)"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -378,9 +357,7 @@
         "§7 ",
         "§c⚔ §7Total Damage: §f120% §8(of your DPS)",
         "§7  ÀÀÀÀ§8(§6✢ §8Damage: 120%)",
-        "§3☀ §7Area of Effect: §f4 Blocks",
-        "§7 ",
-        "§a✔ §7Ability Points: §f1"
+        "§3☀ §7Area of Effect: §f4 Blocks"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -398,9 +375,7 @@
       },
       "connections": [
         8,
-        12,
-        13,
-        8
+        12
       ]
     },
     {
@@ -415,9 +390,7 @@
         "§2✤ §7Earth Damage: §f+2-4",
         "§2✤ §7Earth Damage: §f+20%",
         "§7 ",
-        "§c§lFallen Archetype",
-        "",
-        "§a✔ §7Ability Points: §f1"
+        "§c§lFallen Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -451,9 +424,7 @@
         "§e✦ §7Thunder Damage: §f+1-8",
         "§e✦ §7Thunder Damage: §f+10%",
         "§7 ",
-        "§c§lFallen Archetype",
-        "",
-        "§a✔ §7Ability Points: §f1"
+        "§c§lFallen Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -471,7 +442,6 @@
       },
       "connections": [
         8,
-        11,
         16,
         14,
         18
@@ -489,9 +459,7 @@
         "§f❋ §7Air Damage: §f+3-4",
         "§f❋ §7Air Damage: §f+15%",
         "§7 ",
-        "§e§lBattle Monk Archetype",
-        "",
-        "§a✔ §7Ability Points: §f1"
+        "§e§lBattle Monk Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -528,9 +496,7 @@
         "§c✹ §7Fire Damage: §f+3-5",
         "§c✹ §7Fire Damage: §f+15%",
         "§7 ",
-        "§b§lPaladin Archetype",
-        "",
-        "§a✔ §7Ability Points: §f1"
+        "§b§lPaladin Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -563,9 +529,7 @@
         "§b❉ §7Water Damage: §f+2-4",
         "§b❉ §7Water Damage: §f+15%",
         "§7 ",
-        "§e§lBattle Monk Archetype",
-        "",
-        "§a✔ §7Ability Points: §f1"
+        "§e§lBattle Monk Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -602,10 +566,7 @@
         "§7  ÀÀÀÀ§8(§6✢ §8Damage: -20%)",
         "§2➼ §7Range: §f+6 Blocks",
         "§7 ",
-        "§c§lFallen Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Required Ability: §fBash"
+        "§c§lFallen Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -624,8 +585,7 @@
       "connections": [
         12,
         18,
-        26,
-        23
+        26
       ]
     },
     {
@@ -641,9 +601,7 @@
         "§7  ÀÀÀÀ§8(§6✢ §8Damage: +80%)",
         "§7  ÀÀÀÀ§8(§e✦ §8Thunder: +20%)",
         "§7 ",
-        "§c§lFallen Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2"
+        "§c§lFallen Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -662,8 +620,7 @@
       "connections": [
         13,
         17,
-        26,
-        23
+        26
       ]
     },
     {
@@ -678,9 +635,7 @@
         "§c⚔ §7Total Damage: §f120%",
         "§7  ÀÀÀÀ§8(§6✢ §8Damage: 100%)",
         "§7  ÀÀÀÀ§8(§f❋ §8Air: 20%)",
-        "§3☀ §7Area of Effect: §f2 Blocks",
-        "§7 ",
-        "§c✖ §7Ability Points: §f2"
+        "§3☀ §7Area of Effect: §f2 Blocks"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -715,10 +670,7 @@
         "§7  ÀÀÀÀ§8(§c✹ §8Fire: 50%)",
         "§d⌛À §7Duration: §f3s",
         "§7 ",
-        "§b§lPaladin Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Required Ability: §fUppercut"
+        "§b§lPaladin Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -755,11 +707,7 @@
         "§7  ÀÀÀÀ§8(§b❉ §8Water: +30%)",
         "§2➼ §7Range: §f+1.5 Blocks",
         "§7 ",
-        "§e§lBattle Monk Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Min Battle Monk Archetype: §c0§7/1",
-        "§c✖ §7Required Ability: §fUppercut"
+        "§e§lBattle Monk Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -799,10 +747,7 @@
         "§7  ÀÀÀÀ§8(§6✢ §8Damage: +15%)",
         "§7  ÀÀÀÀ§8(§f❋ §8Air: +15%)",
         "§7 ",
-        "§b§lPaladin Archetype",
-        "",
-        "§a✔ §7Ability Points: §f1",
-        "§c✖ §7Required Ability: §fWar Scream"
+        "§b§lPaladin Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -833,10 +778,7 @@
         "§7After casting §f3§7 different spells",
         "§7in a row, your next spell will cost §f1 §7Mana.",
         "§7 ",
-        "§e§lBattle Monk Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Min Battle Monk Archetype: §c0§7/3"
+        "§e§lBattle Monk Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -856,9 +798,6 @@
         "col": 2
       },
       "connections": [
-        18,
-        17,
-        26,
         28,
         24
       ]
@@ -878,10 +817,7 @@
         "§3☀ §7Area of Effect: §f2 Blocks §7(Circle-Shaped)",
         "§2➼ §7Range: §f32 Blocks",
         "§7 ",
-        "§e§lBattle Monk Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Required Ability: §fWar Scream"
+        "§e§lBattle Monk Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -913,11 +849,7 @@
         "§7shield around you that reduces all incoming",
         "§7damage by §f-70%§7 for §f3§7 hits. (25s Cooldown)",
         "§7 ",
-        "§b§lPaladin Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Required Ability: §fWar Scream",
-        "§c✖ §7Min Paladin Archetype: §c0§7/3"
+        "§b§lPaladin Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -955,11 +887,7 @@
         "§7to §fheal, §7and every §f2% §7health you lose will",
         "§7grant you §f+4§7 Raw Damage (Max 120)",
         "§7 ",
-        "§c§lFallen Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Min Fallen Archetype: §c0§7/2",
-        "§c✖ §7Required Ability: §fWar Scream"
+        "§c§lFallen Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -981,11 +909,7 @@
       "connections": [
         18,
         17,
-        23,
-        27,
-        27,
-        28,
-        31
+        27
       ]
     },
     {
@@ -998,9 +922,7 @@
         "§7and range when using a spear.",
         "§7 ",
         "§c⚔ §7Main Attack Damage: §f+5%",
-        "§2➼ §7Range: §f+1 Block",
-        "§7 ",
-        "§a✔ §7Ability Points: §f1"
+        "§2➼ §7Range: §f+1 Block"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1018,9 +940,7 @@
       },
       "connections": [
         26,
-        26,
         28,
-        31,
         31,
         33
       ]
@@ -1033,9 +953,7 @@
         "§7 ",
         "§7Reduce the Mana cost of §nUppercut§r§7.",
         "§7 ",
-        "§b✺ §7Mana Cost: §f-5",
-        "§7 ",
-        "§a✔ §7Ability Points: §f1"
+        "§b✺ §7Mana Cost: §f-5"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1054,13 +972,11 @@
       "connections": [
         23,
         24,
-        26,
         27,
         31,
         32,
         29,
-        34,
-        32
+        34
       ]
     },
     {
@@ -1072,9 +988,7 @@
         "§7During §nCharge§r§7, you can",
         "§7steer and change direction.",
         "§7 ",
-        "§e§lBattle Monk Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2"
+        "§e§lBattle Monk Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1107,9 +1021,7 @@
         "§7 ",
         "§7Reduce the Mana cost of §nWar Scream§r§7.",
         "§7 ",
-        "§b✺ §7Mana Cost: §f-5",
-        "§7 ",
-        "§c✖ §7Ability Points: §f2"
+        "§b✺ §7Mana Cost: §f-5"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1137,9 +1049,7 @@
       "formattedName": "§f§lPrecise Strikes",
       "description": [
         "§7 ",
-        "§f+15% §7Critical Hit Damage",
-        "§7 ",
-        "§a✔ §7Ability Points: §f1"
+        "§f+15% §7Critical Hit Damage"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1156,11 +1066,8 @@
         "col": 1
       },
       "connections": [
-        26,
         27,
-        28,
-        27,
-        33
+        28
       ]
     },
     {
@@ -1178,9 +1085,7 @@
         "§7  ÀÀÀÀ§8(§f❋ §8Air: 20%)",
         "§7  ÀÀÀÀ§8(§e✦ §8Thunder: 20%)",
         "§7 ",
-        "§e§lBattle Monk Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2"
+        "§e§lBattle Monk Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1198,9 +1103,7 @@
       },
       "connections": [
         28,
-        29,
-        34,
-        28
+        29
       ]
     },
     {
@@ -1213,10 +1116,7 @@
         "§7Health you lose will increase your",
         "§7damage by §f+1.5%§7. (Max 80%)",
         "§7 ",
-        "§c§lFallen Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Required Ability: §fBak\u0027al\u0027s Grasp"
+        "§c§lFallen Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1234,7 +1134,6 @@
       },
       "connections": [
         27,
-        31,
         38
       ]
     },
@@ -1252,10 +1151,7 @@
         "§7  ÀÀÀÀ§8(§f❋ §8Air: 30%)",
         "§7  ÀÀÀÀ§8(§b❉ §8Water: 20%)",
         "§7 ",
-        "§e§lBattle Monk Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Min Battle Monk Archetype: §c0§7/1"
+        "§e§lBattle Monk Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1276,7 +1172,6 @@
       },
       "connections": [
         28,
-        32,
         39,
         35,
         37,
@@ -1293,10 +1188,7 @@
         "§7to §nMantle of the Bovemists",
         "§7and reduce its cooldown by -5s.",
         "§7 ",
-        "§b§lPaladin Archetype",
-        "",
-        "§a✔ §7Ability Points: §f1",
-        "§c✖ §7Required Ability: §fMantle of the Bovemists"
+        "§b§lPaladin Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1328,10 +1220,7 @@
         "§7If you receive a hit that\u0027s less than §f5%",
         "§7of your max HP, gain §f10§7 Mana. (1s Cooldown)",
         "§7 ",
-        "§b§lPaladin Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Min Paladin Archetype: §c0§7/3"
+        "§b§lPaladin Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1363,10 +1252,7 @@
       "description": [
         "§7 ",
         "§7Increase your chance to attack",
-        "§7with §nCounter§r§7 by §f+30%§7.",
-        "§7 ",
-        "§a✔ §7Ability Points: §f1",
-        "§c✖ §7Required Ability: §fCounter"
+        "§7with §nCounter§r§7 by §f+30%§7."
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1385,9 +1271,6 @@
       "connections": [
         35,
         34,
-        40,
-        44,
-        41,
         40
       ]
     },
@@ -1405,9 +1288,7 @@
         "§7  ÀÀÀÀ§8(§6✢ §8Damage: 25%)",
         "§7  ÀÀÀÀ§8(§c✹ §8Fire: 5%)",
         "§e🛡 §7Effect: §f20% §7Slowness (§c⬤§7) to Enemies",
-        "§d⌛À §7Duration: §f3s",
-        "§7 ",
-        "§c✖ §7Ability Points: §f2"
+        "§d⌛À §7Duration: §f3s"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1427,7 +1308,6 @@
         33,
         43,
         39,
-        43,
         47
       ]
     },
@@ -1444,10 +1324,7 @@
         "§e🛡 §7Effect: §f20% §7Damage Bonus (§a⚔§7) to Players",
         "§d⌛À §7Duration: §f+15s",
         "§7 ",
-        "§c§lFallen Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Required Ability: §fWar Scream"
+        "§c§lFallen Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1467,7 +1344,6 @@
         34,
         38,
         43,
-        43,
         46
       ]
     },
@@ -1479,9 +1355,7 @@
         "§7 ",
         "§7Reduce the Mana cost of §nWar Scream§r§7.",
         "§7 ",
-        "§b✺ §7Mana Cost: §f-5",
-        "§7 ",
-        "§a✔ §7Ability Points: §f1"
+        "§b✺ §7Mana Cost: §f-5"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1502,9 +1376,7 @@
         34,
         37,
         44,
-        37,
         41,
-        44,
         49
       ]
     },
@@ -1517,9 +1389,7 @@
         "§7For every §f100 §7Health Bonus you have from",
         "§7items, gain §f+2% §c✹ §7Fire Damage. (Max 100%)",
         "§7 ",
-        "§b§lPaladin Archetype",
-        "",
-        "§a✔ §7Ability Points: §f1"
+        "§b§lPaladin Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1537,7 +1407,6 @@
       },
       "connections": [
         44,
-        37,
         40,
         42,
         45
@@ -1552,9 +1421,7 @@
         "§7Increase the damage of §nBash§r§7.",
         "§7 ",
         "§c⚔ §7Total Damage: §f+30% §8(of your DPS)",
-        "§7  ÀÀÀÀ§8(§6✢ §8Damage: +30%)",
-        "§7 ",
-        "§a✔ §7Ability Points: §f1"
+        "§7  ÀÀÀÀ§8(§6✢ §8Damage: +30%)"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1586,11 +1453,7 @@
         "§7of the health lost back for each",
         "§7enemy killed while §bCorrupted §4☠§7.",
         "§7 ",
-        "§c§lFallen Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Required Ability: §fBak\u0027al\u0027s Grasp",
-        "§c✖ §7Min Fallen Archetype: §c0§7/5"
+        "§c§lFallen Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1611,11 +1474,7 @@
       },
       "connections": [
         38,
-        39,
-        46,
-        39,
-        38,
-        47
+        39
       ]
     },
     {
@@ -1632,11 +1491,7 @@
         "§7  ÀÀÀÀ§8(§c✹ §8Fire: 50%)",
         "§3☀ §7Area of Effect: §f4 Blocks",
         "§7 ",
-        "§e§lBattle Monk Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Required Ability: §fFlying Kick",
-        "§c✖ §7Min Battle Monk Archetype: §c0§7/4"
+        "§e§lBattle Monk Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1656,10 +1511,7 @@
         "col": 5
       },
       "connections": [
-        37,
         41,
-        40,
-        49,
         40
       ]
     },
@@ -1672,10 +1524,7 @@
         "§7Regain back §f30% §7of the damage",
         "§7you take as healing over §f30s§7.",
         "§7 ",
-        "§b§lPaladin Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Min Paladin Archetype: §c0§7/5"
+        "§b§lPaladin Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1713,10 +1562,7 @@
         "§7  ÀÀÀÀ§8(§6✢ §8Damage: +80%)",
         "§7  ÀÀÀÀ§8(§2✤ §8Earth: +20%)",
         "§7 ",
-        "§c§lFallen Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Required Ability: §fFireworks"
+        "§c§lFallen Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1733,7 +1579,6 @@
         "col": 2
       },
       "connections": [
-        43,
         39
       ]
     },
@@ -1745,10 +1590,7 @@
         "§7 ",
         "§7Reduces the cooldown of §nBak\u0027al\u0027s Grasp",
         "§7by §f-5s§7, and increases the raw damage",
-        "§7gained for every §f2% §7of health lost by §f+1§7.",
-        "§7 ",
-        "§a✔ §7Ability Points: §f1",
-        "§c✖ §7Required Ability: §fBak\u0027al\u0027s Grasp"
+        "§7gained for every §f2% §7of health lost by §f+1§7."
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1766,11 +1608,9 @@
       },
       "connections": [
         38,
-        43,
         51,
         48,
-        54,
-        51
+        54
       ]
     },
     {
@@ -1782,10 +1622,7 @@
         "§7For every §f4%§7 Reflection you have from",
         "§7items, gain §f+1/5s§7 Mana Regen (Max 10/5s)",
         "§7 ",
-        "§e§lBattle Monk Archetype",
-        "",
-        "§a✔ §7Ability Points: §f1",
-        "§c✖ §7Min Battle Monk Archetype: §c0§7/1"
+        "§e§lBattle Monk Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1826,11 +1663,7 @@
         "§3☀ §7Area of Effect: §fCircle-Shaped",
         "§2➼ §7Range: §f+1 Blocks",
         "§7 ",
-        "§e§lBattle Monk Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Required Ability: §fUppercut",
-        "§c✖ §7Min Battle Monk Archetype: §c0§7/6"
+        "§e§lBattle Monk Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1850,7 +1683,6 @@
         "col": 4
       },
       "connections": [
-        44,
         40,
         48,
         56
@@ -1865,10 +1697,7 @@
         "§7Gain §f+5% §7Base Resistance and",
         "§7become immune to knockback.",
         "§7 ",
-        "§b§lPaladin Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Min Paladin Archetype: §c0§7/6"
+        "§b§lPaladin Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1890,10 +1719,7 @@
       "connections": [
         45,
         52,
-        53,
-        52,
-        53,
-        60
+        53
       ]
     },
     {
@@ -1909,10 +1735,7 @@
         "§e🛡 §7Effect: §f-30% §7Resistance Bonus (§c✃§7) to Enemies",
         "§d⌛À §7Duration: §f8s",
         "§7 ",
-        "§c§lFallen Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Required Ability: §fBak\u0027al\u0027s Grasp"
+        "§c§lFallen Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1930,12 +1753,7 @@
       },
       "connections": [
         48,
-        47,
-        54,
-        47,
-        55,
-        54,
-        57
+        47
       ]
     },
     {
@@ -1952,10 +1770,7 @@
         "§7  ÀÀÀÀ§8(§e✦ §8Thunder: 30%)",
         "§3☀ §7Area of Effect: §f5 Blocks §7(Circle-Shaped)",
         "",
-        "§b§lPaladin Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Required Ability: §fMantle of the Bovemists"
+        "§b§lPaladin Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -1974,7 +1789,6 @@
       "connections": [
         50,
         53,
-        50,
         60
       ]
     },
@@ -1992,9 +1806,7 @@
         "§7  ÀÀÀÀ§8(§e✦ §8Thunder: 20%)",
         "§3☀ §7Area of Effect: §f6 Blocks §7(Circle-Shaped)",
         "§7 ",
-        "§b§lPaladin Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2"
+        "§b§lPaladin Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -2013,7 +1825,6 @@
       "connections": [
         50,
         52,
-        50,
         60
       ]
     },
@@ -2027,10 +1838,7 @@
         "§7lose will increase §nBash§r§7\u0027s area of effect",
         "§7radius by §f+1§7. (Max 10)",
         "§7 ",
-        "§c§lFallen Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Min Fallen Archetype: §c0§7/7"
+        "§c§lFallen Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -2050,13 +1858,10 @@
         "col": 0
       },
       "connections": [
-        51,
         47,
         55,
-        51,
         57,
-        61,
-        57
+        61
       ]
     },
     {
@@ -2075,9 +1880,7 @@
         "§7  ÀÀÀÀ§8(§f❋ §8Air: 10%)",
         "§3☀ §7Area of Effect: §f12 Blocks §7(Circle-Shaped)",
         "§7 ",
-        "§e§lBattle Monk Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2"
+        "§e§lBattle Monk Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -2095,7 +1898,6 @@
       },
       "connections": [
         54,
-        51,
         57,
         56,
         58
@@ -2112,10 +1914,7 @@
         "§7 ",
         "§b✺ §7Mana Cost: §f-5",
         "§7 ",
-        "§e§lBattle Monk Archetype",
-        "",
-        "§a✔ §7Ability Points: §f1",
-        "§c✖ §7Min Battle Monk Archetype: §c0§7/5"
+        "§e§lBattle Monk Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -2139,8 +1938,6 @@
         55,
         58,
         59,
-        58,
-        59,
         63
       ]
     },
@@ -2155,10 +1952,7 @@
         "§7Main Attack will add §f+4%§7 §bCorruption §4☠ §7to",
         "§7your §bCorrupted §4☠ §7bar. (2s Cooldown)",
         "§7 ",
-        "§c§lFallen Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Min Fallen Archetype: §c0§7/5"
+        "§c§lFallen Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -2179,9 +1973,6 @@
       },
       "connections": [
         55,
-        54,
-        51,
-        61,
         54
       ]
     },
@@ -2196,9 +1987,7 @@
         "§7 ",
         "§b✺ §7Mana Cost: §c+15",
         "§c⚔ §7Total Damage: §f+150% §8(of your DPS)",
-        "§7  ÀÀÀÀ§8(§6✢ §8Damage: +150%)",
-        "§7 ",
-        "§a✔ §7Ability Points: §f1"
+        "§7  ÀÀÀÀ§8(§6✢ §8Damage: +150%)"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -2216,10 +2005,7 @@
       },
       "connections": [
         55,
-        56,
-        56,
-        59,
-        63
+        56
       ]
     },
     {
@@ -2237,10 +2023,7 @@
         "§e🛡 §7Effect: §f+20% §7ID Effectiveness (§6❈§7) to Allies",
         "§d⌛À §7Duration: §f8s",
         "§7 ",
-        "§b§lPaladin Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Min Paladin Archetype: §c0§7/3"
+        "§b§lPaladin Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -2261,10 +2044,7 @@
       },
       "connections": [
         56,
-        60,
-        56,
-        58,
-        63
+        60
       ]
     },
     {
@@ -2275,9 +2055,7 @@
         "§7 ",
         "§7Reduce the Mana cost of §nBash§r§7.",
         "§7 ",
-        "§b✺ §7Mana Cost: §f-5",
-        "§7 ",
-        "§a✔ §7Ability Points: §f1"
+        "§b✺ §7Mana Cost: §f-5"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -2296,7 +2074,6 @@
       "connections": [
         52,
         53,
-        50,
         59,
         66
       ]
@@ -2309,9 +2086,7 @@
         "§7 ",
         "§7Reduce the Mana cost of §nWar Scream§r§7.",
         "§7 ",
-        "§b✺ §7Mana Cost: §f-5",
-        "§7 ",
-        "§a✔ §7Ability Points: §f1"
+        "§b✺ §7Mana Cost: §f-5"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -2329,9 +2104,6 @@
       },
       "connections": [
         54,
-        57,
-        64,
-        62,
         64,
         67
       ]
@@ -2349,10 +2121,7 @@
         "§7enemies for every §bDiscombobulated §e⚙ §7they have.",
         "§f-5 §7of the bonus decays every second.",
         "§7 ",
-        "§e§lBattle Monk Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Min Battle Monk Archetype: §c0§7/11"
+        "§e§lBattle Monk Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -2372,8 +2141,6 @@
         "col": 2
       },
       "connections": [
-        61,
-        64,
         63
       ]
     },
@@ -2393,9 +2160,7 @@
         "§d⌛À §7Duration: §f20s",
         "§3☀ §7Area of Effect: §f4 Blocks §7(Circle-Shaped)",
         "",
-        "§e§lBattle Monk Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2"
+        "§e§lBattle Monk Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -2413,8 +2178,6 @@
       },
       "connections": [
         56,
-        58,
-        59,
         62,
         65
       ]
@@ -2425,10 +2188,7 @@
       "formattedName": "§f§lBetter Enraged Blow",
       "description": [
         "§7 ",
-        "§7Increases the cap of §nEnraged Blow§r§7 by §f+60%§7.",
-        "§7 ",
-        "§a✔ §7Ability Points: §f1",
-        "§c✖ §7Required Ability: §fEnraged Blow"
+        "§7Increases the cap of §nEnraged Blow§r§7 by §f+60%§7."
       ],
       "itemInformation": {
         "itemId": 781,
@@ -2445,13 +2205,7 @@
         "col": 1
       },
       "connections": [
-        61,
-        62,
-        61,
-        67,
-        68,
-        67,
-        69
+        61
       ]
     },
     {
@@ -2467,11 +2221,7 @@
         "§7  ÀÀÀÀ§8(§e✦ §8Thunder: +25%)",
         "§3☀ §7Area of Effect: §f+3 Blocks §7(Circle-Shaped)",
         "§7 ",
-        "§e§lBattle Monk Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Required Ability: §fBash",
-        "§c✖ §7Min Battle Monk Archetype: §c0§7/8"
+        "§e§lBattle Monk Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -2491,9 +2241,7 @@
         "col": 5
       },
       "connections": [
-        63,
-        66,
-        70
+        63
       ]
     },
     {
@@ -2505,10 +2253,7 @@
         "§7Keeps you alive with §f30%§7 of your health remaining",
         "§7after receiving a fatal blow. (10m Cooldown)",
         "§7 ",
-        "§b§lPaladin Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Min Paladin Archetype: §c0§7/12"
+        "§b§lPaladin Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -2530,7 +2275,6 @@
       "connections": [
         60,
         70,
-        65,
         71
       ]
     },
@@ -2544,10 +2288,7 @@
         "§7cast a spell, spend health instead.",
         "§7(§f0.4% §7health per mana)",
         "§7 ",
-        "§c§lFallen Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2",
-        "§c✖ §7Min Fallen Archetype: §c0§7/10"
+        "§c§lFallen Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -2568,9 +2309,7 @@
       },
       "connections": [
         61,
-        64,
         68,
-        64,
         69
       ]
     },
@@ -2583,10 +2322,7 @@
         "§7Reduce §nBlood Pact§r§7\u0027s health cost.",
         "§7(§f0.25% §7health per mana)",
         "§7 ",
-        "§c§lFallen Archetype",
-        "",
-        "§a✔ §7Ability Points: §f1",
-        "§c✖ §7Required Ability: §fBlood Pact"
+        "§c§lFallen Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -2603,7 +2339,6 @@
         "col": 2
       },
       "connections": [
-        64,
         67,
         69
       ]
@@ -2615,9 +2350,7 @@
       "description": [
         "§7 ",
         "§7You gain a §f+40%§7 Resistance buff",
-        "§7if your health is at §f25%§7 or less.",
-        "§7 ",
-        "§c✖ §7Ability Points: §f2"
+        "§7if your health is at §f25%§7 or less."
       ],
       "itemInformation": {
         "itemId": 781,
@@ -2635,7 +2368,6 @@
       },
       "connections": [
         68,
-        64,
         67,
         70
       ]
@@ -2648,9 +2380,7 @@
         "§7 ",
         "§7Reduce the Mana cost of §nUppercut§r§7.",
         "§7 ",
-        "§b✺ §7Mana Cost: §f-5",
-        "§7 ",
-        "§a✔ §7Ability Points: §f1"
+        "§b✺ §7Mana Cost: §f-5"
       ],
       "itemInformation": {
         "itemId": 781,
@@ -2668,7 +2398,6 @@
       },
       "connections": [
         66,
-        65,
         69
       ]
     },
@@ -2685,9 +2414,7 @@
         "§d⌛À §7Duration: §f3s",
         "§3☀ §7Area of Effect: §f12 Blocks §7(Circle-Shaped)",
         "",
-        "§b§lPaladin Archetype",
-        "",
-        "§c✖ §7Ability Points: §f2"
+        "§b§lPaladin Archetype"
       ],
       "itemInformation": {
         "itemId": 781,
