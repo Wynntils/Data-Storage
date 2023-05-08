@@ -694,7 +694,9 @@
         "row": 1,
         "col": 1
       },
-      "connections": []
+      "connections": [
+        24
+      ]
     },
     {
       "id": 22,
@@ -808,7 +810,9 @@
         "row": 2,
         "col": 0
       },
-      "connections": []
+      "connections": [
+        27
+      ]
     },
     {
       "id": 25,
@@ -867,7 +871,8 @@
       "connections": [
         29,
         25,
-        33
+        33,
+        30
       ]
     },
     {
@@ -897,6 +902,7 @@
         "col": 0
       },
       "connections": [
+        28,
         31
       ]
     },
@@ -925,7 +931,6 @@
         "col": 2
       },
       "connections": [
-        27,
         31
       ]
     },
@@ -1013,7 +1018,10 @@
         "row": 1,
         "col": 1
       },
-      "connections": []
+      "connections": [
+        34,
+        35
+      ]
     },
     {
       "id": 32,
@@ -1042,8 +1050,6 @@
         "col": 4
       },
       "connections": [
-        36,
-        38,
         36
       ]
     },
@@ -1073,7 +1079,8 @@
       },
       "connections": [
         36,
-        32
+        32,
+        37
       ]
     },
     {
@@ -1106,7 +1113,9 @@
         "row": 2,
         "col": 0
       },
-      "connections": []
+      "connections": [
+        39
+      ]
     },
     {
       "id": 35,
@@ -1132,7 +1141,9 @@
         "row": 2,
         "col": 2
       },
-      "connections": []
+      "connections": [
+        40
+      ]
     },
     {
       "id": 36,
@@ -1177,6 +1188,7 @@
         "col": 5
       },
       "connections": [
+        38,
         41,
         37
       ]
@@ -1237,12 +1249,7 @@
         "row": 3,
         "col": 4
       },
-      "connections": [
-        41,
-        43,
-        40,
-        46
-      ]
+      "connections": []
     },
     {
       "id": 39,
@@ -1491,7 +1498,8 @@
       "connections": [
         48,
         45,
-        51
+        51,
+        49
       ]
     },
     {
@@ -1532,7 +1540,10 @@
         "row": 1,
         "col": 7
       },
-      "connections": []
+      "connections": [
+        52,
+        53
+      ]
     },
     {
       "id": 48,
@@ -1627,8 +1638,7 @@
         "col": 1
       },
       "connections": [
-        54,
-        57
+        54
       ]
     },
     {
@@ -1764,7 +1774,9 @@
         "row": 4,
         "col": 0
       },
-      "connections": []
+      "connections": [
+        57
+      ]
     },
     {
       "id": 55,
@@ -1869,9 +1881,8 @@
         "col": 1
       },
       "connections": [
-        61,
         60,
-        65
+        61
       ]
     },
     {
@@ -1908,6 +1919,7 @@
         "col": 5
       },
       "connections": [
+        62,
         63,
         59
       ]
@@ -1939,7 +1951,9 @@
         "row": 1,
         "col": 7
       },
-      "connections": []
+      "connections": [
+        64
+      ]
     },
     {
       "id": 60,
@@ -1970,6 +1984,7 @@
         "col": 0
       },
       "connections": [
+        61,
         65
       ]
     },
@@ -2006,9 +2021,7 @@
         "col": 2
       },
       "connections": [
-        60,
-        65,
-        62
+        65
       ]
     },
     {
@@ -2036,7 +2049,9 @@
         "row": 2,
         "col": 4
       },
-      "connections": []
+      "connections": [
+        61
+      ]
     },
     {
       "id": 63,
@@ -2098,7 +2113,9 @@
         "row": 3,
         "col": 8
       },
-      "connections": []
+      "connections": [
+        66
+      ]
     },
     {
       "id": 65,
@@ -2211,9 +2228,7 @@
         "row": 5,
         "col": 3
       },
-      "connections": [
-        68
-      ]
+      "connections": []
     },
     {
       "id": 68,
@@ -2251,7 +2266,9 @@
         "row": 5,
         "col": 5
       },
-      "connections": []
+      "connections": [
+        67
+      ]
     }
   ]
 }
