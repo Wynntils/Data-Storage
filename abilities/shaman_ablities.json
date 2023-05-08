@@ -1,6 +1,7 @@
 {
   "nodes": [
     {
+      "id": 1,
       "name": "Totem",
       "formattedName": "§a§lTotem",
       "description": [
@@ -19,7 +20,7 @@
         "§a✔ §7Ability Points: §f1"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 73
       },
       "cost": 1,
@@ -33,10 +34,11 @@
         "col": 4
       },
       "connections": [
-        "Relik Proficiency I"
+        2
       ]
     },
     {
+      "id": 2,
       "name": "Relik Proficiency I",
       "formattedName": "§f§lRelik Proficiency I",
       "description": [
@@ -49,7 +51,7 @@
         "§a✔ §7Ability Points: §f1"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 45
       },
       "cost": 1,
@@ -63,12 +65,13 @@
         "col": 4
       },
       "connections": [
-        "Totem",
-        "Cheaper Totem",
-        "Totemic Smash"
+        1,
+        3,
+        4
       ]
     },
     {
+      "id": 3,
       "name": "Cheaper Totem",
       "formattedName": "§f§lCheaper Totem",
       "description": [
@@ -81,7 +84,7 @@
         "§c✖ §7Required Ability: §fTotem"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 45
       },
       "cost": 1,
@@ -95,10 +98,11 @@
         "col": 6
       },
       "connections": [
-        "Relik Proficiency I"
+        2
       ]
     },
     {
+      "id": 4,
       "name": "Totemic Smash",
       "formattedName": "§6§lTotemic Smash",
       "description": [
@@ -113,7 +117,7 @@
         "§a✔ §7Ability Points: §f1"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 49
       },
       "cost": 1,
@@ -127,11 +131,12 @@
         "col": 4
       },
       "connections": [
-        "Relik Proficiency I",
-        "Haul"
+        2,
+        6
       ]
     },
     {
+      "id": 5,
       "name": "Distant Grasp",
       "formattedName": "§f§lDistant Grasp",
       "description": [
@@ -147,7 +152,7 @@
         "§a✔ §7Ability Points: §f1"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 45
       },
       "cost": 1,
@@ -163,11 +168,12 @@
         "col": 2
       },
       "connections": [
-        "Haul",
-        "Uproot"
+        6,
+        8
       ]
     },
     {
+      "id": 6,
       "name": "Haul",
       "formattedName": "§a§lHaul",
       "description": [
@@ -180,7 +186,7 @@
         "§a✔ §7Ability Points: §f1"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 73
       },
       "cost": 1,
@@ -194,12 +200,13 @@
         "col": 4
       },
       "connections": [
-        "Totemic Smash",
-        "Distant Grasp",
-        "Hand of the Shaman"
+        4,
+        5,
+        7
       ]
     },
     {
+      "id": 7,
       "name": "Hand of the Shaman",
       "formattedName": "§f§lHand of the Shaman",
       "description": [
@@ -215,7 +222,7 @@
         "§a✔ §7Ability Points: §f1"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 45
       },
       "cost": 1,
@@ -231,11 +238,12 @@
         "col": 6
       },
       "connections": [
-        "Haul",
-        "Aura"
+        6,
+        10
       ]
     },
     {
+      "id": 8,
       "name": "Uproot",
       "formattedName": "§a§lUproot",
       "description": [
@@ -256,7 +264,7 @@
         "§a✔ §7Ability Points: §f1"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 73
       },
       "cost": 1,
@@ -270,13 +278,14 @@
         "col": 2
       },
       "connections": [
-        "Distant Grasp",
-        "Cheaper Haul",
-        "Earth Mastery",
-        "Air Mastery"
+        5,
+        9,
+        11,
+        12
       ]
     },
     {
+      "id": 9,
       "name": "Cheaper Haul",
       "formattedName": "§f§lCheaper Haul",
       "description": [
@@ -289,7 +298,7 @@
         "§c✖ §7Required Ability: §fHaul"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 45
       },
       "cost": 1,
@@ -303,13 +312,14 @@
         "col": 4
       },
       "connections": [
-        "Uproot",
-        "Aura",
-        "Water Mastery",
-        "Thunder Mastery"
+        8,
+        10,
+        16,
+        13
       ]
     },
     {
+      "id": 10,
       "name": "Aura",
       "formattedName": "§a§lAura",
       "description": [
@@ -327,7 +337,7 @@
         "§a✔ §7Ability Points: §f1"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 73
       },
       "cost": 1,
@@ -341,13 +351,14 @@
         "col": 6
       },
       "connections": [
-        "Hand of the Shaman",
-        "Cheaper Haul",
-        "Fire Mastery",
-        "Thunder Mastery"
+        7,
+        9,
+        14,
+        13
       ]
     },
     {
+      "id": 11,
       "name": "Earth Mastery",
       "formattedName": "§f§lEarth Mastery",
       "description": [
@@ -363,7 +374,7 @@
         "§a✔ §7Ability Points: §f1"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 45
       },
       "cost": 1,
@@ -377,12 +388,13 @@
         "col": 0
       },
       "connections": [
-        "Uproot",
-        "Air Mastery",
-        "Nature\u0027s Jolt"
+        8,
+        15,
+        12
       ]
     },
     {
+      "id": 12,
       "name": "Air Mastery",
       "formattedName": "§f§lAir Mastery",
       "description": [
@@ -398,7 +410,7 @@
         "§a✔ §7Ability Points: §f1"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 45
       },
       "cost": 1,
@@ -412,14 +424,15 @@
         "col": 2
       },
       "connections": [
-        "Uproot",
-        "Earth Mastery",
-        "Nature\u0027s Jolt",
-        "Thunder Mastery",
-        "Water Mastery"
+        8,
+        15,
+        11,
+        16,
+        13
       ]
     },
     {
+      "id": 13,
       "name": "Thunder Mastery",
       "formattedName": "§f§lThunder Mastery",
       "description": [
@@ -435,7 +448,7 @@
         "§a✔ §7Ability Points: §f1"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 45
       },
       "cost": 1,
@@ -449,15 +462,16 @@
         "col": 6
       },
       "connections": [
-        "Water Mastery",
-        "Cheaper Haul",
-        "Aura",
-        "Air Mastery",
-        "Water Mastery",
-        "Shocking Aura"
+        16,
+        9,
+        10,
+        16,
+        12,
+        17
       ]
     },
     {
+      "id": 14,
       "name": "Fire Mastery",
       "formattedName": "§f§lFire Mastery",
       "description": [
@@ -473,7 +487,7 @@
         "§a✔ §7Ability Points: §f1"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 45
       },
       "cost": 1,
@@ -487,11 +501,12 @@
         "col": 8
       },
       "connections": [
-        "Aura",
-        "Flaming Tongue"
+        10,
+        18
       ]
     },
     {
+      "id": 15,
       "name": "Nature\u0027s Jolt",
       "formattedName": "§6§lNature\u0027s Jolt",
       "description": [
@@ -508,7 +523,7 @@
         "§c✖ §7Required Ability: §fHaul"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 49
       },
       "cost": 2,
@@ -522,12 +537,13 @@
         "col": 1
       },
       "connections": [
-        "Earth Mastery",
-        "Air Mastery",
-        "Overseer"
+        12,
+        11,
+        19
       ]
     },
     {
+      "id": 16,
       "name": "Water Mastery",
       "formattedName": "§f§lWater Mastery",
       "description": [
@@ -543,7 +559,7 @@
         "§a✔ §7Ability Points: §f1"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 45
       },
       "cost": 1,
@@ -557,14 +573,15 @@
         "col": 4
       },
       "connections": [
-        "Cheaper Haul",
-        "Thunder Mastery",
-        "Thunder Mastery",
-        "Air Mastery",
-        "Rain Dance"
+        13,
+        9,
+        12,
+        13,
+        20
       ]
     },
     {
+      "id": 17,
       "name": "Shocking Aura",
       "formattedName": "§6§lShocking Aura",
       "description": [
@@ -581,7 +598,7 @@
         "§c✖ §7Required Ability: §fAura"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 49
       },
       "cost": 2,
@@ -595,12 +612,13 @@
         "col": 6
       },
       "connections": [
-        "Thunder Mastery",
-        "Sacrificial Shrine",
-        "Flaming Tongue"
+        13,
+        18,
+        23
       ]
     },
     {
+      "id": 18,
       "name": "Flaming Tongue",
       "formattedName": "§6§lFlaming Tongue",
       "description": [
@@ -621,7 +639,7 @@
         "§c✖ §7Required Ability: §fUproot"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 49
       },
       "cost": 2,
@@ -635,12 +653,13 @@
         "col": 8
       },
       "connections": [
-        "Fire Mastery",
-        "Sacrificial Shrine",
-        "Shocking Aura"
+        14,
+        17,
+        23
       ]
     },
     {
+      "id": 19,
       "name": "Overseer",
       "formattedName": "§6§lOverseer",
       "description": [
@@ -657,7 +676,7 @@
         "§c✖ §7Required Ability: §fUproot"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 49
       },
       "cost": 2,
@@ -671,11 +690,12 @@
         "col": 1
       },
       "connections": [
-        "Nature\u0027s Jolt",
-        "Puppet Master"
+        15,
+        21
       ]
     },
     {
+      "id": 20,
       "name": "Rain Dance",
       "formattedName": "§6§lRain Dance",
       "description": [
@@ -695,7 +715,7 @@
         "§c✖ §7Ability Points: §f2"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 49
       },
       "cost": 2,
@@ -709,11 +729,12 @@
         "col": 4
       },
       "connections": [
-        "Water Mastery",
-        "Mask of the Lunatic"
+        16,
+        22
       ]
     },
     {
+      "id": 21,
       "name": "Puppet Master",
       "formattedName": "§c§lPuppet Master",
       "description": [
@@ -736,7 +757,7 @@
         "§c✖ §7Min Summoner Archetype: §c0§7/3"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 57
       },
       "cost": 2,
@@ -753,11 +774,12 @@
         "col": 1
       },
       "connections": [
-        "Overseer",
-        "More Puppets"
+        19,
+        24
       ]
     },
     {
+      "id": 22,
       "name": "Mask of the Lunatic",
       "formattedName": "§c§lMask of the Lunatic",
       "description": [
@@ -784,7 +806,7 @@
         "§c✖ §7Min Ritualist Archetype: §c0§7/2"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 57
       },
       "cost": 2,
@@ -803,11 +825,12 @@
         "col": 4
       },
       "connections": [
-        "Rain Dance",
-        "Cheaper Uproot"
+        20,
+        25
       ]
     },
     {
+      "id": 23,
       "name": "Sacrificial Shrine",
       "formattedName": "§c§lSacrificial Shrine",
       "description": [
@@ -830,7 +853,7 @@
         "§c✖ §7Min Acolyte Archetype: §c0§7/3"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 57
       },
       "cost": 2,
@@ -849,12 +872,13 @@
         "col": 7
       },
       "connections": [
-        "Shocking Aura",
-        "Flaming Tongue",
-        "Rebound"
+        17,
+        18,
+        26
       ]
     },
     {
+      "id": 24,
       "name": "More Puppets",
       "formattedName": "§f§lMore Puppets",
       "description": [
@@ -867,7 +891,7 @@
         "§c✖ §7Required Ability: §fPuppet Master"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 45
       },
       "cost": 1,
@@ -881,11 +905,12 @@
         "col": 0
       },
       "connections": [
-        "Puppet Master",
-        "Stagnation"
+        21,
+        27
       ]
     },
     {
+      "id": 25,
       "name": "Cheaper Uproot",
       "formattedName": "§f§lCheaper Uproot",
       "description": [
@@ -898,7 +923,7 @@
         "§c✖ §7Required Ability: §fUproot"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 45
       },
       "cost": 1,
@@ -912,15 +937,16 @@
         "col": 4
       },
       "connections": [
-        "Mask of the Lunatic",
-        "Cheaper Aura",
-        "Rebound",
-        "Better Totem",
-        "Hymn of Hate",
-        "Better Totem"
+        22,
+        28,
+        29,
+        26,
+        29,
+        32
       ]
     },
     {
+      "id": 26,
       "name": "Rebound",
       "formattedName": "§d§lRebound",
       "description": [
@@ -933,7 +959,7 @@
         "§c✖ §7Required Ability: §fAura"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 53
       },
       "cost": 2,
@@ -947,15 +973,16 @@
         "col": 7
       },
       "connections": [
-        "Sacrificial Shrine",
-        "Cheaper Uproot",
-        "Better Totem",
-        "Blood Connection",
-        "Blood Connection",
-        "Larger Blood Pool"
+        23,
+        29,
+        25,
+        30,
+        30,
+        33
       ]
     },
     {
+      "id": 27,
       "name": "Stagnation",
       "formattedName": "§6§lStagnation",
       "description": [
@@ -970,7 +997,7 @@
         "§c✖ §7Required Ability: §fNature\u0027s Jolt"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 49
       },
       "cost": 2,
@@ -984,12 +1011,13 @@
         "col": 0
       },
       "connections": [
-        "More Puppets",
-        "Exploding Puppets",
-        "Cheaper Aura"
+        24,
+        31,
+        28
       ]
     },
     {
+      "id": 28,
       "name": "Cheaper Aura",
       "formattedName": "§f§lCheaper Aura",
       "description": [
@@ -1002,7 +1030,7 @@
         "§c✖ §7Required Ability: §fAura"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 45
       },
       "cost": 1,
@@ -1016,12 +1044,13 @@
         "col": 2
       },
       "connections": [
-        "Cheaper Uproot",
-        "Exploding Puppets",
-        "Stagnation"
+        25,
+        31,
+        27
       ]
     },
     {
+      "id": 29,
       "name": "Better Totem",
       "formattedName": "§f§lBetter Totem",
       "description": [
@@ -1034,7 +1063,7 @@
         "§c✖ §7Required Ability: §fTotem"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 45
       },
       "cost": 1,
@@ -1048,13 +1077,14 @@
         "col": 5
       },
       "connections": [
-        "Cheaper Uproot",
-        "Rebound",
-        "Hymn of Hate",
-        "Cheaper Uproot"
+        26,
+        25,
+        25,
+        32
       ]
     },
     {
+      "id": 30,
       "name": "Blood Connection",
       "formattedName": "§6§lBlood Connection",
       "description": [
@@ -1068,7 +1098,7 @@
         "§c✖ §7Required Ability: §fHaul"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 49
       },
       "cost": 2,
@@ -1082,12 +1112,13 @@
         "col": 8
       },
       "connections": [
-        "Rebound",
-        "Rebound",
-        "Larger Blood Pool"
+        26,
+        26,
+        33
       ]
     },
     {
+      "id": 31,
       "name": "Exploding Puppets",
       "formattedName": "§6§lExploding Puppets",
       "description": [
@@ -1107,7 +1138,7 @@
         "§c✖ §7Required Ability: §fPuppet Master"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 49
       },
       "cost": 2,
@@ -1121,13 +1152,14 @@
         "col": 1
       },
       "connections": [
-        "Cheaper Aura",
-        "Stagnation",
-        "Bullwhip",
-        "More Puppets"
+        28,
+        27,
+        34,
+        35
       ]
     },
     {
+      "id": 32,
       "name": "Hymn of Hate",
       "formattedName": "§d§lHymn of Hate",
       "description": [
@@ -1142,7 +1174,7 @@
         "§c✖ §7Required Ability: §fMask of the Lunatic"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 53
       },
       "cost": 2,
@@ -1156,16 +1188,17 @@
         "col": 4
       },
       "connections": [
-        "Cheaper Uproot",
-        "Better Totem",
-        "Vengeful Spirit",
-        "Mask of the Fanatic",
-        "Larger Blood Pool",
-        "Mask of the Fanatic",
-        "Masquerade"
+        29,
+        25,
+        33,
+        37,
+        36,
+        36,
+        38
       ]
     },
     {
+      "id": 33,
       "name": "Larger Blood Pool",
       "formattedName": "§f§lLarger Blood Pool",
       "description": [
@@ -1178,7 +1211,7 @@
         "§c✖ §7Required Ability: §fSacrificial Shrine"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 45
       },
       "cost": 1,
@@ -1192,15 +1225,16 @@
         "col": 7
       },
       "connections": [
-        "Blood Connection",
-        "Rebound",
-        "Vengeful Spirit",
-        "Mask of the Fanatic",
-        "Hymn of Hate",
-        "Vengeful Spirit"
+        26,
+        30,
+        37,
+        36,
+        32,
+        37
       ]
     },
     {
+      "id": 34,
       "name": "Bullwhip",
       "formattedName": "§d§lBullwhip",
       "description": [
@@ -1219,7 +1253,7 @@
         "§c✖ §7Required Ability: §fUproot"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 53
       },
       "cost": 2,
@@ -1233,11 +1267,12 @@
         "col": 0
       },
       "connections": [
-        "Exploding Puppets",
-        "Double Totem"
+        31,
+        39
       ]
     },
     {
+      "id": 35,
       "name": "More Puppets",
       "formattedName": "§f§lMore Puppets",
       "description": [
@@ -1250,7 +1285,7 @@
         "§c✖ §7Required Ability: §fMore Puppets"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 45
       },
       "cost": 1,
@@ -1264,11 +1299,12 @@
         "col": 2
       },
       "connections": [
-        "Exploding Puppets",
-        "Cheaper Totem"
+        31,
+        40
       ]
     },
     {
+      "id": 36,
       "name": "Mask of the Fanatic",
       "formattedName": "§d§lMask of the Fanatic",
       "description": [
@@ -1294,7 +1330,7 @@
         "§c✖ §7Min Ritualist Archetype: §c0§7/3"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 53
       },
       "cost": 2,
@@ -1313,16 +1349,17 @@
         "col": 5
       },
       "connections": [
-        "Vengeful Spirit",
-        "Hymn of Hate",
-        "Larger Blood Pool",
-        "Hymn of Hate",
-        "Masquerade",
-        "Storm Dance",
-        "Masquerade"
+        33,
+        37,
+        32,
+        38,
+        32,
+        41,
+        38
       ]
     },
     {
+      "id": 37,
       "name": "Vengeful Spirit",
       "formattedName": "§6§lVengeful Spirit",
       "description": [
@@ -1337,7 +1374,7 @@
         "§c✖ §7Ability Points: §f2"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 49
       },
       "cost": 2,
@@ -1351,14 +1388,15 @@
         "col": 8
       },
       "connections": [
-        "Mask of the Fanatic",
-        "Hymn of Hate",
-        "Larger Blood Pool",
-        "Larger Blood Pool",
-        "Blood Moon"
+        33,
+        36,
+        32,
+        33,
+        42
       ]
     },
     {
+      "id": 38,
       "name": "Masquerade",
       "formattedName": "§6§lMasquerade",
       "description": [
@@ -1372,7 +1410,7 @@
         "§c✖ §7Required Ability: §fMask of the Lunatic"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 49
       },
       "cost": 2,
@@ -1386,17 +1424,18 @@
         "col": 4
       },
       "connections": [
-        "Mask of the Fanatic",
-        "Hymn of Hate",
-        "Storm Dance",
-        "Mask of the Fanatic",
-        "Storm Dance",
-        "Seeking Totem",
-        "Cheaper Totem",
-        "Regeneration"
+        36,
+        32,
+        41,
+        36,
+        40,
+        41,
+        43,
+        46
       ]
     },
     {
+      "id": 39,
       "name": "Double Totem",
       "formattedName": "§6§lDouble Totem",
       "description": [
@@ -1414,7 +1453,7 @@
         "§c✖ §7Min Summoner Archetype: §c0§7/2"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 49
       },
       "cost": 2,
@@ -1431,12 +1470,13 @@
         "col": 0
       },
       "connections": [
-        "Bullwhip",
-        "Cheaper Totem",
-        "Cheaper Aura"
+        34,
+        40,
+        45
       ]
     },
     {
+      "id": 40,
       "name": "Cheaper Totem",
       "formattedName": "§f§lCheaper Totem",
       "description": [
@@ -1449,7 +1489,7 @@
         "§c✖ §7Required Ability: §fTotem"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 45
       },
       "cost": 1,
@@ -1463,16 +1503,17 @@
         "col": 2
       },
       "connections": [
-        "More Puppets",
-        "Cheaper Aura",
-        "Double Totem",
-        "Masquerade",
-        "Storm Dance",
-        "Seeking Totem",
-        "Regeneration"
+        35,
+        39,
+        45,
+        41,
+        43,
+        38,
+        46
       ]
     },
     {
+      "id": 41,
       "name": "Storm Dance",
       "formattedName": "§6§lStorm Dance",
       "description": [
@@ -1489,7 +1530,7 @@
         "§c✖ §7Required Ability: §fAura"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 49
       },
       "cost": 2,
@@ -1503,18 +1544,19 @@
         "col": 5
       },
       "connections": [
-        "Mask of the Fanatic",
-        "Masquerade",
-        "Masquerade",
-        "Seeking Totem",
-        "Cheaper Totem",
-        "Regeneration",
-        "Blood Moon",
-        "Twisted Tether",
-        "Cheaper Haul"
+        36,
+        38,
+        40,
+        43,
+        38,
+        46,
+        47,
+        42,
+        44
       ]
     },
     {
+      "id": 42,
       "name": "Blood Moon",
       "formattedName": "§f§lBlood Moon",
       "description": [
@@ -1525,7 +1567,7 @@
         "§a✔ §7Ability Points: §f1"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 45
       },
       "cost": 1,
@@ -1539,13 +1581,14 @@
         "col": 8
       },
       "connections": [
-        "Vengeful Spirit",
-        "Twisted Tether",
-        "Cheaper Haul",
-        "Storm Dance"
+        37,
+        47,
+        41,
+        44
       ]
     },
     {
+      "id": 43,
       "name": "Regeneration",
       "formattedName": "§6§lRegeneration",
       "description": [
@@ -1561,7 +1604,7 @@
         "§c✖ §7Ability Points: §f2"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 49
       },
       "cost": 2,
@@ -1577,13 +1620,14 @@
         "col": 3
       },
       "connections": [
-        "Masquerade",
-        "Storm Dance",
-        "Seeking Totem",
-        "Cheaper Totem"
+        40,
+        41,
+        38,
+        46
       ]
     },
     {
+      "id": 44,
       "name": "Cheaper Haul",
       "formattedName": "§f§lCheaper Haul",
       "description": [
@@ -1596,7 +1640,7 @@
         "§c✖ §7Required Ability: §fHaul"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 45
       },
       "cost": 1,
@@ -1610,12 +1654,13 @@
         "col": 6
       },
       "connections": [
-        "Blood Moon",
-        "Twisted Tether",
-        "Storm Dance"
+        47,
+        41,
+        42
       ]
     },
     {
+      "id": 45,
       "name": "Cheaper Aura",
       "formattedName": "§f§lCheaper Aura",
       "description": [
@@ -1628,7 +1673,7 @@
         "§c✖ §7Required Ability: §fAura"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 45
       },
       "cost": 1,
@@ -1642,15 +1687,16 @@
         "col": 1
       },
       "connections": [
-        "Cheaper Totem",
-        "Double Totem",
-        "Seeking Totem",
-        "Stronger Totem",
-        "Crimson Effigy",
-        "Stronger Totem"
+        40,
+        39,
+        48,
+        46,
+        48,
+        50
       ]
     },
     {
+      "id": 46,
       "name": "Seeking Totem",
       "formattedName": "§6§lSeeking Totem",
       "description": [
@@ -1665,7 +1711,7 @@
         "§c✖ §7Required Ability: §fMask of the Fanatic"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 49
       },
       "cost": 2,
@@ -1679,20 +1725,21 @@
         "col": 4
       },
       "connections": [
-        "Masquerade",
-        "Storm Dance",
-        "Cheaper Totem",
-        "Regeneration",
-        "Cheaper Aura",
-        "Stronger Totem",
-        "Fluid Healing",
-        "Depersonalization",
-        "Twisted Tether",
-        "Depersonalization",
-        "Mask of the Coward"
+        40,
+        41,
+        43,
+        38,
+        48,
+        45,
+        47,
+        49,
+        52,
+        49,
+        51
       ]
     },
     {
+      "id": 47,
       "name": "Twisted Tether",
       "formattedName": "§c§lTwisted Tether",
       "description": [
@@ -1716,7 +1763,7 @@
         "§c✖ §7Min Acolyte Archetype: §c0§7/7"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 57
       },
       "cost": 2,
@@ -1733,16 +1780,17 @@
         "col": 7
       },
       "connections": [
-        "Blood Moon",
-        "Cheaper Haul",
-        "Storm Dance",
-        "Fluid Healing",
-        "Seeking Totem",
-        "Depersonalization",
-        "Larger Blood Pool"
+        41,
+        42,
+        44,
+        49,
+        52,
+        46,
+        53
       ]
     },
     {
+      "id": 48,
       "name": "Stronger Totem",
       "formattedName": "§f§lStronger Totem",
       "description": [
@@ -1756,7 +1804,7 @@
         "§c✖ §7Required Ability: §fTotem"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 45
       },
       "cost": 1,
@@ -1770,15 +1818,16 @@
         "col": 2
       },
       "connections": [
-        "Seeking Totem",
-        "Cheaper Aura",
-        "Crimson Effigy",
-        "Cheaper Aura",
-        "Mask of the Coward",
-        "Crimson Effigy"
+        45,
+        46,
+        50,
+        45,
+        50,
+        51
       ]
     },
     {
+      "id": 49,
       "name": "Depersonalization",
       "formattedName": "§f§lDepersonalization",
       "description": [
@@ -1794,7 +1843,7 @@
         "§c✖ §7Min Ritualist Archetype: §c0§7/6"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 45
       },
       "cost": 1,
@@ -1811,17 +1860,18 @@
         "col": 5
       },
       "connections": [
-        "Fluid Healing",
-        "Seeking Totem",
-        "Twisted Tether",
-        "Seeking Totem",
-        "Mask of the Coward",
-        "Fluid Healing",
-        "Chant of the Coward",
-        "Mask of the Coward"
+        47,
+        52,
+        46,
+        51,
+        46,
+        55,
+        51,
+        52
       ]
     },
     {
+      "id": 50,
       "name": "Crimson Effigy",
       "formattedName": "§c§lCrimson Effigy",
       "description": [
@@ -1842,7 +1892,7 @@
         "§c✖ §7Min Summoner Archetype: §c0§7/8"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 57
       },
       "cost": 2,
@@ -1859,16 +1909,17 @@
         "col": 1
       },
       "connections": [
-        "Stronger Totem",
-        "Cheaper Aura",
-        "Maddening Roots",
-        "Mask of the Coward",
-        "Stronger Totem",
-        "Maddening Roots",
-        "More Effigies"
+        48,
+        45,
+        54,
+        48,
+        51,
+        54,
+        57
       ]
     },
     {
+      "id": 51,
       "name": "Mask of the Coward",
       "formattedName": "§d§lMask of the Coward",
       "description": [
@@ -1894,7 +1945,7 @@
         "§c✖ §7Min Ritualist Archetype: §c0§7/7"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 53
       },
       "cost": 2,
@@ -1913,16 +1964,17 @@
         "col": 4
       },
       "connections": [
-        "Seeking Totem",
-        "Depersonalization",
-        "Crimson Effigy",
-        "Stronger Totem",
-        "Depersonalization",
-        "Fluid Healing",
-        "Chant of the Coward"
+        49,
+        46,
+        48,
+        50,
+        55,
+        49,
+        52
       ]
     },
     {
+      "id": 52,
       "name": "Fluid Healing",
       "formattedName": "§6§lFluid Healing",
       "description": [
@@ -1935,7 +1987,7 @@
         "§c✖ §7Required Ability: §fSacrificial Shrine"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 49
       },
       "cost": 2,
@@ -1949,17 +2001,18 @@
         "col": 6
       },
       "connections": [
-        "Seeking Totem",
-        "Depersonalization",
-        "Twisted Tether",
-        "Depersonalization",
-        "Chant of the Coward",
-        "Mask of the Coward",
-        "Blood Rite",
-        "Larger Blood Pool"
+        47,
+        49,
+        46,
+        55,
+        49,
+        51,
+        53,
+        56
       ]
     },
     {
+      "id": 53,
       "name": "Larger Blood Pool",
       "formattedName": "§f§lLarger Blood Pool",
       "description": [
@@ -1972,7 +2025,7 @@
         "§c✖ §7Required Ability: §fSacrificial Shrine"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 45
       },
       "cost": 1,
@@ -1986,12 +2039,13 @@
         "col": 8
       },
       "connections": [
-        "Twisted Tether",
-        "Blood Rite",
-        "Fluid Healing"
+        47,
+        52,
+        56
       ]
     },
     {
+      "id": 54,
       "name": "Maddening Roots",
       "formattedName": "§6§lMaddening Roots",
       "description": [
@@ -2007,7 +2061,7 @@
         "§c✖ §7Required Ability: §fUproot"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 49
       },
       "cost": 2,
@@ -2021,12 +2075,13 @@
         "col": 0
       },
       "connections": [
-        "Crimson Effigy",
-        "Crimson Effigy",
-        "More Effigies"
+        50,
+        50,
+        57
       ]
     },
     {
+      "id": 55,
       "name": "Chant of the Coward",
       "formattedName": "§6§lChant of the Coward",
       "description": [
@@ -2045,7 +2100,7 @@
         "§c✖ §7Min Ritualist Archetype: §c0§7/7"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 49
       },
       "cost": 2,
@@ -2062,13 +2117,14 @@
         "col": 5
       },
       "connections": [
-        "Depersonalization",
-        "Fluid Healing",
-        "Mask of the Coward",
-        "Chant of the Fanatic"
+        49,
+        51,
+        52,
+        58
       ]
     },
     {
+      "id": 56,
       "name": "Blood Rite",
       "formattedName": "§d§lBlood Rite",
       "description": [
@@ -2086,7 +2142,7 @@
         "§c✖ §7Min Acolyte Archetype: §c0§7/9"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 53
       },
       "cost": 2,
@@ -2103,12 +2159,13 @@
         "col": 7
       },
       "connections": [
-        "Fluid Healing",
-        "Larger Blood Pool",
-        "Stronger Tether"
+        52,
+        53,
+        59
       ]
     },
     {
+      "id": 57,
       "name": "More Effigies",
       "formattedName": "§f§lMore Effigies",
       "description": [
@@ -2126,7 +2183,7 @@
         "§c✖ §7Min Summoner Archetype: §c0§7/8"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 45
       },
       "cost": 1,
@@ -2143,16 +2200,17 @@
         "col": 1
       },
       "connections": [
-        "Maddening Roots",
-        "Crimson Effigy",
-        "Triple Totem",
-        "Invigorating Wave",
-        "Shepherd",
-        "Invigorating Wave",
-        "Triple Totem"
+        54,
+        50,
+        60,
+        61,
+        61,
+        65,
+        60
       ]
     },
     {
+      "id": 58,
       "name": "Chant of the Fanatic",
       "formattedName": "§d§lChant of the Fanatic",
       "description": [
@@ -2172,7 +2230,7 @@
         "§c✖ §7Min Ritualist Archetype: §c0§7/10"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 53
       },
       "cost": 2,
@@ -2189,14 +2247,15 @@
         "col": 5
       },
       "connections": [
-        "Chant of the Coward",
-        "Mengdu",
-        "Stronger Tether",
-        "Frog Dance",
-        "Mengdu"
+        55,
+        62,
+        59,
+        62,
+        63
       ]
     },
     {
+      "id": 59,
       "name": "Stronger Tether",
       "formattedName": "§f§lStronger Tether",
       "description": [
@@ -2212,7 +2271,7 @@
         "§c✖ §7Required Ability: §fTwisted Tether"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 45
       },
       "cost": 1,
@@ -2226,12 +2285,13 @@
         "col": 7
       },
       "connections": [
-        "Blood Rite",
-        "Chant of the Fanatic",
-        "Larger Blood Pool"
+        56,
+        58,
+        64
       ]
     },
     {
+      "id": 60,
       "name": "Triple Totem",
       "formattedName": "§6§lTriple Totem",
       "description": [
@@ -2248,7 +2308,7 @@
         "§c✖ §7Required Ability: §fDouble Totem"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 49
       },
       "cost": 2,
@@ -2262,13 +2322,14 @@
         "col": 0
       },
       "connections": [
-        "More Effigies",
-        "Shepherd",
-        "Invigorating Wave",
-        "More Effigies"
+        57,
+        61,
+        65,
+        57
       ]
     },
     {
+      "id": 61,
       "name": "Invigorating Wave",
       "formattedName": "§d§lInvigorating Wave",
       "description": [
@@ -2287,7 +2348,7 @@
         "§c✖ §7Min Summoner Archetype: §c0§7/3"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 53
       },
       "cost": 2,
@@ -2304,14 +2365,15 @@
         "col": 2
       },
       "connections": [
-        "More Effigies",
-        "Shepherd",
-        "More Effigies",
-        "Triple Totem",
-        "Mengdu"
+        57,
+        65,
+        57,
+        60,
+        62
       ]
     },
     {
+      "id": 62,
       "name": "Mengdu",
       "formattedName": "§f§lMengdu",
       "description": [
@@ -2324,7 +2386,7 @@
         "§a✔ §7Ability Points: §f1"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 45
       },
       "cost": 1,
@@ -2338,13 +2400,14 @@
         "col": 4
       },
       "connections": [
-        "Chant of the Fanatic",
-        "Invigorating Wave",
-        "Chant of the Fanatic",
-        "Frog Dance"
+        58,
+        61,
+        63,
+        58
       ]
     },
     {
+      "id": 63,
       "name": "Frog Dance",
       "formattedName": "§6§lFrog Dance",
       "description": [
@@ -2365,7 +2428,7 @@
         "§c✖ §7Required Ability: §fMask of the Coward"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 49
       },
       "cost": 2,
@@ -2379,12 +2442,13 @@
         "col": 5
       },
       "connections": [
-        "Chant of the Fanatic",
-        "Mengdu",
-        "Mask of the Awakened"
+        62,
+        58,
+        68
       ]
     },
     {
+      "id": 64,
       "name": "Larger Blood Pool",
       "formattedName": "§f§lLarger Blood Pool",
       "description": [
@@ -2397,7 +2461,7 @@
         "§c✖ §7Required Ability: §fSacrificial Shrine"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 45
       },
       "cost": 1,
@@ -2411,11 +2475,12 @@
         "col": 8
       },
       "connections": [
-        "Stronger Tether",
-        "Blood Sorrow"
+        59,
+        66
       ]
     },
     {
+      "id": 65,
       "name": "Shepherd",
       "formattedName": "§c§lShepherd",
       "description": [
@@ -2430,7 +2495,7 @@
         "§c✖ §7Min Summoner Archetype: §c0§7/12"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 57
       },
       "cost": 2,
@@ -2447,13 +2512,14 @@
         "col": 1
       },
       "connections": [
-        "Invigorating Wave",
-        "More Effigies",
-        "Triple Totem",
-        "Cheaper Uproot"
+        61,
+        57,
+        60,
+        67
       ]
     },
     {
+      "id": 66,
       "name": "Blood Sorrow",
       "formattedName": "§c§lBlood Sorrow",
       "description": [
@@ -2488,7 +2554,7 @@
         "§c✖ §7Min Acolyte Archetype: §c0§7/12"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 57
       },
       "cost": 2,
@@ -2510,10 +2576,11 @@
         "col": 7
       },
       "connections": [
-        "Larger Blood Pool"
+        64
       ]
     },
     {
+      "id": 67,
       "name": "Cheaper Uproot",
       "formattedName": "§f§lCheaper Uproot",
       "description": [
@@ -2526,7 +2593,7 @@
         "§c✖ §7Required Ability: §fUproot"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 45
       },
       "cost": 1,
@@ -2540,11 +2607,12 @@
         "col": 3
       },
       "connections": [
-        "Shepherd",
-        "Mask of the Awakened"
+        65,
+        68
       ]
     },
     {
+      "id": 68,
       "name": "Mask of the Awakened",
       "formattedName": "§c§lMask of the Awakened",
       "description": [
@@ -2565,7 +2633,7 @@
         "§c✖ §7Min Ritualist Archetype: §c0§7/12"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 57
       },
       "cost": 2,
@@ -2584,8 +2652,8 @@
         "col": 5
       },
       "connections": [
-        "Frog Dance",
-        "Cheaper Uproot"
+        63,
+        67
       ]
     }
   ]

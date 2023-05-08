@@ -1,6 +1,7 @@
 {
   "nodes": [
     {
+      "id": 1,
       "name": "Arrow Bomb",
       "formattedName": "§a§lArrow Bomb",
       "description": [
@@ -20,7 +21,7 @@
         "§a✔ §7Ability Points: §f1"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 64
       },
       "cost": 1,
@@ -34,10 +35,11 @@
         "col": 4
       },
       "connections": [
-        "Bow Proficiency I"
+        2
       ]
     },
     {
+      "id": 2,
       "name": "Bow Proficiency I",
       "formattedName": "§f§lBow Proficiency I",
       "description": [
@@ -51,7 +53,7 @@
         "§a✔ §7Ability Points: §f1"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 45
       },
       "cost": 1,
@@ -65,12 +67,13 @@
         "col": 4
       },
       "connections": [
-        "Arrow Bomb",
-        "Cheaper Arrow Bomb",
-        "Heart Shatter"
+        1,
+        3,
+        4
       ]
     },
     {
+      "id": 3,
       "name": "Cheaper Arrow Bomb",
       "formattedName": "§f§lCheaper Arrow Bomb",
       "description": [
@@ -82,7 +85,7 @@
         "§a✔ §7Ability Points: §f1"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 45
       },
       "cost": 1,
@@ -96,10 +99,11 @@
         "col": 6
       },
       "connections": [
-        "Bow Proficiency I"
+        2
       ]
     },
     {
+      "id": 4,
       "name": "Heart Shatter",
       "formattedName": "§6§lHeart Shatter",
       "description": [
@@ -113,7 +117,7 @@
         "§a✔ §7Ability Points: §f1"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 49
       },
       "cost": 1,
@@ -127,11 +131,12 @@
         "col": 4
       },
       "connections": [
-        "Bow Proficiency I",
-        "Escape"
+        2,
+        6
       ]
     },
     {
+      "id": 5,
       "name": "Double Shots",
       "formattedName": "§f§lDouble Shots",
       "description": [
@@ -150,7 +155,7 @@
         "§a✔ §7Ability Points: §f1"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 45
       },
       "cost": 1,
@@ -166,11 +171,12 @@
         "col": 2
       },
       "connections": [
-        "Escape",
-        "Arrow Storm"
+        6,
+        8
       ]
     },
     {
+      "id": 6,
       "name": "Escape",
       "formattedName": "§a§lEscape",
       "description": [
@@ -184,7 +190,7 @@
         "§a✔ §7Ability Points: §f1"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 64
       },
       "cost": 1,
@@ -198,12 +204,13 @@
         "col": 4
       },
       "connections": [
-        "Heart Shatter",
-        "Double Shots",
-        "Power Shots"
+        4,
+        5,
+        7
       ]
     },
     {
+      "id": 7,
       "name": "Power Shots",
       "formattedName": "§f§lPower Shots",
       "description": [
@@ -219,7 +226,7 @@
         "§a✔ §7Ability Points: §f1"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 45
       },
       "cost": 1,
@@ -235,11 +242,12 @@
         "col": 6
       },
       "connections": [
-        "Escape",
-        "Arrow Shield"
+        6,
+        10
       ]
     },
     {
+      "id": 8,
       "name": "Arrow Storm",
       "formattedName": "§a§lArrow Storm",
       "description": [
@@ -258,7 +266,7 @@
         "§a✔ §7Ability Points: §f1"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 64
       },
       "cost": 1,
@@ -272,15 +280,16 @@
         "col": 2
       },
       "connections": [
-        "Double Shots",
-        "Cheaper Escape",
-        "Windy Feet",
-        "Air Mastery",
-        "Windy Feet",
-        "Thunder Mastery"
+        5,
+        9,
+        12,
+        11,
+        13,
+        11
       ]
     },
     {
+      "id": 9,
       "name": "Cheaper Escape",
       "formattedName": "§f§lCheaper Escape",
       "description": [
@@ -292,7 +301,7 @@
         "§a✔ §7Ability Points: §f1"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 45
       },
       "cost": 1,
@@ -306,13 +315,14 @@
         "col": 4
       },
       "connections": [
-        "Arrow Storm",
-        "Arrow Shield",
-        "Water Mastery",
-        "Fire Mastery"
+        8,
+        10,
+        14,
+        16
       ]
     },
     {
+      "id": 10,
       "name": "Arrow Shield",
       "formattedName": "§a§lArrow Shield",
       "description": [
@@ -331,7 +341,7 @@
         "§a✔ §7Ability Points: §f1"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 64
       },
       "cost": 1,
@@ -345,13 +355,14 @@
         "col": 6
       },
       "connections": [
-        "Power Shots",
-        "Cheaper Escape",
-        "Earth Mastery",
-        "Fire Mastery"
+        7,
+        9,
+        15,
+        14
       ]
     },
     {
+      "id": 11,
       "name": "Windy Feet",
       "formattedName": "§6§lWindy Feet",
       "description": [
@@ -366,7 +377,7 @@
         "§a✔ §7Ability Points: §f1"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 49
       },
       "cost": 1,
@@ -380,13 +391,14 @@
         "col": 1
       },
       "connections": [
-        "Arrow Storm",
-        "Air Mastery",
-        "Arrow Storm",
-        "Thunder Mastery"
+        12,
+        8,
+        13,
+        8
       ]
     },
     {
+      "id": 12,
       "name": "Air Mastery",
       "formattedName": "§f§lAir Mastery",
       "description": [
@@ -402,7 +414,7 @@
         "§a✔ §7Ability Points: §f1"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 45
       },
       "cost": 1,
@@ -416,12 +428,13 @@
         "col": 0
       },
       "connections": [
-        "Windy Feet",
-        "Arrow Storm",
-        "Arrow Rain"
+        11,
+        8,
+        17
       ]
     },
     {
+      "id": 13,
       "name": "Thunder Mastery",
       "formattedName": "§f§lThunder Mastery",
       "description": [
@@ -437,7 +450,7 @@
         "§a✔ §7Ability Points: §f1"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 45
       },
       "cost": 1,
@@ -451,14 +464,15 @@
         "col": 2
       },
       "connections": [
-        "Windy Feet",
-        "Arrow Storm",
-        "Fire Mastery",
-        "Water Mastery",
-        "Nimble String"
+        11,
+        8,
+        14,
+        16,
+        18
       ]
     },
     {
+      "id": 14,
       "name": "Fire Mastery",
       "formattedName": "§f§lFire Mastery",
       "description": [
@@ -474,7 +488,7 @@
         "§a✔ §7Ability Points: §f1"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 45
       },
       "cost": 1,
@@ -488,15 +502,16 @@
         "col": 6
       },
       "connections": [
-        "Water Mastery",
-        "Cheaper Escape",
-        "Arrow Shield",
-        "Water Mastery",
-        "Thunder Mastery",
-        "Fire Creep"
+        16,
+        9,
+        10,
+        13,
+        16,
+        20
       ]
     },
     {
+      "id": 15,
       "name": "Earth Mastery",
       "formattedName": "§f§lEarth Mastery",
       "description": [
@@ -512,7 +527,7 @@
         "§a✔ §7Ability Points: §f1"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 45
       },
       "cost": 1,
@@ -526,11 +541,12 @@
         "col": 8
       },
       "connections": [
-        "Arrow Shield",
-        "Bryophyte Roots"
+        10,
+        21
       ]
     },
     {
+      "id": 16,
       "name": "Water Mastery",
       "formattedName": "§f§lWater Mastery",
       "description": [
@@ -546,7 +562,7 @@
         "§a✔ §7Ability Points: §f1"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 45
       },
       "cost": 1,
@@ -560,14 +576,15 @@
         "col": 4
       },
       "connections": [
-        "Cheaper Escape",
-        "Fire Mastery",
-        "Fire Mastery",
-        "Thunder Mastery",
-        "Phantom Ray"
+        14,
+        9,
+        13,
+        14,
+        19
       ]
     },
     {
+      "id": 17,
       "name": "Arrow Rain",
       "formattedName": "§6§lArrow Rain",
       "description": [
@@ -579,11 +596,11 @@
         "§7  ÀÀÀÀ§8(§6✢ §8Damage: 150%)",
         "§7  ÀÀÀÀ§8(§f❋ §8Air: 100%)",
         "§7 ",
-        "§c✖ §7Ability Points: §f2",
+        "§a✔ §7Ability Points: §f2",
         "§c✖ §7Required Ability: §fArrow Shield"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 49
       },
       "cost": 2,
@@ -597,12 +614,13 @@
         "col": 0
       },
       "connections": [
-        "Air Mastery",
-        "Nimble String",
-        "Triple Shots"
+        12,
+        18,
+        22
       ]
     },
     {
+      "id": 18,
       "name": "Nimble String",
       "formattedName": "§6§lNimble String",
       "description": [
@@ -616,11 +634,11 @@
         "§cUnlocking will block:",
         "§c- §7Phantom Ray",
         "",
-        "§c✖ §7Ability Points: §f2",
+        "§a✔ §7Ability Points: §f2",
         "§c✖ §7Required Ability: §fArrow Storm"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 49
       },
       "cost": 2,
@@ -636,12 +654,13 @@
         "col": 2
       },
       "connections": [
-        "Thunder Mastery",
-        "Arrow Rain",
-        "Frenzy"
+        13,
+        17,
+        23
       ]
     },
     {
+      "id": 19,
       "name": "Phantom Ray",
       "formattedName": "§d§lPhantom Ray",
       "description": [
@@ -661,11 +680,11 @@
         "§c- §7Nimble String",
         "§c- §7Arrow Hurricane",
         "",
-        "§c✖ §7Ability Points: §f2",
+        "§a✔ §7Ability Points: §f2",
         "§c✖ §7Required Ability: §fArrow Storm"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 53
       },
       "cost": 2,
@@ -683,12 +702,13 @@
         "col": 4
       },
       "connections": [
-        "Water Mastery",
-        "Fire Creep",
-        "Focus"
+        16,
+        20,
+        25
       ]
     },
     {
+      "id": 20,
       "name": "Fire Creep",
       "formattedName": "§6§lFire Creep",
       "description": [
@@ -702,10 +722,10 @@
         "§7  ÀÀÀÀ§8(§c✹ §8Fire: 20%)",
         "§d⌛À §7Duration: §f6s",
         "§7 ",
-        "§c✖ §7Ability Points: §f2"
+        "§a✔ §7Ability Points: §f2"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 49
       },
       "cost": 2,
@@ -719,12 +739,13 @@
         "col": 6
       },
       "connections": [
-        "Fire Mastery",
-        "Phantom Ray",
-        "Bryophyte Roots"
+        14,
+        19,
+        21
       ]
     },
     {
+      "id": 21,
       "name": "Bryophyte Roots",
       "formattedName": "§6§lBryophyte Roots",
       "description": [
@@ -742,12 +763,12 @@
         "§7 ",
         "§2§lTrapper Archetype",
         "",
-        "§c✖ §7Ability Points: §f2",
+        "§a✔ §7Ability Points: §f2",
         "§c✖ §7Required Ability: §fArrow Storm",
         "§c✖ §7Min Trapper Archetype: §c0§7/1"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 49
       },
       "cost": 2,
@@ -764,12 +785,13 @@
         "col": 8
       },
       "connections": [
-        "Earth Mastery",
-        "Fire Creep",
-        "Basaltic Trap"
+        15,
+        20,
+        26
       ]
     },
     {
+      "id": 22,
       "name": "Triple Shots",
       "formattedName": "§f§lTriple Shots",
       "description": [
@@ -785,7 +807,7 @@
         "§c✖ §7Required Ability: §fDouble Shots"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 45
       },
       "cost": 1,
@@ -799,12 +821,13 @@
         "col": 0
       },
       "connections": [
-        "Arrow Rain",
-        "Frenzy",
-        "Guardian Angels"
+        17,
+        23,
+        24
       ]
     },
     {
+      "id": 23,
       "name": "Frenzy",
       "formattedName": "§6§lFrenzy",
       "description": [
@@ -815,10 +838,10 @@
         "§7 ",
         "§e§lBoltslinger Archetype",
         "",
-        "§c✖ §7Ability Points: §f2"
+        "§a✔ §7Ability Points: §f2"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 49
       },
       "cost": 2,
@@ -832,12 +855,13 @@
         "col": 2
       },
       "connections": [
-        "Nimble String",
-        "Triple Shots",
-        "Guardian Angels"
+        18,
+        24,
+        22
       ]
     },
     {
+      "id": 24,
       "name": "Guardian Angels",
       "formattedName": "§c§lGuardian Angels",
       "description": [
@@ -854,12 +878,12 @@
         "§7 ",
         "§e§lBoltslinger Archetype",
         "",
-        "§c✖ §7Ability Points: §f2",
+        "§a✔ §7Ability Points: §f2",
         "§c✖ §7Required Ability: §fArrow Shield",
         "§c✖ §7Min Boltslinger Archetype: §c0§7/3"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 57
       },
       "cost": 2,
@@ -876,12 +900,13 @@
         "col": 1
       },
       "connections": [
-        "Triple Shots",
-        "Frenzy",
-        "Windstorm"
+        23,
+        22,
+        27
       ]
     },
     {
+      "id": 25,
       "name": "Focus",
       "formattedName": "§c§lFocus",
       "description": [
@@ -894,11 +919,11 @@
         "§7 ",
         "§d§lSharpshooter Archetype",
         "",
-        "§c✖ §7Ability Points: §f2",
+        "§a✔ §7Ability Points: §f2",
         "§c✖ §7Min Sharpshooter Archetype: §c0§7/2"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 57
       },
       "cost": 2,
@@ -915,12 +940,13 @@
         "col": 4
       },
       "connections": [
-        "Phantom Ray",
-        "Cheaper Arrow Storm",
-        "Grappling Hook"
+        19,
+        28,
+        29
       ]
     },
     {
+      "id": 26,
       "name": "Basaltic Trap",
       "formattedName": "§c§lBasaltic Trap",
       "description": [
@@ -937,11 +963,11 @@
         "§7 ",
         "§2§lTrapper Archetype",
         "",
-        "§c✖ §7Ability Points: §f2",
+        "§a✔ §7Ability Points: §f2",
         "§c✖ §7Min Trapper Archetype: §c0§7/2"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 57
       },
       "cost": 2,
@@ -958,11 +984,12 @@
         "col": 8
       },
       "connections": [
-        "Bryophyte Roots",
-        "More Shields"
+        21,
+        30
       ]
     },
     {
+      "id": 27,
       "name": "Windstorm",
       "formattedName": "§6§lWindstorm",
       "description": [
@@ -978,11 +1005,11 @@
         "§cUnlocking will block:",
         "§c- §7Phantom Ray",
         "",
-        "§c✖ §7Ability Points: §f2",
+        "§a✔ §7Ability Points: §f2",
         "§c✖ §7Required Ability: §fArrow Storm"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 49
       },
       "cost": 2,
@@ -998,13 +1025,14 @@
         "col": 1
       },
       "connections": [
-        "Guardian Angels",
-        "Cheaper Arrow Storm",
-        "Stormy Feet",
-        "Refined Gunpowder"
+        24,
+        28,
+        35,
+        34
       ]
     },
     {
+      "id": 28,
       "name": "Cheaper Arrow Storm",
       "formattedName": "§f§lCheaper Arrow Storm",
       "description": [
@@ -1016,7 +1044,7 @@
         "§a✔ §7Ability Points: §f1"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 45
       },
       "cost": 1,
@@ -1030,13 +1058,14 @@
         "col": 3
       },
       "connections": [
-        "Focus",
-        "Windstorm",
-        "Grappling Hook",
-        "More Focus"
+        25,
+        27,
+        29,
+        31
       ]
     },
     {
+      "id": 29,
       "name": "Grappling Hook",
       "formattedName": "§d§lGrappling Hook",
       "description": [
@@ -1053,10 +1082,10 @@
         "",
         "§2§lTrapper Archetype",
         "",
-        "§c✖ §7Ability Points: §f2"
+        "§a✔ §7Ability Points: §f2"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 53
       },
       "cost": 2,
@@ -1072,14 +1101,15 @@
         "col": 5
       },
       "connections": [
-        "Focus",
-        "More Focus",
-        "Cheaper Arrow Storm",
-        "More Shields",
-        "Implosion"
+        25,
+        28,
+        31,
+        30,
+        32
       ]
     },
     {
+      "id": 30,
       "name": "More Shields",
       "formattedName": "§f§lMore Shields",
       "description": [
@@ -1094,7 +1124,7 @@
         "§c✖ §7Required Ability: §fArrow Shield"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 45
       },
       "cost": 1,
@@ -1108,16 +1138,17 @@
         "col": 7
       },
       "connections": [
-        "Basaltic Trap",
-        "Implosion",
-        "Grappling Hook",
-        "Patient Hunter",
-        "Patient Hunter",
-        "Bouncing Bomb",
-        "Implosion"
+        26,
+        29,
+        32,
+        33,
+        33,
+        32,
+        38
       ]
     },
     {
+      "id": 31,
       "name": "More Focus",
       "formattedName": "§f§lMore Focus",
       "description": [
@@ -1130,7 +1161,7 @@
         "§c✖ §7Required Ability: §fFocus"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 45
       },
       "cost": 1,
@@ -1144,12 +1175,13 @@
         "col": 4
       },
       "connections": [
-        "Grappling Hook",
-        "Cheaper Arrow Storm",
-        "Twain\u0027s Arc"
+        28,
+        29,
+        37
       ]
     },
     {
+      "id": 32,
       "name": "Implosion",
       "formattedName": "§6§lImplosion",
       "description": [
@@ -1164,10 +1196,10 @@
         "§7 ",
         "§2§lTrapper Archetype",
         "",
-        "§c✖ §7Ability Points: §f2"
+        "§a✔ §7Ability Points: §f2"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 49
       },
       "cost": 2,
@@ -1181,14 +1213,15 @@
         "col": 6
       },
       "connections": [
-        "More Shields",
-        "Grappling Hook",
-        "Patient Hunter",
-        "Bouncing Bomb",
-        "More Shields"
+        30,
+        29,
+        33,
+        30,
+        38
       ]
     },
     {
+      "id": 33,
       "name": "Patient Hunter",
       "formattedName": "§6§lPatient Hunter",
       "description": [
@@ -1198,11 +1231,11 @@
         "§7 ",
         "§2§lTrapper Archetype",
         "",
-        "§c✖ §7Ability Points: §f2",
+        "§a✔ §7Ability Points: §f2",
         "§c✖ §7Required Ability: §fBasaltic Trap"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 49
       },
       "cost": 2,
@@ -1216,13 +1249,14 @@
         "col": 8
       },
       "connections": [
-        "More Shields",
-        "Bouncing Bomb",
-        "Implosion",
-        "More Shields"
+        30,
+        30,
+        32,
+        38
       ]
     },
     {
+      "id": 34,
       "name": "Stormy Feet",
       "formattedName": "§f§lStormy Feet",
       "description": [
@@ -1239,7 +1273,7 @@
         "§c✖ §7Required Ability: §fWindy Feet"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 45
       },
       "cost": 1,
@@ -1253,11 +1287,12 @@
         "col": 1
       },
       "connections": [
-        "Windstorm",
-        "Refined Gunpowder"
+        35,
+        27
       ]
     },
     {
+      "id": 35,
       "name": "Refined Gunpowder",
       "formattedName": "§f§lRefined Gunpowder",
       "description": [
@@ -1270,7 +1305,7 @@
         "§a✔ §7Ability Points: §f1"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 45
       },
       "cost": 1,
@@ -1284,15 +1319,16 @@
         "col": 0
       },
       "connections": [
-        "Windstorm",
-        "Stormy Feet",
-        "Fierce Stomp",
-        "Traveler",
-        "Leap",
-        "Fierce Stomp"
+        27,
+        34,
+        36,
+        39,
+        39,
+        42
       ]
     },
     {
+      "id": 36,
       "name": "Traveler",
       "formattedName": "§f§lTraveler",
       "description": [
@@ -1304,7 +1340,7 @@
         "§a✔ §7Ability Points: §f1"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 45
       },
       "cost": 1,
@@ -1318,12 +1354,13 @@
         "col": 2
       },
       "connections": [
-        "Fierce Stomp",
-        "Refined Gunpowder",
-        "Twain\u0027s Arc"
+        35,
+        39,
+        37
       ]
     },
     {
+      "id": 37,
       "name": "Twain\u0027s Arc",
       "formattedName": "§d§lTwain\u0027s Arc",
       "description": [
@@ -1339,12 +1376,12 @@
         "§7 ",
         "§d§lSharpshooter Archetype",
         "",
-        "§c✖ §7Ability Points: §f2",
+        "§a✔ §7Ability Points: §f2",
         "§c✖ §7Min Sharpshooter Archetype: §c0§7/4",
         "§c✖ §7Required Ability: §fFocus"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 53
       },
       "cost": 2,
@@ -1361,16 +1398,17 @@
         "col": 4
       },
       "connections": [
-        "More Focus",
-        "Traveler",
-        "Better Arrow Shield",
-        "Bouncing Bomb",
-        "Scorched Earth",
-        "Scorched Earth",
-        "Shocking Bomb"
+        31,
+        36,
+        40,
+        45,
+        38,
+        40,
+        44
       ]
     },
     {
+      "id": 38,
       "name": "Bouncing Bomb",
       "formattedName": "§d§lBouncing Bomb",
       "description": [
@@ -1378,11 +1416,11 @@
         "§7§nArrow Bomb§r§7 will bounce once",
         "§7when hitting a block or enemy.",
         "§7 ",
-        "§c✖ §7Ability Points: §f2",
+        "§a✔ §7Ability Points: §f2",
         "§c✖ §7Min Trapper Archetype: §c0§7/3"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 53
       },
       "cost": 2,
@@ -1399,16 +1437,17 @@
         "col": 7
       },
       "connections": [
-        "Patient Hunter",
-        "Implosion",
-        "More Shields",
-        "Twain\u0027s Arc",
-        "Better Arrow Shield",
-        "Scorched Earth",
-        "More Traps"
+        33,
+        30,
+        32,
+        37,
+        40,
+        45,
+        41
       ]
     },
     {
+      "id": 39,
       "name": "Fierce Stomp",
       "formattedName": "§6§lFierce Stomp",
       "description": [
@@ -1422,10 +1461,10 @@
         "§7 ",
         "§e§lBoltslinger Archetype",
         "",
-        "§c✖ §7Ability Points: §f2"
+        "§a✔ §7Ability Points: §f2"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 49
       },
       "cost": 2,
@@ -1439,13 +1478,14 @@
         "col": 1
       },
       "connections": [
-        "Traveler",
-        "Refined Gunpowder",
-        "Leap",
-        "Refined Gunpowder"
+        35,
+        36,
+        35,
+        42
       ]
     },
     {
+      "id": 40,
       "name": "Scorched Earth",
       "formattedName": "§6§lScorched Earth",
       "description": [
@@ -1463,7 +1503,7 @@
         "§c✖ §7Required Ability: §fFire Creep"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 49
       },
       "cost": 1,
@@ -1477,14 +1517,15 @@
         "col": 5
       },
       "connections": [
-        "Twain\u0027s Arc",
-        "Better Arrow Shield",
-        "Bouncing Bomb",
-        "Shocking Bomb",
-        "Twain\u0027s Arc"
+        37,
+        45,
+        38,
+        37,
+        44
       ]
     },
     {
+      "id": 41,
       "name": "More Traps",
       "formattedName": "§f§lMore Traps",
       "description": [
@@ -1498,7 +1539,7 @@
         "§c✖ §7Required Ability: §fBasaltic Trap"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 45
       },
       "cost": 1,
@@ -1512,11 +1553,12 @@
         "col": 8
       },
       "connections": [
-        "Bouncing Bomb",
-        "Mana Trap"
+        38,
+        46
       ]
     },
     {
+      "id": 42,
       "name": "Leap",
       "formattedName": "§6§lLeap",
       "description": [
@@ -1526,11 +1568,11 @@
         "§7 ",
         "§e§lBoltslinger Archetype",
         "",
-        "§c✖ §7Ability Points: §f2",
+        "§a✔ §7Ability Points: §f2",
         "§c✖ §7Min Boltslinger Archetype: §c0§7/5"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 49
       },
       "cost": 2,
@@ -1547,15 +1589,16 @@
         "col": 0
       },
       "connections": [
-        "Refined Gunpowder",
-        "Fierce Stomp",
-        "Better Leap",
-        "Homing Shots",
-        "Better Guardian Angels",
-        "Better Leap"
+        35,
+        39,
+        43,
+        47,
+        47,
+        48
       ]
     },
     {
+      "id": 43,
       "name": "Homing Shots",
       "formattedName": "§d§lHoming Shots",
       "description": [
@@ -1565,11 +1608,11 @@
         "§7 ",
         "§d§lSharpshooter Archetype",
         "",
-        "§c✖ §7Ability Points: §f2",
+        "§a✔ §7Ability Points: §f2",
         "§c✖ §7Min Sharpshooter Archetype: §c0§7/2"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 53
       },
       "cost": 2,
@@ -1586,14 +1629,15 @@
         "col": 2
       },
       "connections": [
-        "Better Leap",
-        "Leap",
-        "Shocking Bomb",
-        "Escape Artist",
-        "Better Leap"
+        47,
+        42,
+        44,
+        49,
+        47
       ]
     },
     {
+      "id": 44,
       "name": "Shocking Bomb",
       "formattedName": "§6§lShocking Bomb",
       "description": [
@@ -1606,12 +1650,12 @@
         "§7 ",
         "§d§lSharpshooter Archetype",
         "",
-        "§c✖ §7Ability Points: §f2",
+        "§a✔ §7Ability Points: §f2",
         "§c✖ §7Min Sharpshooter Archetype: §c0§7/5",
         "§c✖ §7Required Ability: §fArrow Bomb"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 49
       },
       "cost": 2,
@@ -1628,14 +1672,15 @@
         "col": 4
       },
       "connections": [
-        "Scorched Earth",
-        "Twain\u0027s Arc",
-        "Homing Shots",
-        "Initiator",
-        "Better Arrow Shield"
+        37,
+        40,
+        43,
+        50,
+        45
       ]
     },
     {
+      "id": 45,
       "name": "Better Arrow Shield",
       "formattedName": "§f§lBetter Arrow Shield",
       "description": [
@@ -1655,7 +1700,7 @@
         "§c✖ §7Required Ability: §fArrow Shield"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 45
       },
       "cost": 1,
@@ -1669,15 +1714,16 @@
         "col": 6
       },
       "connections": [
-        "Twain\u0027s Arc",
-        "Bouncing Bomb",
-        "Scorched Earth",
-        "Mana Trap",
-        "Initiator",
-        "Shocking Bomb"
+        37,
+        40,
+        38,
+        46,
+        50,
+        44
       ]
     },
     {
+      "id": 46,
       "name": "Mana Trap",
       "formattedName": "§c§lMana Trap",
       "description": [
@@ -1691,11 +1737,11 @@
         "§7 ",
         "§2§lTrapper Archetype",
         "",
-        "§c✖ §7Ability Points: §f2",
+        "§a✔ §7Ability Points: §f2",
         "§c✖ §7Min Trapper Archetype: §c0§7/5"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 57
       },
       "cost": 2,
@@ -1712,12 +1758,13 @@
         "col": 8
       },
       "connections": [
-        "More Traps",
-        "Better Arrow Shield",
-        "Cheaper Arrow Storm"
+        41,
+        45,
+        51
       ]
     },
     {
+      "id": 47,
       "name": "Better Leap",
       "formattedName": "§f§lBetter Leap",
       "description": [
@@ -1730,7 +1777,7 @@
         "§c✖ §7Required Ability: §fLeap"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 45
       },
       "cost": 1,
@@ -1744,15 +1791,16 @@
         "col": 1
       },
       "connections": [
-        "Leap",
-        "Homing Shots",
-        "Better Guardian Angels",
-        "Leap",
-        "Escape Artist",
-        "Homing Shots"
+        43,
+        42,
+        48,
+        42,
+        43,
+        49
       ]
     },
     {
+      "id": 48,
       "name": "Better Guardian Angels",
       "formattedName": "§f§lBetter Guardian Angels",
       "description": [
@@ -1768,7 +1816,7 @@
         "§c✖ §7Required Ability: §fGuardian Angels"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 45
       },
       "cost": 1,
@@ -1782,13 +1830,14 @@
         "col": 0
       },
       "connections": [
-        "Leap",
-        "Better Leap",
-        "Escape Artist",
-        "Arrow Hurricane"
+        47,
+        42,
+        49,
+        53
       ]
     },
     {
+      "id": 49,
       "name": "Escape Artist",
       "formattedName": "§6§lEscape Artist",
       "description": [
@@ -1803,10 +1852,10 @@
         "§cUnlocking will block:",
         "§c- §7Grappling Hook",
         "",
-        "§c✖ §7Ability Points: §f2"
+        "§a✔ §7Ability Points: §f2"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 49
       },
       "cost": 2,
@@ -1822,13 +1871,14 @@
         "col": 2
       },
       "connections": [
-        "Better Leap",
-        "Homing Shots",
-        "Better Guardian Angels",
-        "Precise Shot"
+        43,
+        47,
+        48,
+        54
       ]
     },
     {
+      "id": 50,
       "name": "Initiator",
       "formattedName": "§d§lInitiator",
       "description": [
@@ -1839,12 +1889,12 @@
         "§7 ",
         "§d§lSharpshooter Archetype",
         "",
-        "§c✖ §7Ability Points: §f2",
+        "§a✔ §7Ability Points: §f2",
         "§c✖ §7Required Ability: §fFocus",
         "§c✖ §7Min Sharpshooter Archetype: §c0§7/5"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 53
       },
       "cost": 2,
@@ -1861,15 +1911,16 @@
         "col": 5
       },
       "connections": [
-        "Shocking Bomb",
-        "Better Arrow Shield",
-        "Cheaper Arrow Shield",
-        "Call of the Hound",
-        "Rocket Jump",
-        "Cheaper Arrow Storm"
+        45,
+        44,
+        55,
+        51,
+        52,
+        56
       ]
     },
     {
+      "id": 51,
       "name": "Cheaper Arrow Storm",
       "formattedName": "§f§lCheaper Arrow Storm",
       "description": [
@@ -1881,7 +1932,7 @@
         "§a✔ §7Ability Points: §f1"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 45
       },
       "cost": 1,
@@ -1895,13 +1946,14 @@
         "col": 8
       },
       "connections": [
-        "Mana Trap",
-        "Call of the Hound",
-        "Initiator",
-        "Rocket Jump"
+        46,
+        50,
+        52,
+        56
       ]
     },
     {
+      "id": 52,
       "name": "Call of the Hound",
       "formattedName": "§d§lCall of the Hound",
       "description": [
@@ -1914,11 +1966,11 @@
         "§7 ",
         "§2§lTrapper Archetype",
         "",
-        "§c✖ §7Ability Points: §f2",
+        "§a✔ §7Ability Points: §f2",
         "§c✖ §7Required Ability: §fArrow Shield"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 53
       },
       "cost": 2,
@@ -1932,14 +1984,15 @@
         "col": 7
       },
       "connections": [
-        "Initiator",
-        "Rocket Jump",
-        "Cheaper Arrow Storm",
-        "Cheaper Escape",
-        "Rocket Jump"
+        50,
+        51,
+        56,
+        59,
+        56
       ]
     },
     {
+      "id": 53,
       "name": "Arrow Hurricane",
       "formattedName": "§c§lArrow Hurricane",
       "description": [
@@ -1956,11 +2009,11 @@
         "",
         "§e§lBoltslinger Archetype",
         "",
-        "§c✖ §7Ability Points: §f2",
+        "§a✔ §7Ability Points: §f2",
         "§c✖ §7Min Boltslinger Archetype: §c0§7/8"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 57
       },
       "cost": 2,
@@ -1979,12 +2032,13 @@
         "col": 0
       },
       "connections": [
-        "Better Guardian Angels",
-        "Shrapnel Bomb",
-        "Precise Shot"
+        48,
+        54,
+        57
       ]
     },
     {
+      "id": 54,
       "name": "Precise Shot",
       "formattedName": "§f§lPrecise Shot",
       "description": [
@@ -1996,7 +2050,7 @@
         "§a✔ §7Ability Points: §f1"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 45
       },
       "cost": 1,
@@ -2010,13 +2064,14 @@
         "col": 2
       },
       "connections": [
-        "Escape Artist",
-        "Shrapnel Bomb",
-        "Arrow Hurricane",
-        "Cheaper Arrow Shield"
+        49,
+        57,
+        53,
+        55
       ]
     },
     {
+      "id": 55,
       "name": "Cheaper Arrow Shield",
       "formattedName": "§f§lCheaper Arrow Shield",
       "description": [
@@ -2028,7 +2083,7 @@
         "§a✔ §7Ability Points: §f1"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 45
       },
       "cost": 1,
@@ -2042,15 +2097,16 @@
         "col": 4
       },
       "connections": [
-        "Initiator",
-        "Precise Shot",
-        "Decimator",
-        "Rocket Jump",
-        "Crepuscular Ray",
-        "Decimator"
+        50,
+        54,
+        58,
+        56,
+        58,
+        62
       ]
     },
     {
+      "id": 56,
       "name": "Rocket Jump",
       "formattedName": "§f§lRocket Jump",
       "description": [
@@ -2062,7 +2118,7 @@
         "§c✖ §7Required Ability: §fArrow Bomb"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 45
       },
       "cost": 1,
@@ -2076,18 +2132,19 @@
         "col": 6
       },
       "connections": [
-        "Call of the Hound",
-        "Initiator",
-        "Cheaper Arrow Storm",
-        "Decimator",
-        "Cheaper Arrow Shield",
-        "Cheaper Escape",
-        "Call of the Hound",
-        "Decimator",
-        "Cheaper Escape"
+        50,
+        51,
+        52,
+        58,
+        55,
+        52,
+        59,
+        58,
+        59
       ]
     },
     {
+      "id": 57,
       "name": "Shrapnel Bomb",
       "formattedName": "§6§lShrapnel Bomb",
       "description": [
@@ -2101,11 +2158,11 @@
         "§7 ",
         "§e§lBoltslinger Archetype",
         "",
-        "§c✖ §7Ability Points: §f2",
+        "§a✔ §7Ability Points: §f2",
         "§c✖ §7Min Boltslinger Archetype: §c0§7/8"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 49
       },
       "cost": 2,
@@ -2122,12 +2179,13 @@
         "col": 1
       },
       "connections": [
-        "Arrow Hurricane",
-        "Precise Shot",
-        "Geyser Stomp"
+        54,
+        53,
+        61
       ]
     },
     {
+      "id": 58,
       "name": "Decimator",
       "formattedName": "§6§lDecimator",
       "description": [
@@ -2137,11 +2195,11 @@
         "§7 ",
         "§d§lSharpshooter Archetype",
         "",
-        "§c✖ §7Ability Points: §f2",
+        "§a✔ §7Ability Points: §f2",
         "§c✖ §7Required Ability: §fPhantom Ray"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 49
       },
       "cost": 2,
@@ -2155,15 +2213,16 @@
         "col": 5
       },
       "connections": [
-        "Cheaper Arrow Shield",
-        "Rocket Jump",
-        "Cheaper Escape",
-        "Rocket Jump",
-        "Cheaper Arrow Shield",
-        "Crepuscular Ray"
+        55,
+        56,
+        59,
+        56,
+        55,
+        62
       ]
     },
     {
+      "id": 59,
       "name": "Cheaper Escape",
       "formattedName": "§f§lCheaper Escape",
       "description": [
@@ -2175,7 +2234,7 @@
         "§a✔ §7Ability Points: §f1"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 45
       },
       "cost": 1,
@@ -2189,16 +2248,17 @@
         "col": 7
       },
       "connections": [
-        "Call of the Hound",
-        "Rocket Jump",
-        "Decimator",
-        "Rocket Jump",
-        "Stronger Hook",
-        "Stronger Hook",
-        "Tangled Traps"
+        52,
+        56,
+        58,
+        56,
+        60,
+        60,
+        63
       ]
     },
     {
+      "id": 60,
       "name": "Stronger Hook",
       "formattedName": "§f§lStronger Hook",
       "description": [
@@ -2215,7 +2275,7 @@
         "§c✖ §7Min Trapper Archetype: §c0§7/5"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 45
       },
       "cost": 1,
@@ -2232,12 +2292,13 @@
         "col": 8
       },
       "connections": [
-        "Cheaper Escape",
-        "Cheaper Escape",
-        "Tangled Traps"
+        59,
+        59,
+        63
       ]
     },
     {
+      "id": 61,
       "name": "Geyser Stomp",
       "formattedName": "§6§lGeyser Stomp",
       "description": [
@@ -2250,11 +2311,11 @@
         "§7  ÀÀÀÀ§8(§b❉ §8Water: +30%)",
         "§3☀ §7Area of Effect: §f+1 Blocks §7(Circle-Shaped)",
         "§7 ",
-        "§c✖ §7Ability Points: §f2",
+        "§a✔ §7Ability Points: §f2",
         "§c✖ §7Required Ability: §fFierce Stomp"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 49
       },
       "cost": 2,
@@ -2268,12 +2329,13 @@
         "col": 1
       },
       "connections": [
-        "Shrapnel Bomb",
-        "Elusive",
-        "Snow Storm"
+        57,
+        64,
+        66
       ]
     },
     {
+      "id": 62,
       "name": "Crepuscular Ray",
       "formattedName": "§c§lCrepuscular Ray",
       "description": [
@@ -2293,12 +2355,12 @@
         "§7 ",
         "§d§lSharpshooter Archetype",
         "",
-        "§c✖ §7Ability Points: §f2",
+        "§a✔ §7Ability Points: §f2",
         "§c✖ §7Required Ability: §fArrow Storm",
         "§c✖ §7Min Sharpshooter Archetype: §c0§7/10"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 57
       },
       "cost": 2,
@@ -2315,12 +2377,13 @@
         "col": 4
       },
       "connections": [
-        "Cheaper Arrow Shield",
-        "Decimator",
-        "Cheaper Arrow Bomb"
+        58,
+        55,
+        67
       ]
     },
     {
+      "id": 63,
       "name": "Tangled Traps",
       "formattedName": "§6§lTangled Traps",
       "description": [
@@ -2334,11 +2397,11 @@
         "§7 ",
         "§2§lTrapper Archetype",
         "",
-        "§c✖ §7Ability Points: §f2",
+        "§a✔ §7Ability Points: §f2",
         "§c✖ §7Required Ability: §fBasaltic Trap"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 49
       },
       "cost": 2,
@@ -2352,14 +2415,15 @@
         "col": 7
       },
       "connections": [
-        "Cheaper Escape",
-        "Stronger Hook",
-        "Stronger Patient Hunter",
-        "Stronger Patient Hunter",
-        "Minefield"
+        60,
+        59,
+        65,
+        65,
+        68
       ]
     },
     {
+      "id": 64,
       "name": "Elusive",
       "formattedName": "§6§lElusive",
       "description": [
@@ -2371,10 +2435,10 @@
         "§7 ",
         "§e§lBoltslinger Archetype",
         "",
-        "§c✖ §7Ability Points: §f2"
+        "§a✔ §7Ability Points: §f2"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 49
       },
       "cost": 2,
@@ -2388,10 +2452,11 @@
         "col": 0
       },
       "connections": [
-        "Geyser Stomp"
+        61
       ]
     },
     {
+      "id": 65,
       "name": "Stronger Patient Hunter",
       "formattedName": "§f§lStronger Patient Hunter",
       "description": [
@@ -2405,7 +2470,7 @@
         "§c✖ §7Required Ability: §fPatient Hunter"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 45
       },
       "cost": 1,
@@ -2419,15 +2484,16 @@
         "col": 6
       },
       "connections": [
-        "Tangled Traps",
-        "Minefield",
-        "Tangled Traps",
-        "Minefield",
-        "Cheaper Arrow Bomb",
-        "More Focus"
+        63,
+        68,
+        63,
+        70,
+        68,
+        67
       ]
     },
     {
+      "id": 66,
       "name": "Snow Storm",
       "formattedName": "§d§lSnow Storm",
       "description": [
@@ -2437,10 +2503,10 @@
         "§e🛡 §7Effect: §f30% §7Slowness (§c⬤§7) to Enemies",
         "§2➼ §7Range: §f2.5 Blocks",
         "§7 ",
-        "§c✖ §7Ability Points: §f2"
+        "§a✔ §7Ability Points: §f2"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 53
       },
       "cost": 2,
@@ -2454,12 +2520,13 @@
         "col": 2
       },
       "connections": [
-        "Geyser Stomp",
-        "All-Seeing Panoptes",
-        "Cheaper Arrow Bomb"
+        61,
+        69,
+        67
       ]
     },
     {
+      "id": 67,
       "name": "Cheaper Arrow Bomb",
       "formattedName": "§f§lCheaper Arrow Bomb",
       "description": [
@@ -2471,7 +2538,7 @@
         "§a✔ §7Ability Points: §f1"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 45
       },
       "cost": 1,
@@ -2485,14 +2552,15 @@
         "col": 4
       },
       "connections": [
-        "Crepuscular Ray",
-        "Snow Storm",
-        "Minefield",
-        "Stronger Patient Hunter",
-        "More Focus"
+        62,
+        66,
+        70,
+        65,
+        68
       ]
     },
     {
+      "id": 68,
       "name": "Minefield",
       "formattedName": "§c§lMinefield",
       "description": [
@@ -2506,12 +2574,12 @@
         "§7 ",
         "§2§lTrapper Archetype",
         "",
-        "§c✖ §7Ability Points: §f2",
+        "§a✔ §7Ability Points: §f2",
         "§c✖ §7Min Trapper Archetype: §c0§7/10",
         "§c✖ §7Required Ability: §fBasaltic Trap"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 57
       },
       "cost": 2,
@@ -2528,15 +2596,16 @@
         "col": 7
       },
       "connections": [
-        "Stronger Patient Hunter",
-        "Tangled Traps",
-        "Stronger Patient Hunter",
-        "Cheaper Arrow Bomb",
-        "More Focus",
-        "Grape Bomb"
+        65,
+        63,
+        70,
+        65,
+        67,
+        71
       ]
     },
     {
+      "id": 69,
       "name": "All-Seeing Panoptes",
       "formattedName": "§c§lAll-Seeing Panoptes",
       "description": [
@@ -2552,12 +2621,12 @@
         "§7 ",
         "§e§lBoltslinger Archetype",
         "",
-        "§c✖ §7Ability Points: §f2",
+        "§a✔ §7Ability Points: §f2",
         "§c✖ §7Required Ability: §fGuardian Angels",
         "§c✖ §7Min Boltslinger Archetype: §c0§7/11"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 57
       },
       "cost": 2,
@@ -2574,10 +2643,11 @@
         "col": 1
       },
       "connections": [
-        "Snow Storm"
+        66
       ]
     },
     {
+      "id": 70,
       "name": "More Focus",
       "formattedName": "§f§lMore Focus",
       "description": [
@@ -2590,7 +2660,7 @@
         "§c✖ §7Required Ability: §fFocus"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 45
       },
       "cost": 1,
@@ -2604,13 +2674,14 @@
         "col": 5
       },
       "connections": [
-        "Minefield",
-        "Stronger Patient Hunter",
-        "Cheaper Arrow Bomb",
-        "Grape Bomb"
+        65,
+        68,
+        67,
+        71
       ]
     },
     {
+      "id": 71,
       "name": "Grape Bomb",
       "formattedName": "§d§lGrape Bomb",
       "description": [
@@ -2623,10 +2694,10 @@
         "§7  ÀÀÀÀ§8(§c✹ §8Fire: 20%)",
         "§3☀ §7Area of Effect: §f2 Blocks §7(Circle-Shaped)",
         "§7 ",
-        "§c✖ §7Ability Points: §f2"
+        "§a✔ §7Ability Points: §f2"
       ],
       "itemInformation": {
-        "itemId": 760,
+        "itemId": 781,
         "damage": 53
       },
       "cost": 2,
@@ -2640,8 +2711,8 @@
         "col": 7
       },
       "connections": [
-        "Minefield",
-        "More Focus"
+        68,
+        70
       ]
     }
   ]
