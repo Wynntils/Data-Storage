@@ -1,0 +1,1014 @@
+{
+  "corkus": [
+    {
+      "location": {
+        "x": -1930,
+        "y": 0,
+        "z": -3325
+      },
+      "taskType": "loot"
+    },
+    {
+      "location": {
+        "x": -1867,
+        "y": 0,
+        "z": -3172
+      },
+      "taskType": "slay"
+    },
+    {
+      "location": {
+        "x": -1847,
+        "y": 0,
+        "z": -2641
+      },
+      "taskType": "loot"
+    },
+    {
+      "location": {
+        "x": -1782,
+        "y": 0,
+        "z": -2569
+      },
+      "taskType": "loot"
+    },
+    {
+      "location": {
+        "x": -1775,
+        "y": 0,
+        "z": -2704
+      },
+      "taskType": "slay"
+    },
+    {
+      "location": {
+        "x": -1759,
+        "y": 0,
+        "z": -2769
+      },
+      "taskType": "defend"
+    },
+    {
+      "location": {
+        "x": -1759,
+        "y": 0,
+        "z": -2450
+      },
+      "taskType": "loot"
+    },
+    {
+      "location": {
+        "x": -1757,
+        "y": 0,
+        "z": -2608
+      },
+      "taskType": "defend"
+    },
+    {
+      "location": {
+        "x": -1740,
+        "y": 0,
+        "z": -2452
+      },
+      "taskType": "loot"
+    },
+    {
+      "location": {
+        "x": -1740,
+        "y": 0,
+        "z": -2452
+      },
+      "taskType": "slay"
+    },
+    {
+      "location": {
+        "x": -1686,
+        "y": 0,
+        "z": -3291
+      },
+      "taskType": "destroy"
+    },
+    {
+      "location": {
+        "x": -1674,
+        "y": 0,
+        "z": -3060
+      },
+      "taskType": "loot"
+    },
+    {
+      "location": {
+        "x": -1603,
+        "y": 0,
+        "z": -3438
+      },
+      "taskType": "defend"
+    },
+    {
+      "location": {
+        "x": -1569,
+        "y": 0,
+        "z": -3143
+      },
+      "taskType": "destroy"
+    },
+    {
+      "location": {
+        "x": -1471,
+        "y": 0,
+        "z": -2376
+      },
+      "taskType": "loot"
+    },
+    {
+      "location": {
+        "x": -1447,
+        "y": 0,
+        "z": -3161
+      },
+      "taskType": "slay"
+    },
+    {
+      "location": {
+        "x": -1440,
+        "y": 0,
+        "z": -2438
+      },
+      "taskType": "slay"
+    },
+    {
+      "location": {
+        "x": -1394,
+        "y": 0,
+        "z": -2393
+      },
+      "taskType": "loot"
+    },
+    {
+      "location": {
+        "x": -1365,
+        "y": 0,
+        "z": -2736
+      },
+      "taskType": "loot"
+    },
+    {
+      "location": {
+        "x": -1310,
+        "y": 0,
+        "z": -2259
+      },
+      "taskType": "slay"
+    },
+    {
+      "location": {
+        "x": -1847,
+        "y": 0,
+        "z": -2641
+      },
+      "taskType": "loot"
+    },
+    {
+      "location": {
+        "x": -1775,
+        "y": 0,
+        "z": -2704
+      },
+      "taskType": "slay"
+    },
+    {
+      "location": {
+        "x": -1759,
+        "y": 0,
+        "z": -2450
+      },
+      "taskType": "loot"
+    },
+    {
+      "location": {
+        "x": -1740,
+        "y": 0,
+        "z": -2452
+      },
+      "taskType": "slay"
+    },
+    {
+      "location": {
+        "x": -1686,
+        "y": 0,
+        "z": -3291
+      },
+      "taskType": "destroy"
+    },
+    {
+      "location": {
+        "x": -1674,
+        "y": 0,
+        "z": -3060
+      },
+      "taskType": "loot"
+    },
+    {
+      "location": {
+        "x": -1569,
+        "y": 0,
+        "z": -3143
+      },
+      "taskType": "destroy"
+    },
+    {
+      "location": {
+        "x": -1447,
+        "y": 0,
+        "z": -3161
+      },
+      "taskType": "slay"
+    },
+    {
+      "location": {
+        "x": -1440,
+        "y": 0,
+        "z": -2438
+      },
+      "taskType": "slay"
+    }
+  ],
+  "silentExpanse": [
+    {
+      "location": {
+        "x": 691,
+        "y": 0,
+        "z": -375
+      },
+      "taskType": "defend"
+    },
+    {
+      "location": {
+        "x": 602,
+        "y": 0,
+        "z": -407
+      },
+      "taskType": "slay"
+    },
+    {
+      "location": {
+        "x": 695,
+        "y": 0,
+        "z": -496
+      },
+      "taskType": "destroy"
+    },
+    {
+      "location": {
+        "x": 775,
+        "y": 0,
+        "z": -950
+      },
+      "taskType": "loot"
+    },
+    {
+      "location": {
+        "x": 822,
+        "y": 0,
+        "z": -903
+      },
+      "taskType": "defend"
+    },
+    {
+      "location": {
+        "x": 826,
+        "y": 0,
+        "z": -429
+      },
+      "taskType": "loot"
+    },
+    {
+      "location": {
+        "x": 854,
+        "y": 0,
+        "z": -668
+      },
+      "taskType": "loot"
+    },
+    {
+      "location": {
+        "x": 866,
+        "y": 0,
+        "z": -337
+      },
+      "taskType": "defend"
+    },
+    {
+      "location": {
+        "x": 879,
+        "y": 0,
+        "z": -803
+      },
+      "taskType": "loot"
+    },
+    {
+      "location": {
+        "x": 897,
+        "y": 0,
+        "z": -524
+      },
+      "taskType": "slay"
+    },
+    {
+      "location": {
+        "x": 907,
+        "y": 0,
+        "z": -999
+      },
+      "taskType": "slay"
+    },
+    {
+      "location": {
+        "x": 948,
+        "y": 0,
+        "z": -1049
+      },
+      "taskType": "loot"
+    },
+    {
+      "location": {
+        "x": 948,
+        "y": 0,
+        "z": -1048
+      },
+      "taskType": "loot"
+    },
+    {
+      "location": {
+        "x": 957,
+        "y": 0,
+        "z": -410
+      },
+      "taskType": "destroy"
+    },
+    {
+      "location": {
+        "x": 983,
+        "y": 0,
+        "z": -470
+      },
+      "taskType": "loot"
+    },
+    {
+      "location": {
+        "x": 1014,
+        "y": 0,
+        "z": -1053
+      },
+      "taskType": "defend"
+    },
+    {
+      "location": {
+        "x": 1038,
+        "y": 0,
+        "z": -692
+      },
+      "taskType": "loot"
+    },
+    {
+      "location": {
+        "x": 1088,
+        "y": 0,
+        "z": -345
+      },
+      "taskType": "loot"
+    },
+    {
+      "location": {
+        "x": 1093,
+        "y": 0,
+        "z": -1137
+      },
+      "taskType": "slay"
+    },
+    {
+      "location": {
+        "x": 1117,
+        "y": 0,
+        "z": -992
+      },
+      "taskType": "slay"
+    },
+    {
+      "location": {
+        "x": 1125,
+        "y": 0,
+        "z": -1095
+      },
+      "taskType": "slay"
+    },
+    {
+      "location": {
+        "x": 1132,
+        "y": 0,
+        "z": -1127
+      },
+      "taskType": "loot"
+    },
+    {
+      "location": {
+        "x": 1147,
+        "y": 0,
+        "z": -954
+      },
+      "taskType": "destroy"
+    },
+    {
+      "location": {
+        "x": 1285,
+        "y": 0,
+        "z": -1060
+      },
+      "taskType": "loot"
+    },
+    {
+      "location": {
+        "x": 1393,
+        "y": 0,
+        "z": -1055
+      },
+      "taskType": "loot"
+    },
+    {
+      "location": {
+        "x": 602,
+        "y": 0,
+        "z": -407
+      },
+      "taskType": "slay"
+    },
+    {
+      "location": {
+        "x": 602,
+        "y": 0,
+        "z": -407
+      },
+      "taskType": "slay"
+    },
+    {
+      "location": {
+        "x": 691,
+        "y": 0,
+        "z": -375
+      },
+      "taskType": "defend"
+    },
+    {
+      "location": {
+        "x": 695,
+        "y": 0,
+        "z": -496
+      },
+      "taskType": "destroy"
+    },
+    {
+      "location": {
+        "x": 775,
+        "y": 0,
+        "z": -950
+      },
+      "taskType": "loot"
+    },
+    {
+      "location": {
+        "x": 822,
+        "y": 0,
+        "z": -903
+      },
+      "taskType": "defend"
+    },
+    {
+      "location": {
+        "x": 826,
+        "y": 0,
+        "z": -429
+      },
+      "taskType": "loot"
+    },
+    {
+      "location": {
+        "x": 854,
+        "y": 0,
+        "z": -668
+      },
+      "taskType": "loot"
+    },
+    {
+      "location": {
+        "x": 866,
+        "y": 0,
+        "z": -337
+      },
+      "taskType": "defend"
+    },
+    {
+      "location": {
+        "x": 879,
+        "y": 0,
+        "z": -803
+      },
+      "taskType": "loot"
+    },
+    {
+      "location": {
+        "x": 897,
+        "y": 0,
+        "z": -524
+      },
+      "taskType": "slay"
+    },
+    {
+      "location": {
+        "x": 907,
+        "y": 0,
+        "z": -999
+      },
+      "taskType": "slay"
+    },
+    {
+      "location": {
+        "x": 948,
+        "y": 0,
+        "z": -1049
+      },
+      "taskType": "loot"
+    },
+    {
+      "location": {
+        "x": 957,
+        "y": 0,
+        "z": -410
+      },
+      "taskType": "destroy"
+    },
+    {
+      "location": {
+        "x": 983,
+        "y": 0,
+        "z": -470
+      },
+      "taskType": "loot"
+    },
+    {
+      "location": {
+        "x": 1014,
+        "y": 0,
+        "z": -1053
+      },
+      "taskType": "defend"
+    },
+    {
+      "location": {
+        "x": 1038,
+        "y": 0,
+        "z": -692
+      },
+      "taskType": "loot"
+    },
+    {
+      "location": {
+        "x": 1088,
+        "y": 0,
+        "z": -345
+      },
+      "taskType": "loot"
+    },
+    {
+      "location": {
+        "x": 1093,
+        "y": 0,
+        "z": -1137
+      },
+      "taskType": "slay"
+    },
+    {
+      "location": {
+        "x": 1117,
+        "y": 0,
+        "z": -992
+      },
+      "taskType": "slay"
+    },
+    {
+      "location": {
+        "x": 1125,
+        "y": 0,
+        "z": -1095
+      },
+      "taskType": "slay"
+    },
+    {
+      "location": {
+        "x": 1132,
+        "y": 0,
+        "z": -1127
+      },
+      "taskType": "loot"
+    },
+    {
+      "location": {
+        "x": 1147,
+        "y": 0,
+        "z": -954
+      },
+      "taskType": "destroy"
+    },
+    {
+      "location": {
+        "x": 1285,
+        "y": 0,
+        "z": -1060
+      },
+      "taskType": "loot"
+    },
+    {
+      "location": {
+        "x": 1393,
+        "y": 0,
+        "z": -1055
+      },
+      "taskType": "loot"
+    },
+    {
+      "location": {
+        "x": 602,
+        "y": 0,
+        "z": -407
+      },
+      "taskType": "slay"
+    },
+    {
+      "location": {
+        "x": 691,
+        "y": 0,
+        "z": -374
+      },
+      "taskType": "defend"
+    },
+    {
+      "location": {
+        "x": 695,
+        "y": 0,
+        "z": -495
+      },
+      "taskType": "destroy"
+    },
+    {
+      "location": {
+        "x": 775,
+        "y": 0,
+        "z": -950
+      },
+      "taskType": "loot"
+    },
+    {
+      "location": {
+        "x": 822,
+        "y": 0,
+        "z": -903
+      },
+      "taskType": "defend"
+    },
+    {
+      "location": {
+        "x": 826,
+        "y": 0,
+        "z": -429
+      },
+      "taskType": "loot"
+    },
+    {
+      "location": {
+        "x": 854,
+        "y": 0,
+        "z": -667
+      },
+      "taskType": "loot"
+    },
+    {
+      "location": {
+        "x": 866,
+        "y": 0,
+        "z": -337
+      },
+      "taskType": "defend"
+    },
+    {
+      "location": {
+        "x": 879,
+        "y": 0,
+        "z": -802
+      },
+      "taskType": "loot"
+    },
+    {
+      "location": {
+        "x": 897,
+        "y": 0,
+        "z": -523
+      },
+      "taskType": "slay"
+    },
+    {
+      "location": {
+        "x": 907,
+        "y": 0,
+        "z": -998
+      },
+      "taskType": "slay"
+    },
+    {
+      "location": {
+        "x": 948,
+        "y": 0,
+        "z": -1048
+      },
+      "taskType": "loot"
+    },
+    {
+      "location": {
+        "x": 957,
+        "y": 0,
+        "z": -410
+      },
+      "taskType": "destroy"
+    },
+    {
+      "location": {
+        "x": 983,
+        "y": 0,
+        "z": -470
+      },
+      "taskType": "loot"
+    },
+    {
+      "location": {
+        "x": 1014,
+        "y": 0,
+        "z": -1053
+      },
+      "taskType": "defend"
+    },
+    {
+      "location": {
+        "x": 1038,
+        "y": 0,
+        "z": -692
+      },
+      "taskType": "loot"
+    },
+    {
+      "location": {
+        "x": 1088,
+        "y": 0,
+        "z": -345
+      },
+      "taskType": "loot"
+    },
+    {
+      "location": {
+        "x": 1093,
+        "y": 0,
+        "z": -1137
+      },
+      "taskType": "slay"
+    },
+    {
+      "location": {
+        "x": 1117,
+        "y": 0,
+        "z": -991
+      },
+      "taskType": "slay"
+    },
+    {
+      "location": {
+        "x": 1125,
+        "y": 0,
+        "z": -1094
+      },
+      "taskType": "slay"
+    },
+    {
+      "location": {
+        "x": 1132,
+        "y": 0,
+        "z": -1126
+      },
+      "taskType": "loot"
+    },
+    {
+      "location": {
+        "x": 1147,
+        "y": 0,
+        "z": -954
+      },
+      "taskType": "destroy"
+    },
+    {
+      "location": {
+        "x": 1285,
+        "y": 0,
+        "z": -1060
+      },
+      "taskType": "loot"
+    },
+    {
+      "location": {
+        "x": 1393,
+        "y": 0,
+        "z": -1054
+      },
+      "taskType": "loot"
+    },
+    {
+      "location": {
+        "x": 691,
+        "y": 0,
+        "z": -375
+      },
+      "taskType": "defend"
+    },
+    {
+      "location": {
+        "x": 695,
+        "y": 0,
+        "z": -496
+      },
+      "taskType": "destroy"
+    },
+    {
+      "location": {
+        "x": 775,
+        "y": 0,
+        "z": -950
+      },
+      "taskType": "loot"
+    },
+    {
+      "location": {
+        "x": 822,
+        "y": 0,
+        "z": -903
+      },
+      "taskType": "defend"
+    },
+    {
+      "location": {
+        "x": 826,
+        "y": 0,
+        "z": -429
+      },
+      "taskType": "loot"
+    },
+    {
+      "location": {
+        "x": 854,
+        "y": 0,
+        "z": -668
+      },
+      "taskType": "loot"
+    },
+    {
+      "location": {
+        "x": 866,
+        "y": 0,
+        "z": -337
+      },
+      "taskType": "defend"
+    },
+    {
+      "location": {
+        "x": 879,
+        "y": 0,
+        "z": -803
+      },
+      "taskType": "loot"
+    },
+    {
+      "location": {
+        "x": 897,
+        "y": 0,
+        "z": -524
+      },
+      "taskType": "slay"
+    },
+    {
+      "location": {
+        "x": 907,
+        "y": 0,
+        "z": -999
+      },
+      "taskType": "slay"
+    },
+    {
+      "location": {
+        "x": 948,
+        "y": 0,
+        "z": -1049
+      },
+      "taskType": "loot"
+    },
+    {
+      "location": {
+        "x": 957,
+        "y": 0,
+        "z": -410
+      },
+      "taskType": "destroy"
+    },
+    {
+      "location": {
+        "x": 983,
+        "y": 0,
+        "z": -470
+      },
+      "taskType": "loot"
+    },
+    {
+      "location": {
+        "x": 1014,
+        "y": 0,
+        "z": -1053
+      },
+      "taskType": "defend"
+    },
+    {
+      "location": {
+        "x": 1038,
+        "y": 0,
+        "z": -692
+      },
+      "taskType": "loot"
+    },
+    {
+      "location": {
+        "x": 1088,
+        "y": 0,
+        "z": -345
+      },
+      "taskType": "loot"
+    },
+    {
+      "location": {
+        "x": 1093,
+        "y": 0,
+        "z": -1137
+      },
+      "taskType": "slay"
+    },
+    {
+      "location": {
+        "x": 1117,
+        "y": 0,
+        "z": -992
+      },
+      "taskType": "slay"
+    },
+    {
+      "location": {
+        "x": 1125,
+        "y": 0,
+        "z": -1095
+      },
+      "taskType": "slay"
+    },
+    {
+      "location": {
+        "x": 1132,
+        "y": 0,
+        "z": -1127
+      },
+      "taskType": "loot"
+    },
+    {
+      "location": {
+        "x": 1147,
+        "y": 0,
+        "z": -954
+      },
+      "taskType": "destroy"
+    },
+    {
+      "location": {
+        "x": 1285,
+        "y": 0,
+        "z": -1060
+      },
+      "taskType": "loot"
+    },
+    {
+      "location": {
+        "x": 1393,
+        "y": 0,
+        "z": -1055
+      },
+      "taskType": "loot"
+    }
+  ]
+}
