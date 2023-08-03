@@ -78,3 +78,4 @@ for location in deduped:
 with open('lootruns/out.json', 'w') as f:
     json.dump(output_data, f, indent=2, sort_keys=True)
     f.write('\n')
+    
