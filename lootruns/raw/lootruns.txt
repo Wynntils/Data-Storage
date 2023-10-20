@@ -1,0 +1,247 @@
+{
+  "version204Release2": [
+    {
+      "region": "moltenHeightsHike",
+      "lootrunTaskType": "slay",
+      "location": {
+        "x": 1290,
+        "y": 26,
+        "z": -5544
+      }
+    },
+    {
+      "region": "silentExpanse",
+      "lootrunTaskType": "slay",
+      "location": {
+        "x": 1121,
+        "y": 103,
+        "z": -1092
+      }
+    },
+    {
+      "region": "moltenHeightsHike",
+      "lootrunTaskType": "loot",
+      "location": {
+        "x": 1405,
+        "y": 25,
+        "z": -5067
+      }
+    },
+    {
+      "region": "silentExpanse",
+      "lootrunTaskType": "slay",
+      "location": {
+        "x": 911,
+        "y": 78,
+        "z": -560
+      }
+    },
+    {
+      "region": "moltenHeightsHike",
+      "lootrunTaskType": "defend",
+      "location": {
+        "x": 1352,
+        "y": 7,
+        "z": -5284
+      }
+    },
+    {
+      "region": "moltenHeightsHike",
+      "lootrunTaskType": "slay",
+      "location": {
+        "x": 1481,
+        "y": 17,
+        "z": -5388
+      }
+    },
+    {
+      "region": "silentExpanse",
+      "lootrunTaskType": "loot",
+      "location": {
+        "x": 854,
+        "y": 81,
+        "z": -668
+      }
+    },
+    {
+      "region": "moltenHeightsHike",
+      "lootrunTaskType": "destroy",
+      "location": {
+        "x": 1465,
+        "y": 21,
+        "z": -5108
+      }
+    },
+    {
+      "region": "silentExpanse",
+      "lootrunTaskType": "loot",
+      "location": {
+        "x": 1285,
+        "y": 103,
+        "z": -1060
+      }
+    },
+    {
+      "region": "moltenHeightsHike",
+      "lootrunTaskType": "defend",
+      "location": {
+        "x": 1309,
+        "y": 9,
+        "z": -5191
+      }
+    },
+    {
+      "region": "moltenHeightsHike",
+      "lootrunTaskType": "loot",
+      "location": {
+        "x": 1527,
+        "y": 63,
+        "z": -5427
+      }
+    },
+    {
+      "region": "moltenHeightsHike",
+      "lootrunTaskType": "loot",
+      "location": {
+        "x": 1271,
+        "y": 92,
+        "z": -5427
+      }
+    },
+    {
+      "region": "silentExpanse",
+      "lootrunTaskType": "loot",
+      "location": {
+        "x": 1393,
+        "y": 163,
+        "z": -1055
+      }
+    },
+    {
+      "region": "silentExpanse",
+      "lootrunTaskType": "loot",
+      "location": {
+        "x": 775,
+        "y": 153,
+        "z": -950
+      }
+    },
+    {
+      "region": "silentExpanse",
+      "lootrunTaskType": "loot",
+      "location": {
+        "x": 879,
+        "y": 79,
+        "z": -803
+      }
+    },
+    {
+      "region": "moltenHeightsHike",
+      "lootrunTaskType": "loot",
+      "location": {
+        "x": 1244,
+        "y": 48,
+        "z": -5343
+      }
+    },
+    {
+      "region": "silentExpanse",
+      "lootrunTaskType": "defend",
+      "location": {
+        "x": 1014,
+        "y": 94,
+        "z": -1053
+      }
+    },
+    {
+      "region": "moltenHeightsHike",
+      "lootrunTaskType": "slay",
+      "location": {
+        "x": 1433,
+        "y": 10,
+        "z": -5481
+      }
+    },
+    {
+      "region": "moltenHeightsHike",
+      "lootrunTaskType": "destroy",
+      "location": {
+        "x": 1229,
+        "y": 22,
+        "z": -5312
+      }
+    },
+    {
+      "region": "moltenHeightsHike",
+      "lootrunTaskType": "slay",
+      "location": {
+        "x": 1422,
+        "y": 47,
+        "z": -5210
+      }
+    },
+    {
+      "region": "silentExpanse",
+      "lootrunTaskType": "defend",
+      "location": {
+        "x": 691,
+        "y": 92,
+        "z": -375
+      }
+    },
+    {
+      "region": "moltenHeightsHike",
+      "lootrunTaskType": "slay",
+      "location": {
+        "x": 1057,
+        "y": 39,
+        "z": -5297
+      }
+    },
+    {
+      "region": "moltenHeightsHike",
+      "lootrunTaskType": "loot",
+      "location": {
+        "x": 1462,
+        "y": 44,
+        "z": -5575
+      }
+    },
+    {
+      "region": "silentExpanse",
+      "lootrunTaskType": "slay",
+      "location": {
+        "x": 885,
+        "y": 125,
+        "z": -1013
+      }
+    },
+    {
+      "region": "moltenHeightsHike",
+      "lootrunTaskType": "defend",
+      "location": {
+        "x": 1321,
+        "y": 7,
+        "z": -5427
+      }
+    },
+    {
+      "region": "moltenHeightsHike",
+      "lootrunTaskType": "loot",
+      "location": {
+        "x": 1511,
+        "y": 46,
+        "z": -5176
+      }
+    },
+    {
+      "region": "silentExpanse",
+      "lootrunTaskType": "defend",
+      "location": {
+        "x": 866,
+        "y": 101,
+        "z": -331
+      }
+    }
+  ]
+}
