@@ -1,4 +1,5 @@
 import json
+import os
 
 # Data has two objects:
 # "silentExpanse"
@@ -20,6 +21,8 @@ import json
     ]
 }
 '''
+
+version = "version204Release2"
 
 # x, y, z
 class Location: 
@@ -56,23 +59,49 @@ def dedupe(data):
 
     return deduped
 
-# Read the lootrun data from the file
+# Read the lootrun data from all files in the lootruns/raw directory
 data = {}
 
-with open('lootruns/raw.json', 'r') as f:
-    data = json.load(f)
+folder = os.getcwd() + "/lootruns/raw"
+for filename in os.listdir(folder):
+   with open(os.path.join(folder, filename), 'r') as f: 
+       file_data = json.load(f)
+       for task in file_data[version]:
+            if task["region"] not in data:
+                data[task["region"]] = []
+            data[task["region"]].append(task)
 
 # De-duplicate data
 deduped = dedupe(data)
 
+remapped = {}
+
 # Remap the data
+# Remove "region" field
+# Move "lootrunTaskType" to "taskType"
+# Add empty "name" field
+for location in deduped:
+    remapped[location] = {}
+
+    for entry in deduped[location]:
+        remapped[location][entry] = {
+            "location": {
+                "x": entry.x,
+                "y": entry.y,
+                "z": entry.z
+            },
+            "taskType": deduped[location][entry]["lootrunTaskType"],
+            "name": ""
+        }
+
+# Sort the data
 output_data = {}
 
-for location in deduped:
+for location in remapped:
     output_data[location] = []
 
-    for entry in sorted(deduped[location].keys(), key=lambda x: (x.x, x.y, x.z)):
-        output_data[location].append(deduped[location][entry])
+    for entry in sorted(remapped[location].keys(), key=lambda x: (x.x, x.y, x.z)):
+        output_data[location].append(remapped[location][entry])
 
 # Write the data to the file
 with open('lootruns/out.json', 'w') as f:

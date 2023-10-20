@@ -1,0 +1,175 @@
+{
+  "version204Release2": [
+    {
+      "region": "skyIslandsExploration",
+      "lootrunTaskType": "slay",
+      "location": {
+        "x": 731,
+        "y": 147,
+        "z": -4574
+      }
+    },
+    {
+      "region": "skyIslandsExploration",
+      "lootrunTaskType": "loot",
+      "location": {
+        "x": 900,
+        "y": 95,
+        "z": -4408
+      }
+    },
+    {
+      "region": "skyIslandsExploration",
+      "lootrunTaskType": "loot",
+      "location": {
+        "x": 1264,
+        "y": 146,
+        "z": -4646
+      }
+    },
+    {
+      "region": "skyIslandsExploration",
+      "lootrunTaskType": "loot",
+      "location": {
+        "x": 1022,
+        "y": 107,
+        "z": -4698
+      }
+    },
+    {
+      "region": "skyIslandsExploration",
+      "lootrunTaskType": "loot",
+      "location": {
+        "x": 1358,
+        "y": 105,
+        "z": -4743
+      }
+    },
+    {
+      "region": "skyIslandsExploration",
+      "lootrunTaskType": "defend",
+      "location": {
+        "x": 1223,
+        "y": 142,
+        "z": -4419
+      }
+    },
+    {
+      "region": "skyIslandsExploration",
+      "lootrunTaskType": "slay",
+      "location": {
+        "x": 1068,
+        "y": 106,
+        "z": -4748
+      }
+    },
+    {
+      "region": "skyIslandsExploration",
+      "lootrunTaskType": "destroy",
+      "location": {
+        "x": 924,
+        "y": 108,
+        "z": -4689
+      }
+    },
+    {
+      "region": "skyIslandsExploration",
+      "lootrunTaskType": "slay",
+      "location": {
+        "x": 1443,
+        "y": 83,
+        "z": -4353
+      }
+    },
+    {
+      "region": "moltenHeightsHike",
+      "lootrunTaskType": "loot",
+      "location": {
+        "x": 1054,
+        "y": 44,
+        "z": -4961
+      }
+    },
+    {
+      "region": "skyIslandsExploration",
+      "lootrunTaskType": "defend",
+      "location": {
+        "x": 1327,
+        "y": 82,
+        "z": -4624
+      }
+    },
+    {
+      "region": "skyIslandsExploration",
+      "lootrunTaskType": "slay",
+      "location": {
+        "x": 1428,
+        "y": 141,
+        "z": -4579
+      }
+    },
+    {
+      "region": "moltenHeightsHike",
+      "lootrunTaskType": "defend",
+      "location": {
+        "x": 1088,
+        "y": 169,
+        "z": -5003
+      }
+    },
+    {
+      "region": "skyIslandsExploration",
+      "lootrunTaskType": "loot",
+      "location": {
+        "x": 1199,
+        "y": 104,
+        "z": -4289
+      }
+    },
+    {
+      "region": "moltenHeightsHike",
+      "lootrunTaskType": "loot",
+      "location": {
+        "x": 988,
+        "y": 63,
+        "z": -4978
+      }
+    },
+    {
+      "region": "skyIslandsExploration",
+      "lootrunTaskType": "loot",
+      "location": {
+        "x": 742,
+        "y": 85,
+        "z": -4890
+      }
+    },
+    {
+      "region": "skyIslandsExploration",
+      "lootrunTaskType": "loot",
+      "location": {
+        "x": 953,
+        "y": 139,
+        "z": -4761
+      }
+    },
+    {
+      "region": "skyIslandsExploration",
+      "lootrunTaskType": "slay",
+      "location": {
+        "x": 1274,
+        "y": 162,
+        "z": -4626
+      }
+    },
+    {
+      "region": "skyIslandsExploration",
+      "lootrunTaskType": "loot",
+      "location": {
+        "x": 1015,
+        "y": 101,
+        "z": -4355
+      }
+    }
+  ]
+}
