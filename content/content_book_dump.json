@@ -1887,9 +1887,7 @@
       "requirements": {
         "level": 25,
         "professionLevels": {},
-        "quests": [
-          "Arachnids\u0027 Ascent֎"
-        ]
+        "quests": []
       },
       "rewards": [
         "7000 XP",
@@ -2617,9 +2615,9 @@
       "requirements": {
         "level": 54,
         "professionLevels": {
-          "mining": 20,
+          "woodcutting": 20,
           "fishing": 20,
-          "woodcutting": 20
+          "mining": 20
         },
         "quests": []
       },
@@ -5691,7 +5689,7 @@
       "type": "cave",
       "name": "Aquaculture Aquifer",
       "specialInfo": "",
-      "description": "§7A strange old Aquifer has fertile soil and has been converted into a subterranean farm at §f[-1930, 83, -3325]§7 Yet a famine lies at it\u0027s deepest core.",
+      "description": "§7A strange old Aquifer has fertile soil and has been converted into a subterranean farm at §f[-1930, 83, -3325]§7 Yet a famine lies at its deepest core",
       "length": "long",
       "lengthInfo": "2m",
       "difficulty": "medium",
@@ -5754,6 +5752,29 @@
         "x": 1511,
         "y": 48,
         "z": -5176
+      }
+    },
+    {
+      "type": "cave",
+      "name": "Azurite Island",
+      "specialInfo": "",
+      "description": "§7A crazed crystal and the madman who took it lies at §f[953, 141, -4761]",
+      "length": "long",
+      "lengthInfo": "2m",
+      "difficulty": "hard",
+      "requirements": {
+        "level": 94,
+        "professionLevels": {},
+        "quests": []
+      },
+      "rewards": [
+        "700000 XP",
+        "Various Items"
+      ],
+      "location": {
+        "x": 953,
+        "y": 141,
+        "z": -4761
       }
     },
     {
@@ -6082,7 +6103,7 @@
       "type": "cave",
       "name": "Cannibal Walkways",
       "specialInfo": "",
-      "description": "§7 On the walkways and platforms of a cliffside at §f[-956, 43, -525] §7Cannibals have made their camp",
+      "description": "§7On the walkways and platforms of a cliffside at §f[-956, 43, -525] §7Cannibals have made their camp",
       "length": "long",
       "lengthInfo": "2m30s",
       "difficulty": "hard",
@@ -6172,6 +6193,29 @@
     },
     {
       "type": "cave",
+      "name": "Cave of Doom",
+      "specialInfo": "",
+      "description": "§7Enter the cave of demons at §f[1405, 28, -5067]§7 and wait for a great monster to appear.",
+      "length": "long",
+      "lengthInfo": "2m30s",
+      "difficulty": "hard",
+      "requirements": {
+        "level": 95,
+        "professionLevels": {},
+        "quests": []
+      },
+      "rewards": [
+        "500000 XP",
+        "Various Items"
+      ],
+      "location": {
+        "x": 1405,
+        "y": 28,
+        "z": -5067
+      }
+    },
+    {
+      "type": "cave",
       "name": "Cave of the Seasons",
       "specialInfo": "Cave Complex",
       "description": "§7Light and the seasons have taken physical form under a strange tree growing out of §f[-864, 51, -6131]",
@@ -6243,7 +6287,7 @@
       "type": "cave",
       "name": "Corrupt Time Warp",
       "specialInfo": "",
-      "description": "§7Enter an old Time valley Temple and experience the effects of the corrupted crystal inside §f[-332, 68, -1301]",
+      "description": "§7Enter an old Time Valley temple and experience the effects of the corrupted crystal inside §f[-332, 68, -1301]",
       "length": "long",
       "lengthInfo": "2m",
       "difficulty": "medium",
@@ -6451,29 +6495,6 @@
     },
     {
       "type": "cave",
-      "name": "Cursed Castle",
-      "specialInfo": "",
-      "description": "§7The Donjon has been cursed by a malicious totem, transforming its denizens at §f[900, 97, -4408]§7. It has been locked tight",
-      "length": "long",
-      "lengthInfo": "3m",
-      "difficulty": "hard",
-      "requirements": {
-        "level": 95,
-        "professionLevels": {},
-        "quests": []
-      },
-      "rewards": [
-        "700000 XP",
-        "Various Items"
-      ],
-      "location": {
-        "x": 900,
-        "y": 97,
-        "z": -4408
-      }
-    },
-    {
-      "type": "cave",
       "name": "Cyclonic Spirit Trap",
       "specialInfo": "",
       "description": "§7Spirits trapped by the canyon walls are funneled by the wind to caves such as the one at §f[600, 38, -5266]§7, and...?",
@@ -6539,29 +6560,6 @@
         "x": 590,
         "y": 29,
         "z": -4625
-      }
-    },
-    {
-      "type": "cave",
-      "name": "Demon Cave",
-      "specialInfo": "",
-      "description": "§7Enter the cave of demons at §f[1405, 28, -5067]§7 and wait for a great monster to appear.",
-      "length": "long",
-      "lengthInfo": "2m30s",
-      "difficulty": "hard",
-      "requirements": {
-        "level": 95,
-        "professionLevels": {},
-        "quests": []
-      },
-      "rewards": [
-        "500000 XP",
-        "Various Items"
-      ],
-      "location": {
-        "x": 1405,
-        "y": 28,
-        "z": -5067
       }
     },
     {
@@ -6661,7 +6659,7 @@
       "type": "cave",
       "name": "Dragonkin Nest",
       "specialInfo": "",
-      "description": "§7Poachers say if gather the scales from the Draconic nests and bring them to the large nest at §f[1464, 172, -5529]§7 you can find great reward.",
+      "description": "§7Poachers say, if you gather the scales from the Draconic nests and bring them to the large nest at §f[1464, 172, -5529]§7 you can find great reward.",
       "length": "long",
       "lengthInfo": "3m",
       "difficulty": "hard",
@@ -6822,7 +6820,7 @@
       "type": "cave",
       "name": "Eyeball Gauntlet",
       "specialInfo": "",
-      "description": "§7Nothing remains unseen within §f[1088, 137, -345]§7. All is lain bare.",
+      "description": "§7Nothing remains unseen within §f[1088, 137, -345]§7. All is lain bare",
       "length": "long",
       "lengthInfo": "4m30s",
       "difficulty": "hard",
@@ -6870,7 +6868,7 @@
       "type": "cave",
       "name": "Flesh Mesh",
       "specialInfo": "",
-      "description": "§7The tunnels beneath Kander viscera pits at §f[-751, 38, -5503]§7 are dark, disgusting, dangerous, and full to bursting of discarded belongings",
+      "description": "§7The tunnels beneath Kander\u0027s viscera pits at §f[-751, 38, -5503]§7 are dark, disgusting, dangerous, and full to bursting of discarded belongings",
       "length": "medium",
       "lengthInfo": "1m10s",
       "difficulty": "hard",
@@ -6887,6 +6885,29 @@
         "x": -751,
         "y": 38,
         "z": -5503
+      }
+    },
+    {
+      "type": "cave",
+      "name": "Forgotten Excavation",
+      "specialInfo": "Boss Cave",
+      "description": "§7A lost Golem stands guard over the spoils of an excavation at §f[987, 67, -4977]",
+      "length": "medium",
+      "lengthInfo": "1m",
+      "difficulty": "medium",
+      "requirements": {
+        "level": 95,
+        "professionLevels": {},
+        "quests": []
+      },
+      "rewards": [
+        "700000 XP",
+        "Various Items"
+      ],
+      "location": {
+        "x": 987,
+        "y": 67,
+        "z": -4977
       }
     },
     {
@@ -6939,7 +6960,7 @@
       "type": "cave",
       "name": "Fungas Log",
       "specialInfo": "",
-      "description": "§7Deep rooted cave infested with spiders at §f[-142, 74, -1679]",
+      "description": "§7An old dead tree stump is overran with evolved fungi at §f[-142, 74, -1679]",
       "length": "short",
       "lengthInfo": "40s",
       "difficulty": "easy",
@@ -6985,7 +7006,7 @@
       "type": "cave",
       "name": "Geodesic",
       "specialInfo": "Cave Complex",
-      "description": "§7Fall into a great cavern §f[-1369, 121, -3060]",
+      "description": "§7Fall into a great cavern at §f[-1369, 121, -3060]",
       "length": "long",
       "lengthInfo": "5m",
       "difficulty": "hard",
@@ -7308,7 +7329,7 @@
       "type": "cave",
       "name": "Kander Crypt",
       "specialInfo": "",
-      "description": "§7Some say the Old Lexdale crypts at §f[-406, 47, -5444]§7 is cursed with the spirits killed in the siege, others say it contains treasure deep inside",
+      "description": "§7Some say the Old Lexdale crypts at §f[-406, 47, -5444]§7 are cursed with the spirits killed in the siege, others say it contains treasures deep inside",
       "length": "long",
       "lengthInfo": "2m20s",
       "difficulty": "medium",
@@ -7377,7 +7398,7 @@
       "type": "cave",
       "name": "Ledant Hill",
       "specialInfo": "",
-      "description": "§7Explore through the Ledant Hill and find some riches at §f[-1222, 74, -4856]",
+      "description": "§7Explore through the Ledant Hill and find riches at §f[-1222, 74, -4856]",
       "length": "medium",
       "lengthInfo": "1m30s",
       "difficulty": "medium",
@@ -7768,7 +7789,7 @@
       "type": "cave",
       "name": "Overgrown Rubble",
       "specialInfo": "",
-      "description": "§7An overgrown cave has gone to rubble and caved in! Track through the rubble and find what\u0027s inside at §f[742, 87, -4890]",
+      "description": "§7An overgrown cave has gone to rubble and caved in! Trek through the rubble and find what\u0027s inside at §f[742, 87, -4890]",
       "length": "long",
       "lengthInfo": "2m30s",
       "difficulty": "medium",
@@ -7785,6 +7806,29 @@
         "x": 742,
         "y": 87,
         "z": -4890
+      }
+    },
+    {
+      "type": "cave",
+      "name": "Ovine Spire",
+      "specialInfo": "Tower",
+      "description": "§7A cabal of fluffy jumbucks have established a Guard Tower at §f[778, 81, -4721]",
+      "length": "long",
+      "lengthInfo": "2m30s",
+      "difficulty": "hard",
+      "requirements": {
+        "level": 96,
+        "professionLevels": {},
+        "quests": []
+      },
+      "rewards": [
+        "700000 XP",
+        "Various Items"
+      ],
+      "location": {
+        "x": 778,
+        "y": 81,
+        "z": -4721
       }
     },
     {
@@ -8000,7 +8044,7 @@
       "type": "cave",
       "name": "Raiders\u0027 Rockhill",
       "specialInfo": "",
-      "description": "§7Watch your step around the Rockhill at §f[-111, 37, -4621]§7! Bandits and Raiders are known to lurk around and keep their stolen treasure inside.",
+      "description": "§7Watch your step around the Rockhill at §f[-111, 37, -4621]§7, Bandits and Raiders are known to lurk around and keep their stolen treasure inside",
       "length": "medium",
       "lengthInfo": "1m",
       "difficulty": "easy",
@@ -8092,7 +8136,7 @@
       "type": "cave",
       "name": "Roots of Infestation",
       "specialInfo": "",
-      "description": "§7Deep rooted cave infested with spiders at §f[-209, 70, -1570]",
+      "description": "§7There is a deep rooted cave infested with spiders at §f[-209, 70, -1570]",
       "length": "short",
       "lengthInfo": "40s",
       "difficulty": "easy",
@@ -8155,6 +8199,29 @@
         "x": 323,
         "y": 68,
         "z": -4633
+      }
+    },
+    {
+      "type": "cave",
+      "name": "Scarred Ingress",
+      "specialInfo": "",
+      "description": "§7Geological phenomena have been spotted crawling out of the earth at §f[1264, 148, -4647]",
+      "length": "medium",
+      "lengthInfo": "1m30s",
+      "difficulty": "medium",
+      "requirements": {
+        "level": 93,
+        "professionLevels": {},
+        "quests": []
+      },
+      "rewards": [
+        "700000 XP",
+        "Various Items"
+      ],
+      "location": {
+        "x": 1264,
+        "y": 148,
+        "z": -4647
       }
     },
     {
@@ -8229,7 +8296,7 @@
     {
       "type": "cave",
       "name": "Shadow Altar",
-      "specialInfo": "",
+      "specialInfo": "Boss Cave",
       "description": "§7Fill the altar and fight what lives inside at §f[1271, 95, -5427]",
       "length": "medium",
       "lengthInfo": "1m40s",
@@ -8391,7 +8458,7 @@
       "type": "cave",
       "name": "Spore Spiral",
       "specialInfo": "",
-      "description": "§7Spiral like cave full of fungus at §f[670, 71, -1617]",
+      "description": "§7A Spiral like cave full of fungus at §f[670, 71, -1617]",
       "length": "medium",
       "lengthInfo": "1m20s",
       "difficulty": "medium",
@@ -8483,7 +8550,7 @@
       "type": "cave",
       "name": "Subterranean Mire",
       "specialInfo": "",
-      "description": "§7Mud and sluge have come to life in a cave around §f[-809, 23, -448]",
+      "description": "§7Mud and sludge have come to life in a cave around §f[-809, 23, -448]",
       "length": "short",
       "lengthInfo": "40s",
       "difficulty": "easy",
@@ -8598,7 +8665,7 @@
       "type": "cave",
       "name": "The Alcazar",
       "specialInfo": "",
-      "description": "§7A massive fortification built into the mountains of Time valley located at §f[-499, 76, -1024]",
+      "description": "§7A massive fortification built into the mountains of Time Valley located at §f[-499, 76, -1024]",
       "length": "long",
       "lengthInfo": "3m",
       "difficulty": "hard",
@@ -8615,6 +8682,29 @@
         "x": -499,
         "y": 76,
         "z": -1024
+      }
+    },
+    {
+      "type": "cave",
+      "name": "The Donjon",
+      "specialInfo": "",
+      "description": "§7The Donjon has been cursed by a malicious totem, transforming its denizens at §f[900, 97, -4408]§7. It has been locked tight",
+      "length": "long",
+      "lengthInfo": "3m",
+      "difficulty": "hard",
+      "requirements": {
+        "level": 95,
+        "professionLevels": {},
+        "quests": []
+      },
+      "rewards": [
+        "700000 XP",
+        "Various Items"
+      ],
+      "location": {
+        "x": 900,
+        "y": 97,
+        "z": -4408
       }
     },
     {
@@ -8966,7 +9056,7 @@
       "type": "cave",
       "name": "Visceral Remnant",
       "specialInfo": "",
-      "description": "§7Bodies subjected to grisly stitching and experimentation rejuvenated and rise in §f[-997, 45, -5559]§7, where no one should enter",
+      "description": "§7Bodies subjected to grisly stitching and experimentation rejuvenated and rise at §f[-997, 45, -5559]§7, where no one should enter",
       "length": "long",
       "lengthInfo": "2m",
       "difficulty": "hard",
@@ -9167,6 +9257,29 @@
         "x": 591,
         "y": 81,
         "z": -1866
+      }
+    },
+    {
+      "type": "cave",
+      "name": "Windwalker Temple",
+      "specialInfo": "",
+      "description": "§7A large tree has grown out of the hillside at §f[1358, 121, -4745]",
+      "length": "short",
+      "lengthInfo": "45s",
+      "difficulty": "easy",
+      "requirements": {
+        "level": 96,
+        "professionLevels": {},
+        "quests": []
+      },
+      "rewards": [
+        "700000 XP",
+        "Various Items"
+      ],
+      "location": {
+        "x": 1358,
+        "y": 121,
+        "z": -4745
       }
     },
     {
@@ -20757,7 +20870,7 @@
       "type": "bossAltar",
       "name": "Magmastream Core",
       "specialInfo": "",
-      "description": "",
+      "description": "§7Powerful sources of magic change their surroundings in unexpected ways. In some cases, it can feel like the land is a vessel for the \u0027life\u0027 of magic.",
       "length": null,
       "lengthInfo": "",
       "difficulty": null,
@@ -20899,6 +21012,26 @@
   "lootrunCamp": [
     {
       "type": "lootrunCamp",
+      "name": "Molten Heights Hike",
+      "specialInfo": "",
+      "description": "",
+      "length": "medium",
+      "lengthInfo": "",
+      "difficulty": "medium",
+      "requirements": {
+        "level": 95,
+        "professionLevels": {},
+        "quests": []
+      },
+      "rewards": [],
+      "location": {
+        "x": 1272,
+        "y": 10,
+        "z": -5135
+      }
+    },
+    {
+      "type": "lootrunCamp",
       "name": "Silent Expanse Expedition",
       "specialInfo": "",
       "description": "",
@@ -20915,6 +21048,26 @@
         "x": 991,
         "y": 77,
         "z": -781
+      }
+    },
+    {
+      "type": "lootrunCamp",
+      "name": "Sky Islands Exploration",
+      "specialInfo": "",
+      "description": "",
+      "length": "medium",
+      "lengthInfo": "",
+      "difficulty": "medium",
+      "requirements": {
+        "level": 96,
+        "professionLevels": {},
+        "quests": []
+      },
+      "rewards": [],
+      "location": {
+        "x": 1034,
+        "y": 135,
+        "z": -4419
       }
     },
     {
