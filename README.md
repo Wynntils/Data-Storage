@@ -40,7 +40,7 @@ you are done.
 Select the Minecraft installation that you're planning to use. You can use your
 normal Wynntils installation, there are no clashes (except UI). Install the
 correct version of journeymap in the `mods` folder -- please use the one in
-`worldmap/bin/journeymap-1.12.2-5.7.1.jar` so we stick to a single version.
+`worldmap/bin/journeymap-1.20.2-5.9.18-fabric.jar` so we stick to a single version.
 
 Start up Minecraft and journeymap at least one. Press `J` to access journeymap
 and confirm it works. Leave Minecraft.
